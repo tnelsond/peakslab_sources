@@ -1,7 +1,6 @@
 #desc	Bíblia Livre from <a href="https://ebible.org">eBible</a>
 #priority	2
 #no sort
-
 GEN 1.1	@<p-n> Gênesis  1:1</p-n>	<p>No princípio criou Deus os céus e a terra.  
 GEN 1.2	@<p-n> Gênesis  1:2</p-n>	<p>E a terra estava desordenada e vazia, e as trevas estavam sobre a face do abismo, e o Espírito de Deus se movia sobre a face das águas.  
 GEN 1.3	@<p-n> Gênesis  1:3</p-n>	<p>E disse Deus: Haja luz; e houve luz.  
