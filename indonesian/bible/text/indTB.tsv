@@ -1,5 +1,6 @@
 #desc	Alkitab Terjemahan Baru (TB) Indonesian Bible from <a href="https://biblics.com">biblics</a>
 #priority	1
+#lang	mono
 #no sort
 Gen 1.1	<p-n>Kejadian 1:1</p-n>	 Pada mulanya Allah menciptakan langit dan bumi. 
 Gen 1.2	<p-n>Kejadian 1:2</p-n>	 Bumi belum berbentuk dan kosong; gelap gulita menutupi samudera raya, dan Roh Allah melayang-layang di atas permukaan air.  

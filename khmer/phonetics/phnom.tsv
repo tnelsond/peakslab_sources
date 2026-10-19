@@ -1,5 +1,6 @@
 #desc	Khmer pronouncing dictionary: standard Khmer and Phnom Penh dialect by <a href="https://unesdoc.unesco.org/ark:/48223/pf0000246360">Unesco</a>
 #priority	2
+#lang	phon
 ក	[kɒː]
 ក៏	[kɒː]
 កក	[kɒːʔ]
@@ -407,8 +408,8 @@
 ក្តៅ	[kᵊdaɨ]
 ក្តាំង	[kᵊɗaŋ]
 ក្តាំងងា	[kᵊdaŋŋiːɜ]
-ក្ដឺង	[kᵊdɨːŋ]
-ក្ដុក	[kᵊɗʊk]
+ក្តឺង	[kᵊdɨːŋ]
+ក្តុក	[kᵊɗʊk]
 ក្ឌុង	[kᵊɗʊŋ]
 ក្ឌូង	[kᵊduːŋ]
 ក្ឌាំង	[kᵊɗɛaŋ]

@@ -1,15 +1,16 @@
 #desc	Khmer Bible dictionary I had lying around
 #priority	1
+#lang	rbi
 à Kempis, Thomas	[author of *The Imitation of Christ*, which is one of the best known Christian books on devotion (c. 1380-1471)] <p-l>@ថូម៉ាស អាកែមពីស។</p-l>
 Aaron	(brother of Moses and Israel's first high priest) <p-l>@អើរ៉ុន</p-l>
 Aaronids	(the descendants of Aaron) <p-l>@កូនចៅអឺរ៉ុន</p-l>
 Abba	(Aramaic "father") <p-l>@អ័ប្បា» (ភាសាអ៊ីរ៉ាម)</p-l>
-Abbael, King.../Abban I	(King of Aleppo, in northern Syria from c. 1760 BC) <p-l>@ស្ដេច អាប់បាអែល។</p-l>
+Abbael, King.../Abban I	(King of Aleppo, in northern Syria from c. 1760 BC) <p-l>@ស្តេច អាប់បាអែល។</p-l>
 abbey	(a church building attached to a community of Christian monks governed by an abbot) <p-l>@វិហារសាសនា។</p-l>
 abbot	(the superior of an abbey of Christian monks) <p-l>@ចៅអធិការនៃកុដិគ្រីស្ទបរិស័ទ</p-l>
 Abdi-Ashirta	(a ruler of Amurru, southern Syria, in 14th Century BC) <p-l>@អាប់ឌី អាស៊ីតា</p-l>
 Abdi-Khepa, King...	[a local chieftain of Jerusalem (called Urasalim at that time) during the mid-1330's BC and an author of the Amarna Letters] <p-l>@ស្តេចអាប់ឌី ខេប៉ា។</p-l>
-Abdi-tirsi	(King of Hazor in 14th Century BC and author of an Amarna Letter) <p-l>@ស្ដេច អាប់ឌីទើរស៊ី។</p-l>
+Abdi-tirsi	(King of Hazor in 14th Century BC and author of an Amarna Letter) <p-l>@ស្តេច អាប់ឌីទើរស៊ី។</p-l>
 Abel	(Adam and Eve's second son) <p-l>@អេបិល</p-l>
 Abel-keramim	(name of a settlement in Transjordan) <p-l>@អេបិល កេរ៉ាមីម</p-l>
 Abel-maim	(name of a settlement in Transjordan) <p-l>@អេបិល ម៉ែម</p-l>
@@ -147,15 +148,15 @@ Akizzi	(local ruler of Quatna in the 14th Century BC and an author of the Amarna
 Akkad	(city at the centre of the Akkadian Empire, that preceded the Assyrian and Babylonian empires) <p-l>@ទីក្រុងអាកាឌ</p-l> Akkadians <p-l>@ពួកអាកាឌ</p-l> Akkadian (...language) <p-l>@ភាសា អាកាឌ។</p-l> Kingdom) <p-l>@សំបុត្រអាម៉ាណា។</p-l>
 Amarna Tablets	(<p-l>@សូមមើល</p-l> Amarna Letters) <p-l>@ផ្ទាំងថ្មអាម៉ាណា</p-l>
 Amasis II/Ahmose II	(a pharaoh of the 26<sup>th</sup> Dynasty, who ruled 570-526 BC and was the last great ruler of Egypt before the Persian conquest) <p-l>@ជាធានអាម៉ាស៊ីសទី២។</p-l>
-Amaziah, King....	<p-l>@ស្ដេចអំម៉ាស៊ីយ៉ា</p-l>
+Amaziah, King....	<p-l>@ស្តេចអំម៉ាស៊ីយ៉ា</p-l>
 ambiguity	(possibility of interpreting in two or more distinct ways) <p-l>@ភាពមានន័យមិនច្បាស់</p-l>
 ambivalence	(simultaneous existence of two opposed and conflicting attitudes, emotions, etc.) <p-l>@ភាពមានយោបល់ផ្ទុយគ្នា។</p-l>
 Ambrose	[Bishop of Milan who became one of the most influential ecclesiastical figures of the 4<sup>th</sup> Century, was one of the four Latin Doctors of the Church and strongly influenced Augustine of Hippo (c. 340-397 AD)] <p-l>@អាមប្រុស។</p-l>
-Amel-Marduk/Evil-merodach	(the son and successor of Nebuchadnezzar II who released King Jehoiachin from prison after thirty-seven years of captivity) <p-l>@ស្ដេចអេវីស មេរ៉ូដាក។</p-l>
+Amel-Marduk/Evil-merodach	(the son and successor of Nebuchadnezzar II who released King Jehoiachin from prison after thirty-seven years of captivity) <p-l>@ស្តេចអេវីស មេរ៉ូដាក។</p-l>
 amen	(an expression of approval and support, generally placed at the end of a prayer) <p-l>@អាម៉ែន។</p-l>
 Amenemope	(the fourth pharaoh of the 21<sup>st</sup> Dynasty of Egypt who reigned 1001-992 BC) <p-l>@ផារ៉ាន អាម៉េណេណូប៉េ។</p-l>
-Amenophis III	(the ninth pharaoh of the 18<sup>th</sup> Dynasty of Egypt who reigned c. 1391-1353 BC) <p-l>@ផារ៉ានអាមេណូហ៊្វីសទី៣។</p-l>
-Amenophis IV	[the tenth pharaoh of the 18<sup>th</sup> Dynasty of Egypt (also known as Akhenaten) who reigned c. 1353-1336 BC] <p-l>@ផារ៉ានអាមេណូហ៊្វីសទី៤។</p-l>
+Amenophis III	(the ninth pharaoh of the 18<sup>th</sup> Dynasty of Egypt who reigned c. 1391-1353 BC) <p-l>@ផារ៉ានអាមេណូហ្វ៊ីសទី៣។</p-l>
+Amenophis IV	[the tenth pharaoh of the 18<sup>th</sup> Dynasty of Egypt (also known as Akhenaten) who reigned c. 1353-1336 BC] <p-l>@ផារ៉ានអាមេណូហ្វ៊ីសទី៤។</p-l>
 amillennialism	(a view that the millennium is a symbol of the age of the Church, and therefore, Satan was bound by Christ's work on the Cross) <p-l>@បដិសហស្សវត្ស និយម។</p-l>
 Ammihud	<p-l>@អាំមិហ៊ូត</p-l>
 Ammon	<p-l>@អាំម៉ូន</p-l> Ammonites (people of Ammon) <p-l>@សាសន៍អាំម៉ូន</p-l>
@@ -275,7 +276,7 @@ Apostolic age	(the time of the Apostles, from their commissioning to the death o
 Apostolic Church	(Church descended from the Apostles) <p-l>@ពួកជំនុំចេញពីពួកសាវក</p-l>
 Apostolic Council	(reference to the Council of Jerusalem recorded in Acts 15) <p-l>@ក្រុម-ប្រឹក្សា ពួកសាវក។</p-l>
 Apostolic Fathers	(a small number of early Christian authors from the second half of the 1st Century to the first half of the 2nd Century, including Clement of Rome, Ignatius of Antioch and Polycarp of Smyrna) <p-l>@ពួកបុព្វបុរសសាវក។</p-l>
-apotropaic	(adj) (preventing or intended to prevent evil) <p-l>@ដែលការពារប្រឆាំងសេចក្ដីអាក្រក់</p-l>
+apotropaic	(adj) (preventing or intended to prevent evil) <p-l>@ដែលការពារប្រឆាំងសេចក្តីអាក្រក់</p-l>
 appeal	(vb) (homiletics: to make an earnest request for change) <p-l>@សូមធ្វើឲ្យកែប្រែចិត្ត</p-l>
 appearance	(the outward or visible aspect of a person or thing) <p-l>@ឫកពា (គ.ប : ឫកពា គ.ខ.បៈ សំបកក្រៅ)។</p-l>
 appease	(vb) (to calm, pacify or soothe) <p-l>@ធ្វើឲ្យស្ងប់ចិត្ត (គ.បៈ រំងាប់ចិត្ត គ.ខ.ប : ធ្វើឲ្យស្ងប់ចិត្ត)</p-l>
@@ -344,9 +345,9 @@ army	(military land force of a nation or city-state) <p-l>@កងទ័ព</p-l>
 Arpad, City of...	<p-l>@ក្រុងអើជាឌ</p-l>
 Arpharxad	(son of Shem) <p-l>@អើប៉ាក់សាឌ</p-l>
 art	(creation of works of beauty or sigificance) <p-l>@សិល្បៈ»</p-l>
-Artaxerxes I	[son of Xerxes I who became the fifth King of Persia 465-424 BC, in whose 20th year inquired after Nehemiah's sadness (Neh. 2)] <p-l>@ស្ដេចអីថាស៊ើកសេសទី១។</p-l>
-Artaxerxes II Mnemon	[son of Darius II who became King of Persia c. 404-358 ВС (с. 435-358 BC)] <p-l>@ស្ដេចអើថាស៊ើកសេសទី២ នេម៉ុន។</p-l>
-Artaxerxes III Ochus	[King of Persia, the eleventh Emperor of the Achaemenid Empire and first Pharaoh of the 31th Dynasty of Egypt who reigned 358-338 BC (425338 BC)] <p-l>@ស្ដេចអីថាស៊ើកសេសទី៣ អូគូស។</p-l>
+Artaxerxes I	[son of Xerxes I who became the fifth King of Persia 465-424 BC, in whose 20th year inquired after Nehemiah's sadness (Neh. 2)] <p-l>@ស្តេចអីថាស៊ើកសេសទី១។</p-l>
+Artaxerxes II Mnemon	[son of Darius II who became King of Persia c. 404-358 ВС (с. 435-358 BC)] <p-l>@ស្តេចអើថាស៊ើកសេសទី២ នេម៉ុន។</p-l>
+Artaxerxes III Ochus	[King of Persia, the eleventh Emperor of the Achaemenid Empire and first Pharaoh of the 31th Dynasty of Egypt who reigned 358-338 BC (425338 BC)] <p-l>@ស្តេចអីថាស៊ើកសេសទី៣ អូគូស។</p-l>
 Artaxerxes IV Arses	(King of Persia 338-336 BC) <p-l>@ស្តេចអើថាស៊ើកសេសទី៤ អាសេស</p-l>
 Artemis, the goddess...	(also known as Diana) <p-l>@ព្រះឌីអាន</p-l>
 article	(grammar: a determiner that lacks independent meaning but may serve to indicate the specifity of reference of the noun phrase with which it occurs) <p-l>@គុណនាមម្យ៉ាង ប្រើនៅមុខនាម (ឧ. ភាសាអង់គ្លេស)។</p-l>
@@ -356,7 +357,7 @@ arts and crafts	<p-l>@សិល្បៈ និងសិប្បកម្ម»<
 Arvad, City of...	(Ez. 27) <p-l>@ក្រុងអីវ៉ាឌ</p-l>
 Arvadites	(a people descended from Canaan, son of Ham) <p-l>@ពួកអីវ៉ាឌីត</p-l>
 Aryan	(adj) [a description applied to (Indo-Iranian) languages and their speakers] <p-l>@នៃពួក អារីយាង។</p-l>
-Asa, King...	<p-l>@ស្ដេចអេសា</p-l>
+Asa, King...	<p-l>@ស្តេចអេសា</p-l>
 Asaiah	<p-l>@អំសាយ៉ា</p-l>
 Asaph	<p-l>@អេសាភ</p-l>
 Ascalon	<p-l>@សូមមើល</p-l> Ashkelon
@@ -447,7 +448,7 @@ ight ©	2016
 b.	(abbreviation "born in”) <p-l>@កើតនៅឆ្នាំ</p-l>...
 b.	(abbreviation "born of”) <p-l>@កូនរបស់</p-l>
 Baal	(title used for various gods) <p-l>@ព្រះបាល</p-l>
-Baasha, King...	<p-l>@ស្ដេចប្លាសា</p-l>
+Baasha, King...	<p-l>@ស្តេចប្លាសា</p-l>
 Bab.	(adj) (abbreviation "Babylonian”) <p-l>@នៃពួកបាប៊ីឡូន</p-l> (abbreviation "Babylonian language") <p-l>@ភាសាពួកបាប៊ីឡូន។</p-l>
 Baba Mezia	(Talmudic Aramaic "The Middle Gate" - the second of three Talmudic tracts in the order of Nezikin - discusses civil matters such as property, law and usury) <p-l>@ឯកសារ «@បាបាមេសយ៉ា»។</p-l>
 Babel, City of...	<p-l>@ក្រុងបាបិល</p-l>
@@ -529,7 +530,7 @@ Benjamin	<p-l>@បេនយ៉ាមីន</p-l> (tribe of...) <p-l>@អំប�
 Benoni/Ben-oni	<p-l>@បេន-អូនី</p-l>
 Ben Sirach, Joshua	(a Jew living in Jerusalem in 2nd Century BC, was the author of the deuterocanonical Wisdom of Sirach) <p-l>@យ៉ូស្វេ ប៊ែន-ស៊ីរ៉ា។</p-l>
 Ben Sirach, The Wisdom...	(a Hebrew work which forms a link between the OT and the Rabbinic writing, also known as Ecclesiasticus) <p-l>@ឯកសារ «@ប្រាជ្ញានៃប៊ែន-ស៊ីរ៉ា»។</p-l>
-Bera, King...	(Gen. 14:2) <p-l>@ស្ដេចបេរ៉ា</p-l>
+Bera, King...	(Gen. 14:2) <p-l>@ស្តេចបេរ៉ា</p-l>
 Berea, town of...	<p-l>@ក្រុងបេរា</p-l>
 Bered	(place name - Gen. 16:14) <p-l>@បារែឌ</p-l>
 Beriah	<p-l>@បេរា</p-l>
@@ -574,7 +575,7 @@ binitarian	(adj) (describing the idea that God exists in two distinct persons) <
 biology	<p-l>@ជីវសាស្ត្រ</p-l> biological (adj) <p-l>@នៃជីវសាស្ត្រ</p-l>
 Bir Eyyub, spring of...	<p-l>@ក្បាលទឹកបៀរអើយប់</p-l>
 Biridiya	(ruler of Megiddo in 14th Century BC who authored five of the Amarna Letters) <p-l>@ប៊័រឌីយា។</p-l>
-Birsha	(king of Gomorrah - Gen. 14:2) <p-l>@ស្ដេចប៉ីរសា</p-l>
+Birsha	(king of Gomorrah - Gen. 14:2) <p-l>@ស្តេចប៉ីរសា</p-l>
 birth	(the act of bringing into the world) (div) <p-l>@ប្រសូត ព្រះរាជកំណើត</p-l>
 bishop	(a person who has spiritual and administrative responsibility over a diocese) <p-l>@អភិបាល (គ.បៈ : អ្នកត្រួតត្រា គ.ខ.ប : អភិបាល)។</p-l>
 Bishop's Bible, the...	(an English translation of the Bible produced under the authority of the Church of England in 1568) <p-l>@ព្រះគម្ពីររបស់ពួកអភិបាល។</p-l>
@@ -700,7 +701,7 @@ Carmel, Mt.	(a range of hills extending from the Mediterranean Sea to the plain 
 carnal	(adj) (relating to the passions of the flesh) <p-l>@នៃសាច់ឈាម</p-l>
 Carthage, City of...	<p-l>@ក្រុងកាថ</p-l> Carthaginian <p-l>@សាសន៍កាថ</p-l> (adj) <p-l>@នៃទីក្រុងកាថ នៃសាសន៍កាថ</p-l>
 Carthage tarrif	[stelae (upright stone slab) found in the port of Marseille, originally from the temple of Baal-Saphon in Carthage, detailing payments to the priests for performing sacrifices] <p-l>@ពន្ធអាករពីសសរស្តម្ភក្រុងកាថ។</p-l>
-case	(evidence offered in a court of law to support a claim) <p-l>@បណ្ដឹងក្តី</p-l>
+case	(evidence offered in a court of law to support a claim) <p-l>@បណ្តឹងក្តី</p-l>
 case law	(law established by following judicial decisions given in earlier cases) <p-l>@ច្បាប់យុត្តិ សាស្ត្រ</p-l> (informal) <p-l>@ច្បាប់ដែលចេញមកពីការបកស្រាយមតិរបស់ចៅក្រមនៅក្នុងបណ្តឹងផ្សេងៗពី មុន។</p-l>
 Casluhites	(a people descended from Mizraim, son of Ham) <p-l>@ពួកកាសលូហ៊ីម</p-l>
 cast lots, to...	(vb) (to draw or choose) <p-l>@ចាប់ឆ្នោត</p-l>
@@ -759,7 +760,7 @@ charm	(a small object worn or kept for supposed magical powers of protection) <p
 chasten/chastise	(vb) (to discipline or correct by punishment) <p-l>@ធ្វើទណ្ឌកម្មដើម្បីឲ្យកែខ្លួនបាន ល្អ។</p-l>
 chastity	(the state of being pure through abstaining from sexual intercourse outside of marriage) <p-l>@ព្រហ្មចរិយភាព។</p-l>
 chattel	(item of moveable personal property) <p-l>@សង្ហារិមទ្រព្យ</p-l> (informal) <p-l>@កម្មសិទ្ធិ</p-l>
-Chedorlaomer, King...	(ruler of Elan-Gen. 14) <p-l>@ស្ដេចកេដូឡាមើរ</p-l>
+Chedorlaomer, King...	(ruler of Elan-Gen. 14) <p-l>@ស្តេចកេដូឡាមើរ</p-l>
 cheek	(that part of either side of the human face below the eyes) <p-l>@កំភ្លៀង</p-l>
 cherubim	(a member of the second order of angels) <p-l>@ចេរូប៊ុន</p-l>
 chesed	(Hebrew "something done for someone else who is inferior, on the basis of a close personal relationship") <p-l>@មេត្តាករុណា (ភាសាហេព្រើរ)។</p-l>
@@ -833,10 +834,10 @@ Clement of Rome	[an early Bishop of Rome (92-99 AD) and the first Apostolic Fath
 Clementine Vulgate	(the edition of the Latin Vulgate Bible from 1592, prepared by Pope Clement VII and used by Roman Catholics until the 20th Century) <p-l>@ព្រះគម្ពីរ វុលហ្គេត ក្លេមិន</p-l>
 clergy	(the collective body of people ordained as religious ministers) <p-l>@បព្វជិត</p-l> (informal) <p-l>@អ្នកបម្រើព្រះ។</p-l>
 client	(a person depending on another's patronage) <p-l>@អ្នកក្រោមអំណាចបរិបាល</p-l>
-client-king	(the leader of a subservient state, typically under the control of the Roman Republic) <p-l>@ស្ដេចក្រោមអំណាច។</p-l>
+client-king	(the leader of a subservient state, typically under the control of the Roman Republic) <p-l>@ស្តេចក្រោមអំណាច។</p-l>
 cloak/clothes	(a wraplike outer garment fastened at the throat and falling from the shoulders) (royal) <p-l>@ព្រះពស្ត្រ។</p-l>
 co-creator	(the shared role in Creation between the Father and the Son) <p-l>@សហព្រះអាទិករ</p-l>
-code	(a conventionalized set of principles or rules) <p-l>@ក្រម</p-l> "Code of Hammurapi" (a well preserved Babylonian law code, dating to c. 1700-1800 BC) <p-l>@ក្រមច្បាប់ស្ដេចហាំមូរ៉ាពី»។</p-l>
+code	(a conventionalized set of principles or rules) <p-l>@ក្រម</p-l> "Code of Hammurapi" (a well preserved Babylonian law code, dating to c. 1700-1800 BC) <p-l>@ក្រមច្បាប់ស្តេចហាំមូរ៉ាពី»។</p-l>
 codex	(manuscript of an ancient text) <p-l>@ក្បួនអក្សរសរសេរដៃដើម</p-l>
 Codex Alexandrinus	(a 5th Century manuscript of the Greek Bible containing the majority of the Septuagint and the NT; one of the four Great uncial codices, residing in Alexandria until the Eastern Orthodox Patriarch Cyril Lucaris brought it to Constaninople) <p-l>@ក្បួនអក្សរសរសេរដៃដោយដើមអំលេក្សានឌ្រីនុស។</p-l>
 Codex Bezae	(a manuscript of parts of the NT dating from the 5th Century, kept in Lyon until 1562 when it was delivered to the Protestant scholar Theodore Beza) <p-l>@ក្បួន អក្សរសរសេរដៃដើមបេហ្សែ។</p-l>
@@ -918,7 +919,7 @@ conjugate	(vb) (grammar: to set out the completed set of inflections of a verb: 
 conjuntion	(grammar: any word or group of words, other than a relative pronoun, that connects words, phrases or clauses) <p-l>@សន្ធានស័ព្ទ។</p-l>
 connotation	(an association or idea suggested by a word or phrase) <p-l>@ពាក្យមានន័យបង្កប់</p-l>
 Conqueror, the...	(represents the object of prophetic Messianic hope) <p-l>@អង្គមានជ័យជម្នះ</p-l>
-Conquest, the...	(the invasion of Canaan under Joshua) <p-l>@ការដណ្ដើមយកទឹកដីសន្យា</p-l>
+Conquest, the...	(the invasion of Canaan under Joshua) <p-l>@ការដណ្តើមយកទឹកដីសន្យា</p-l>
 conscience	(the sense of right and wrong that influences a persons throughts and actions) <p-l>@បញ្ញាចិត្ត (គ.បៈ : បញ្ញាចិត្ត គ.ខ.បៈ : មនសិការ)។</p-l>
 consciousness	(state of being aware of one's surroundings, one's own thoughts and motivations) <p-l>@មនសិការ។</p-l>
 consecrate	(vb) (to make or declare sacred or holy) <p-l>@ញែកទុកជាបរិសុទ្ធ</p-l> consecration <p-l>@ការញែក ជាបរិសុទ្ធ។</p-l>
@@ -1023,7 +1024,7 @@ critic	(a professional judge of a subject) <p-l>@អ្នកធ្វើវិ�
 critical edition	(biblical studies: an edition of the Bible printed with critical apparatus for the establishing of the text) <p-l>@ព្រះគម្ពីរជាមួយការសិក្សាដោយប្រព័ន្ធចំណេះដឹង។</p-l>
 critical study	(study of the Bible as a human creation, drawing upon history, archaeology, literary criticism and philology) <p-l>@ការសិក្សាព្រះគម្ពីរដោយប្រព័ន្ធចំណេះដឹង។</p-l>
 criticism, biblical...	(an evaluation or analysis of a biblical study) <p-l>@វិវេចនាខាងព្រះគម្ពីរ</p-l> criticize (vb) (to judge with disapproval) <p-l>@រិះគន់</p-l> criticize (vb) (to evaluate or analyse) <p-l>@ធ្វើវិវេចនា</p-l>
-Croesus	(King of Lydia from 560 to 547 BC, when he was defeated by the Persians) <p-l>@ស្ដេច ក្រូស៊ីស។</p-l>
+Croesus	(King of Lydia from 560 to 547 BC, when he was defeated by the Persians) <p-l>@ស្តេច ក្រូស៊ីស។</p-l>
 Cromwell, Thomas	[English lawyer and statesman who served as chief minister to King Henry VIII, and was one of the strongest advocates of the English Reformation (1485-1540)] <p-l>@ថូម៉ាស ក្រមវែល។</p-l>
 cross	(n) (a structure or symbol consisting of two intersecting lines or pieces at right angles to one another) <p-l>@ឈើឆ្កាង។</p-l>
 Cross	(reference to the wooden cross upon which Jesus was crucified) <p-l>@ឈើឆ្កាងរបស់ព្រះ យេស៊ូវ។</p-l>
@@ -1058,7 +1059,7 @@ cut off	(vb) (to disown) <p-l>@កាត់កាល់</p-l>
 cypress	(any coniferous tree of the northern temperate genus *Cupressus*) (a tree with flexible wood used in the manufacture of furniture and oars) <p-l>@មែសាក់ ស្រឡៅ</p-l>
 Cyprus, Island of...	<p-l>@កោះគឺប្រុស</p-l>
 Cyrene, City of...	<p-l>@ក្រុងគឺរេន</p-l>
-Cyrus, King...	<p-l>@ស្ដេចស៊ីរូស</p-l>
+Cyrus, King...	<p-l>@ស្តេចស៊ីរូស</p-l>
 D	(abbreviation "Deuteronomist Source") <p-l>@ប្រភពដ្យធើរ៉ូណូមីស</p-l>
 dabar	(Hebrew "word") <p-l>@ពាក្យ (ភាសាហេព្រើរ)</p-l> (div) <p-l>@ព្រះបន្ទូល</p-l>
 Dallas Theological Seminary	(an evangelical theological seminary located in Dallas, Texas, founded in 1924, known for popularizing Dispensationalism) <p-l>@សាលា ទេវសាស្ត្រ-ដាឡាស។</p-l>
@@ -1076,18 +1077,18 @@ Danil	(a lesser known deity at the City of Ugarit) <p-l>@ព្រះជាន�
 Danites	(members of the tribe of Daniel) <p-l>@ពូជអំបូរដាន់</p-l> Danite (*adj*) <p-l>@របស់អំបូរដាន់</p-l>
 daric	(name of a gold coin used in the Persian Empire, introduced by Darius I) <p-l>@ដារីក</p-l>
 Darius 1	[also known as Darius the Great, he reigned 552-486 BC, when the Achaemenid Empire was at its peak, organized the empire into provinces governed by satraps, and made Aramaic the official language of the empire (550-486 BC)] <p-l>@ស្តេចជារិយសទី១។</p-l>
-Darius II Nothus	(King of Persia 423-405 BC) <p-l>@ស្ដេចដារីយុសទី២ ណូធូស</p-l>
-Darius III Codomanus	[the last king of the Achaemenid Empire of Persia 336-330 BC who was defeated by Alexander the Great (380-330 BC)] <p-l>@ស្ដេចដារីយុសទី៣ កូដូមានុសៗ</p-l>
+Darius II Nothus	(King of Persia 423-405 BC) <p-l>@ស្តេចដារីយុសទី២ ណូធូស</p-l>
+Darius III Codomanus	[the last king of the Achaemenid Empire of Persia 336-330 BC who was defeated by Alexander the Great (380-330 BC)] <p-l>@ស្តេចដារីយុសទី៣ កូដូមានុសៗ</p-l>
 darkness	(state of little or no light) <p-l>@ភាពងងឹត</p-l>
 Darwin, Charles	[an English naturalist who published his controversial theory of evolution in his 1859 book *On Origin of Species* (1809-1882)] <p-l>@ឆាល ដាវីន។</p-l>
 Darwinism	(meaning varies over time and context, but originally included the concept of transmutation of species popularly known as “evolution”) <p-l>@លទ្ធិដាវីន។</p-l>
 date	(fruit of the date palm) <p-l>@ផ្លែសមើរ</p-l>
 dative	(grammar: denoting a case of nouns, pronouns and adjectives used to express the indirect object, to identify the recipients, and for other purposes) <p-l>@ការបង្ហាញកម្មបទ ប្រយោលក្នុងវេយ្យាករណ៍។</p-l>
-David, King...	<p-l>@ស្ដេចដាវីឌ ហ្លួងដាវីឌ</p-l>
+David, King...	<p-l>@ស្តេចដាវីឌ ហ្លួងដាវីឌ</p-l>
 David, City of...	(reference to Jerusalem) <p-l>@ក្រុងរបស់ដាវីឌ</p-l>
-Davidic	(adj) (belonging to David) <p-l>@របស់ស្ដេចដាវីឌ ដូចស្ដេចដាវីឌ</p-l>
-Davidic covenant	(establishes David and his descendants as the rightful kings of Israel) <p-l>@សម្ព័ន្ធមេត្រីស្ដេចដាវីឌ។</p-l>
-Davidic king	(a king of the line of David) <p-l>@ស្ដេចនៃកនរាជវង្សដាវីឌ</p-l>
+Davidic	(adj) (belonging to David) <p-l>@របស់ស្តេចដាវីឌ ដូចស្តេចដាវីឌ</p-l>
+Davidic covenant	(establishes David and his descendants as the rightful kings of Israel) <p-l>@សម្ព័ន្ធមេត្រីស្តេចដាវីឌ។</p-l>
+Davidic king	(a king of the line of David) <p-l>@ស្តេចនៃកនរាជវង្សដាវីឌ</p-l>
 dawn	(the sky when light first appears) <p-l>@អរុណរះ (គ.បៈ អរុណរះ គ.ខ.បៈ : ពេលថ្ងៃរះ)</p-l>
 Day of the Lord	(reference to predicted events in a later historical age including the final judgement and the world to come) <p-l>@ថ្ងៃរបស់ព្រះអម្ចាស់។</p-l>
 day of visition	(reference to the destruction of Jerusalem as described in Luke 19:4144) <p-l>@ពេលដែលព្រះយេស៊ូវនឹងយាងមកប្រោស»។</p-l>
@@ -1140,11 +1141,11 @@ delegate	(vb) (to authorize as an agent or representative) <p-l>@ផ្ទេរ
 delinquent	(adj) (a failing in, or neglectful of duty or obligation) <p-l>@ដែលប្រព្រឹត្តបទល្មើស</p-l>
 deliver	(vb) (to release or rescue from captivity, harm, corruption etc.) <p-l>@រំដោះ (គ.បៈ រំដោះ គ.ខ.ប : ប្រោសអោយ)</p-l> deliverance <p-l>@ការដោះលែង។</p-l>
 deliver	*(vb)* (to hand over into captivity, harm etc.) <p-l>@បញ្ជូន</p-l>
-delta	(the flat alluvial area at the mouth of some rivers where the mainstream splits up into several tributaries) <p-l>@ដីសណ្ដ។</p-l>
+delta	(the flat alluvial area at the mouth of some rivers where the mainstream splits up into several tributaries) <p-l>@ដីសណ្ត។</p-l>
 delude	*(vb)* (to mislead or deceive) <p-l>@បញ្ឆោត</p-l> *delusive (adj)* <p-l>@ដែលបញ្ឆោត ដែលបោកប្រាស</p-l>
 demand	*(vb)* (to claim as a right e.g. demand of the law) <p-l>@ទាមទារ</p-l>
 Demetrius	<p-l>@ដេមេទ្រាស</p-l>
-Demetrius I Soter	[a ruler of the Hellenistic Seleucid Empire 161-150 BC who had a military victory over the Maccabees, killing Judas Maccabaeus in 160 BC (185-150 BC)] <p-l>@ស្ដេចដេមេទ្រាសទី១។</p-l>
+Demetrius I Soter	[a ruler of the Hellenistic Seleucid Empire 161-150 BC who had a military victory over the Maccabees, killing Judas Maccabaeus in 160 BC (185-150 BC)] <p-l>@ស្តេចដេមេទ្រាសទី១។</p-l>
 Demetrius of Phalerum	[an Athenian orator, student of Theophrastus and one of the first of the Peripatetics, appointed by King Cassander of Macedonia to govern Athens (c. 350-280 BC)] <p-l>@ដេមេទ្រាសពីក្រុងហ្វាលេរួម។</p-l>
 demon	(an evil spirit or devil) <p-l>@អារក្ស វិញ្ញាណអាក្រក់</p-l>
 demonology	(the study of demons or demonic beliefs) <p-l>@វិជ្ជាករសិក្សាពីអារក្ស</p-l>
@@ -1184,7 +1185,7 @@ Deuteronomist	(one of the four major sources of the Torah as postulated by the D
 Deuteronomistic history	(theory that Deuteronomy, Joshua, Samuel and Kings all come from one source called "the Deuteronomist”) <p-l>@ទ្រឹស្តីដែលពោលថាជាអ្នកនិពន្ធម្នាក់បានសរសេរកណ្ឌចោទិយកថាដល់ពង្សាវតារក្សត្រ។</p-l>
 Deuteronomy, Book of...	<p-l>@កណ្ឌចោទិយកថា (គ.ខ.បៈ : ទុតិយកថា)</p-l>
 devil	(an evil spirit) devil, the... (the chief evil spirit, Satan) <p-l>@អារក្សសាតាំង</p-l>
-devote	(vb) (to apply or dedicate oneself to a cause) <p-l>@យកចិត្តទុកដាក់ [(គ.បៈ : ព្យាយាម - មាន សេចក្តីបង្ខំក្នុងចិត្ត ខាងឯសេចក្តីស្រឡាញ់) (គ.ខ.បៈ : ព្យាយាម ចំណាយ ស្រឡាញ់រាប់អានគ្នា) (គ.គ.ខៈ : ជាប់មមាញឹក ស្រឡាញ់គ្នាទៅវិញទៅមក)]</p-l> devotion <p-l>@ភក្ដីភាព។</p-l>
+devote	(vb) (to apply or dedicate oneself to a cause) <p-l>@យកចិត្តទុកដាក់ [(គ.បៈ : ព្យាយាម - មាន សេចក្តីបង្ខំក្នុងចិត្ត ខាងឯសេចក្តីស្រឡាញ់) (គ.ខ.បៈ : ព្យាយាម ចំណាយ ស្រឡាញ់រាប់អានគ្នា) (គ.គ.ខៈ : ជាប់មមាញឹក ស្រឡាញ់គ្នាទៅវិញទៅមក)]</p-l> devotion <p-l>@ភក្តីភាព។</p-l>
 devotee	(zealous follower of a religion) <p-l>@អ្នកកាន់សាសនាដ៏ស៊ប់</p-l>
 devotional	(a short talk of spiritual encouragment) <p-l>@ពាក្យសំដីលើកទឹកចិត្តខាងវិញ្ញាណ</p-l>
 devour	(vb) (to eat up greedily or voraciously) <p-l>@ត្របាក់</p-l>
@@ -1282,7 +1283,7 @@ drachmē/ drachm	(the basic Greek silver coin in the NT period) <p-l>@កាក�
 dram	(<p-l>@សូមមើល</p-l> daric) <p-l>@ដារីក</p-l>
 dream	(n) (a series of events experienced during certain phases of sleep) <p-l>@សុបិន</p-l>
 dress	(a complete set of clothing) <p-l>@សម្លៀកបំពាក់</p-l>
-drive	(vb) (to move by force) <p-l>@បណ្ដេញ</p-l>
+drive	(vb) (to move by force) <p-l>@បណ្តេញ</p-l>
 Driver, Samuel Rolles	[an English Hebrew scholar who devoted his life to the textual and critical study of the OT (1846-1914)] <p-l>@បណ្ឌិតដោយជីរ។</p-l>
 drink-offering	(a form of libation accompanying various sacrifices and offerings) <p-l>@ដង្វាយ ផឹក។</p-l>
 drunk	(adj) (intoxicated with alcohol to the extent of losing control over normal physical and mental functions) <p-l>@ស្រវឹងស្រា</p-l> (short) <p-l>@ស្រវឹង</p-l> drunkenness <p-l>@ការស្រវឹងស្រា ប្រមឹក</p-l>
@@ -1468,7 +1469,7 @@ Erech/Uruk	[an ancient city in Mesopotamia, the second city built by Nimrod (Gn.
 Eridu	(an ancient Sumerian city, named as the city of the first kings in the Sumerian King List) <p-l>@ក្រុងអេរីតឌូ។</p-l>
 err	(vb) (to make a mistake, to be incorrect) <p-l>@ធ្វើខុស</p-l>
 erstwhile	(adj) (former) <p-l>@ពីមុន</p-l>
-Esarhaddon	[King of Assyria (681-669 BC) and successor of Sennacherib] <p-l>@ស្ដេច អ៊ីសាហាដាន់។</p-l>
+Esarhaddon	[King of Assyria (681-669 BC) and successor of Sennacherib] <p-l>@ស្តេច អ៊ីសាហាដាន់។</p-l>
 Esau	<p-l>@អេសាវ</p-l>
 eschatological Adam, the...	(the last Adam, a title for Jesus) <p-l>@អ័ដាមចុងក្រោយ</p-l>
 Eschatological Rule, the...	(also known as "The Rule of the Congregation" is a document from the Dead Sea Scrolls describing an eschatological congregation who have kept the covenant and atoned for the ways of wicked men) <p-l>@ឯកសា «@ច្បាប់អវសានវិទ្យា»។</p-l>
@@ -1801,7 +1802,7 @@ Gibeonites	<p-l>@ពួកក្រុងគឺបៀរ</p-l>
 Gideon	<p-l>@គេឌាន</p-l>
 gift	(ministry... a talent received from God for the purpose of serving his people) <p-l>@អំណោយ ទាន។</p-l>
 Gihon	(a river coming out of Eden) <p-l>@ទន្លេគីហុន</p-l>
-Gilgamesh	[a Sumerian king, the fifth king of the line of Uruk (c. 2500 BC) and the central character in the "Epic of Gilgamesh"] <p-l>@ស្ដេចហ្វីលហ្គាមេស។</p-l>
+Gilgamesh	[a Sumerian king, the fifth king of the line of Uruk (c. 2500 BC) and the central character in the "Epic of Gilgamesh"] <p-l>@ស្តេចហ្វីលហ្គាមេស។</p-l>
 Gilgamesh, Epic of...	(a poem from Mesopotamia amongst the earliest surviving works of literature, dating from the 18th Century BC) <p-l>@ឯកសារ «@វរកថាអំពីស្តេចហ្គីលហ្គា មេស»។</p-l>
 Girgashites	(a people descended from Canaan, son of Ham) <p-l>@ពួកតើកាស៊ី</p-l>
 give	(to deliver voluntarily something to the permanent possession of another) (div) <p-l>@ប្រទាន។</p-l>
@@ -1905,7 +1906,7 @@ hamartias	(Greek “sins") <p-l>@ហាម៉ាធាស» (ភាសាក្�
 Hamath	(the northern most city and region of the hills of Palestine) <p-l>@ក្រុងហាម៉ាត ស្រុក ហាម៉ាត។</p-l>
 Hamathites	(a people descended from Canaan, son of Ham) <p-l>@ពួកហាម៉ាធីត</p-l>
 Hamites	(the descendants of Ham) <p-l>@ពួកកូនចៅហាំ</p-l>
-Hammurapi/Hammurabi	(first king of the Babylonian Empire who reigned from 1792 1750 BC) <p-l>@ស្ដេចហាមូរ៉ាពី។</p-l>
+Hammurapi/Hammurabi	(first king of the Babylonian Empire who reigned from 1792 1750 BC) <p-l>@ស្តេចហាមូរ៉ាពី។</p-l>
 hand	(the part of the body at the end of the arm) <p-l>@ដែដៃ</p-l> (div) <p-l>@ព្រះហស្ត</p-l>
 handicapped	(adj) (physically disabled) <p-l>@ដែលពិការ</p-l>
 Hannah	<p-l>@នាងហាណា</p-l>
@@ -1929,10 +1930,10 @@ harsh	(adj) (stern, severe or cruel) <p-l>@តឹងរ៉ឹង</p-l>
 Hasidaeans	(a Jewish religious party involved in political life during the Maccabean wars) <p-l>@ពួកហាស៊ីដៀន។</p-l>
 Hasmonaeans	(the ruling dynasty of Judah from 140-37 BC) <p-l>@ពួកហាសម៉ូនៀន</p-l>
 hate	(vb) (to dislike intensely) <p-l>@ស្អប់</p-l> hatred (n) <p-l>@សេចក្តីស្អប់ (គ.ប : សំអប់គ្នា គ.ខ.ប : ឈ្លោះប្រកែក គ្នា)។</p-l>
-Hattusilis III	[King of the Hittite Empire (1267-1237 BC)] <p-l>@ស្ដេចហាទូសីលីសទីបី</p-l>
+Hattusilis III	[King of the Hittite Empire (1267-1237 BC)] <p-l>@ស្តេចហាទូសីលីសទីបី</p-l>
 Havilah	(son of Cush; son of Joktan) <p-l>@ហាវីឡា</p-l>
 Havilah	(a land near Edan) <p-l>@ស្រុកហាវីឡា</p-l>
-Hazael, King...	<p-l>@ស្ដេចហាសែល</p-l>
+Hazael, King...	<p-l>@ស្តេចហាសែល</p-l>
 Hazarmaveth	(son of Joktan, son of Eber) <p-l>@ហាសាម៉ារែត</p-l>
 Hazazon-tamar	(an Amorites city overcome by Chedorlaomer in his war against the cities of the plain - Gen. 14:7) <p-l>@ហាសាសូន - តាម៉ារ។</p-l>
 Hazor	(ancient city in Palestine) <p-l>@ក្រុងហាសោរ</p-l>
@@ -1982,7 +1983,7 @@ helmet	(protective armour for the head) <p-l>@មួកសឹក</p-l>
 helper	(someone who assists) <p-l>@អ្នកជំនួយ</p-l>
 Heman	<p-l>@ហេម៉ាន</p-l>
 Hengel, Martin	[German historian of religion focusing upon the "Hellenistic Period" of early Judaism (1926-2009)] <p-l>@បណ្ឌិតម៉ាទីនហេងហ្គែល</p-l> (short) <p-l>@ហេងហ្គែល។</p-l>
-Henry VIII	[King of England from 1509 till his death, who played a significant role in the separation of the Church of England from the Roman Catholic Church (1491-1547)] <p-l>@ស្ដេចហេនរីទី៨។</p-l>
+Henry VIII	[King of England from 1509 till his death, who played a significant role in the separation of the Church of England from the Roman Catholic Church (1491-1547)] <p-l>@ស្តេចហេនរីទី៨។</p-l>
 hepatoscopy	(divination by examining the liver of an animal) <p-l>@ទំនាយមន្តអាគមដោយថ្លើមសត្វ</p-l>
 herald	(vb) (to precede or usher in) <p-l>@នាំដំណឹង</p-l> (n) <p-l>@អ្នកនាំដំណឹង</p-l>
 Hereford, Nicholas	(an English theological scholar and advocate of the English reform movement within the Roman Church) (d. 1420) <p-l>@នីកូឡាស ហៀហ្វដ។</p-l>
@@ -1991,14 +1992,14 @@ hermeneutic	(a particular method of interpretation) <p-l>@វិធីកាត�
 hermeneutics	(branch of theology dealing with the principles and methodology of exegesis) <p-l>@វិទ្យាសាស្រ្តកាត់ស្រាយអត្ថបទ។</p-l>
 Hermetic Literature, the...	(a collection of Egyptian documents written in Greek from the 1st to 3rd Century AD in the form of a dialogue containing philosophical ideas about Gnosticism and Neoplatonism) <p-l>@អក្សរសិល្ប៍ហើម៉េតិក។</p-l>
 Hermon, Mount...	<p-l>@ភ្នំហើម៉ូន</p-l>
-Herod, King...	[also known as Herod Agrippa, or King of the Jews, was grandson of Herod the Great, and son Aristobulus IV and Bernice, ruled from 37 to 4 BC and whose territory comprised of most of Israel including Iudaea, Galilee, Batanaea and Perea (10 BC-44 AD)] <p-l>@ស្ដេចហេរ៉ូឌទី១។</p-l>
+Herod, King...	[also known as Herod Agrippa, or King of the Jews, was grandson of Herod the Great, and son Aristobulus IV and Bernice, ruled from 37 to 4 BC and whose territory comprised of most of Israel including Iudaea, Galilee, Batanaea and Perea (10 BC-44 AD)] <p-l>@ស្តេចហេរ៉ូឌទី១។</p-l>
 Herod Agrippa I	<p-l>@សូមមើល</p-l> Herod, King...
-Herod Agrippa II	[the seventh and last of the Herodian kings, before whom Paul pleaded his cause in AD 59 (c. 27-100 AD)] <p-l>@ស្ដេចហេរ៉ូឌអ័គ្រីប៉ាទី២។</p-l>
-Herod Antipas	(a 1ª Century ruler of Galilee and Perea, and son of Herod the Great) <p-l>@ស្ដេចហេរ៉ូឌអាន់ទីប៉ាស។</p-l>
+Herod Agrippa II	[the seventh and last of the Herodian kings, before whom Paul pleaded his cause in AD 59 (c. 27-100 AD)] <p-l>@ស្តេចហេរ៉ូឌអ័គ្រីប៉ាទី២។</p-l>
+Herod Antipas	(a 1ª Century ruler of Galilee and Perea, and son of Herod the Great) <p-l>@ស្តេចហេរ៉ូឌអាន់ទីប៉ាស។</p-l>
 Herod the Great	<p-l>@សូមមើល</p-l> Herod, King...
 Herod Philip/Herod II	[son of Herod the Great and first husband of Herodias (25 BCafter 30 AD)] <p-l>@ហេរ៉ូឌ ភីលីព ហេរ៉ូឌទី២។</p-l>
 Herodian	(a member of Herod the Great's household) <p-l>@អ្នកនៅដំណាក់ហេរ៉ូឌ</p-l>
-Herodian Temple	(a massive expansion of the Second Temple by King Herod the Great, commencing c. 19 BC) <p-l>@ទីក្រុងយេរូសាឡិមដែលស្ដេចហេរ៉ូឌដ៏ឆ្នើមបានសាងសង់ឡើងវិញ</p-l> (informal) <p-l>@ព្រះវិហារនៃហេរ៉ូឌ។</p-l>
+Herodian Temple	(a massive expansion of the Second Temple by King Herod the Great, commencing c. 19 BC) <p-l>@ទីក្រុងយេរូសាឡិមដែលស្តេចហេរ៉ូឌដ៏ឆ្នើមបានសាងសង់ឡើងវិញ</p-l> (informal) <p-l>@ព្រះវិហារនៃហេរ៉ូឌ។</p-l>
 Herodians	(a Jewish political party separate to the Pharisees and Sadducees) <p-l>@ពួកហេរ៉ូឌ</p-l>
 Herodias	<p-l>@ហេរ៉ូឌាស</p-l>
 Herodotus	[an ancient Greek historian called the "Father of History" since he was the first historian to collect materials systematically, test for accuracy and arrange in a well-constructed narrative (484-425 BC)] <p-l>@អ្នកប្រវត្តិសាស្រ្តក្រិក ហេរ៉ូឌីទើស សូម មើល</p-l> "Histories" of Herodotus។
@@ -2007,7 +2008,7 @@ Hesiod	(Greek oral poet active between sometime 750 and 650 BC, who is a major s
 heterodox	(adj) (holding unorthodox doctrines or opinions) <p-l>@អញ្ញប្បដិប័ន្ន</p-l> (informal) <p-l>@មាន មតិដែលនៅក្រៅសាសនា ដែលវង្វេងជំនឿ។</p-l>
 heterogeneous	(adj) (composed of unrelated elements) <p-l>@វិសភាគ</p-l>
 heterosexual	(person sexually attracted to a member of the opposite sex) <p-l>@រួមភេទផ្ទុយគ្នា</p-l>
-Hezekiah, King...	<p-l>@ស្ដេចហេសេគា</p-l>
+Hezekiah, King...	<p-l>@ស្តេចហេសេគា</p-l>
 Hezron	<p-l>@ហេគ្រុន</p-l>
 Hg.	(abbreviation "Book of Haggai") <p-l>@ហា</p-l>.
 hide	(vb) (to conceal from view or discovery) <p-l>@ពួន</p-l>
@@ -2083,7 +2084,7 @@ Horus child	(Egyptian mythology: child of Isis and Osiris who took up the battle
 hosanna	(Hebrew "a shout of praise or adoration") <p-l>@ហូសាណា» (ភាសាហេព្រើរ)</p-l>
 Hosea, the Prophet...	<p-l>@ហោរាហូសេ</p-l>
 Hosea, Book of...	<p-l>@កណ្ឌហូសេ</p-l>
-Hoshea, King...	<p-l>@ស្ដេចហូសេ</p-l>
+Hoshea, King...	<p-l>@ស្តេចហូសេ</p-l>
 hospitality	(kindness to welcoming strangers or guests) <p-l>@សេចក្តីចៅវ៉ៅ (គ.ប : សេចក្តីចៅវ៉ៅ គ.ខ.បៈ : ទទួលភ្ញៀវដោយរាក់ទាក់)។</p-l>
 host	(great number, multitude) <p-l>@បរិវារ</p-l> hosts (pl) <p-l>@ពួកបរិវារ</p-l>
 host	(archaic English “army") <p-l>@កងទ័ព</p-l>
@@ -2139,7 +2140,7 @@ idle	(adj) (not wanting to work) <p-l>@ដែលមានដៃទំនេរ</
 idol	(anything or any being other than God to which divins
 idolatry	(the worship of idols) <p-l>@ការថ្វាយបង្គំរូបព្រះ គ ក្លែងក្លាយ)</p-l> idolatrous (adj) <p-l>@ដែបេច្ចា</p-l>"
 idols, meat offered to...	<p-l>@អាហារថ្វាយដល់</p-l>
-Idrimi	(son of a king of Aleppo, made King of Alalah in the 15th Century BC) <p-l>@ស្ដេចអ៊ីដរីមី</p-l> Idumaea (also known as Edom, an area between the Dead Sea and the Gulf of Aqaba) <p-l>@ស្រុកអ៊ីឧមាន។</p-l>
+Idrimi	(son of a king of Aleppo, made King of Alalah in the 15th Century BC) <p-l>@ស្តេចអ៊ីដរីមី</p-l> Idumaea (also known as Edom, an area between the Dead Sea and the Gulf of Aqaba) <p-l>@ស្រុកអ៊ីឧមាន។</p-l>
 i.e.	(abbreviation _id est_ (Latin) - "to say in other words") <p-l>@គឺ គឺជា ដូចជា</p-l>
 Ignatius	(1ª Century Bishop of Antioch and early Christian martyr) <p-l>@អ៊ីកណាធាស</p-l>
 ignorance	(the lack of knowledge, information) <p-l>@ភាពអត់ចេះដឹង</p-l> ignorant (adj) <p-l>@ដែលអត់ចេះ ដឹង។</p-l>
@@ -2304,7 +2305,7 @@ James, the Apostle...	<p-l>@សាវកយ៉ាកុប</p-l>
 James	(brother of Jesus) <p-l>@យ៉ាកុប (ជាប្អូនព្រះយេស៊ូវ)</p-l>
 James, Letter of...	<p-l>@សំបុត្ររបស់យ៉ាកុប</p-l>
 Jamnia, Council of...	(a hypothetical late 1st Century council at which the canon of the Hebrew Bible was alleged to have been finalized) <p-l>@ក្រុមប្រឹក្សាយ៉ាំនា។</p-l>
-Jannaeus, Alexander	(King of Judah from 103 to 76 BC, and son of John Hyrcanus) <p-l>@ស្ដេច អាឡិចសានឌ័រផ្សែននើស។</p-l>
+Jannaeus, Alexander	(King of Judah from 103 to 76 BC, and son of John Hyrcanus) <p-l>@ស្តេច អាឡិចសានឌ័រផ្សែននើស។</p-l>
 Jannes	<p-l>@យ៉ានេស</p-l>
 Japheth	(youngest son of Noah) <p-l>@យ៉ាផែត</p-l>
 Japhethites	(the descendants of Japheth) <p-l>@ពួកកូនចៅយ៉ាឆែត</p-l>
@@ -2322,21 +2323,21 @@ Jebus	[a name for the Canaanite (Jebusite) City of Jerusalem prior to its conque
 Jebusites	(a people descended from Cannan, son of Ham) <p-l>@ពួកយេប៊ូស</p-l>
 Jeconiah	<p-l>@យេកូនាស</p-l>
 Jeduthun	<p-l>@យេឌូថីន</p-l>
-Jehoahaz, King...	<p-l>@ស្ដេចយ៉ូអាហាស</p-l>
-Jehoash, King...	<p-l>@ស្ដេចយ៉ូអាស</p-l>
+Jehoahaz, King...	<p-l>@ស្តេចយ៉ូអាហាស</p-l>
+Jehoash, King...	<p-l>@ស្តេចយ៉ូអាស</p-l>
 Jehohanan	<p-l>@យ៉ូហាណាន</p-l>
-Jehoiachin, King...	<p-l>@ស្ដេចយ៉ូយ៉ាគីន</p-l>
+Jehoiachin, King...	<p-l>@ស្តេចយ៉ូយ៉ាគីន</p-l>
 Jehoiada	<p-l>@យេហូយ៉ាដា</p-l>
-Jehoiakim, King....	<p-l>@ស្ដេចយេហូយ៉ាគីម</p-l>
-Jehoram, King...	<p-l>@ស្ដេចយ៉ូរ៉ាម</p-l>
-Jehoshaphat, King...	<p-l>@ស្ដេចយ៉ូសាផាត</p-l>
+Jehoiakim, King....	<p-l>@ស្តេចយេហូយ៉ាគីម</p-l>
+Jehoram, King...	<p-l>@ស្តេចយ៉ូរ៉ាម</p-l>
+Jehoshaphat, King...	<p-l>@ស្តេចយ៉ូសាផាត</p-l>
 Jehovah	("the Lord" from Hebrew "Yahweh") <p-l>@យេហូវ៉ា</p-l>
 Jehovah - Jireh	(Hebrew "the Lord provides”) <p-l>@ភាសាហេព្រើ «@យេហូវ៉ា-យីរ៉េ»</p-l>
 Jehovah's Witnesses	(a millenarian restorationist Christian sect with nontrinitarian beliefs who use their own translation of the Bible, *the New World Translation of the Holy Scriptures*) <p-l>@ក្រុមសួរបន្ទាល់នៃព្រះយេហូវ៉ា។</p-l>
-Jehu, King...	<p-l>@ស្ដេចយេហ៊ូវ</p-l> (... the prophet) <p-l>@ហោរាយេហូវ</p-l>
+Jehu, King...	<p-l>@ស្តេចយេហ៊ូវ</p-l> (... the prophet) <p-l>@ហោរាយេហូវ</p-l>
 Jemdet Nasr	(a settlement mound in modern Iraq that was occupied during the Ubaid, Uruk and Dynastic I periods) <p-l>@ទួលដែមខែតណែស។</p-l>
 Jephthah	<p-l>@បែបថា</p-l>
-<sup>49</sup>	<p-l>@ក្នុងភាសាខ្មែរ ឈ្មោះ</p-l> Jehoram <p-l>@និង</p-l> Joram <p-l>@បកប្រែថា ស្ដេចយ៉ូរ៉ាម</p-l>
+<sup>49</sup>	<p-l>@ក្នុងភាសាខ្មែរ ឈ្មោះ</p-l> Jehoram <p-l>@និង</p-l> Joram <p-l>@បកប្រែថា ស្តេចយ៉ូរ៉ាម</p-l>
 Copyright ©	2016*
 Jerah	(son of Jokan, son of Eber) <p-l>@យេរ៉ា</p-l>
 Jeremiah, Book of...	<p-l>@កណ្ឌយេរេមា</p-l>
@@ -2344,8 +2345,8 @@ Jeremiah, Letter of...	(a deuterocanonical book of the OT that purports to have 
 Jeremias, Joachim	[German Lutheran theologian, scholar of Near Eastern Studies and university professor of NT studies at Gottingen and Tübingen (1900-1979)] <p-l>@បណ្ឌិត យ៉ូអាឈីមយេរេមាស</p-l> (short) <p-l>@យេរេមាស។</p-l>
 Jeremy, Epistle of....	<p-l>@សូមមើល</p-l>
 Jericho, City of...	<p-l>@ក្រុងយេរីខូ</p-l>
-Jeroboam I, King...	(first king of the northern Israelite kingdom of Israel) <p-l>@ស្ដេចយេរ៉ូបោម ទី១។</p-l>
-Jeroboam II, King...	(succeeded Jehoash to become the fourteenth king of Israel) <p-l>@ស្ដេច យេរ៉ូបោមទី២។</p-l>
+Jeroboam I, King...	(first king of the northern Israelite kingdom of Israel) <p-l>@ស្តេចយេរ៉ូបោម ទី១។</p-l>
+Jeroboam II, King...	(succeeded Jehoash to become the fourteenth king of Israel) <p-l>@ស្តេច យេរ៉ូបោមទី២។</p-l>
 Jerome	[Early Church Father and Bible translator (Vulgate) (347-420 AD)] <p-l>@ជីរួម</p-l>
 Jerusalem Bible	(a Roman Catholic Bible, that includes the deuterocanonical books, published in 1966) <p-l>@ព្រះគម្ពីរយេរូសាឡិម។</p-l>
 Jerusalem, City of...	<p-l>@ក្រុងយេរូសាឡិម</p-l> Jerusalemite <p-l>@អ្នកក្រុងយេរូសាឡិម</p-l>
@@ -2371,7 +2372,7 @@ Jezreel, area of...	<p-l>@តំបន់យេសរាល</p-l>
 Jihad	(Islam: a term meaning "struggle", refers to an important religious duty of Muslims) <p-l>@ជីហាដ (ភាសាអារ៉ាប់)។</p-l>
 Jn.	(abbreviation "Gospel of John" or "Letter of John”) <p-l>@យួន</p-l>.
 Joab	<p-l>@យ៉ូអាប់</p-l>
-Joash, King...	<p-l>@ស្ដេចយ៉ូអាស</p-l>
+Joash, King...	<p-l>@ស្តេចយ៉ូអាស</p-l>
 Job, Book of...	<p-l>@កណ្ឌយ៉ូប</p-l>
 Jobab	(son of Joktan, son of Eber) <p-l>@យ៉ូបាប</p-l>
 Jochebed	<p-l>@នាងយំក៏បិត</p-l>
@@ -2389,7 +2390,7 @@ Jonah, the prophet...	<p-l>@ហោរាយ៉ូណាស</p-l>
 Jonah, Book of...	<p-l>@កណ្ឌយ៉ូណាស</p-l>
 Jonathan	<p-l>@យ៉ូណាថាន</p-l>
 Joppa, City of...	<p-l>@ក្រុងយ៉ុបប៉េ</p-l>
-Joram, King...	<p-l>@ស្ដេចយ៉ូរ៉ាម</p-l>
+Joram, King...	<p-l>@ស្តេចយ៉ូរ៉ាម</p-l>
 Jordan, River...	<p-l>@ទន្លេយ័រដាន់</p-l> (... Valley) <p-l>@ជ្រលងយ័រដាន់</p-l>
 Jos.	(abbreviation "Book of Joshua") <p-l>@យ៉ូស</p-l>.
 Jos.	(abbreviation “Josephus”) <p-l>@យ៉ូសែបហ្វឺស</p-l>
@@ -2398,9 +2399,9 @@ Joseph of Arimathaea	<p-l>@យ៉ូសែបពីស្រុកអើរី�
 Josephus	(Jewish historian of the 1st Century AD) <p-l>@យ៉ូសែបហ្វឺស</p-l>
 Joshua	(name meaning "Yahweh is salvation”) <p-l>@យ៉ូស្វេ (គ.ខ.បៈ : យ៉ូស៊ូអា)</p-l>
 Joshua, Book of...	<p-l>@កណ្ឌយ៉ូស្វេ</p-l>
-Josiah, King...	<p-l>@ស្ដេចយ៉ូសៀស</p-l>
-Jotham, King...	<p-l>@ស្ដេចយ៉ូថាម</p-l>
-journal	(a collection of scholarly works periodically published) <p-l>@ទស្សនាវដ្ដី</p-l>
+Josiah, King...	<p-l>@ស្តេចយ៉ូសៀស</p-l>
+Jotham, King...	<p-l>@ស្តេចយ៉ូថាម</p-l>
+journal	(a collection of scholarly works periodically published) <p-l>@ទស្សនាវដ្តី</p-l>
 joy	(deep feeling or condition of happiness or contentment) <p-l>@អំណរ សេចក្តីអំណរ (គ.ប : សេចក្តី អំណរ គ.ខ.ប : អំណរ)។</p-l>
 Jubal	(a son of Lamech) <p-l>@យូបាល</p-l>
 Jubilee	(according to the Law a time or season for rejoicing) <p-l>@ឆ្នាំសោមនស្ស (គ.ប : ឆ្នាំ សោមនស្ស គ.ខ.ប : ឆ្នាំមេត្តាករុណា)។</p-l>
@@ -2415,7 +2416,7 @@ Judas Iscariot	<p-l>@យូដាស-អ៊ីស្តារីយ៉ុត</p-
 Judas Maccabee	(a Jewish warrior who led the Maccabean revolt against the Seleucids, 167-160 BC) <p-l>@យូដាសម៉ាកកាប៊ី។</p-l>
 Jude, Letter of...	<p-l>@សំបុត្ររបស់យូដាស</p-l>
 Jude	(abbreviation "Letter of Jude") <p-l>@យូដ</p-l>.
-judge	(vb) (to hear and decide a case by a court of law) <p-l>@កាត់ក្តី</p-l> judgement (hearing), <p-l>@ការ កាត់ក្តី</p-l> (condemnation) (pass) <p-l>@ត្រូវជាប់កាត់ក្ដី (គ.ប: ត្រូវជាជំនុំជំរុះគ.ខ.ប: ត្រូវផ្តន្ទាទោស)។</p-l>
+judge	(vb) (to hear and decide a case by a court of law) <p-l>@កាត់ក្តី</p-l> judgement (hearing), <p-l>@ការ កាត់ក្តី</p-l> (condemnation) (pass) <p-l>@ត្រូវជាប់កាត់ក្តី (គ.ប: ត្រូវជាជំនុំជំរុះគ.ខ.ប: ត្រូវផ្តន្ទាទោស)។</p-l>
 judge	(vb) (to hear and decide a case by a divine/heavenly court) <p-l>@វិនិច្ឆ័យ</p-l> judgement (hearing) <p-l>@ការវិនិច្ឆ័យ</p-l> (condemnation) <p-l>@ការវិនិច្ឆ័យកាត់ទោស។</p-l>
 judge	(vb) (to consult and form a decision by consensus) <p-l>@ជំនុំជម្រះ</p-l> judgement <p-l>@ការជំនុំជម្រះ</p-l> judge (vb) (to discern, to appraise critically) <p-l>@សម្រេច ទទួលស្គាល់ ដឹង</p-l> judgement <p-l>@ការដឹងខុស ត្រូវ។</p-l>
 judge	(vb) (to sentence) <p-l>@កាត់ទោស</p-l> judgement <p-l>@ការកាត់ទោស</p-l>
@@ -2484,9 +2485,9 @@ King Jr., Martin Luther	[American clergyman and prominent leader in the AfricanA
 kingdom, the...	(reference to "the Kingdom of God") <p-l>@នគរព្រះ</p-l>
 Kingdom of God	<p-l>@ព្រះរាជរបស់ព្រះ (គ.បៈ នគរព្រះ គខប ព្រះរាជ្យរបស់ព្រះ)</p-l> (informal) <p-l>@នគរព្រះ</p-l>
 Kingdom of Heaven	<p-l>@នគរស្ថានសួគ៌</p-l>
-King of Israel	(a description of Jesus) <p-l>@ស្ដេចនៃសាសន៍អ៊ីស្រាអែល</p-l>
+King of Israel	(a description of Jesus) <p-l>@ស្តេចនៃសាសន៍អ៊ីស្រាអែល</p-l>
 Kings, Book of...	<p-l>@កណ្ឌពង្សាវតារក្សត្រ</p-l>
-Kings Valley	(Gen. 14) <p-l>@ច្រកភ្នំស្ដេច</p-l>
+Kings Valley	(Gen. 14) <p-l>@ច្រកភ្នំស្តេច</p-l>
 kingship	(position or authority of a king) <p-l>@ភាពជាមហាក្សត្រ ភាពជាស្តេច មហាក្សត្រភាព</p-l>
 kinsman	(a male blood relation or a relation by marriage) <p-l>@ញាតិសន្តានប្រុស</p-l>
 kinsman redeemer	(a male relative who rescues or delivers) <p-l>@សាច់ញាតិសន្តានដែលមានច្បាប់ នឹងលោះ (គ.ខ.ប : សាច់ញាតិដែលមានភារកិច្ចទទួលបន្ទុកថែរក្សា)។</p-l>
@@ -2508,7 +2509,7 @@ koinonia	(Greek "communion/fellowship") <p-l>@ខូអ៊ីនណូនា» (
 Koran	(the sacred book of Islam, believed by Muslims to be the infallible word of God dictated to their prophet Mohammed through the medium of the angel Gabriel) <p-l>@គម្ពីរកូរ៉ាន់។</p-l>
 kosmos	(Greek “Universe”) <p-l>@សកលលោក (ភាសាក្រេក)</p-l>
 kudurru stones	(a type of stone document used as boundary stones and as records of land grants to vassals by the Kaasites in ancient Babylonia between the 16th and 12th Century BC) <p-l>@ផ្ទាំងថ្មយូខួរ។</p-l>
-Kurigalzu I	[17th king of the Kassite dynasty that ruled over Babylon, who was responsible for the most extensive building programs for which evidence has survived (x-1375 BC)] <p-l>@ស្ដេចគូរីហ្គាល់ហ្ស៊ីទី១។</p-l>
+Kurigalzu I	[17th king of the Kassite dynasty that ruled over Babylon, who was responsible for the most extensive building programs for which evidence has survived (x-1375 BC)] <p-l>@ស្តេចគូរីហ្គាល់ហ្ស៊ីទី១។</p-l>
 Kurigalzu II	(the 22nd king of the Kassite or 3rd Dynasty that ruled over Babylon, who ruled c. 1332-1308 BC) <p-l>@ស្តេចគូរីហ្គាល់បក្សីទី២។</p-l>
 Kyrios	(Greek "lord") <p-l>@គិរីយ៉ូស» (ភាសាក្រេក)</p-l> (voc) kyrie <p-l>@គិរីយេ»</p-l>
 L	(historical critical analysis: the L source is an inferred oral tradition used by Luke when composing his gospel) <p-l>@អ៊ិល»។</p-l>
@@ -2560,7 +2561,7 @@ law-keeper	(person who conforms with legal standards) <p-l>@អ្នកកា�
 lawless one, the...	(a reference to Satan) <p-l>@អាទទឹងច្បាប់ (គ.ប: អាទទឹងច្បាប់ គ.ខ.ប : មេប្រឆាំង សាសនា)។</p-l>
 lawlessness	(a state of no enforceable rules) <p-l>@ការទទឹងច្បាប់</p-l>
 lawlessness, man of...	(2 Thess. 2:3) <p-l>@មេប្រឆាំងសាសនា (គ.បៈ : មនុស្សដែលជាតូបាប គ.ខ.ប : មេ ប្រឆាំងសាសនា)។</p-l>
-lawsuit	(a proceeding in a court of law brought by one party against another) <p-l>@បណ្ដឹង</p-l>
+lawsuit	(a proceeding in a court of law brought by one party against another) <p-l>@បណ្តឹង</p-l>
 lay hands	(vb) (to raise a hand or hands as a symbolic method of invoking the Holy Spirit) <p-l>@ដាក់ដៃលើ</p-l> laying on of hands (n) <p-l>@ការដាក់ដៃលើ។</p-l>
 layman	[a person who is not a priest (OT), or is not a member of the clergy (church history/ministry)] <p-l>@គ្រហស្ថ។</p-l>
 Lazarus	<p-l>@ឡាសារ</p-l>
@@ -2587,7 +2588,7 @@ Levant, the...	(an area of the East Mediterranean, now occupied by Lebanon, Syri
 level	(archaeology: a particular depth of an excavation, generally indicating the location of artifacts from a particular era) <p-l>@ជាន់។</p-l>
 Levi	<p-l>@លេវី</p-l> (tribe of...) <p-l>@អំបូរលេវី</p-l>
 Levi, Testament of...	(part of the "Testaments of the Twelve Patriarchs", a pseudepigraphic work comprising the dying commands of the twelve sons of Jacob) <p-l>@សំបុត្រ-បណ្តាំចំពោះលេវី»។</p-l>
-Leviathan	(a sea monster) <p-l>@ស្ដេចក្រពើ (គ.ប: ក្រពើ គ.ខ.ប : ស្ដេចក្រពើរ)</p-l>
+Leviathan	(a sea monster) <p-l>@ស្តេចក្រពើ (គ.ប: ក្រពើ គ.ខ.ប : ស្តេចក្រពើរ)</p-l>
 levirate marriage	(practice of marrying the widow of one's brother) <p-l>@អាពាហ៍ពិពាហ៍ដើម្បីស្នង ត្រកូលឲ្យបងប្អូន។</p-l>
 Levite	(a member of the tribe of Levi) <p-l>@អ្នកអំបូរលេវី (គ.បៈ របស់ពួកលេវី គ.ខ.បៈ ក្នុងកុលសម្ព័ន្ធ លេវី)</p-l> Levites (reference to the tribe of Levi) <p-l>@ពួកលេវី។</p-l>
 levitical	(adj) (relating to the Book of Leviticus) <p-l>@នៃកណ្ឌលេវីវិន័យ</p-l>
@@ -2679,7 +2680,7 @@ love feast	(a fellowship meal of the Early Church) <p-l>@អាហារនៃ�
 loving-kindness	(practice or quality of being helpful through showing affection on the basis of God's covenantal love) <p-l>@សេចក្តីសប្បុរសដោយសេចក្តីស្រឡាញ់។</p-l>
 low Christology	(the study of Christ stressing his humanity at the cost of his divinity) <p-l>@ព្រះ: គ្រីស្ទវិទ្យាដែលសំដៅទៅលើ-មនុស្សធម៌ទ្រង់</p-l> (short) <p-l>@ព្រះគ្រីស្ទវិទ្យាយ៉ាងទាប។</p-l>
 lower region	(hell) <p-l>@នរក</p-l>
-loyalty	(the state or quality of having or showing continuing allegiance) <p-l>@ភក្ដីភាព</p-l>
+loyalty	(the state or quality of having or showing continuing allegiance) <p-l>@ភក្តីភាព</p-l>
 Loyola, Ignatius	[Spanish knight, priest and theologian who founded the Jesuits and emerged as a leader during the Counter-Reformation (1491-1556)] <p-l>@អ៊ីញ៉ាស ឡូយ៉ូឡា។</p-l>
 Lucian of Antioch	[a presbyter, theologian and martyr noted for his scholarship and ascetic piety (c. 240-312 AD)] <p-l>@លូសៀនពីក្រុងអាន់ទីយ៉ូក។</p-l>
 Lucianic recension	(the revision of the Septuagint and Greek NT, allegedly by Lucian of Antioch) <p-l>@ការកែប្រែសិបធូជីន និងព្រះគម្ពីរសញ្ញាថ្មីជាភាសាក្រេករបស់លោកលូសៀន</p-l> (short) <p-l>@ការកែប្រែរបស់លូសៀន។</p-l>
@@ -2698,7 +2699,7 @@ LXX	(symbol for the Septuagint) <p-l>@ព្រះគម្ពីរសិបធ
 Lycus Valley	(the river valley where Colossae, Laodicea and Hierapolis were located) <p-l>@ជ្រលងភ្នំឡៃគុស។</p-l>
 Lydia	<p-l>@នាងលីឌា</p-l>
 Lydia, Kingdom of...	(an Iron Age kingdom of western Asia Minor, generally located east of ancient Ionia in modern Turkey, and was later the name of a Roman province) <p-l>@នគរលីឌា។</p-l>
-Lysanías I	[mentioned in Luke 3:1, son of Ptolemy (Mennaeus), Tetrarch of Iturea/ Abilene c. 40-36 BC] <p-l>@ស្ដេចលីសានាសទី១។</p-l>
+Lysanías I	[mentioned in Luke 3:1, son of Ptolemy (Mennaeus), Tetrarch of Iturea/ Abilene c. 40-36 BC] <p-l>@ស្តេចលីសានាសទី១។</p-l>
 Lysimachus	(possible author of the apocryphal additions to Esther) <p-l>@លីស៊ីម៉ាគូស</p-l>
 Lystra, town of...	<p-l>@ក្រុងលីស្ត្រ</p-l>
 m.	(abbreviation “married”) <p-l>@រ. (រៀបការ)</p-l>
@@ -2747,7 +2748,7 @@ Man	(an indirect reference to Jesus, as God in human form) <p-l>@អង្គម
 man of God	(title of respect applied to prophets and beloved religious leaders of Israel) <p-l>@អ្នកសំណព្វរបស់ព្រះ (គ.បៈ អ្នកសំណប់របស់ព្រះ គ.ខ.បៈ : អ្នកជំនិតរបស់ព្រះជាម្ចាស់)។</p-l>
 man of war	(a man reknown for his participation in battle) <p-l>@អ្នកចម្បាំង</p-l>
 manager	(a person who directs an estate or organization) <p-l>@អ្នកជំរួត (គ.ប : អ្នកធំរួត គ.ខ.ប : អ្នក បំរើ)។</p-l>
-Manasseh	<p-l>@ម៉ានាសេ</p-l> (tribe of...) <p-l>@អំបូរម៉ានាសេ</p-l> (...King of Judah) <p-l>@ស្ដេចម៉ានាំសេ</p-l>
+Manasseh	<p-l>@ម៉ានាសេ</p-l> (tribe of...) <p-l>@អំបូរម៉ានាសេ</p-l> (...King of Judah) <p-l>@ស្តេចម៉ានាំសេ</p-l>
 Manasseh, Prayer of...	(Apocrypha) <p-l>@កណ្ឌសេចក្តីអធិស្ឋាននៃម៉ាន៉ាសេ»</p-l>
 Mandaeism	(an early monotheistic religion with a dualistic world view) <p-l>@សាសនាម៉ាន់ដៃ</p-l>
 mandate	(an official or authoritative instruction) (div) <p-l>@ព្រះរាជបញ្ជា</p-l>
@@ -3039,8 +3040,8 @@ Near East	(term applied variably over time, often refers to that part of Asia cl
 NEB	(abbreviation "New English Bible”) <p-l>@ព្រះគម្ពីរភាសាអង់គ្លេស</p-l> New English Bible (1970)
 Nebo, Mount...	<p-l>@ភ្នំនេបូ</p-l>
 Nebuchadnezzar I	(the fourth king of the 4th Dynasty of Babylon who ruled c. 1126-1103 BC and is best known for his victory over Elam and the recovery of the cult of Marduk) <p-l>@ស្តេចនេប៊ូក្លេសាទី១។</p-l>
-Nebuchadnezzar II	[a king of the Neo-Babylonian Empire (c. 605-562 BC) who conquered Judah and Jerusalem, destroyed the Temple and exiled the Jews (c. 634-562 BC)] <p-l>@ស្ដេចនេប៊ូក្លេសាទី២។</p-l>
-Nebuchadrezzar	(alternate spelling of Nebuchadnezzar originating from the Hebrew text - Jer. 12:2) <p-l>@ស្ដេចនេប៊ូក្មេសា។</p-l>
+Nebuchadnezzar II	[a king of the Neo-Babylonian Empire (c. 605-562 BC) who conquered Judah and Jerusalem, destroyed the Temple and exiled the Jews (c. 634-562 BC)] <p-l>@ស្តេចនេប៊ូក្លេសាទី២។</p-l>
+Nebuchadrezzar	(alternate spelling of Nebuchadnezzar originating from the Hebrew text - Jer. 12:2) <p-l>@ស្តេចនេប៊ូក្មេសា។</p-l>
 Neco, Pharaoh	[otherwise known as Necho II, was a king of the 26th Dynasty of Egypt, who killed King Josiah at the battle of Megiddo (610-595 BC)] <p-l>@ផាធាននេកូទី២។</p-l>
 needy	(those in need of support) <p-l>@អ្នកខ្វះខាត</p-l>
 Negeb/Negev, region of the...	<p-l>@ស្រុកត្បូង</p-l>
@@ -3053,7 +3054,7 @@ neolithic	(adj) (archaeology: describing the new stone age period, begining arou
 Neoplatonism	(school of mystical philosophy formed in the 3rd Century AD, based on the teachings of Plato and early Platonists) <p-l>@នីអូប្លាតូនិយម។</p-l>
 Nephilim	(the offspring of the "sons of God" and the "daughters of men") <p-l>@មនុស្សរូបធំសំបើម (គ.ប : មនុស្សរូបធំសំបើម គ.ខ.ប : មនុស្សមាឌធំៗ)។</p-l>
 Nergal	(a deity in Babylon) <p-l>@ព្រះនើកាល</p-l>
-Neriglissar	[a high ranking officer of Nebuchadnezzar (Jer. 39:12) who became King of Babylon 560-556 BC] <p-l>@ស្ដេចនើកាល-សារេស៊ីរ។</p-l>
+Neriglissar	[a high ranking officer of Nebuchadnezzar (Jer. 39:12) who became King of Babylon 560-556 BC] <p-l>@ស្តេចនើកាល-សារេស៊ីរ។</p-l>
 Nero	(Emperor of Rome from 54 to 68 AD) <p-l>@អធិរាជនេរ៉ូ</p-l> Neronian (adj) <p-l>@របស់អធិរាជនេរ៉ូ</p-l>
 Nestorianism	(the doctrine that Christ was two distinct persons, divine and human) <p-l>@ណេសសូរៀននិយម។</p-l>
 Nestorius	[Archbishop of Constantinople (428-431) who rejected the title of *Theotokos* for Mary and was condemned for heresy at the first Council of Ephesus (431) and whose name was given to the Eastern Church (c. 386-451)] <p-l>@ណេស្កូវៀស។</p-l>
@@ -3155,7 +3156,7 @@ omen	(an occurrence regarded as a sign of future happiness or disaster) <p-l>@�
 omnipotence	(having unlimited power) <p-l>@សព្វានុភាព</p-l> (div) <p-l>@ព្រះរាជសព្វានុភាព</p-l> (informal) <p-l>@អំណាចដ៏គ្មានកម្រិត</p-l> *omnipotent* (adj) <p-l>@ដែលប្រកបដោយសព្វានុភាព។</p-l>
 omnipresence	(the presence of a deity in all places at the same time) <p-l>@សព្វវត្តមាន</p-l> (informal) <p-l>@គង់នៅគ្រប់កន្លែង។</p-l>
 omniscience	(possession of unlimited knowledge and understanding) <p-l>@សព្វញ្ញុតភាព</p-l> (informal) <p-l>@ចំណេះដឹងគ្រប់ការទាំងអស់។</p-l>
-Omri, King...	<p-l>@ស្ដេចអរី</p-l>
+Omri, King...	<p-l>@ស្តេចអរី</p-l>
 Omrides	(the house of King Omri and his descendants) <p-l>@ដំណើរវង្សាអំរី</p-l>
 Onan	<p-l>@អូណាន់</p-l>
 oneness	(trinitarian theology: the state or quality of being one, commonly attributed to God) <p-l>@ភាពជាតែមួយ។</p-l>
@@ -3629,7 +3630,7 @@ prophetic religion	(religion under the direction and authority of the prophets) 
 Prophets	(the recognized writings of the OT prophets; the OT apart from the Writings) <p-l>@គម្ពីរពួកហោរា។</p-l>
 propitiate	(vb) (to turn away wrath by an offering) <p-l>@ថ្វាយតង្វាយឲ្យរួចពីសេចក្តីក្រោធ</p-l> propitiation <p-l>@ការថ្វាយតង្វាយឲ្យរួចពីសេចក្តីក្រោធ (គ.បៈ : ទឹសន្តោសប្រោស ថ្វាយដង្វាយឲ្យធួន ដង្វាយ ធួន) (គ.ខ.ប : យញ្ញបូជាសំរាប់លោះ រំដោះឲ្យរួច ការបូជាព្រះជន្មដើម្បីលោះ)]</p-l> propitiatory (adj) <p-l>@នៃការថ្វាយតង្វាយឲ្យរួចពីសេចក្តីក្រោធ។</p-l>
 propitious	(adj) (favourable, auguring well) <p-l>@ដែលអំណោយផលល្អ</p-l>
-proposition	(the content of a statement that affirms or denies something and is capable of being true or false) <p-l>@សេចក្តីអះអាង</p-l> propositional (adj) <p-l>@ដោយសេចក្ដីអះអាង។</p-l>
+proposition	(the content of a statement that affirms or denies something and is capable of being true or false) <p-l>@សេចក្តីអះអាង</p-l> propositional (adj) <p-l>@ដោយសេចក្តីអះអាង។</p-l>
 propriety	(the quality or state of being appropriate rationally or fitting) <p-l>@បែបបទ</p-l> (concerning morality) <p-l>@ភាពមានហេតុផល</p-l> (concerning a situation) <p-l>@ភាពសម។</p-l>
 prose	(written languages in ordinary usage, distinguished from poetry) <p-l>@ពាក្យរាយ</p-l>
 prosecutor	(a person who conducts legal proceedings, especially in a criminal court) <p-l>@រាជ អាជ្ញា។</p-l>
@@ -3862,7 +3863,7 @@ rest	(vb) (to relax from exertion or labour) <p-l>@ឈប់សម្រាក [
 ឈប់សំរាក)	<p-l>@គ.ខ.ប : ឈប់សំរាកបញ្ចប់កិច្ចការ]</p-l> (n) <p-l>@សេចក្តីឈប់សម្រាក។</p-l>
 restitution	(act of giving back something stolen) (formal) <p-l>@បដិទាន</p-l> (informal) <p-l>@ការប្រគល់ឲ្យ វិញ</p-l> (act of restoring something damaged) <p-l>@ការសងវិញ។</p-l>
 restore	(vb) (to return a structure to original condition) <p-l>@ស្អាងឡើងវិញ</p-l> restoration <p-l>@ការស្អាង ឡើងវិញ</p-l> restorer <p-l>@អ្នកស្អាងឡើងវិញ។</p-l>
-restore	(vb) (to return a relationship to original condition) <p-l>@ស្តារឡើងវិញ</p-l> restoration <p-l>@ការស្តារ ឡើងវិញ</p-l> restorer <p-l>@អ្នកស្ដារឡើងវិញ។</p-l>
+restore	(vb) (to return a relationship to original condition) <p-l>@ស្តារឡើងវិញ</p-l> restoration <p-l>@ការស្តារ ឡើងវិញ</p-l> restorer <p-l>@អ្នកស្តារឡើងវិញ។</p-l>
 Restoration, the...	(the return of Judah to the Promised Land following the Exile in Babylon) <p-l>@ការស្អាងឡើងវិញក្រោយនិរទេសបាប៊ីឡូន។</p-l>
 resurrection	(the act or instance of a dead person coming back to life) <p-l>@សេចក្តីរស់ឡើងវិញ</p-l> (div) <p-l>@ការមានព្រះជន្មរស់ឡើងវិញ។</p-l>
 Resurrection, the...	(resurrection of Jesus) <p-l>@ការមានព្រះជន្មរស់ឡើងវិញនៃព្រះយេស៊ូវគ្រីស្ទ</p-l>
@@ -3893,7 +3894,7 @@ right	(entitlement to a particilar privilege) <p-l>@សិទ្ធិ</p-l> (di
 righteous	(adj) (in accordance with God's standard of morality, justice and uprightness) <p-l>@ដែលសុចរិត</p-l> “the righteous” <p-l>@មនុស្សសុចរិត</p-l> righteousness <p-l>@សេចក្តីសុចរិត។</p-l>
 Righteous One, the...	(a Messianic title) <p-l>@អ្នកដ៏សុចរិត</p-l>
 Righteousness, Teacher of...	(a figure found in some Dead Sea Scrolls extolled as having proper understanding of the Torah and being the one through whom God would reveal God's will to the community) <p-l>@គ្រូនៃសេចក្តីសុចរិត។</p-l>
-Rim-Sin L, King...	[ruled the city-state of Larsha from 1758-1699 BC (short chronology) or 1822-1763 BC (middle chronology)] <p-l>@ស្ដេចរឹម-ស៊ីនទី១។</p-l>
+Rim-Sin L, King...	[ruled the city-state of Larsha from 1758-1699 BC (short chronology) or 1822-1763 BC (middle chronology)] <p-l>@ស្តេចរឹម-ស៊ីនទី១។</p-l>
 ring	(circular band, usually of precious metal, generally worn upon a finger) <p-l>@ចញ្ចៀន</p-l>
 Riphath	(son of Gomer) <p-l>@រីផាត</p-l>
 rite	(act or procedure in a religious ceremony) <p-l>@ពិធីបុណ្យក្នុងសាសនា</p-l>
@@ -4062,8 +4063,8 @@ Seleucidic Syria	(Syria under the rule of the Seleucidic Dynasty) <p-l>@ស្�
 Seleucids	(the family descended from Seleucus, one of Alexander's generals, who ruled the Seleucid Empire) <p-l>@ពួកសេលូស៊ីដ។</p-l>
 Seleucus I Nicator	[a leading officer of Alexander the Great who established the Seleucid Dynasty and the Seleucid Empire, reigning 305-281 BC (c. 358-281)] <p-l>@អធិរាជ សេលូគូសទី១ នីកាទើរ។</p-l>
 Seleucus II Callinicus	(ruler of the Hellenistic Seleucid Empire, who reigned 246-225 BC) <p-l>@អធិរាជសេសូគូសទី២ កាលីនីគុស។</p-l>
-Seleucus III Soter	[ruler of the Hellenistic Seleucid Empire, who reigned briefly 225-223 BC before being assassinated (c. 243-223 BC)] <p-l>@ស្ដេចសេលូគីសទី៣ សូធើរ។</p-l>
-Seleucus IV Philopator	(ruler of the Hellenistic Seleucid Empire 187-175 BC, who in an effort to pay the Romans war-indemnity, sent a minister to Jerusalem to seize the Temple treasury) <p-l>@ស្ដេចសេលូគីសទី៤ ហ្វីឡូប៉ាទើរ។</p-l>
+Seleucus III Soter	[ruler of the Hellenistic Seleucid Empire, who reigned briefly 225-223 BC before being assassinated (c. 243-223 BC)] <p-l>@ស្តេចសេលូគីសទី៣ សូធើរ។</p-l>
+Seleucus IV Philopator	(ruler of the Hellenistic Seleucid Empire 187-175 BC, who in an effort to pay the Romans war-indemnity, sent a minister to Jerusalem to seize the Temple treasury) <p-l>@ស្តេចសេលូគីសទី៤ ហ្វីឡូប៉ាទើរ។</p-l>
 self	(the distinct individuality or identity of a person) <p-l>@អាត្មា</p-l>
 self-control	(n) (the ability to exercise restraint over one's feelings, emotions, reactions, etc.) <p-l>@សេចក្តីដឹងខ្នាត ការគ្រប់គ្រងខ្លួនឯង [(គ.បៈ សេចក្តីដឹងខ្នាត អត់ទ្រាំ ដឹងខ្លួន ដឹងខ្នាត ចេះទប់ ចិត្ត មានចិត្តធ្ងន់ធ្ងរ សេចក្តីធ្ងន់ធ្ងរ) (គ.ខ.បៈ : ការទប់ចិត្តនឹងតណ្ហា ទ្រាំបាន ភ្ញាក់ខ្លួន មានចិត្តធ្ងន់ ចេះទប់ចិត្ត ការចេះទប់ចិត្ត ទប់ចិត្ត)]។</p-l>
 self-examination	(scrutiny of one's own conduct, motives, desires, etc.) <p-l>@ការពិចារណាមើលខ្លួនឯង។</p-l>
@@ -4111,10 +4112,10 @@ sexual immorality	(the state of transgressing accepted standards of behaviour co
 Shabako Shabaka	(a Kushite pharaoh of the 25th Dynasty of Egypt, who ruled c. 721-707 BC) <p-l>@ជាប៉ាន សាបាកូ។</p-l>
 Shabbath. Tractate...	(the first tractate in the Mishnaic section of the Mishnah and Talmud, dealing with the laws related to the Jewish Sabbath) <p-l>@រឿងខ្លីៗ សប្បីទ ។</p-l>
 shade	(a ghost) <p-l>@ខ្មោច</p-l>
-Shallum, King...	(15 king of Israel) <p-l>@ស្ដេចសាលូម</p-l>
-Shalmaneser I	(a king of Assyria who ruled c. 1265-1235 BC, who according to his anals conquered eight countries in the northwest) <p-l>@ស្ដេចសាលម៉ានេស៊ីរទី១។</p-l>
-Shalmaneser III	(a king of Assyria 859-824 BC, who persevered to subjugate Israel) <p-l>@ស្ដេចសាលម៉ានេស៊ីរទី៣។</p-l>
-Shalmaneser V	(a king of Assyria who ruled from 727-722 BC, who conquered Samaria and sent its inhabitants into exile) <p-l>@ស្ដេចសាលម៉ានេស៊ីរទី៥។</p-l>
+Shallum, King...	(15 king of Israel) <p-l>@ស្តេចសាលូម</p-l>
+Shalmaneser I	(a king of Assyria who ruled c. 1265-1235 BC, who according to his anals conquered eight countries in the northwest) <p-l>@ស្តេចសាលម៉ានេស៊ីរទី១។</p-l>
+Shalmaneser III	(a king of Assyria 859-824 BC, who persevered to subjugate Israel) <p-l>@ស្តេចសាលម៉ានេស៊ីរទី៣។</p-l>
+Shalmaneser V	(a king of Assyria who ruled from 727-722 BC, who conquered Samaria and sent its inhabitants into exile) <p-l>@ស្តេចសាលម៉ានេស៊ីរទី៥។</p-l>
 shalom	(Hebrew "peace") <p-l>@ភាសាហេព្រើរ សាឡិម (សន្តិភាព)</p-l>
 shame	(painful emotion resulting from an awareness of having done something dishonourable, unworthy, degrading etc.) <p-l>@សេចក្តីអៀនខ្មាស។</p-l>
 Shamgar	<p-l>@សាំកើរ</p-l>
@@ -4136,7 +4137,7 @@ Sheleph	(son of Joktan, son of Eber) <p-l>@សេលែប</p-l>
 Shem	(eldest son of Noah) <p-l>@សិម</p-l>
 Shema	<p-l>@សេម៉ា</p-l>
 Shema, the...	[term referring to the whole part of the daily prayer of observant Jews that commences with Shema Yisrael ("Hear, O Israel") and comprises of Deut. 6:4-9; 11:13-21 & Num. 15:37-41] <p-l>@ការអធិស្ឋាន សេម៉ា ។</p-l>
-Shemeber, King...	(Gen. 14:2) <p-l>@ស្ដេចសេមេប៉ើរ</p-l>
+Shemeber, King...	(Gen. 14:2) <p-l>@ស្តេចសេមេប៉ើរ</p-l>
 Sheol	(Hebrew name for the abode of the dead) <p-l>@ស្ថានឃុំព្រលឹងមនុស្សស្លាប់</p-l>
 Shephelah	(Judean lowland between Mt. Hebron and the coastal plains of Philistia) <p-l>@ស្រុក ទំនាបស៊ីហ្វិឡាស។</p-l>
 shepherd	(a person who tends sheep) <p-l>@អ្នកគង្វាល</p-l>
@@ -4147,7 +4148,7 @@ Sheshonq I	(a Meshwesh Berber pharaoh of Egypt and founder of the 22nd Dynasty w
 Sheshonq V	(final pharaoh of the 22nd Dynasty of Egypt who ruled c. 778-740 BC when the kingdom disintegrated into various city-states) <p-l>@ផារ៉ាន សេស្យុងទី៥។</p-l>
 Shiloh, area of...	<p-l>@តំបន់ស៊ីឡូរ</p-l>
 Shimei	<p-l>@ស៊ីម៉ាយ</p-l>
-Shinab, King...	(Gen. 14:2) <p-l>@ស្ដេចស៊ីណាប</p-l>
+Shinab, King...	(Gen. 14:2) <p-l>@ស្តេចស៊ីណាប</p-l>
 Shinar, land of...	<p-l>@ស្រុកស៊ីណើរ</p-l>
 shoot	(the first aerial part of a plant to develop from a germinating seed) <p-l>@លំពង់ (គ.ប : លំពង់ គ.ខ.ប : ខ្នែង)។</p-l>
 shovel	(an instrument for lifting or scooping loose material such as earth, coal or excrement) <p-l>@ចបជីក (គ.ប : ចបជីក គ.ខ.ប : ចប)</p-l>
@@ -4161,7 +4162,7 @@ Shuwardata	(mayor of Hebron district in mid-14th Century BC, and an author of th
 Siamun	(the sixth pharaoh of the 21" Dynasty of Egypt who ruled 986-967 BC, and is probably the pharaoh who took Gezer and gave it as a dowry to his daughter, Solomon's wife) <p-l>@ផាធាន សៀម៉ុន។</p-l>
 Sibylline Oracles, the...	(a collection of oracular utterances written in Greek hexameters ascribed to the Sibyls, prophetesses who uttered divine revelations in a frenzied state. Probably composed or edited between the 2nd Century BC and the 5th Century AD) <p-l>@ក្រមឯកសារ ព្យាករណ៍ស៊ីប៊ីលែន ។</p-l>
 Sibyls	<p-l>@សូមមើល</p-l> “Sibylline Oracles, the...” <p-l>@ពួកហោរាស្រីស៊ីប៊ីស</p-l>
-sickle	(an implement for cutting grass, wheat etc.) <p-l>@កណ្ដៀវ</p-l>
+sickle	(an implement for cutting grass, wheat etc.) <p-l>@កណ្តៀវ</p-l>
 Siddim, Valley of...	(Gen.14:3) <p-l>@វាលច្រកស៊ីឌីម</p-l>
 side	(either half of the human body) (div) <p-l>@ឌា</p-l>
 Sidon	(son of Canaan) <p-l>@ស៊ីដូន</p-l>
@@ -4224,7 +4225,7 @@ sole	(the underside of the foot) <p-l>@បាតជើង (គ.ប : បាត�
 solecism	(non-standard use of a grammatical construction) <p-l>@ការប្រព្រឹត្តវេយ្យាករណ៍ខុសធម្មតា</p-l>
 solemn	(adj) (characterized by seriousness or sincerity) <p-l>@ម៉ឺងម៉ាត់</p-l>
 solidarity	(unity of interests, sympathies etc.) <p-l>@សាមគ្គីភាព</p-l>
-Solomon, King...	<p-l>@ស្ដេចសាឡូម៉ូន</p-l>
+Solomon, King...	<p-l>@ស្តេចសាឡូម៉ូន</p-l>
 soma	(Greek "body") <p-l>@ភាសាក្រេក «@សូម៉ា» (រូបកាយ)</p-l>
 Son, the...	(a title of Jesus) <p-l>@ព្រះរាជបុត្រា</p-l>
 Son of David	(a title of Jesus) <p-l>@ព្រះរាជបុត្រានៃហ្លួងដាវីឌ</p-l>
@@ -4352,7 +4353,7 @@ supernatural world	(the spiritual realm) <p-l>@ពិភពអធិធម្ម
 superstition	(irrational belief usually founded on ignorance or fear) <p-l>@ជំនឿដែលគ្មានអ្វីជាមូល ដ្ឋាន</p-l> (short) <p-l>@ជំនឿឆ្វេង។</p-l>
 supersubstantial	(adj) (having to do with the very essence of things rather than their tangible nature) <p-l>@ដែលហួសវិស័យធម្មជាតិ។</p-l>
 Supper, the...	<p-l>@សូមមើល</p-l> Lord's Supper <p-l>@ពិធីលៀងព្រះអម្ចាស់</p-l>
-Suppiluliumas I	(king of the Hittites, c. 1344-1322 BC who challenged the then dominant Egyptian Empire for control of land between the Mediterranean Sea and the Euphrates River) <p-l>@ស្ដេចសុភីលូលីម៉ាទី១។</p-l>
+Suppiluliumas I	(king of the Hittites, c. 1344-1322 BC who challenged the then dominant Egyptian Empire for control of land between the Mediterranean Sea and the Euphrates River) <p-l>@ស្តេចសុភីលូលីម៉ាទី១។</p-l>
 suppl.	(abbreviation "supplementary volume”) <p-l>@សៀវភៅបន្ថែម</p-l>
 supplant	(vb) (to take the place of) <p-l>@ជំនួស ចូលជំនួស</p-l>
 supplicate	(vb) (to make a humble request) <p-l>@អង្វរករ</p-l> supplication (n) <p-l>@ការអង្វរករ</p-l> supplicant (person who makes supplication) <p-l>@អ្នកអង្វរករ។</p-l>
@@ -4362,7 +4363,7 @@ survey	(vb) (to view literature in a comprehensive way) <p-l>@ពិនិត្
 Susa, City of...	(an ancient city of the Elamite, Persian and Parthian empires, east of the Tigris River, dating back to before 5000 BC) <p-l>@ក្រុងស៊ូសាន។</p-l>
 Susanna	(an apocryphal addition to the Book of Daniel as chapter 13) <p-l>@រឿង ស៊ូសាន់ ណា ។</p-l>
 sustain	(vb) (to hold up, maintain or prolong) <p-l>@ទ្រទ្រង់</p-l> sustenance (n) <p-l>@ការទ្រទ្រង់</p-l>
-suzerain	(state exercising dominion) <p-l>@ប្រទេសជាម្ចាស់</p-l> (sovereign exercising dominion) <p-l>@ស្ដេច ជាម្ចាស់។</p-l>
+suzerain	(state exercising dominion) <p-l>@ប្រទេសជាម្ចាស់</p-l> (sovereign exercising dominion) <p-l>@ស្តេច ជាម្ចាស់។</p-l>
 s.v.	(Latin abbreviation *sub voce* that refers to a dictionary entry) <p-l>@អត្ថបទ</p-l>
 SW	(abbreviation “south west”) <p-l>@ទិសនីរតី</p-l>
 swear	(vb) (to declare or affirm as true) <p-l>@ស្បថ</p-l>
@@ -4533,7 +4534,7 @@ Tiberius, City of...	<p-l>@ក្រុងទីបើរ</p-l>
 Tibni	(1 Ki. 16) <p-l>@ធីបនី</p-l>
 Tidal	(king of Goiim - Gen.14:1) <p-l>@ស្តេចធីដាល</p-l>
 tidings	(Old English: information, news) <p-l>@ដំណឹង</p-l>
-Tiglath-Pileser I	[King of Assyria, 1114-1076 BC, when Assyria became the leading power of the Middle East] <p-l>@ស្ដេចទឹកឡាតពីឡេស៊ីរទី១។</p-l>
+Tiglath-Pileser I	[King of Assyria, 1114-1076 BC, when Assyria became the leading power of the Middle East] <p-l>@ស្តេចទឹកឡាតពីឡេស៊ីរទី១។</p-l>
 Tiglath-Pileser III	(King of Assyria, 745-727 BC, widely regarded as founder of the Neo-Assyrian Empire) <p-l>@ស្តេចទឹកឡាត ពីឡេស៊ីរទី៣។</p-l>
 Tigris River 	<p-l>@មាន្តហ៊ីដេតែល</p-l>
 96. the Khmer is based on the KJV name for this river: Hiddekel Tikulti-Ninurta I	(succeeded Shalmaneser I as King of Assyria, he reigned 1243-1207 BC and captured the rival city of Babylon to ensure full Assyrian supremacy over Mesopotamia) <p-l>@ស្តេចទូគុលទី-នីនើរថាទី១។</p-l>
@@ -4578,7 +4579,7 @@ transcendence	(having existence outside the created world) <p-l>@ភាពលើ
 transcript	(a reproduction or copy) <p-l>@ប្រតិចារឹត</p-l>
 transfigure	(vb) (to change or cause to change in appearance) <p-l>@ផ្លាស់រូប</p-l> transfiguration <p-l>@ការ ផ្លាស់រូប ការប្រែទ្រង់ទ្រាយ។</p-l>
 transform	(vb) (to alter radically in form, function, etc.) <p-l>@ផ្លាស់ប្រែ ត្រឡប់ទៅជា</p-l> transformation <p-l>@ការផ្លាស់ប្រែ</p-l> transformed (pass) <p-l>@ត្រូវបានផ្លាស់ប្រែ។</p-l>
-transgress	(vb) (to go beyond or overstep a limit) <p-l>@ធ្វើរំលង</p-l> transgression <p-l>@អំពើរំលង សេចក្ដី រំលង។</p-l>
+transgress	(vb) (to go beyond or overstep a limit) <p-l>@ធ្វើរំលង</p-l> transgression <p-l>@អំពើរំលង សេចក្តី រំលង។</p-l>
 transience	(a quality of only existing for a short period of time) <p-l>@ភាពមិនឋិតថេរ ភាពមិនទៀង ត្រង់។</p-l>
 transitive	(adj) (grammar: denoting the occurence of a verb when it requires a direct object) <p-l>@កិរិយាសព្ទសកម្ម។</p-l>
 transitory	(adj) (of short duration, transient, ephemeral) <p-l>@មិនស្ថិតស្ថេរ</p-l>
@@ -4699,7 +4700,7 @@ utopianism	(belief in a perfect or ideal existence) <p-l>@ក្សេមក្�
 utterance	(an audible expression, often to make something publicly known) <p-l>@ពាក្យសម្តី</p-l>
 Uz	(son of Aram, son of Shem) <p-l>@អ៊ុស</p-l>
 Uzal	(son of Joktan, son of Eber) <p-l>@អូសាល</p-l>
-Uzziah, King...	<p-l>@ស្ដេចអូសៀស</p-l>
+Uzziah, King...	<p-l>@ស្តេចអូសៀស</p-l>
 v./vv.	(abbreviation "verse/s") ខ
 Valentinus	(early Christian gnostic theologian who founded a school in Rome, and his followers are known as the Valentinians) <p-l>@វ៉ាលេនទីល។</p-l>
 Valentinianism	(a gnostic movement founded by Valentinus in the 2<sup>nd</sup> Century AD) <p-l>@វ៉ាលេន-ទីននិយម</p-l> Valentinians <p-l>@ក្រុមវ៉ាលេនទីន។</p-l>
@@ -4854,15 +4855,15 @@ wrung	(vb) (past tense and past participle of "wring") <p-l>@បានច្រ�
 Wundergeschichten	(German: wonder stories) <p-l>@រឿងអស្ចារ្យ (ភាសាអាឡឺម៉ង់)</p-l>
 Wycliffe Bible Translators	(an international organization seeking to make a translation of the Bible in every living language in the world) <p-l>@ក្រុមអ្នកបកប្រែព្រះគម្ពីរវិគ្លីហ្វ។</p-l>
 Wycliffe, John	[English Scholastic philosopher, theologian, lay preacher, reformer and university teacher who was an early advocate for Bible translation into the vernacular, and translated the Vulgate into English (c. 1320-1384)] <p-l>@ចន វីគ្លីហ្វ។</p-l>
-Xerxes, King	[the fourth king of the Archaemenid Empire, also known as Ahasuerus (519-465 BC)] <p-l>@ស្ដេចអំហាស៊ីរុស។</p-l>
+Xerxes, King	[the fourth king of the Archaemenid Empire, also known as Ahasuerus (519-465 BC)] <p-l>@ស្តេចអំហាស៊ីរុស។</p-l>
 Yahweh	(vocalization of the Hebrew word for God) <p-l>@ព្រះយ៉ាជី (ភាសាហេព្រើរ)</p-l>
 Yahwism	(the worship of Yahweh) <p-l>@ការថ្វាយបង្គំព្រះយ៉ាជំនិយម</p-l>
 Yahwist	(a worshipper of Yahweh) <p-l>@អ្នកថ្វាយបង្គំព្រះយ៉ាវើ</p-l>
 Yahwist	(one of the four major sources of the Torah, as postulated by the Documentary Hypothesis) <p-l>@ប្រភពយ៉ាវីស។</p-l>
 Yamkhad	(an ancient Amorite kingdom located in modern day Aleppo that was powerful in the period 1800-1600 BC) <p-l>@នគរយ៉ាំខាត់។</p-l>
 Yanhamu	(Egyptian commissioner of the Amarna Letters correspondence) <p-l>@យ៉ាន់ហាមូ</p-l>
-Yarimlim I	(the second king of the ancient Amorite kingdom of Yamkhad, who reigned c. 1780-1764 BC) <p-l>@ស្ដេចយ៉ារឹមលីមទី១។</p-l>
-Yarimlim III	(King of Aleppo, northern Syria, from c. 1720 BC) <p-l>@ស្ដេចយ៉ារីមលីមទី៣</p-l>
+Yarimlim I	(the second king of the ancient Amorite kingdom of Yamkhad, who reigned c. 1780-1764 BC) <p-l>@ស្តេចយ៉ារឹមលីមទី១។</p-l>
+Yarimlim III	(King of Aleppo, northern Syria, from c. 1720 BC) <p-l>@ស្តេចយ៉ារីមលីមទី៣</p-l>
 year	(related to age of an animal) <p-l>@ខួប</p-l>
 yearn	(vb) (to have an intense desire or longing for) <p-l>@ចង់បានយ៉ាងខ្លាំង</p-l>
 Yehoezer	(a post-exilic governor of Judah c. 490-470 BC) <p-l>@យេហូសើរ</p-l>
@@ -4871,7 +4872,7 @@ Yom Kippur	(Hebrew "Day of Atonement" is the holiest day of the year for the Jew
 Zabdi	<p-l>@សាប់ឌី</p-l>
 Zacchaeus	<p-l>@សាខេ</p-l>
 Zadok	<p-l>@សាដុក</p-l>
-Zakkur	(King of Hamath in central Syria during the early 8th Century BC) <p-l>@ស្ដេចហ្សាគ្គីរ</p-l>
+Zakkur	(King of Hamath in central Syria during the early 8th Century BC) <p-l>@ស្តេចហ្សាគ្គីរ</p-l>
 Zarephath, town of...	<p-l>@ក្រុងសារិបតា</p-l>
 Zarethan, village of...	<p-l>@ភូមិសារថាន</p-l>
 Zarhites/Zerahites	(clan of...) <p-l>@ញាតិសន្តានសេរ៉ាស</p-l>
@@ -4883,7 +4884,7 @@ Zeboiim, City of...	(Gen. 14:2) <p-l>@ក្រុងសេបោម</p-l>
 Zebulun	<p-l>@សាប់យូលីន</p-l> (tribe of...) <p-l>@អំបូរសាប់យូប៉ូន</p-l>
 Zechariah	<p-l>@សាការី</p-l>
 Zechariah, Book of...	<p-l>@កណ្ឌសាការី</p-l>
-Zedekiah, King...	<p-l>@ស្ដេចសេដេគា</p-l>
+Zedekiah, King...	<p-l>@ស្តេចសេដេគា</p-l>
 Zelophehad	<p-l>@ស្លូធិហាត</p-l>
 Zemarites	(a people descended from Canaan, son of Ham) <p-l>@ពួកសេម៉ារឹត</p-l>
 Zeno of Citium	[Greek language philosopher, who was the founder of the Stoic school of philosophy which he taught in Athens (c. 334-262 BC)] <p-l>@ហ្សេណូពីក្រុងស៊ីទៀម។</p-l>
@@ -4895,7 +4896,7 @@ Zidonians/Sidonians	(inhabitants of the Phoenician city-state Sidon) <p-l>@ព�
 ziggurat	(a type of rectangular temple tower or tiered mound erected by the Sumerians, Akkadians and Babylonians in Mesopotamia) <p-l>@ប៉មហ្ស៊ីកគូរ៉ាត។</p-l>
 Zillah	(a wife of Lamech) <p-l>@នាងស៊ីឡា</p-l>
 Zilpah	<p-l>@នាងស៊ីលផា</p-l>
-Zimri, King...	<p-l>@ស្ដេចស៊ឹមរី</p-l>
+Zimri, King...	<p-l>@ស្តេចស៊ឹមរី</p-l>
 Zinzendorf, Nicholas von	[German religious reformer and bishop of the Moravian Church (1700-1760)] <p-l>@នីកូឡាស ហ្សីនហ្សិនដហ្វ។</p-l>
 Zion	[a Hebrew name for Jerusalem, or a specific mountain near Jerusalem (Mount Zion); since applied to Solomon's Temple, the land of Israel and the future Promised Land) <p-l>@ស៊ីយ៉ូន។</p-l>
 Zionism	(a form of nationalism of Jews and Jewish culture that supports a Jewish nation state in the Land of Israel) <p-l>@ស៊ីយ៉ូននិយម។</p-l>

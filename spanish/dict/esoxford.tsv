@@ -1,5 +1,6 @@
 #desc	Spanish English Oxford Dictionary from <a href="https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs">freemdict</a>
 #priority	1
+#lang	bi
 'd	'd  | AmE d, BrE d |<br>	• 1 = had2 = would3 = did
 'd've	'd've  | AmE dəv, BrE dəv |<br>	• = would have
 'll	'll  | AmE (ə)l, BrE l |<br>	• 1 = will2 = shall

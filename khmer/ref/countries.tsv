@@ -1,5 +1,6 @@
 #desc	countries in French, Khmer, and English
 #priority	3
+#lang	bi
 #khmer_country	khmer_capital	french_country	french_capital	english_country	english_capital	page
 ០ ម៉ាល់ត៍	វ៉ាឡែត	Malte,	La Vallette	Malta,	Valletta
 តួកគឺ	អង់ការ៉ា	Turquie	Ankara	Turkey	Ankara
@@ -149,7 +150,7 @@
 យេម៉ែន	សាណា	Yémen	Sanaa	Yemen	Sanaa
 រវ៉ាន់ដា	គីហ្កាលី	Rwanda	Kigali	Rwanda	Kigali
 រុស្សី	មស ឋ	Russie	Moscou	Russia	Moscow
-រុស្សី (សហព័ន្ធ) “មូស្ដុ		Russie (Fédération)	Moscou	Russia	Moscow
+រុស្សី (សហព័ន្ធ) “មូស្តុ		Russie (Fédération)	Moscou	Russia	Moscow
 រូម៉ានី	ប៊ុយការ៉េស	Roumanie	Bucarest	Romania	Bucharest
 លិចតិនស្តា៣	វ៉ាឌួស	Liechtenstein	Vaduz	Liechtenstein	Vaduz
 លិចតិនស្តាញ	វាឱស ម	Liechtenstein	Vaduz	Liechtenstein	Vaduz
@@ -214,7 +215,7 @@
 ហ្រ្រើណាដ	សាំងហ្សក	Grenade	Saint-George	Grenada	Saint-George
 ហ្វីលីពីន	ម៉ានីល	Philippines	Manille	Philippines Manila	
 ហ្វេនស៊ី	សាំងព្យែរ	Guernesey	Saint-Pierre	Guernsey	Saint-Pierre
-ហ៊្សកដានី	អាម៉ាន់	Jordanie	Amman	Jordan	Amman
+ហ្ស៊កដានី	អាម៉ាន់	Jordanie	Amman	Jordan	Amman
 ហ្សកហ្ស្សី	ប៊ីលីស៊ី	Georgie	Tbilissi	Georgia	Tbilisi
 ហ្សាម៉ាអ៊ីក	ឃីងស្តន	Jamaïque	Kingston	Jamaica	Kingston
 ហ្សីប្រាល់តា	ហ្សីប្រាល់តា	Gibraltar	Gibraltar	Gibraltar	Gibraltar

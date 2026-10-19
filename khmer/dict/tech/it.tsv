@@ -1,5 +1,6 @@
 #desc	IT dictionary
 #priority	
+#lang	rbi
 #english	pos	khmer	page
 Across	P	កាត់តាម	
 Action	n	អំពើ, សកម្មភាព	
@@ -31,7 +32,7 @@ Advisor	n	ទីប្រឹក្សា
 Affect	tv	ប៉ះពាល់	
 Agenda	n	ទិនានុលេខ, សៀវភៅ កត់កិច្ចការប្រចាំថ្ងៃ	
 Agent	n	ភ្នាក់ងារ	
-Aggregate Function		អនុគម ជ្ដំ	
+Aggregate Function		អនុគម ជ្តំ	
 Aging	n	ភាព ក្លាយជាចាស់	
 Agree	tv	យល់ព្រម, ព្រមព្រៀង	
 Agreement	n	ព្រមព្រៀង (ការ), កិច្ចព្រមព្រៀង	
@@ -49,7 +50,7 @@ Allocation Memory	n	សតិបំរុង
 Allow	tv	អនុញ្ញាតិ	
 Alphabetical	adj	ជាក្រមអក្សរ	
 Alphanumeric	adj	ជាក្រមអក្សរលេខ	
-Alter	tv	ប្ដរជំរើស, ផ្លាស់ប្តរជំរើស	
+Alter	tv	ប្តរជំរើស, ផ្លាស់ប្តរជំរើស	
 Alternate	v	ឆ្លាស់	
 Alternative Display		បង្ហាញឆ្លាស់	
 Alternative Text		អត្ថបទឆ្លាស់	
@@ -110,7 +111,7 @@ Ascending (Order)	adj	លំដាប់ ឡើង
 Ask	tv	សួរ	
 Ask Every Time		សួររាល់ពេល	
 Aspect Ratio	n	សមាមាត្រ	
-Assembling	n	ផ្ដុំ (ការ)	
+Assembling	n	ផ្តុំ (ការ)	
 Assign	tv	ភ្ជាប់, ផ្តល់អោយ	
 Assign (Value)	tv	ផ្តល់តំលៃ, ដាក់តំលៃ	
 Assignment (Home Work)	n	កិច្ចការ(ការងារផ្ទះ)	
@@ -136,7 +137,7 @@ Authentic	adj	ទទួលជាស្របច្បាប់
 Authenticate	tv	ផ្ទៀងផ្ទាត់ភាពស្របច្បាប់, ផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវ, ផ្ទៀងផ្ទាត់ភាពពិតប្រាកដ	
 Authentication	n	ភាពស្របច្បាប់, ភាពត្រឹមត្រូវ, ភាពពិតប្រាកដ	
 Author	n	អ្នកនិពន្ធ	
-Authorization	n	សេចក្ដីអនុញ្ញាត, ការអនុញ្ញាត	
+Authorization	n	សេចក្តីអនុញ្ញាត, ការអនុញ្ញាត	
 Authorized	adj	ដែលបានការអនុញ្ញាត	
 Auto	pref	ស្វ័យប្រវត្តិ	
 Auto Completion	n	ស្វ័យបំពេញ	
@@ -224,7 +225,7 @@ Blend(tv)	tv	លាយ
 Blink	n	ភ្លឹបភ្លែតៗ	
 Block	n	ប្លក	
 Block	tv	រាំងខ្ទប់	
-Blockquote	n	សំរង់បណ្ដំ, សំរង់ទាំងដុំ	
+Blockquote	n	សំរង់បណ្តំ, សំរង់ទាំងដុំ	
 Blog	n	ប្លក	
 Bloggers	n	ប្លករ ប្លការី	
 Blogroll	n	របុំប្លក	
@@ -313,14 +314,14 @@ Censor	tv	ពិនិត្យសំរេច (កាសែតទស្សា�
 Center	n	កណ្តាល	
 Centimeter (Centimetre)	n	សិនថ៍មីរើ, សង់ទីម៉ែត្រ	
 Central Processing Unit (CPU)	n	អង្គបញ្ជាកំពូល, អង្គបញ្ជាមជ្ឍឹម	
-Centralized Network	n	បណ្តាញផជ្ដុំ, បណ្តាញមជ្ឍការ	
-Centralized Processing	n	ដំណើរការមជ្ឍការ, ដំណើរការផ្ដុំ	
+Centralized Network	n	បណ្តាញផជ្តុំ, បណ្តាញមជ្ឍការ	
+Centralized Processing	n	ដំណើរការមជ្ឍការ, ដំណើរការផ្តុំ	
 Centrist	n	និយមកណ្តាល (អ្នក)	
 Certificate	n	វិញ្ញាបនបត្រ	
 Certify	tv	បញ្ជាក់	
 Chairperson	n	ប្រធាន, អ្នកអធិបតី	
 Challenge	n	សាកកំលាំង (ការ)	
-Change Case (Ms. Office)		ប្តរលក្ខណៈអក្សរ, ប្ដរករណី	
+Change Case (Ms. Office)		ប្តរលក្ខណៈអក្សរ, ប្តរករណី	
 Channel (TV)	n		
 Character	n	អក្សរ, ចរិក	
 Character Set	n	សំណុំតួអក្សរ, កញ្ចប់គួអក្សរ	
@@ -384,7 +385,7 @@ Command	n	ពាក្យបញ្ជា
 Command	tv	បញ្ជា	
 Command Line	n	ឃ្លាបញ្ជា	
 Comment	n	វិចារ, យោបល់ សរសេរជាអក្សរ	
-Commit	tv	តាំងចិត្ត, ប្ដេជ្ញា	
+Commit	tv	តាំងចិត្ត, ប្តេជ្ញា	
 Common	adj	ជាទូទៅ, ជារួម	
 Communication	n	គមនាគម, ទំនាក់ទំនង, ការឆ្លើយឆ្លង	
 Compact	tv	បង្រួម	
@@ -513,7 +514,7 @@ Curve	n	ខ្សែកោង
 Custom	adj	ផ្ទាល់ខ្លន, ធ្លាប់, ទំលាប់	
 Customer	n	អតិថិជន	
 Customization	n	បណ្តរតាមជំរើសផ្ទាល់	
-Customize	tv	ប្ដរតាមជំរើសផ្ទា ល់, ប្តរតាមប៉ង, បំប៉ង តំរូវចិត្តផ្ទាល់ខ្លន	
+Customize	tv	ប្តរតាមជំរើសផ្ទា ល់, ប្តរតាមប៉ង, បំប៉ង តំរូវចិត្តផ្ទាល់ខ្លន	
 Cut	tv	កាត់ចេញ	
 Cyberspace	n	វាលអិនរើណែត, ទីប្រជុំអិនរើណែត	
 Daemon	n	ដេមឺន (ពា ក្យកា ត៌ នៃ 018៤ /ា៤ ជា#8០ឃ (ស)	
@@ -622,7 +623,7 @@ Disc	n	ថាស
 Discard	tv	បោះចោល, លះបង់ចោល	
 Disclaim	tv	ជំទាស់	
 Disclaimer	n	អ្នកជំទាស់	
-Disconnect	tv	ផ្ដាច់	
+Disconnect	tv	ផ្តាច់	
 Discontinue	tv	ជាច់ដាច់ (បន្ទាត់), បញ្ចប់	
 Discussion	n	កិច្ចពិភាក្សា, ការពិភាក្សា	
 Disk	n	ថាស	
@@ -769,7 +770,7 @@ Even Page	n	ទំព័រគូ
 Evenly	adv	ស្មើៗគ្នា	
 Event	n	ព្រឹត្តិការ, ហេតុការ	
 Every Time	adv	រាល់ពេល	
-Evident	adj	ស្ដែង, ឃើញផ្ទាល់ភ្នែក	
+Evident	adj	ស្តែង, ឃើញផ្ទាល់ភ្នែក	
 Examine	tv	ពិនិត្យ, ពិនិត្យពិច័យ	
 example	n	ឧទាហរ	
 Except	adv	លើកលែង	
@@ -1030,7 +1031,7 @@ Host	tv	អោយស្មាក់
 Host	n	ខំព្យូរើ, ម៉ាស៊ីន	
 Hosting	n	ទីទទួលស្នាក់	
 Hostname	n	ឈ្មោះខំល្ងួរើ› ឈ្មោះម៉ាស៊ីន	
-Hot	adj	ក្ដៅៗ	
+Hot	adj	ក្តៅៗ	
 Hot blogs		ប្លកក្តៅៗ	
 Hot List	n	បញ្ជីអាសយដ្ឋានសំខាន់	
 Hot posts		ប្រកាសក្តៅៗ	
@@ -1074,8 +1075,8 @@ Improvement	n	កំណែលំអ
 In Progress		ក្នុងដំណើរការ	
 Inactive	adj	អសកម្ម	
 Inbox	n	ប្រអប់ទទួល	
-Incandescent	adj	ក្ដៅ ស, ក្តៅពណ៌ស (ដូចអំពូលភ្លើងទូប)	
-Inch	n	អ៊ិន្ល័ (១ អ៊ិ្តី ស្មើ ២,៥៤ ស.ម.)	
+Incandescent	adj	ក្តៅ ស, ក្តៅពណ៌ស (ដូចអំពូលភ្លើងទូប)	
+Inch	n	អ៊ិន្ល័ (១ អ្ត៊ិី ស្មើ ២,៥៤ ស.ម.)	
 Include	tv	រួមបញ្ចូល, រួមមាន	
 Incoming	adj	មកដល់	
 Incoming Server	n	ខំព្យូរើបំរើសេវា មែវល៍ចូល	
@@ -1349,7 +1350,7 @@ Methodology	n	វិធីសាស្ត្រ
 Metrics (Metric System)	n	ប្រព័ន្ធម៉ែត្រ	
 Middle	adj	ចន្លោះកណ្តាល	
 MIDI	n	មីឌី	
-Migration	n	បំលាស់លំនៅ, ប្ដរកន្លែង, ប្តរទីស្នាក់នៅ	
+Migration	n	បំលាស់លំនៅ, ប្តរកន្លែង, ប្តរទីស្នាក់នៅ	
 Mile	n	ម៉ៃល៍, ១ មៃល៍ ស្មើ ១,៦ គម	
 Milligrams	n	មិល្លឺក្រាម	
 Millimeter	n	មិល្លីម៉ែត្រ	
@@ -1390,7 +1391,7 @@ Mount	tv	ម៉ោន, ធ្វើអោយសកម្ម
 Mouse	n	កណ្តរ	
 Mouse Pointer	n	ទ្រនិចកណ្តរ	
 Move	tv	ផ្លាស់ទី, ប្តរទីតាំង, បញ្ជនទៅ	
-Move back	tv	ប្ដរទីត្រឡប់ទៅ	
+Move back	tv	ប្តរទីត្រឡប់ទៅ	
 Move Down	tv	ប្តរទីចុះក្រោម	
 Move Up	tv	ប្តរទីឡើងលើ	
 Movement	n	ចលនា	
@@ -1418,7 +1419,7 @@ NetBIOS name	n	ឈ្មោះចេញចូល បណ្តាញ
 Netiquette	n	អតិថិវិន័យបណ្តាញ	
 Network	n	បណ្តាញ	
 Network Administrator	n	អ្នកអភិបាលបណ្តាញ	
-Network connection	n	បញ្ជាប់បណ្ត្ដាញ	
+Network connection	n	បញ្ជាប់បណ្ត្តាញ	
 Network Security	n	សុវត្ថិភាពបណ្តាញ	
 Network Topology	n	ក្បួនតបណ្តាញ	
 New	adj	នថ្មី	
@@ -1471,7 +1472,7 @@ Occur	tv	កើតឡើង
 Octal Number		ចំនួនគោលប្រាំបី	
 Odd Number		ចំនួនសេស	
 Officer	n	មន្ត្រី	
-Offline	adj	ក្រៅបណ្ត្ដាញ	
+Offline	adj	ក្រៅបណ្ត្តាញ	
 Offline for chat		ក្រៅប្រព័ន្ធសាសង	
 Offset	n	អុហ្វសិត	
 OK	n	យល់ព្រម	
@@ -1583,7 +1584,7 @@ Peer to Peer Network		បណ្តាញស្នើសិទ្ធិ
 Pend	iv	រង់ចាំដោះស្រាយ	
 Pending		នៅលួួរ, មិនទាន់សំរេច	
 People	n	មហាជន	
-Perform	tv	ស្ដែង, សំដែង	
+Perform	tv	ស្តែង, សំដែង	
 Period	n	ខួប	
 Peripheral	n	គ្រឿងខំលួួរើ	
 Permission	n	ភាពអនុញ្ញាត	
@@ -1772,7 +1773,7 @@ Recursion	n	ហៅខ្លនឯង (ការ)
 Recycle Bin	n	ជង្រកនៃរបស់ប្រើឡើងវិញ, ធុងសំរាម	
 Redeye	n	សញ្ញាគ្រោះថ្នាក់	
 Redial	tv	ហៅឡើងវិញ (ទូរស័ព្ទ)	
-Redirect	tv	ប្ដរទិស	
+Redirect	tv	ប្តរទិស	
 Redirected from		បានប្តរទិសពី	
 Redirection	tv	បណ្តរទិស	
 redirects page		ទំព័រប្តរទិសទ្វេ	
@@ -1834,7 +1835,7 @@ Replace	tv	ជំនួស
 Replacement	n	ជំនួស (ការ)	
 Replacement Table	n	តារាងជំនួស	
 Replicate	tv	ផ្អិតចំលង	
-Replication	n	ផ្ដិតចំលង (ការ)	
+Replication	n	ផ្តិតចំលង (ការ)	
 Reply	tv	ឆ្លើយតប	
 Report	n	របាយការ	
 Repository	n	ឃ្លាំង	
@@ -1846,7 +1847,7 @@ Research	n	ស្រាវជ្រាវ(ការ)
 Research	tv	ស្រាវជ្រាវ	
 Reserved		ស្ងប់ស្ងៀម, សំងំ, នៅស្ងៀម	
 Reset	tv	កំណត់អោយដូចដើម, ធ្វើអោយដូចដើម	
-Resize	tv	ប្ដរទំហំ	
+Resize	tv	ប្តរទំហំ	
 Resolution	n	ភាពម៉ត់	
 Resolution	n	គុណភាពបង្ហាញ	
 Resolution degree		កំរិតម៉ត់	
@@ -1883,7 +1884,7 @@ Rhombus	n	ចតុកោណព្ទាយស្មើ
 Rich editor		ឧបករកែប្រែសំបួរ	
 Rich Text	n	អត្ថបទសំបួរ	
 Rid	tv	កំចាត់	
-Right Join		រួមខាងស្ដាំ	
+Right Join		រួមខាងស្តាំ	
 Ring	n	កង	
 Rip	tv	ច្រៀក	
 Roll	iv	រមៀល	
@@ -2002,7 +2003,7 @@ Sharing	n	ចែករំលែក (ការ)
 Sharpen	adj	ស្រួច	
 Shear	tv	កាត់	
 Sheet	n	សន្លឹក	
-Shell	n	ស្ដុក, សែល, ចានក្រឡូម	
+Shell	n	ស្តុក, សែល, ចានក្រឡូម	
 Shift (Key)	tv	បរ (គ្រាប់ចុច)	
 Shopping	n	ដើរផ្សារ (ការ)	
 Shortcut	n	ទង្វើផ្លវកាត់	
@@ -2181,7 +2182,7 @@ Suspicious	adj	ដែលសង្ស័យ
 Swap	tv	ជូរ	
 Swap Memory	n	សតិប្តរ	
 Switch	n	ឧបករប្ភរឆ្លាស់	
-Switch	tv	ប្ដរឆ្លាស់	
+Switch	tv	ប្តរឆ្លាស់	
 Switch Off	tv	បិទ	
 Switch On	tv	បើក	
 Symbol	n	និមិត្តសញ្ញា	
@@ -2230,7 +2231,7 @@ Texture	n	វាយនភាព
 Theme	n	គំរូរចនា	
 Thesaurus	n	កំរងវេវចនសព្ទ	
 Thesis	n	និក្ខេបបទ	
-Thin	adj	ស្ដើង	
+Thin	adj	ស្តើង	
 Thousands Separator	n	សញ្ញាបំបែកខ្ទង់ពាន់	
 Thread	n	ខ្សែស្រឡាយ	
 Thread	tv	ចរន្ត	
@@ -2429,7 +2430,7 @@ WebMail	n	មែវល៍អិនរើណែត, សំបុត្រអិ�
 Webmaster	n	អ្នកជំនាញវ៉ែប	
 Webtop	n	ផ្ទៃវ៉ែប	
 weekday	n	ថ្ងៃនែសប្តាហ៍ (មិនគិតថ្ងៃអាទិត្យ ឬ ថ្ងៃសៅរ៍, ថ្ងៃអាទិត្យ )	
-Weekend	n	ថ្ងៃចុងសប្ដាហ៍ (ថ្ងៃសៅរ៍, ថ្ងៃអាទិត្យ)	
+Weekend	n	ថ្ងៃចុងសប្តាហ៍ (ថ្ងៃសៅរ៍, ថ្ងៃអាទិត្យ)	
 Weight	n	កំរាស់	
 Western	n	ប៉ែកខាងលិច	
 Whole	adj	ទាំងមូល	
@@ -2625,7 +2626,7 @@ Checkerboard	n	ក្តារអុក
 Dashboard	n	ក្តារបញ្ហា	
 Accelerator Board	n	ក្តារពន្លៀន	
 Incandescent	adj	ក្តៅ ស, ក្តៅពណ៌ស (ដូចអំពូលភ្លើងទូប)	
-Hot	adj	ក្ដៅៗ	
+Hot	adj	ក្តៅៗ	
 In Progress		ក្នងដំណើរការ	
 Domestic	adj	ក្នុងតំបន់	
 Inline	adj	ក្នុងតួ	
@@ -2983,7 +2984,7 @@ Writing Aids	n	ជំនួយសំណេរ
 Replace	tv	ជំនួស	
 Replacement	n	ជំនួស (ការ)	
 credential	n	ជំនឿជាក់	
-Trust	n	ជំនឿជាក់, សេចក្ដីទុកចិត្ត	
+Trust	n	ជំនឿជាក់, សេចក្តីទុកចិត្ត	
 Greeting	n	ជំរាបសួរ (ការ), (186 (2 ៖ បណ្ណជំរាបសួរ	
 Gradient	n	ជំរាល	
 Choice	n	ជំរើស	
@@ -3070,7 +3071,7 @@ Hop	n	ដំណាក់
 News	n	ដំណឹង	
 Travel	n	ដំណើរកំសាន្ត	
 Process	n	ដំណើរការ	
-Centralized Processing	n	ដំណើរការមជ្ឍការ, ដំណើរការជ្ដុំ	
+Centralized Processing	n	ដំណើរការមជ្ឍការ, ដំណើរការជ្តុំ	
 Procedure	n	ដំណើរបែបបទ	
 Collation	n	ដំណើរប្រៀបធៀប (អត្ថបទ), អាហារស្រាល	
 Transition	n	ដំណើរផ្លាស់ប្តរ	
@@ -3280,7 +3281,7 @@ Duration	n	ថេរវេលា
 Maintain	tv	ថែទាំ	
 Keep	tv	ថែទុក	
 Tab (Key)	n	ថៃប, ឈ្មោះគ្រាប់ចុច	
-Weekend	n	ថ្ងៃចុងសប្ដាហ៍ (ថ្ងៃសៅរ៍, ថ្ងៃអាទិត្យ)	
+Weekend	n	ថ្ងៃចុងសប្តាហ៍ (ថ្ងៃសៅរ៍, ថ្ងៃអាទិត្យ)	
 Workday	n	ថ្ងៃធ្វើការ	
 weekday	n	ថ្ងៃនែសប្តាហ៍ (មិនគិតថ្ងៃអាទិត្យ ឬ ថ្ងៃសៅរ៍, ថ្ងៃអាទិត្យ )	
 Class	n	ថ្នាក់	
@@ -3564,9 +3565,9 @@ Exposure	n	បំណះពន្លឺ, ការប៉ះពន្លឺ
 NTFS partition		បំណែក រន	
 Distribution	n	បំណែកចាយ	
 Network	n	បណ្តាញ	
-LAN (Local Area Network)	n	បណ្តាញគតំបន់ជ្ដុំ	
+LAN (Local Area Network)	n	បណ្តាញគតំបន់ជ្តុំ	
 WAN (Wide Area Network)	n	បណ្តាញតំបន់លាត	
-Centralized Network	n	បណ្តាញជ្ដុំបណ្តាញមជ្ឍការ -ឈ ព*	
+Centralized Network	n	បណ្តាញជ្តុំបណ្តាញមជ្ឍការ -ឈ ព*	
 Broadband Network	n	បណ្តាញរលកអាកាសបន្ទាធំ	
 Temporary	adj	បណ្តោះអាសន្ន	
 Card	n	បណ្ណ	
@@ -3664,7 +3665,7 @@ Allocate (Memory)	tv	បំរុងទុក (សតិ)
 Transformation	n	បំរែក្លាយ	
 Variation	n	បំរែបំរួល	
 Translation	tr	បំរែសំរូល	
-Migration	n	បំលាស់លំនៅ, ប្ដរកន្លែង, ប្តរទីស្នាក់នៅ	
+Migration	n	បំលាស់លំនៅ, ប្តរកន្លែង, ប្តរទីស្នាក់នៅ	
 Convert	tv	បំលែង	
 Conversion	n	បំលែង (ការ)	
 Encode	tv	បំលែងជាអក្សរកូដ	
@@ -3729,16 +3730,16 @@ Print	tv	បោះពុម្ព
 Print Optimized		បោះពុម្ពគុណភាពខ្ពស់	
 Wipe	tv	បោសសំអាត, លុបសំអាត	
 Shift (Key)	tv	ប្តរ (គ្រាប់ចុច)	
-Switch	tv	ប្ដរឆ្លាស់	
-Alter	tv	ប្ដរជំរើស, ផ្លាស់ប្តរជំរើស	
+Switch	tv	ប្តរឆ្លាស់	
+Alter	tv	ប្តរជំរើស, ផ្លាស់ប្តរជំរើស	
 Rename	tv	ប្តរឈ្មោះ	
-Resize	tv	ប្ដរទំហំ	
-Redirect	tv	ប្ដរទិស	
+Resize	tv	ប្តរទំហំ	
+Redirect	tv	ប្តរទិស	
 Case/Character (OOP)		ប្តរលក្ខណៈអក្សរ	
 Change Case (Ms. Office)		ប្តរលក្ខណៈអក្សរ, ប្តរករណី	
 Modify	tv	ប្តរ	
-Move Down	tv	ប្ដរទីចុះក្រោម	
-Move back	tv	ប្ដរទីត្រឡប់ទៅ	
+Move Down	tv	ប្តរទីចុះក្រោម	
+Move back	tv	ប្តរទីត្រឡប់ទៅ	
 Move Up	tv	ប្តរទីឡើងលើ	
 Customize	tv	ប្តរតាមជំរើសផ្ទាល់, ប្តរតាមប៉ង, បំប៉ង គំរូវចិត្តផ្ទាល់ខ្លន	
 Misspell	tv	ប្រកបខុស	
@@ -3817,7 +3818,7 @@ Translate	tr	ប្រែសំរូល
 Incomplete translation		ប្រែសំរួល (ការ) មិនពេញលេញ	
 Blog	n	ប្លក	
 Web Blog	n	ប្លក, មើលពាក្យ 8108	
-Hot blogs		ប្លកក្ដៅៗ	
+Hot blogs		ប្លកក្តៅៗ	
 Bloggers	n	ប្លករ ប្លការី	
 Layout	n	ប្លង់, ផែនការព្រាង	
 Page Layout	n	ប្លង់ទំព័រ	
@@ -3838,7 +3839,7 @@ Pix Map	n	ផែនទីចំណុច
 Image Map	n	ផែនទីរូបភាព	
 Supply	tv	ផ្គត់ផ្គង់	
 Syndicate	tv	ផ្គត់ផ្តង់(អោយ)ផ្សព្វផ្សាយ, ផ្តល់ផ្សព្វផ្សាយ, បញ្ជាប់	
-Assembling	n	ផ្ដុំ (ការ)	
+Assembling	n	ផ្តុំ (ការ)	
 Map	tv	ផ្គូផ្គង	
 Send	tv	ផ្ញើ	
 Send To Back		ផ្ញើត្រលប់ក្រោយ	
@@ -3851,15 +3852,15 @@ Assign (Value)	tv	ផ្តល់តំលៃ, ដាក់តំលៃ
 Initialize (Variable)	tv	ផ្តល់តំលៃចាប់ផ្តើម	
 Suggestion	n	ផ្តល់យោបល់, បណ្តល់យោបល់	
 Recommend	tv	ផ្តល់អនុសាសន៍	
-Disconnect	tv	ផ្ដាច់	
+Disconnect	tv	ផ្តាច់	
 Detach	tv	ផ្តាច់ចេញ	
 Start	tv	ផ្តើម	
 Initiate	tv	ផ្តើមថ្មី	
 Restart	tv	ផ្តើមឡើងវិញ	
 Horizontal	adj	ផ្តេក	
 Focus	tv	ផ្តោតអារម្មណ៍	
-Replicate	tv	ផ្ដិតចំលង	
-Replication	n	ផ្ដិតចំលង (ការ)	
+Replicate	tv	ផ្តិតចំលង	
+Replication	n	ផ្តិតចំលង (ការ)	
 Tab	n	ផ្ទាំង	
 Task Pane	n	ផ្ទាំងការងារ	
 Control Panel	n	ផ្ទាំងត្រួតពិនិត្យ	
@@ -4306,7 +4307,7 @@ Currency	n	រូបិយប័ណ្ណ
 Done	adj	រួចរាល់	
 Unitary	adj	រួម	
 Inner Join		រួមខាងក្នង	
-Right Join		រួមខាងស្ដាំ	
+Right Join		រួមខាងស្តាំ	
 Associate	tv	រួមគ្នា, ភ្ជាប់, សហៈ	
 Contribute	n	រួមចំណែក	
 Contribution	n	រួមចំណែក (ការ)	
@@ -4568,7 +4569,7 @@ Kern	tv	សម្រួលចន្លោះតួអក្សរ
 Quote	n	សំរង់	
 Extraction	n	សំរង់ចេញ	
 Self-Extracting	adj	សំរង់ចេញដោយខ្លនឯង	
-Blockquote	n	សំរង់បណ្ដំ, សំរង់ទាំងដុំ	
+Blockquote	n	សំរង់បណ្តំ, សំរង់ទាំងដុំ	
 Adapt	tv	សំរប, ឆប	
 Moderation	n	សំរបសំរួល (ការ), ការផ្តល់សេចក្តីទុកចិត្ត	
 Moderate	tv	សំរបសំរូល, ធ្វើអោយសមល្មម	
@@ -4644,7 +4645,7 @@ Announcement	n	សេចក្តីប្រកាស, ការប្រកា
 Reference	n	សេចក្តីយោង	
 Cross-reference	n	សេចក្តីយោងឆ្លង	
 Brief	n	សេចក្តីសង្ខេប	
-Authorization	n	សេចក្ដីអនុញ្ញាត, ការអនុញ្ញាត	
+Authorization	n	សេចក្តីអនុញ្ញាត, ការអនុញ្ញាត	
 Attribute	n	សេចក្តីកំណត់	
 Declaration	n	សេចក្តីប្រកាស, ប្រកាស (អថេរ)	
 Will	n	សេចក្តីប្រាថ្នា, បំណងប្រាថ្នា	
@@ -4660,9 +4661,9 @@ Reserved		ស្ងប់ស្នៀម, សំងំ, នៅស្នៀម
 Restore	tv	ស្តារ, ធ្វើទៅដើម	
 Restore Default		ស្តារលំនាំដើម	
 Standard	n	ស្តង់ដារ, ខ្នាតគំរូ, បទដ្ឋាន	
-Thin	adj	ស្ដើង	
-Evident	adj	ស្ដែង, ឃើញផ្ទាល់ភ្នែក	
-Perform	tv	ស្ដែង, សំដែង	
+Thin	adj	ស្តើង	
+Evident	adj	ស្តែង, ឃើញផ្ទាល់ភ្នែក	
+Perform	tv	ស្តែង, សំដែង	
 Status	n	ស្ថានភាព	
 Terminal	n	ស្ថានី, ស្ថានីចុង	
 Dumb Terminal	n	ស្ថានីយទទួល	
@@ -5002,4 +5003,4 @@ FDD Header		ប្រឡោះ 0០0| ៩%||889
 IDE		( ២0| ញ៣%0|859$ 8|0($)	
 IDE Header		ប្រឡោះ ០០|	
 S-ATA	@Serial ATA		ប្រឡោះ ក០| ៩%0|855	
-S-ATA	USB 2.0	ក្តារមេ |8|ឯ០ខ ផ្ទាំងប្រទាក់្រហ៊ីវិភណ !៩៩៩ 1394 ក្បាលតំណ !០៩ ក្បាលតំណ !	
+S-ATA	USB 2.0	ក្តារមេ |8|ឯ០ខ ផ្ទាំងប្រទាក្រ់ហ៊ីវិភណ !៩៩៩ 1394 ក្បាលតំណ !០៩ ក្បាលតំណ !	

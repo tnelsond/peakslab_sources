@@ -1,5 +1,6 @@
 #desc	Duden Band 10 - Das Große Wörterbuch der deutschen Sprache - from <a href="https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?dir=/GERMAN/Deu-Deu/Duden/Duden%20Band%2010%20-%20Das%20Gro%C3%9Fe%20W%C3%B6rterbuch%20der%20deutschen%20Sprache">freemdict</a>
 #priority	1
+#lang	mono
 1-Cent-Stück	<ul><li>  <p-l>Ein|cẹnt|stück, </p-l>0 das (mit Ziffer: <p-l>1-Cent-Stück</p-l>): <br>  vgl. <p-a>Einmarkstück</p-a>. </li></ul>
 1-Euro-Stück	<ul><li>  <font color="purple" size=+1>Ein|<c>eu</font>|ro|stück, </font>1 das (mit Ziffer: <p-l>1-Euro-Stück</p-l>): <br>  <p-l> </p-l>vgl. <p-a>Einmarkstück</p-a>. </li></ul>
 5-Franken-Stück	<ul><li>  <p-l>Fünf|frạn|ken|stück, </p-l> (mit Ziffer:) <p-l>5-Franken-Stück, </p-l>das: <br>  <i>schweizerische Münze im Wert von fünf Franken.</i> </li></ul>

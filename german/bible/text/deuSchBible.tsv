@@ -1,5 +1,6 @@
 #desc	Die Schlachter-Bibel 1951 from <a href="https://ebible.org/details.php?id=deu1951">eBible</a>
 #priority	1
+#lang	mono
 #no sort
 GEN 1.1	<p-n>@1. Mose  1:1</p-n>	Im Anfang schuf Gott den Himmel und die Erde.  
 GEN 1.2	<p-n>@1. Mose  1:2</p-n>	Und die Erde war wüst und leer, und es lag Finsternis auf der Tiefe, und der Geist Gottes schwebte über den Wassern.  

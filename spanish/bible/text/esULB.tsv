@@ -1,5 +1,6 @@
 #desc	Spanish Unlocked Literal Bible from <a href="https://bibleineverylanguage.org/">bibleineverylanguage</a>
 #priority	3
+#lang	mono
 #no sort
 GEN 1.1	<p-n>@Génesis 1:1</p-n>	En el principio Dios creó los cielos y la tierra. 
 GEN 1.2	<p-n>@Génesis 1:2</p-n>	La tierra estaba sin forma y vacía. La oscuridad estaba sobre la superficie del abismo. El Espíritu de Dios se movía sobre la superficie de las aguas.

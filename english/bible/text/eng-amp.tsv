@@ -1,5 +1,6 @@
 #desc	Amplified bible from <a href="https://beblia.com">beblia</a>
 #priority	4
+#lang	mono
 #no sort
 GEN 1.1	@<p-n>Genesis  1:1</p-n>	IN THE beginning God (prepared, formed, fashioned, and) created the heavens and the earth. [Heb. 11:3.]
 GEN 1.2	@<p-n>Genesis  1:2</p-n>	The earth was without form and an empty waste, and darkness was upon the face of the very great deep. The Spirit of God was moving (hovering, brooding) over the face of the waters.

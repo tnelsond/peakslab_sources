@@ -1,5 +1,6 @@
 #desc	New King James Version bible from <a href="https://beblia.com">beblia</a>
 #priority	-1	
+#lang	mono
 #no sort
 #English NKJ 1982" link="https://www.bible.com/bible/114/REV.22.NKJV" status="The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson"
 GEN 1.1	@<p-n>Genesis  1:1</p-n>	In the beginning God created the heavens and the earth.

@@ -1,5 +1,6 @@
 #desc	Kaikki Indonesian English Dictionary via <a href="https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?dir=/INDONESIAN/Ind-Eng">freemdict</a>
 #priority	1
+#lang	bi
 if	<p-n>suffix</p-n> bersifat melakukan atau menunjukkan mutu kegiatan:<br><div class="examples">Examples:<br><div class="example" style="padding: 10px 20px;"></div></div>
 -is	<p-n>noun</p-n> orang yang bergerak atau ahli dalam (insani):<br><div class="examples">Examples:<br><div class="example" style="padding: 10px 20px;"></div></div>
 -man	<p-n>suffix</p-n> <h4>Kata turunan</h4> <h4>Frasa dan kata majemuk</h4>

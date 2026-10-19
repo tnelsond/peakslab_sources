@@ -1,5 +1,6 @@
 #desc	Bíblia Portuguesa Mundial (World Portuguese Bible) from <a href="https://ebible.org">eBible</a>
 #priority	2
+#lang	mono
 #no sort
 GEN 1.1	@<p-n> Gênesis  1:1</p-n>	<p>No princípio, Deus criou os céus e a terra.  
 GEN 1.2	@<p-n> Gênesis  1:2</p-n>	<p>A terra era sem forma e vazia. As trevas estavam sobre a superfície do abismo e o Espírito de Deus pairava sobre a superfície das águas.   </p>

@@ -1,5 +1,6 @@
 #desc	Biblica® Open Nova Bíblia Viva 2007 from <a href="https://ebible.org">eBible</a>
 #priority	1
+#lang	mono
 #no sort
 GEN 1.1	@<p-n> Gênesis  1:1</p-n>	<p>No princípio Deus criou os céus e a terra.   </p>
 GEN 1.2	@<p-n> Gênesis  1:2</p-n>	<p>A terra era vazia e sem forma definida, e o Espírito de Deus se movia por sobre as águas.   </p>

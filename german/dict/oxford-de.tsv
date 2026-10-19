@@ -1,5 +1,6 @@
 #desc	Oxford German Dictionary from <a href="https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs">freemdict</a>	
 #priority	1
+#lang	bi
 Euvre	<p-n>@Euvres</p-n>	<div> <div><b>Œuvre</b></div> <p-ipa>/ˈøːvrə/</p-ipa> <div> das </div> </div> <div> <div> <div> <p-n>N.</p-n></div> <div>   (geh.) oeuvre  </div> </div> </div>
 'n	<div> <div><b>'n</b></div> </div> <div> <div> <div>  s. auch: <a href="bword://ein<sup>1</sup>">ein<sup>1</sup></a>, <p-a>einen</p-a> </div> </div> </div>
 'ne	<div> <div><b>'ne</b></div> <p-ipa>/nə/</p-ipa> </div> <div> <div> <div>  <i>[ugs.]</i> <div>s. auch: <p-a>eine</p-a></div> </div> </div> </div>

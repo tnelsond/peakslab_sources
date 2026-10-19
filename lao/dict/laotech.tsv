@@ -1,5 +1,6 @@
 #desc	Lao Technical Words
 #priority	2
+#lang	rbi
 abend 	ຫຍໍ້ມາຈາກ abnormal end, ການຢຸດເຮັດວຽກແບບຜິດປົກກະຕິ ຂອງຄອມພິວເຕີໂດຍທີ່ເຄື່ອງບໍ່ໄດ້ຮັບຄຳສັ່ງໃຫ້ຢຸດ.
 ability grouping 	ການແບ່ງກຸ່ມຕາມຄວາມສາມາດບາງຢ່າງເພື່ອຈຸດປະສົງໃດຫນຶ່ງ.
 ABIOS 	ຫຍໍ້ມາຈາກ Advanced Basic Input/Output System, ເປັນຊຸດຂອງໂປຣແກຣມໃຫ້ບໍລິການຂະໜາດນ້ອຍທີ່ຢູ່ໃນ chip ເຊັ່ນ: ROM, EPROM ຫລື EEPROM, ເຊິ່ງມີມາກັບເຄື່ອງ IBM PS/2.
