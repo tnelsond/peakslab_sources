@@ -1,5 +1,5 @@
 #desc	Google Khmer Lexicon via: <a href="https://huggingface.co/datasets/seanghay/google-khmer-lexicon">seanghay</a>. Rewritten in G2K's phonetics.
-#priority	2
+#priority	1
 #lang	phon
 a	e
 aamir	a.miᵊ
