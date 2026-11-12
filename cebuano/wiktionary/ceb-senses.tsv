@@ -1,0 +1,2294 @@
+#desc	Cebuano words by English sense, from English Wiktionary's translation tables (<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>), from <a href="https://kaikki.org/dictionary/English/">kaikki.org</a>: with another language's on, a dictionary between them
+#priority	-2
+#lang	ceb,aligned
+-est (superlative of adjectives and adverbs)	<p-n>suffix</p-n>	@kina- -an
+-less (lacking)	<p-n>suffix</p-n>	@walay
+-logy (branch of learning)	<p-n>suffix</p-n>	@-lohia
+1000th (abbreviation of thousandth)	<p-n>adj</p-n>	@ika-1000
+10th (abbreviation of tenth — see also tenth)	<p-n>adj</p-n>	@ika-10
+11th (abbreviation of eleventh — see also eleventh)	<p-n>adj</p-n>	@ika-11
+12th (abbreviation of twelfth — see also twelfth)	<p-n>adj</p-n>	@ika-12
+13th (abbreviation of thirteenth — see also thirteenth)	<p-n>adj</p-n>	@ika-13
+14th (abbreviation of fourteenth — see also fourteenth)	<p-n>adj</p-n>	@ika-14
+ASEAN (Association of Southeast Asian Nations)	<p-n>name</p-n>	@ASEAN
+Abkhaz (a Northwest Caucasian language spoken in Abkhazia)	<p-n>name</p-n>	@pinulongang Abhaso
+Accra (capital of Ghana)	<p-n>name</p-n>	@Acra
+Acts of the Apostles (fifth book of the New Testament)	<p-n>name</p-n>	@Mga Buhat	@Mga Buhat sa mga Apostoles
+Adam and Eve (the first man and woman (according to Genesis))	<p-n>name</p-n>	@Adan ug Eba
+Afghanistan (country)	<p-n>name</p-n>	@Afghanistan	@Apganistan
+Aklanon (An Austronesian (Visayan) language spoken in the Philippines)	<p-n>name</p-n>	@Akeanon
+Albania (country in south-eastern Europe)	<p-n>name</p-n>	@Albanya
+Alcantara (Philippine municipality)	<p-n>name</p-n>	@Alcantara
+Alcantara (surname)	<p-n>name</p-n>	@Alcantara
+Alvin (male given name meaning "elf friend")	<p-n>name</p-n>	@Alvin
+Americophilic (Translations)	<p-n>adj</p-n>	@amboy
+Amos (book of the Old Testament)	<p-n>name</p-n>	@Amos
+Amos (figure mentioned in the Old Testament)	<p-n>name</p-n>	@Amos
+Andrade (Translations)	<p-n>name</p-n>	@Andrade
+Andøya (largest island of the Vesterålen archipelago)	<p-n>name</p-n>	@Andøy
+Angeles (city in the Philippines)	<p-n>name</p-n>	@Angeles
+Antarctica (southernmost continent)	<p-n>name</p-n>	@Antartika
+Apocalypse (book of the Bible)	<p-n>name</p-n>	@Pinadayag
+Apocalypse (the written account of a revelation of hidden things given by God to a chosen prophet)	<p-n>name</p-n>	@Pinadayag
+Apostles' Creed (statement of Christian belief)	<p-n>name</p-n>	@Mituo Ako
+Arabian jasmine (Jasminum sambac, a shrubby, fragrant vine)	<p-n>noun</p-n>	@sampaguita	@manol
+Argentina (Argentine Republic)	<p-n>name</p-n>	@Argentina
+Arkansas (American state)	<p-n>name</p-n>	@Arkansas
+Armenia (ancient kingdom and country)	<p-n>name</p-n>	@Armenya
+Ash Wednesday (the Christian day of penitence 46 days before Easter)	<p-n>noun</p-n>	@Miyerkoles sa Badlis
+Asia (the continent of Asia)	<p-n>name</p-n>	@Asya
+Asiatic pennywort (Centella asiatica)	<p-n>noun</p-n>	@hahanghalo	@yabongyabong
+August (eighth month of the Gregorian calendar)	<p-n>name</p-n>	@Agosto
+Austria (country in Central Europe)	<p-n>name</p-n>	@Awstriya
+Bacolod (city in the Philippines)	<p-n>name</p-n>	@Bacolod
+Baguio (city in the Philippines)	<p-n>name</p-n>	@Baguio
+Bais (city in Negros Oriental, Philippines)	<p-n>name</p-n>	@Bais
+Balakliia (city in Balakliia, Izium, Kharkiv, Ukraine)	<p-n>name</p-n>	@Balakliya
+Barbie (doll)	<p-n>noun</p-n>	@Barbie
+Barcelona (capital of Catalonia)	<p-n>name</p-n>	@Barcelona
+Basse-Terre (capital city of Guadeloupe)	<p-n>name</p-n>	@Basse-Terre
+Bataan (province of the Philippines)	<p-n>name</p-n>	@Bataan
+Batangas (province of the Philippines)	<p-n>name</p-n>	@Batangas
+Belarusian (language)	<p-n>noun</p-n>	@pinulongang Byeloruso
+Belgium (country in Europe)	<p-n>name</p-n>	@Belhika
+Benguet (province of the Philippines)	<p-n>name</p-n>	@Benguet
+Bicol (language)	<p-n>name</p-n>	@Binikol
+Bicol Peninsula (Bicol Peninsula)	<p-n>name</p-n>	@Lawis sa Bikol
+Bikol (language)	<p-n>name</p-n>	@Binikol
+Bishkek (capital of Kyrgyzstan)	<p-n>name</p-n>	@Bishkek
+Bohol (province of the Philippines)	<p-n>name</p-n>	@Bohol
+Boikivske (former raion of Donetsk, Ukraine)	<p-n>name</p-n>	@Boykivsʹkiy Rayon
+Boikivske (rural settlement in Boikivske, Kalmiuske, Donetsk, Ukraine)	<p-n>name</p-n>	@Boykivsʹke
+Bulacan (province of the Philippines)	<p-n>name</p-n>	@Bulacan
+Bulakan (municipality in Bulacan, Philippines)	<p-n>name</p-n>	@Bulakan
+Caballero (Translations)	<p-n>name</p-n>	@Caballero
+Cagayan de Oro (city in the Philippines)	<p-n>name</p-n>	@Cagayan de Oro
+Calamba (city in the Philippines)	<p-n>name</p-n>	@Calamba
+Calapan (city in the Philippines)	<p-n>name</p-n>	@Calapan
+Camarines Norte (province of the Philippines)	<p-n>name</p-n>	@Camarines Norte
+Camarines Sur (province of the Philippines)	<p-n>name</p-n>	@Camarines Sur
+Canada (country in North America)	<p-n>name</p-n>	@Canada
+Capiz (province of the Philippines)	<p-n>name</p-n>	@Capiz
+Carlos (male given name)	<p-n>name</p-n>	@Carlos
+Catalonia (autonomous community in Spain)	<p-n>name</p-n>	@Katalunya
+Catholic Church (24 particular churches in full communion with the Pope as the Bishop of Rome)	<p-n>noun</p-n>	@Simbahang Katoliko
+Cavite (province of the Philippines)	<p-n>name</p-n>	@Cavite
+Cebu (city in the Philippines)	<p-n>name</p-n>	@Cebu	@Sugbo
+Cebu (island in central Philippines)	<p-n>name</p-n>	@Sugbo
+Cebuano (language)	<p-n>name</p-n>	@Sinugboanon
+Cebuano (pertaining to the language or its speakers)	<p-n>adj</p-n>	@Sugboanon
+Chemnitz (city in Saxony)	<p-n>name</p-n>	@Chemnitz
+Chihuahua (breed of dog)	<p-n>noun</p-n>	@tsiwawa
+Chornobaivka (village in Ukraine)	<p-n>name</p-n>	@Chornobayivka
+Christmas (festival or holiday commemorating the birth of Jesus Christ which in Western Christianity is celebrated on December 25 in most places)	<p-n>name</p-n>	@Pasko
+Christmas present (Translations)	<p-n>noun</p-n>	@pinaskohan
+Christmas season (Christmas season, yuletide, Christmastide)	<p-n>noun</p-n>	@Pasko
+Christmassy (resembling or having feelings of Christmas)	<p-n>adj</p-n>	@paskohanon
+Chronicles (book of the Bible)	<p-n>name</p-n>	@Mga Kronika
+Church of Jesus Christ of Latter-day Saints (major denomination of the Latter Day Saint movement)	<p-n>name</p-n>	@Ang Simbahan ni Jesukristo sa mga Santos sa Ulahing mga Adlaw
+Colossians (book of the Bible)	<p-n>name</p-n>	@Colosas
+Confucius (Chinese philosopher)	<p-n>name</p-n>	@Confucio
+Corinthians (book in the Bible)	<p-n>name</p-n>	@Corinto
+Cotabato (province of the Philippines)	<p-n>name</p-n>	@Cotabato
+Creator (God)	<p-n>name</p-n>	@Magburuhat
+Cyriac (Translations)	<p-n>name</p-n>	@Ciriaco
+DVD (digital video disc)	<p-n>noun</p-n>	@dibidi
+Dammam (city in Saudi Arabia)	<p-n>name</p-n>	@Dammam
+Daniel (biblical person)	<p-n>name</p-n>	@Daniel
+Daniel (book of the Bible)	<p-n>name</p-n>	@Daniel
+Daniel (male given name)	<p-n>name</p-n>	@Daniel
+Davao City (city in the Philippines)	<p-n>name</p-n>	@Dabaw
+Davao Region (region of the Philippines)	<p-n>name</p-n>	@Rehiyon sa Davao	@Dabaw
+Debaltseve (city in Debaltseve, Horlivka, Donetsk, Ukraine)	<p-n>name</p-n>	@Debal'tseve
+Demydivka (historical: former raion of Rivne, Ukraine)	<p-n>name</p-n>	@Demydivsʹkyy Rayon
+Denmark (country in Northern Europe)	<p-n>name</p-n>	@Denmark	@Dinamarka
+Deuteronomy (book of the Bible)	<p-n>name</p-n>	@Dyuteronomyo
+Dipolog (city in the Philippines)	<p-n>name</p-n>	@Dipolog
+Dovhe (a town in Ukraine)	<p-n>name</p-n>	@Dovhe
+Dulce (Translations)	<p-n>name</p-n>	@Dulce
+Dumaguete (city in the Philippines)	<p-n>name</p-n>	@Dumaguete
+Duterte (a Filipino surname)	<p-n>name</p-n>	@Duterte
+Dutertism (political ideology)	<p-n>noun</p-n>	@Dutertismo
+East Asia (eastern subregion of Asia)	<p-n>name</p-n>	@Sidlakang Asya
+Easter Island (Island in the Pacific)	<p-n>name</p-n>	@pulo sa Tśile
+Easter Sunday (Easter Sunday)	<p-n>name</p-n>	@Domingo sa Pagkabanhaw
+Eastern Samar (province of the Philippines)	<p-n>name</p-n>	@Eastern Samar	@Sidlakang Samar
+Ecclesiastes (book of the Bible)	<p-n>name</p-n>	@Kaalam
+English (of or pertaining to the English language)	<p-n>adj</p-n>	@Iningles
+English (the English language)	<p-n>name</p-n>	@Iningles
+Ephesians (book of the Bible)	<p-n>name</p-n>	@Efeso
+Equatorial Guinea (country in Western Africa)	<p-n>name</p-n>	@Gineang Ekwatoryal
+Esdras (any of four books)	<p-n>name</p-n>	@Esdras
+Esther (book of the Bible)	<p-n>name</p-n>	@Ester
+Esther (female given name)	<p-n>name</p-n>	@Ester
+Esther (the heroine of the Book of Esther)	<p-n>name</p-n>	@Ester
+Estonia (country in northeastern Europe)	<p-n>name</p-n>	@Estonia
+Exodus (book of Torah and Old Testament)	<p-n>name</p-n>	@Eksodo
+Exodus (departure of Hebrew slaves)	<p-n>name</p-n>	@Eksodo
+Ezekiel (book of the Bible)	<p-n>name</p-n>	@Ezequiel
+Ezekiel (male given name)	<p-n>name</p-n>	@Ezequiel
+Ezekiel (prophet)	<p-n>name</p-n>	@Ezequiel
+Ezra (Jewish high priest)	<p-n>name</p-n>	@Esdras
+Ezra (book of the Bible)	<p-n>name</p-n>	@Esdras
+Ezra (male given name)	<p-n>name</p-n>	@Esdras
+February (second month of the Roman, Julian, and Gregorian calendars)	<p-n>name</p-n>	@Pebrero
+Flying Spaghetti Monster (spaghetti deity)	<p-n>name</p-n>	@Nagalupad nga Spaghetti nga Mananap
+France (country)	<p-n>name</p-n>	@Pransiya
+Frank (diminutive)	<p-n>name</p-n>	@Prangkoy
+Fraser's dolphin (Lagenodelphis hosei)	<p-n>noun</p-n>	@mayahon
+French (principal language of France and other related countries)	<p-n>name</p-n>	@Prinanses
+Galatians (book of the Bible)	<p-n>name</p-n>	@Galacia
+Gallipoli (peninsula in Turkey)	<p-n>name</p-n>	@Gallipoli
+Gallipoli (town in Italy)	<p-n>name</p-n>	@Gallipoli
+Gary (male given name)	<p-n>name</p-n>	@Gary
+Gaza Strip (Gaza Strip)	<p-n>name</p-n>	@Gaza
+Gelendzhik (city)	<p-n>name</p-n>	@Gelendzhik
+Genesis (book of the Bible)	<p-n>name</p-n>	@Henesis
+Geneva (city)	<p-n>name</p-n>	@Genève
+German (the German language)	<p-n>name</p-n>	@inaleman
+God willing (God willing)	<p-n>intj</p-n>	@puhun
+Godin (Translations)	<p-n>name</p-n>	@Godin
+Golaghat (city)	<p-n>name</p-n>	@Golāghāt
+Gorni-Studen (village in Svishtov, Veliko Tarnovo, Moesia, Bulgaria)	<p-n>name</p-n>	@Gorna Studena
+Guihulngan (city in Negros Oriental, Philippines)	<p-n>name</p-n>	@Guihulngan
+Guiuan (municipality of the Philippines)	<p-n>name</p-n>	@Guiuan
+Gulf of Mexico (gulf between United States and Mexico)	<p-n>name</p-n>	@Gulpo sa Mehiko
+Guzman (surname)	<p-n>name</p-n>	@Guzman
+Habakkuk (book of the Bible)	<p-n>name</p-n>	@Habacuc
+Habakkuk (male given name)	<p-n>name</p-n>	@Habacuc
+Habakkuk (prophet)	<p-n>name</p-n>	@Habacuc
+Haggai (book of The Bible)	<p-n>name</p-n>	@Hageo
+Hebrews (book of the Bible)	<p-n>name</p-n>	@Hebreohanon
+Holy See (episcopal see of the Catholic Church)	<p-n>name</p-n>	@Balaang Sede
+Holy Week (week preceding Easter)	<p-n>name</p-n>	@Semana Santa
+Hong Kong (coastal administrative region in south-east China)	<p-n>name</p-n>	@Hong Kong
+Hosea (book of the Bible)	<p-n>name</p-n>	@Oseas
+Hosea (prophet)	<p-n>name</p-n>	@Oseas
+Hromokliia (river in Ukraine, right tributary of the Inhul)	<p-n>name</p-n>	@Gromokleya
+Hvidovre (town in Denmark)	<p-n>name</p-n>	@Hvidovre
+I (personal pronoun)	<p-n>pron</p-n>	@Ako
+I don't care (I don't care)	<p-n>phrase</p-n>	@wala koy labot
+I don't know (I don’t know)	<p-n>intj</p-n>	@wala ko kabalo	@wala ko kahibalo	@ambot	@balo lang
+I don't understand (I don't understand)	<p-n>phrase</p-n>	@wala ko kasabot
+I have no money (I have no money)	<p-n>phrase</p-n>	@wala koy kuwarta
+I love you (affirmation of affection or deep caring)	<p-n>phrase</p-n>	@nahigugma ko nimo	@gihigugma ti ka
+I love you (affirmation of romantic feeling)	<p-n>phrase</p-n>	@gihigugma ko ikaw
+I'm a Muslim (I'm a Muslim)	<p-n>phrase</p-n>	@ako muslim
+I'm hungry (I'm hungry)	<p-n>phrase</p-n>	@gigutom na ko
+I'm not interested (I'm not interested)	<p-n>phrase</p-n>	@dili ko interesado
+I'm thirsty (I need a drink)	<p-n>phrase</p-n>	@giuhaw ko
+I've been robbed (I've been robbed)	<p-n>phrase</p-n>	@gitulis ko
+Iceland (country in Europe)	<p-n>name</p-n>	@Iceland
+Ilocano (language)	<p-n>name</p-n>	@Inilokano
+Iloilo (city in the Philippines)	<p-n>name</p-n>	@Iloilo
+Iloilo (province of the Philippines)	<p-n>name</p-n>	@Iloilo
+Indian giver (an Indian giver)	<p-n>noun</p-n>	@hatag bawi
+Isaiah (book of the Bible)	<p-n>name</p-n>	@Isaias
+Isaiah (male given name)	<p-n>name</p-n>	@Isaias
+Isaiah (prophet)	<p-n>name</p-n>	@Isaias
+Ivankiv (former raion of Kyiv, Ukraine)	<p-n>name</p-n>	@Ivankiv Raion
+Ivankiv (rural settlement in Ivankiv, Vyshhorod, Kyiv, Ukraine)	<p-n>name</p-n>	@Ivankiv
+Jack (anglicized form of Jacques)	<p-n>name</p-n>	@Santiago
+Jade (female given name)	<p-n>name</p-n>	@Jade
+James (book of the Bible)	<p-n>name</p-n>	@Santiago
+James (male given name (the standard form))	<p-n>name</p-n>	@Santiago
+James (one of two Apostles)	<p-n>name</p-n>	@Santiago
+Jankoy (city and administrative centre of Jankoy Raion, Crimea, Ukraine)	<p-n>name</p-n>	@Dzhanhoi
+January (first month of the Gregorian calendar)	<p-n>name</p-n>	@Enero	@Ulalong
+Japan (a country in East Asia)	<p-n>name</p-n>	@Hapon
+Java (island of Indonesia)	<p-n>name</p-n>	@Java
+Jehovah's Witnesses (denomination)	<p-n>name</p-n>	@Mga Saksi ni Jehová
+Jeremiah (biblical prophet)	<p-n>name</p-n>	@Jeremias
+Jeremiah (book of the Bible)	<p-n>name</p-n>	@Jeremias
+Jeremiah (male given name)	<p-n>name</p-n>	@Jeremias
+Jesus (religious figure)	<p-n>name</p-n>	@Jesus
+Jesus, Mary and Joseph (expletive)	<p-n>intj</p-n>	@susmaryosep	@susmarisep	@hesusmaryosep
+Jimmy (diminutive of James)	<p-n>name</p-n>	@Jimmy
+Job (Biblical and Qur'anic character)	<p-n>name</p-n>	@Job
+Job (book of the Bible)	<p-n>name</p-n>	@Job
+Joel (book of the Bible)	<p-n>name</p-n>	@Joel
+Joel (male given name)	<p-n>name</p-n>	@Joel
+John (biblical persons)	<p-n>name</p-n>	@Juan
+John (fourth gospel)	<p-n>name</p-n>	@Juan
+John (male given name)	<p-n>name</p-n>	@Juan
+John (one of the epistles of John)	<p-n>name</p-n>	@Juan
+Jonah (Biblical: a book of the Old Testament)	<p-n>name</p-n>	@Jonas
+Jonah (given name)	<p-n>name</p-n>	@Jonas
+Jonah (prophet)	<p-n>name</p-n>	@Jonas
+Jonah (tenth sūra of the Qurʾān)	<p-n>name</p-n>	@Jonas
+Joshua (book of the Bible)	<p-n>name</p-n>	@Josue
+Joshua (male given name)	<p-n>name</p-n>	@Joshua
+Judas (book of the Bible)	<p-n>name</p-n>	@Judas
+Judas (one of the Apostles)	<p-n>name</p-n>	@Judas
+Judges (book of the Bible)	<p-n>name</p-n>	@Mga Maghuhukom
+Julian (male given name)	<p-n>name</p-n>	@Julian
+June (sixth month of the Gregorian calendar)	<p-n>name</p-n>	@Hunyo	@Kabay
+Kadiivka (city in Kadiivka, Alchevsk, Luhansk, Ukraine)	<p-n>name</p-n>	@Kadijewka
+Kapampangan (language)	<p-n>name</p-n>	@Kapampangan
+Karen (stereotypical woman)	<p-n>noun</p-n>	@Linda
+Kargil (town in Ladakh)	<p-n>name</p-n>	@Kargil
+Keramik (rural settlement in Ocheretyne, Pokrovsk, Donetsk, Ukraine)	<p-n>name</p-n>	@Keramik
+Khabarovsk Krai (krai)	<p-n>name</p-n>	@Khabarovskiy Kray
+Kings (book of the Bible)	<p-n>name</p-n>	@Mga Hari
+Klyazma (river in Russia, left tributary of the Oka)	<p-n>name</p-n>	@Klyaz’ma
+Kosovo (disputed region in the Balkans)	<p-n>name</p-n>	@Kosobo	@Kosovo
+Krasnaya Yaruga (urban-type settlement in Krasnaya Yaruga, Krasnaya Yaruga, Belgorod, Central Russia)	<p-n>name</p-n>	@Krasnaya Yaruga
+Kupiansk (city in Kupiansk, Kupiansk, Kharkiv, Ukraine)	<p-n>name</p-n>	@Kupjansk
+La Union (province of the Philippines)	<p-n>name</p-n>	@La Union
+Lalibela (town in Ethiopia)	<p-n>name</p-n>	@Lalībela
+Lamentations (book of the Bible)	<p-n>name</p-n>	@Mga Pagbangotan
+Latin Church (one of the particular churches)	<p-n>name</p-n>	@Simbahang Latin
+Lazio (administrative region of Italy)	<p-n>name</p-n>	@Lacio
+Le Vegre (village in Castello di Godego, Treviso, Veneto, Italy)	<p-n>name</p-n>	@Le Vegre
+Leviticus (the book of the Bible and Torah)	<p-n>name</p-n>	@Lebitiko
+Leyte (island in the Philippines)	<p-n>name</p-n>	@Leyte
+Leyte (province of the Philippines)	<p-n>name</p-n>	@Leyte
+Limerick (town)	<p-n>name</p-n>	@Luimneach
+Llanfihangel-ar-Arth (Translations)	<p-n>name</p-n>	@Llanfihangel-ar-Arth
+Lord (God)	<p-n>name</p-n>	@Ginoo
+Lord's Prayer (the prayer taught by Jesus Christ to his disciples)	<p-n>name</p-n>	@Amahan Namo
+Luke (evangelist)	<p-n>name</p-n>	@Lucas
+Luke (given name)	<p-n>name</p-n>	@Lucas
+Luke (gospel of Luke)	<p-n>name</p-n>	@Lucas
+Luzon (largest island of the Philippines)	<p-n>name</p-n>	@Luzon
+Lyon (city in Auvergne-Rhône-Alpes, France)	<p-n>name</p-n>	@Lyon
+Madrid (capital of Spain)	<p-n>name</p-n>	@Madrid
+Magi (wise men who visited and gave gifts to the baby Jesus)	<p-n>name</p-n>	@mago
+Maguindanao (former province of the Philippines)	<p-n>name</p-n>	@Maguindanao
+Maguindanao del Norte (province of the Philippines)	<p-n>name</p-n>	@Maguindanao del Norte
+Maguindanao del Sur (province of the Philippines)	<p-n>name</p-n>	@Maguindanao del Sur
+Malachi (book of the Bible)	<p-n>name</p-n>	@Malaquías
+Malachi (male given name)	<p-n>name</p-n>	@Malaquías
+Malachi (minor prophet)	<p-n>name</p-n>	@Malaquías
+Mandaue (city in the Philippines)	<p-n>name</p-n>	@Mandaue
+Manila (capital of the Philippines)	<p-n>name</p-n>	@Manila
+Marawi (city in the Philippines)	<p-n>name</p-n>	@Marawi
+Marinduque (island)	<p-n>name</p-n>	@Marinduque
+Marinduque (province of the Philippines)	<p-n>name</p-n>	@Marinduque
+Mark (book of the Bible)	<p-n>name</p-n>	@Marcos
+Mark (male given name)	<p-n>name</p-n>	@Marcos
+Mark (the Evangelist)	<p-n>name</p-n>	@Marcos
+Matthew (biblical disciple)	<p-n>name</p-n>	@Mateo
+Matthew (gospel of Matthew)	<p-n>name</p-n>	@Mateo
+Matthew (male given name)	<p-n>name</p-n>	@Mateo
+Mediterranean Sea (sea between Europe and Africa)	<p-n>name</p-n>	@Dagat Mediteranyo
+Mexico (country)	<p-n>name</p-n>	@Mehiko
+Micah (Biblical character: Ephraimite featured in Judges 17–18)	<p-n>name</p-n>	@Miqueas
+Micah (Biblical character: minor prophet and author)	<p-n>name</p-n>	@Miqueas
+Micah (book of the Bible)	<p-n>name</p-n>	@Miqueas
+Micah (male given name)	<p-n>name</p-n>	@Miqueas
+Moorish idol (Zanclus cornutus)	<p-n>noun</p-n>	@sangguwanding
+Moscow (capital city of Russia)	<p-n>name</p-n>	@Moscow
+Muhammad (the prophet who introduced Islam)	<p-n>name</p-n>	@Mahoma
+Nadela (Translations)	<p-n>name</p-n>	@Nadela
+Nahalin (Translations)	<p-n>name</p-n>	@Nahalin
+Nahum (book of the Bible)	<p-n>name</p-n>	@Nahum
+Naples (city in Italy)	<p-n>name</p-n>	@Napoles
+Navarre (autonomous community of Spain)	<p-n>name</p-n>	@Navarra
+Navarrete (Translations)	<p-n>name</p-n>	@Navarrete
+Negros (island)	<p-n>name</p-n>	@Negros
+Negros Oriental (province of the Philippines)	<p-n>name</p-n>	@Negros Oriental	@Sidlakang Negros
+Nehemiah (book of the Bible)	<p-n>name</p-n>	@Nehemias
+Nehemiah (male given name)	<p-n>name</p-n>	@Nehemias
+New Testament (second half of the Christian Bible)	<p-n>name</p-n>	@Bag-ong Tugon	@Bag-ong Saad
+New Year (January 1 in the Julian and Gregorian calendar and the days following)	<p-n>noun</p-n>	@Bag-ong Tuig
+New Year's Day (holiday occurring on the first day of the year)	<p-n>noun</p-n>	@Bag-ong Tuig
+New Zealand (country in Oceania)	<p-n>name</p-n>	@Nuzeland
+Newcastle disease (disease of poultry)	<p-n>noun</p-n>	@atay
+Novorossiysk (city)	<p-n>name</p-n>	@Novorossiysk
+Nueva Ecija (province of the Philippines)	<p-n>name</p-n>	@Nueva Ecija
+Nueva Vizcaya (province of the Philippines)	<p-n>name</p-n>	@Nueva Vizcaya
+Numbers (fourth book of the Bible)	<p-n>name</p-n>	@Mga Numero
+Obadiah (book of the Old Testament)	<p-n>name</p-n>	@Abdias
+Occidental Mindoro (province of the Philippines)	<p-n>name</p-n>	@Occidental Mindoro
+Ocon (Translations)	<p-n>name</p-n>	@Ocon
+Old Testament (first half of the Christian Bible)	<p-n>name</p-n>	@Daang Tugon	@Daang Saad
+Oriental Mindoro (province of the Philippines)	<p-n>name</p-n>	@Oriental Mindoro
+Osh (Kyrgyz city)	<p-n>name</p-n>	@Osh
+Ostheim (former name of Boikivske)	<p-n>name</p-n>	@Ostgeym
+Our Father (Lord's Prayer)	<p-n>name</p-n>	@Amahan Namo
+Pacific Ocean (the world's largest body of water)	<p-n>name</p-n>	@Kadagatang Pasipiko
+Pacquiao (Translations)	<p-n>name</p-n>	@Pacquiao
+Pagadian (city in the Philippines)	<p-n>name</p-n>	@Pagadian
+Paiwan (the language)	<p-n>name</p-n>	@Pinaiwan
+Pakistan (country in South Asia)	<p-n>name</p-n>	@Pakistan
+Pampanga (province of the Philippines)	<p-n>name</p-n>	@Pampanga
+Panay (island)	<p-n>name</p-n>	@Panay
+Pangasinan (province of the Philippines)	<p-n>name</p-n>	@Pangasinan
+Peter (male given name)	<p-n>name</p-n>	@Pedro
+Peter (one of the epistles of Peter)	<p-n>name</p-n>	@Pedro
+Peter (the Apostle)	<p-n>name</p-n>	@Pedro
+Philemon (book of the Bible)	<p-n>name</p-n>	@Filemon
+Philemon (male given name)	<p-n>name</p-n>	@Filemon
+Philippians (book of the Bible)	<p-n>name</p-n>	@Filipos
+Philippine cuckoo-dove (Macropygia tenuirostris)	<p-n>noun</p-n>	@tukwao	@tukwaw	@tukgaw
+Podhale (Poland's southernmost region)	<p-n>name</p-n>	@Podhale
+Polotsk (city in Belarus)	<p-n>name</p-n>	@Polack
+Portuguese man-of-war (Physalia physalis)	<p-n>noun</p-n>	@salabay
+Promised Land (place which one eagerly seeks)	<p-n>noun</p-n>	@yuta sa mga saad
+Proverbs (book of the Bible)	<p-n>name</p-n>	@Mga Panultihon
+Psalms (book of the Bible)	<p-n>name</p-n>	@Mga Salmo
+Puebla (city)	<p-n>name</p-n>	@Puebla
+Puerto Galera (municipality of the Philippines)	<p-n>name</p-n>	@Puerto Galera
+Quezon City (city in Metro Manila, Philippines)	<p-n>name</p-n>	@Dakbayang Quezon
+Reagan (surname)	<p-n>name</p-n>	@Reagan
+Republic of Korea (official name of South Korea)	<p-n>name</p-n>	@Republika sa Korea
+Revelation (book of Bible)	<p-n>name</p-n>	@Pinadayag	@Bugna
+Richard's pipit (Anthus richardi)	<p-n>noun</p-n>	@tagsing	@ananagsing
+Romans (30th sura of the Qur'an)	<p-n>name</p-n>	@Roma
+Romans (book of the Bible)	<p-n>name</p-n>	@Roma
+Rome wasn't built in a day (it takes a long time to create something complicated or impressive)	<p-n>proverb</p-n>	@dilî tanáng butang sili nga mohaláng dayon
+Rubio (Spanish surname)	<p-n>name</p-n>	@Rubio
+Rudolph (male given name)	<p-n>name</p-n>	@Rodolfo
+Russia (country in Eastern Europe and North Asia)	<p-n>name</p-n>	@Rusya
+Russian Empire (state)	<p-n>name</p-n>	@Imperyo sa Rusya
+Ruth (book of the Bible)	<p-n>name</p-n>	@Ruth
+Ruth (female given name)	<p-n>name</p-n>	@Ruth
+Rødovre (town in Denmark)	<p-n>name</p-n>	@Rødovre
+Salvador (Brazilian state capital of Bahia)	<p-n>name</p-n>	@Salvador
+Samar (island)	<p-n>name</p-n>	@Samar
+Samarkand (city in Uzbekistan)	<p-n>name</p-n>	@Samarqand
+Samuel (biblical person)	<p-n>name</p-n>	@Samuel
+Samuel (male given name)	<p-n>name</p-n>	@Samuel
+Samuel (one of two books of the Bible)	<p-n>name</p-n>	@Samuel
+Sanchez (Translations)	<p-n>name</p-n>	@Sanchez
+Sanskrit (language)	<p-n>noun</p-n>	@pinulongang Sanskrito
+Savior ((Christianity) Jesus Christ — see also savior, Messiah)	<p-n>name</p-n>	@Manunubos
+Segorbe (municipality in Castellón, Spain)	<p-n>name</p-n>	@Segorbe
+Seville (city in Andalusia, Spain)	<p-n>name</p-n>	@Sevilla
+Sheila (female given name)	<p-n>name</p-n>	@Sheila
+Simon (biblical characters)	<p-n>name</p-n>	@Simon
+Sino-Korean (being both Chinese and Korean)	<p-n>adj</p-n>	@Sino-Koreano
+Sion (capital of Valais, Switzerland)	<p-n>name</p-n>	@Sitten
+Song of Songs (book of the Bible)	<p-n>name</p-n>	@Awit sa mga Awit
+Sorsogon (province of the Philippines)	<p-n>name</p-n>	@Sorsogon
+South Cotabato (province of the Philippines)	<p-n>name</p-n>	@Abagatang Cotabato	@South Cotabato
+Southeast Asia (a subregion of Asia)	<p-n>name</p-n>	@Habagatang-sidlakang Asya
+Spanish (Romance language of Spain and the Americas)	<p-n>name</p-n>	@Espanyol	@Kinatsila
+Stephanie (female given name)	<p-n>name</p-n>	@Stephanie
+Suarez (Translations)	<p-n>name</p-n>	@Suarez
+Sunday (day of the week)	<p-n>noun</p-n>	@Dominggo
+Supreme Court (The Supreme Court of the Philippines)	<p-n>name</p-n>	@Kinatas-ang Hukmanan
+Sweden (Scandinavian country)	<p-n>name</p-n>	@Sweden
+Tacloban (city in the Philippines)	<p-n>name</p-n>	@Tacloban
+Tagalog (language)	<p-n>name</p-n>	@Tagalug	@Tagalog	@Tinagalog
+Tagalog (member of the Filipino ethnic group)	<p-n>noun</p-n>	@Tagalog	@Tagalug
+Tagalog (of or relating to the Tagalogs)	<p-n>adj</p-n>	@Tagalog	@Tagalug
+Taganrog (city in Russia)	<p-n>name</p-n>	@Taganrog
+Taiwan (East Asian country)	<p-n>name</p-n>	@Taiwan
+Tanzania (United Republic of Tanzania)	<p-n>name</p-n>	@Tanzania
+Tarlac (province of the Philippines)	<p-n>name</p-n>	@Tarlac
+Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu (a hill in New Zealand)	<p-n>name</p-n>	@Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu
+Tchaikovsky (surname)	<p-n>name</p-n>	@Tchaikovsky
+Tegucigalpa (capital of Honduras)	<p-n>name</p-n>	@Tegucigalpa
+Telmanove (former name of Boikivske Raion)	<p-n>name</p-n>	@Telʹmanivsʹkyy Rayon	@Telʹmanovskiy Rayon
+Telmanove (former name of Boikivske)	<p-n>name</p-n>	@Telʹmanove	@Telʹmanovo
+Ten Commandments (religious ten commandments)	<p-n>name</p-n>	@Napulo ka Sugo
+Terence (male given name)	<p-n>name</p-n>	@Terence
+Thessalonians (books of the Bible)	<p-n>name</p-n>	@Tesalonica
+Timothy (books in the New Testament)	<p-n>name</p-n>	@Timoteo
+Timothy (companion of Paul)	<p-n>name</p-n>	@Timoteo
+Timothy (male given name)	<p-n>name</p-n>	@Timoteo
+Titus (Roman Emperor)	<p-n>name</p-n>	@Tito
+Titus (biblical character)	<p-n>name</p-n>	@Tito
+Titus (book of the Bible)	<p-n>name</p-n>	@Tito
+Titus (male given name)	<p-n>name</p-n>	@Tito
+Toledo (city and province of Spain)	<p-n>name</p-n>	@Toledo
+Turkey (country at intersection of Europe and Asia)	<p-n>name</p-n>	@Turkiya
+United States of America (country in North America)	<p-n>name</p-n>	@Estados Unidos sa Amerika	@Tinipong Bansa sa Amerika
+Valencia (capital of the Valencian Community)	<p-n>name</p-n>	@Valencia
+Vegre (village in Cartigliano, Vicenza, Veneto, Italy)	<p-n>name</p-n>	@Vegre
+Veracruz (city in Mexico)	<p-n>name</p-n>	@Veracruz
+Verenchanka (village in Verenchanka, Verenchanka, Chernivtsi, Chernivtsi, Ukraine)	<p-n>name</p-n>	@Verenchanka
+Visayan (language)	<p-n>name</p-n>	@Binisaya
+Visayan (person or nation)	<p-n>noun</p-n>	@Bisaya
+Visayas (island group)	<p-n>name</p-n>	@Kabisay-an
+Wendy house (toy house for children to play in)	<p-n>noun</p-n>	@balay-balay
+Weser (river in Germany)	<p-n>name</p-n>	@Weser
+Wikipedia (online encyclopedia)	<p-n>name</p-n>	@Wikipedya
+William (male given name)	<p-n>name</p-n>	@William
+Wilson (surname, given name, place name)	<p-n>name</p-n>	@Wilson
+Wolfgang (male given name)	<p-n>name</p-n>	@Wolfgang
+World War I (war)	<p-n>name</p-n>	@Unang Gubat Kalibotanon
+World War II (war from 1939 to 1945)	<p-n>name</p-n>	@Ikaduhang Gubat Kalibotanon
+Yuri (Male given name originating from Russian)	<p-n>name</p-n>	@Yuri
+Zambales (province of the Philippines)	<p-n>name</p-n>	@Zambales
+Zamboanga (city in the Philippines)	<p-n>name</p-n>	@Zamboanga
+Zamboanga Chavacano (language)	<p-n>name</p-n>	@Pinulongang Tsabakano
+Zamboanga Sibugay (province of the Philippines)	<p-n>name</p-n>	@Zamboanga Sibugay
+Zamboanga del Norte (province of the Philippines)	<p-n>name</p-n>	@Zamboanga del Norte
+Zamboanga del Sur (province of the Philippines)	<p-n>name</p-n>	@Zamboanga del Sur
+Zaragoza (city in Spain)	<p-n>name</p-n>	@Zaragoza
+Zechariah (Hebrew prophet traditionally considered the author of the Book of Zechariah)	<p-n>name</p-n>	@Zacarías
+Zechariah (book of the Bible)	<p-n>name</p-n>	@Zacarías
+Zechariah (father of John the Baptist)	<p-n>name</p-n>	@Zacarías
+Zechariah (king of Israel)	<p-n>name</p-n>	@Zacarías
+Zephaniah (book of the Bible)	<p-n>name</p-n>	@Sofonías
+Zmiyovka (urban-type settlement in Zmiyovka, Sverdlovsky, Oryol, Central Russia)	<p-n>name</p-n>	@Zmiyëvka
+a lot (very much)	<p-n>adv</p-n>	@kaayu
+above (overhead, on top of)	<p-n>adv</p-n>	@ibabaw
+abscissa (first of two coordinates)	<p-n>noun</p-n>	@handaganós
+abstract noun (noun that denotes an abstract concept)	<p-n>noun</p-n>	@lunap
+acacia (shrub or tree)	<p-n>noun</p-n>	@akasya
+acceleration (change of velocity with respect to time)	<p-n>noun</p-n>	@pagpatulin
+accord (agreement or concurrence of opinion)	<p-n>noun</p-n>	@panaghiuyon
+according to (based on statement)	<p-n>prep</p-n>	@segun	@suma	@sumala	@matod
+ace of clubs (playing card)	<p-n>noun</p-n>	@alas kamunggay
+ace of hearts (playing card)	<p-n>noun</p-n>	@alas heart
+achoo (the sound of a sneeze)	<p-n>intj</p-n>	@hatsi
+addend (any of various terms added together)	<p-n>noun</p-n>	@tigdugang	@tigpuno
+addition (act of adding)	<p-n>noun</p-n>	@pagpuno
+addition (arithmetic: process of adding)	<p-n>noun</p-n>	@pagdugang	@pagpuno
+addition (thing added)	<p-n>noun</p-n>	@gipuno
+aerosol (fine solid particles or liquid droplets suspended in a gaseous medium)	<p-n>noun</p-n>	@ayrosol
+aerosol (physics: colloidal system with gas as dispersal medium)	<p-n>noun</p-n>	@ayrosol
+affluent (someone who is wealthy)	<p-n>noun</p-n>	@adunahan
+afternoon (part of the day between noon and evening)	<p-n>noun</p-n>	@hapon
+age-mate (one who is the same age as another)	<p-n>noun</p-n>	@kaedad
+agree (to be in harmony about an opinion; be in unison or concord; be united)	<p-n>verb</p-n>	@uyon
+aim (intention; purpose)	<p-n>noun</p-n>	@tuyo
+air (1. mixture of gases making up the atmosphere of the Earth)	<p-n>noun</p-n>	@hangin
+airplane (powered aircraft)	<p-n>noun</p-n>	@eroplano
+airport (place designated for airplanes)	<p-n>noun</p-n>	@tugpahanan
+akanbe (gesture)	<p-n>noun</p-n>	@pikat
+albatross (seabird)	<p-n>noun</p-n>	@albatros
+allegory (use of symbols which may be interpreted to reveal a hidden, broader message about real-world issues and occurrences; the interpretation of such symbols)	<p-n>noun</p-n>	@alegoriya
+alligator (large amphibious reptile of genus ''Alligator'')	<p-n>noun</p-n>	@alligator
+allow (to let one have)	<p-n>verb</p-n>	@tugot
+also (in addition; too; besides; as well; further; )	<p-n>adv</p-n>	@pod
+ambition (desire)	<p-n>noun</p-n>	@ambisyon	@tinguha
+ambush (to station in ambush with a view to surprise an enemy)	<p-n>verb</p-n>	@banhig
+anal sex (sex involving the anus)	<p-n>noun</p-n>	@lubot
+ancient (having lasted from a remote period)	<p-n>adj</p-n>	@karaan
+and (used to connect two similar words, phrases, et cetera)	<p-n>conj</p-n>	@ug
+and so forth (indicates that a list continues in a similar manner)	<p-n>phrase</p-n>	@ug uban pa
+anemia (medical condition with decreased oxygen transport)	<p-n>noun</p-n>	@kalungsi
+anesthesia (loss of bodily sensation)	<p-n>noun</p-n>	@pabanhod
+anger (strong feeling of displeasure, hostility or antagonism towards someone or something)	<p-n>noun</p-n>	@kasuko	@kapungot
+angry (displaying anger)	<p-n>adj</p-n>	@suko
+animal (organism)	<p-n>noun</p-n>	@hayop	@mananap
+anise (plant)	<p-n>noun</p-n>	@anis	@sangki
+ankle (joint between foot and leg)	<p-n>noun</p-n>	@buolbuol
+anniversary (day an exact number of years since an event)	<p-n>noun</p-n>	@anibersaryo
+annoying (causing irritation or annoyance)	<p-n>adj</p-n>	@samok
+annual (happening once a year)	<p-n>adj</p-n>	@tinuig
+annual (of, for, or relating to a whole year)	<p-n>adj</p-n>	@tinuig
+answer (response)	<p-n>noun</p-n>	@tubag
+answer back (to reply impertinently; to talk back)	<p-n>verb</p-n>	@tubagtubag
+ant (insect)	<p-n>noun</p-n>	@alamigas	@holmigas	@hulmigas
+anthill (home of ants and termites)	<p-n>noun</p-n>	@bungtod
+anticlimax (break in the final climax)	<p-n>noun</p-n>	@antiklimaks
+anvil (block used in blacksmithing)	<p-n>noun</p-n>	@yungki
+applause (act of applauding)	<p-n>noun</p-n>	@palakpak
+apple (fruit of Malus domestica)	<p-n>noun</p-n>	@mansanas
+apply (to submit oneself as a candidate)	<p-n>verb</p-n>	@aplay
+archbishop (senior bishop)	<p-n>noun</p-n>	@arsobispo
+are you OK (familiar)	<p-n>phrase</p-n>	@maayo ra ka	@okay ra ka
+argumentative (prone to argue or dispute)	<p-n>adj</p-n>	@palaaway	@pilosopo
+arm (upper appendage from shoulder to wrist)	<p-n>noun</p-n>	@butkon	@bukton
+arm wrestling (a sport)	<p-n>noun</p-n>	@bo	@gangi
+armpit (the cavity beneath the junction of the arm and shoulder)	<p-n>noun</p-n>	@ilok
+army (military force concerned mainly with ground operations)	<p-n>noun</p-n>	@kasundalohan
+arrive (to get to a certain place)	<p-n>verb</p-n>	@abot
+ash (solid remains of a fire)	<p-n>noun</p-n>	@abo
+ass (buttocks)	<p-n>noun</p-n>	@sampot	@dapi-dapi'
+assign (to allot or give something as a task)	<p-n>verb</p-n>	@asayn
+assign (to appoint or select someone for some office)	<p-n>verb</p-n>	@asayn
+assign (to designate or set apart something for some purpose)	<p-n>verb</p-n>	@asayn
+assistant (person who assists)	<p-n>noun</p-n>	@kabulig
+asterism (a star-shaped figure exhibited by some crystals)	<p-n>noun</p-n>	@asterismo
+asterism (constellation)	<p-n>noun</p-n>	@asterismo
+asterism (small group of stars)	<p-n>noun</p-n>	@asterismo
+asterism (typographical symbol)	<p-n>noun</p-n>	@asterismo
+asthma (chronic respiratory disease)	<p-n>noun</p-n>	@hubak
+asthmatic (one who suffers from asthma)	<p-n>noun</p-n>	@hubakon
+attraction (feeling of being attracted)	<p-n>noun</p-n>	@atraksyon
+attraction (something which attracts)	<p-n>noun</p-n>	@atraksyon
+attraction (tendency to attract)	<p-n>noun</p-n>	@atraksyon
+attractive (pleasing or appealing to the senses)	<p-n>adj</p-n>	@hitsuraan	@itsuraan
+attribute (characteristic or quality)	<p-n>noun</p-n>	@kinaiya
+augend (A quantity to which another is added)	<p-n>noun</p-n>	@duganganan	@pun-anan
+automobile (passenger vehicle)	<p-n>noun</p-n>	@awto
+awesome (causing awe or terror)	<p-n>adj</p-n>	@kuyaw
+axe (tool)	<p-n>noun</p-n>	@wasay
+bagasse (residue from processing sugar cane, etc., after the juice is extracted)	<p-n>noun</p-n>	@bagaso	@sapal
+bail (release from imprisonment on payment of such money)	<p-n>noun</p-n>	@piyansa
+bail (security)	<p-n>noun</p-n>	@piyansa
+bailer (a utensil)	<p-n>noun</p-n>	@limás
+bald (having little or no hair)	<p-n>adj</p-n>	@upaw	@upawon
+balloon plant (plant)	<p-n>noun</p-n>	@alalayon
+bamboo (plant)	<p-n>noun</p-n>	@kawayan
+banana (fruit)	<p-n>noun</p-n>	@saging
+bandage (medical binding made with strip of gauze or similar)	<p-n>noun</p-n>	@haklop
+bandurria (plectrum-plucked stringed instrument with a flat-backed pear-shaped body)	<p-n>noun</p-n>	@bandurya
+bark (to make a loud noise (dogs))	<p-n>verb</p-n>	@hulhol
+barley (Hordeum vulgare or its grains)	<p-n>noun</p-n>	@sebada
+barn (building)	<p-n>noun</p-n>	@kamalig
+basket (container)	<p-n>noun</p-n>	@bukag
+basketball (the sport)	<p-n>noun</p-n>	@basketbol
+basketball player (person who plays basketball)	<p-n>noun</p-n>	@basketbolista
+bastard (person born to unmarried parents)	<p-n>noun</p-n>	@anak sa gawas
+baste (sprinkle and drip)	<p-n>verb</p-n>	@humol
+bath (tub)	<p-n>noun</p-n>	@ligo
+bathe (to clean oneself with water)	<p-n>verb</p-n>	@ligo
+bay leaf (herb)	<p-n>noun</p-n>	@panakot
+be (intransitive, non-copulative (usually literary in English): to exist; to have real existence)	<p-n>verb</p-n>	@nangin
+beak (structure projecting from a bird's face)	<p-n>noun</p-n>	@sungo
+bear (large mammal of family Ursidae)	<p-n>noun</p-n>	@oso
+bear (to carry)	<p-n>verb</p-n>	@alsa	@ba	@baba	@bayong	@bitbit	@daka	@kaba	@kalib-ay	@kugos	@lukdo	@paak	@pas-an	@sagakay	@sip-it	@sung-ay	@yayong
+bear (to suffer, as in carrying a burden)	<p-n>verb</p-n>	@antos
+beard (facial hair)	<p-n>noun</p-n>	@bungot
+beast (non-human animal)	<p-n>noun</p-n>	@mananap
+beautiful (attractive)	<p-n>adj</p-n>	@matahom	@maanyag
+bedbug (small nocturnal insect pest of humans)	<p-n>noun</p-n>	@kuting	@dugho
+bee (insect)	<p-n>noun</p-n>	@putyokan
+beetle (insect)	<p-n>noun</p-n>	@bakukang
+begin (to start, to initiate (transitive))	<p-n>verb</p-n>	@sugod
+believe (to accept that someone is telling the truth (object: person))	<p-n>verb</p-n>	@tuo
+believe it or not (This may be surprising, but it's true)	<p-n>adv</p-n>	@motuo ka o dili
+bell (percussive instrument)	<p-n>noun</p-n>	@kampana	@linganay
+bellows (air blower)	<p-n>noun</p-n>	@tayhop
+belly (abdomen — see also abdomen)	<p-n>noun</p-n>	@tiyan
+below (in a lower place)	<p-n>adv</p-n>	@ubos
+benefit (advantage, help or aid)	<p-n>noun</p-n>	@kaayohan	@kapuslanan	@dapot	@gadgad	@benepisyo
+bet (a wager)	<p-n>noun</p-n>	@pusta
+bet (to stake or pledge upon the outcome of an event)	<p-n>verb</p-n>	@pusta
+big (of a great size — see also large)	<p-n>adj</p-n>	@dako
+bile (secretion produced by the liver)	<p-n>noun</p-n>	@apdo
+bilimbi (Averrhoa bilimbi)	<p-n>noun</p-n>	@iba
+bill (draft of a law)	<p-n>noun</p-n>	@balaoron	@balaodnon
+billion (a thousand million (1,000,000,000); a milliard)	<p-n>num</p-n>	@wakat	@bilyon
+bird (animal)	<p-n>noun</p-n>	@langgam
+birthday (anniversary)	<p-n>noun</p-n>	@adlawng natawhan
+bishop (church official, supervisor of priests and congregations)	<p-n>noun</p-n>	@obispo
+bitter (having an acrid taste)	<p-n>adj</p-n>	@pait
+bitter melon (fruit of Momordica charantia)	<p-n>noun</p-n>	@paliya
+bitterness (quality of being bitter in taste)	<p-n>noun</p-n>	@kapait
+black (absorbing all light)	<p-n>adj</p-n>	@itom
+black (colour/color)	<p-n>noun</p-n>	@itom
+black magic (magic derived from evil forces)	<p-n>noun</p-n>	@barang
+blasphemy (irreverence toward something sacred)	<p-n>noun</p-n>	@pasipala
+blind (unable to see)	<p-n>adj</p-n>	@buta
+blood (vital liquid flowing in human and animal bodies)	<p-n>noun</p-n>	@dugo
+blood cockle (Tegillarca granosa)	<p-n>noun</p-n>	@litob
+blood, sweat and tears (person's determination and hard work)	<p-n>noun</p-n>	@dugo ug singot
+bloodbath (indiscriminate killing or slaughter)	<p-n>noun</p-n>	@madugoong
+bloody (covered in blood)	<p-n>adj</p-n>	@dugoon
+blow (to produce an air current)	<p-n>verb</p-n>	@huyop
+blow one's nose (to expel mucus from nose)	<p-n>verb</p-n>	@sikma
+blowfish (any species of fish of the family Tetraodontidae that have the ability to inflate themselves to a globe)	<p-n>noun</p-n>	@butiti
+blue (blue-coloured — see also dark blue, light blue)	<p-n>adj</p-n>	@bughaw	@asul
+boast (1. intransitive: to brag; to talk loudly in praise of oneself)	<p-n>verb</p-n>	@hambug
+boil (accumulation of pus)	<p-n>noun</p-n>	@matag tiki
+bone (material)	<p-n>noun</p-n>	@bukog
+booger (a piece of solid or semi-solid mucus)	<p-n>noun</p-n>	@kugmo
+bore (to inspire boredom)	<p-n>verb</p-n>	@sumhan
+bow (weapon used for shooting arrows)	<p-n>noun</p-n>	@gapasan
+bow-legged (having bowed legs)	<p-n>adj</p-n>	@bakang
+bra (brassiere)	<p-n>noun</p-n>	@bra
+brain (organ)	<p-n>noun</p-n>	@utok
+branch (woody part of a tree arising from the trunk)	<p-n>noun</p-n>	@sanga
+brave (to encounter with courage)	<p-n>verb</p-n>	@sungasong
+brazen (impudent, immodest, or shameless)	<p-n>adj</p-n>	@bagag nawong
+bread (baked dough made from cereals)	<p-n>noun</p-n>	@tinapay
+breadfruit (tree)	<p-n>noun</p-n>	@kulo
+breastbone (the central narrow bone in the front of the chest)	<p-n>noun</p-n>	@pitso
+breathe (to draw air in and out)	<p-n>verb</p-n>	@ginhawa
+breeze (a light, gentle wind)	<p-n>noun</p-n>	@huyuhoy
+bribe (inducement to a breaking of the rules)	<p-n>noun</p-n>	@suborno	@suhol
+bride price (sum paid to the family of the bride)	<p-n>noun</p-n>	@bugay
+bridge (construction or natural feature that spans a divide)	<p-n>noun</p-n>	@tulay
+bring (to transport toward somebody/somewhere)	<p-n>verb</p-n>	@dalaon
+broadcaster (person whose job it is to effect such broadcasts)	<p-n>noun</p-n>	@brodkaster	@magsisibya
+broken (not whole; fragmented)	<p-n>adj</p-n>	@guba
+broom (domestic utensil)	<p-n>noun</p-n>	@silhig
+brother-in-law (brother of one's husband)	<p-n>noun</p-n>	@bayaw	@bayaw nga lalaki (sa bana)
+brother-in-law (brother of one's wife)	<p-n>noun</p-n>	@bayaw	@bayaw nga lalaki (sa asawa)
+brother-in-law (husband of one's sister)	<p-n>noun</p-n>	@bayaw	@bayaw nga lalaki (sa igsoong babaye)
+brother-in-law (husband of the sister of one's husband)	<p-n>noun</p-n>	@bilas	@bilas nga lalaki (sa igsoong babaye sa bana)
+brother-in-law (husband of the sister of one's wife)	<p-n>noun</p-n>	@bilas	@bilas nga lalaki (sa igsoong babaye sa asawa)
+brown shrike (Lanius cristatus)	<p-n>noun</p-n>	@tibas
+brown-marbled grouper (Epinephelus fuscoguttatus)	<p-n>noun</p-n>	@lapulapu
+bruise (medical: mark on the skin)	<p-n>noun</p-n>	@bun-og
+brusque (rudely abrupt — see also curt, unfriendly)	<p-n>adj</p-n>	@brusko	@suplado
+bud (newly formed leaf or flower that has not yet unfolded)	<p-n>noun</p-n>	@bayuos	@udlot
+bud (to form buds)	<p-n>verb</p-n>	@pamayuos	@pangudlot
+budget (allow for in a budget)	<p-n>verb</p-n>	@badyet
+budget (amount of money or resources earmarked for a particular institution, activity or time-frame)	<p-n>noun</p-n>	@badyet
+budget (construct or draw up a budget)	<p-n>verb</p-n>	@badyet
+budget (itemized summary of intended expenditure)	<p-n>noun</p-n>	@badyet
+budget (plan for the use of in a budget)	<p-n>verb</p-n>	@badyet
+bukkake (act of multiple people ejaculating on someone)	<p-n>noun</p-n>	@bukkake
+bumblebee (genus of bee)	<p-n>noun</p-n>	@buyog
+bush-cricket (insect of the superfamily Tettigonioidea)	<p-n>noun</p-n>	@mingming
+butterfly (insect)	<p-n>noun</p-n>	@alibangbang	@kabakaba
+buxom (having a full, voluptuous figure)	<p-n>adj</p-n>	@bigot	@mamords
+buy (to obtain something with money)	<p-n>verb</p-n>	@palit
+by (indicates a means)	<p-n>prep</p-n>	@pinaagi
+by (indicates the agent of a passive verb)	<p-n>prep</p-n>	@ni
+by chance (unexpected(ly); accidental(ly))	<p-n>prep_phrase</p-n>	@salagma
+cacao (Theobroma cacao tree)	<p-n>noun</p-n>	@kakaw
+cadaver (a dead body)	<p-n>noun</p-n>	@patay'ng lawas
+caesaropapism (combination of state (originally imperial) power with religious authority; state authority over ecclesiastical matters)	<p-n>noun</p-n>	@sesaropapismo
+cake (type of sweet dessert)	<p-n>noun</p-n>	@keyk
+calamondin (tree)	<p-n>noun</p-n>	@limonsito
+calf (young cow or bull)	<p-n>noun</p-n>	@nati
+call (to request, summon, or beckon)	<p-n>verb</p-n>	@tawag
+call an ambulance (request to call an ambulance)	<p-n>phrase</p-n>	@tawga og ambulansiya
+call the police (call the police)	<p-n>phrase</p-n>	@tawga ang polis
+callus (hardened part of the skin)	<p-n>noun</p-n>	@lupak	@kubal
+camphor tree (Cinnamomum camphora)	<p-n>noun</p-n>	@dalapot
+can I help you (offering of assistance)	<p-n>phrase</p-n>	@makatabang ba ka nimo?
+candle (a light source)	<p-n>noun</p-n>	@kandila
+cane (slender flexible stem of plants such as bamboo)	<p-n>noun</p-n>	@tubo
+canistel (fruit)	<p-n>noun</p-n>	@tisa
+canistel (tree)	<p-n>noun</p-n>	@tisa
+capital (money and wealth)	<p-n>noun</p-n>	@kapital
+car (automobile, a vehicle steered by a driver)	<p-n>noun</p-n>	@kotse
+carabao (Bubalus bubalis carabanesis)	<p-n>noun</p-n>	@kabaw
+cardboard box (container)	<p-n>noun</p-n>	@karton
+carp (any of various freshwater fish of the family Cyprinidae)	<p-n>noun</p-n>	@karpa
+carrot (Daucus carota ssp. sativus)	<p-n>noun</p-n>	@sanahorya
+cash (money in the form of notes/bills and coins)	<p-n>noun</p-n>	@salapi
+cashier (one who works at a till or receives payments)	<p-n>noun</p-n>	@kahero	@kahera
+cassava (plant (''Manihot esculenta''))	<p-n>noun</p-n>	@balanghoy
+cat (domestic species)	<p-n>noun</p-n>	@iring
+cataract (clouding of the lens in the eye)	<p-n>noun</p-n>	@katarak	@katarata
+catch (to intercept an object in the air etc.)	<p-n>verb</p-n>	@dakup
+caterpillar (larva of a butterfly or moth)	<p-n>noun</p-n>	@til-as
+cause (source or reason of an event or action)	<p-n>noun</p-n>	@kawsa
+cave (large, naturally occurring cavity formed underground)	<p-n>noun</p-n>	@langob	@kuweba
+celery (herb)	<p-n>noun</p-n>	@apyo
+centipede (a segmented arthropod of class Chilopoda)	<p-n>noun</p-n>	@ulahipan
+century (period of 100 years)	<p-n>noun</p-n>	@gatosan	@kagatosan	@siglo
+chain (series of interconnected rings or links)	<p-n>noun</p-n>	@kadena	@talikala
+chair (furniture)	<p-n>noun</p-n>	@siya	@lingkoranan
+chairman (head of a corporate or governmental board)	<p-n>noun</p-n>	@tagsiya	@tsirman
+chairman (person presiding over a meeting)	<p-n>noun</p-n>	@tagsiya	@tsirman
+cheap (low and/or reduced in price)	<p-n>adj</p-n>	@barato
+cheek (part of face)	<p-n>noun</p-n>	@aping
+cheese (dairy product)	<p-n>noun</p-n>	@keso
+chemistry (application of chemical theory and method to a particular substance)	<p-n>noun</p-n>	@kemistri
+chemistry (branch of natural science)	<p-n>noun</p-n>	@kemistri
+chemistry (mutual attraction between two people)	<p-n>noun</p-n>	@kemistri
+chest (thorax)	<p-n>noun</p-n>	@dughan
+chestnut munia (Lonchura atricapilla)	<p-n>noun</p-n>	@mayang bungol
+chewed (Translations)	<p-n>adj</p-n>	@inusap
+chicken (bird)	<p-n>noun</p-n>	@manok
+chicken pox (disease)	<p-n>noun</p-n>	@hangga
+child (son or daughter; someone's child)	<p-n>noun</p-n>	@bata
+child-in-law (spouse of one's child)	<p-n>noun</p-n>	@umagad
+childish (immature, unbecoming)	<p-n>adj</p-n>	@bataot
+chimney (vertical tube or hollow column; a flue)	<p-n>noun</p-n>	@simaniya
+chocolate (food made from ground roasted cocoa beans)	<p-n>noun</p-n>	@sikwate
+chocolate (small piece of confectionery made from chocolate)	<p-n>noun</p-n>	@tsokolate
+cholera (infectious disease)	<p-n>noun</p-n>	@kolera
+choose (to pick)	<p-n>verb</p-n>	@pili
+chop suey (Cantonese dish)	<p-n>noun</p-n>	@tsapsoy	@sapsoy
+church (house of worship)	<p-n>noun</p-n>	@simbahan	@iglesya
+churro (fried pastry)	<p-n>noun</p-n>	@tsuro
+cicada (any of several insects of the order Hemiptera)	<p-n>noun</p-n>	@gangis
+cigarette (thin roll of tobacco made for smoking)	<p-n>noun</p-n>	@sigarilyo
+cinnamon (Cinnamomum verum)	<p-n>noun</p-n>	@kanela
+circle (geometry: set of points that are equally distant from a center)	<p-n>noun</p-n>	@lingin
+circumcision (removal of foreskin from penis)	<p-n>noun</p-n>	@pagkatuli
+citizen (legal member of a state)	<p-n>noun</p-n>	@lungsoranon
+city (large settlement)	<p-n>noun</p-n>	@dakbayan	@siyudad
+cladogram (Translations)	<p-n>noun</p-n>	@kladogram
+claque (people hired to attend a performance and to either applaud or boo)	<p-n>noun</p-n>	@batos
+clavicle (collar bone)	<p-n>noun</p-n>	@balikhaw
+clear (bright, not obscured)	<p-n>adj</p-n>	@tin-aw
+clear (free of ambiguity or doubt)	<p-n>adj</p-n>	@tin-aw
+clear (transparent in colour)	<p-n>adj</p-n>	@tin-aw
+clear (without a thickening ingredient)	<p-n>adj</p-n>	@tin-aw
+clear (without clouds)	<p-n>adj</p-n>	@tin-aw
+cleaver (a squarish knife used for hacking)	<p-n>noun</p-n>	@puthaw
+cliff (a (near) vertical rock face)	<p-n>noun</p-n>	@pangpang
+climb (to ascend, to go up)	<p-n>verb</p-n>	@saka
+clitoris (elongated erectile organ)	<p-n>noun</p-n>	@tinggil	@intil
+close (obstruct (an opening))	<p-n>verb</p-n>	@sira
+clothes (apparel)	<p-n>noun</p-n>	@sinina
+cloud (visible mass of water droplets suspended in the air)	<p-n>noun</p-n>	@panganod
+clumsy (awkward, lacking coordination, not graceful, not dexterous)	<p-n>adj</p-n>	@gukam	@kumaw
+co-sibling-in-law (one's spouse's sibling's spouse)	<p-n>noun</p-n>	@bilas
+co-sister-in-law (one's husband's brother's wife)	<p-n>noun</p-n>	@bilas
+coal (uncountable: carbon rock)	<p-n>noun</p-n>	@uling	@karbon
+coast (edge of land meeting ocean, sea, gulf, bay)	<p-n>noun</p-n>	@baybayon
+coccyx ((anatomy) fused vertebrae at the base of the spine)	<p-n>noun</p-n>	@bangkawbangkaw
+cock-a-doodle-doo (imitating the cry of the rooster)	<p-n>intj</p-n>	@tuktugaok
+cockroach (type of insect)	<p-n>noun</p-n>	@ipos	@uk-ok
+coconut (fruit of coco palm)	<p-n>noun</p-n>	@lubi
+coconut crab (Birgus latro)	<p-n>noun</p-n>	@tatus
+coconut grater (implement for grating or scraping coconut meat)	<p-n>noun</p-n>	@kudkoran
+coconut heart (coconut heart)	<p-n>noun</p-n>	@ubod
+coconut shell (shell of a coconut)	<p-n>noun</p-n>	@bagol
+coffee (beverage)	<p-n>noun</p-n>	@kape
+coffin (box in which a dead person is buried)	<p-n>noun</p-n>	@lungon
+cogon (Imperata)	<p-n>noun</p-n>	@cogon
+cold (having a low temperature)	<p-n>adj</p-n>	@bugnaw
+cold (of a person's sensation)	<p-n>adj</p-n>	@kamig	@tugnaw
+cold (of the weather)	<p-n>adj</p-n>	@tugnaw	@bugnaw
+collector (person or thing that collects)	<p-n>noun</p-n>	@kolektor
+collector (person who is employed to collect payments)	<p-n>noun</p-n>	@kolektor
+colonialism (colonial life)	<p-n>noun</p-n>	@kolonyalismo
+colonialism (colonial linguistic expression)	<p-n>noun</p-n>	@kolonyalismo
+colonialism (policy of authority over people or territories)	<p-n>noun</p-n>	@kolonyalismo
+color (spectral composition of visible light)	<p-n>noun</p-n>	@kolor
+come back ((''intransitive'') To return to a place)	<p-n>verb</p-n>	@balik
+commit suicide (to kill oneself intentionally)	<p-n>verb</p-n>	@hikog
+common bear's breech (Acanthus mollis)	<p-n>noun</p-n>	@tigbaw
+common noun (noun that denotes any member or all members of a class)	<p-n>noun</p-n>	@pangsagaran
+compassion (deep awareness of the suffering of another)	<p-n>noun</p-n>	@kaluoy
+complexion (appearance of the skin on the face)	<p-n>noun</p-n>	@pamanit
+computer (programmable electronic device)	<p-n>noun</p-n>	@kompyuter	@dagitok	@dagitabyan
+comrade (fellow socialist or communist)	<p-n>noun</p-n>	@kauban
+comrade (title used in leftist circles)	<p-n>noun</p-n>	@kauban
+concrete noun (noun that denotes a tangible thing)	<p-n>noun</p-n>	@kabatyag
+condom (flexible sleeve worn on the penis)	<p-n>noun</p-n>	@kondom
+condominium (building in which each unit is owned by an individual, but the grounds is owned jointly)	<p-n>noun</p-n>	@kondominyum
+condominium (unit or apartment in such a complex)	<p-n>noun</p-n>	@kondominyum
+confectionery (sweet foodstuffs (collectively))	<p-n>noun</p-n>	@kendi
+configure (to set up or arrange something)	<p-n>verb</p-n>	@ipahiangay
+confirmed bachelor (a gay man)	<p-n>noun</p-n>	@wala nahilig
+confirmed bachelor (any man uninterested in committed relationships)	<p-n>noun</p-n>	@wala nahilig
+conflict (clash or disagreement)	<p-n>noun</p-n>	@away
+conflict (incompatibility)	<p-n>noun</p-n>	@dili magkauyon
+conflict (overlap with, as in a schedule)	<p-n>verb</p-n>	@nagsapaw
+confused (unable to think clearly or understand)	<p-n>adj</p-n>	@naglibog
+connive (to secretly cooperate with another person or persons in order to commit a crime or other wrongdoing)	<p-n>verb</p-n>	@konsabo
+constellation (arbitrary formation of stars perceived as a figure or pattern, or a division of the sky including it)	<p-n>noun</p-n>	@konstelasyon
+constipation (state of bowels)	<p-n>noun</p-n>	@tubol
+constitution (formal or informal system of primary principles and laws regulating a government or other institutions)	<p-n>noun</p-n>	@batakang balaod	@konstitusyon
+constitution (legal document describing such a formal system)	<p-n>noun</p-n>	@batakang balaod	@konstitusyon
+contractor (A person on a business contract, as opposed to a permanent employee)	<p-n>noun</p-n>	@kontraktor
+contractor (A person or company hired to maintain existing facilities)	<p-n>noun</p-n>	@kontraktor
+contractor (A person or company that constructs or improves buildings or structures)	<p-n>noun</p-n>	@kontraktor
+contractor (A person or company that performs specific tasks like electrical or plumbing work in construction projects)	<p-n>noun</p-n>	@kontraktor
+contusion (wound in which the skin is not broken)	<p-n>noun</p-n>	@kontusyon
+convenience store (a small retail store)	<p-n>noun</p-n>	@sari-sari store
+convention (agreement, contract or pact)	<p-n>noun</p-n>	@kombensyon
+convention (formal deliberative assembly)	<p-n>noun</p-n>	@kombensyon
+convention (generally accepted principle, method or behaviour)	<p-n>noun</p-n>	@kombensyon
+convention (meeting or a gathering)	<p-n>noun</p-n>	@kombensyon
+convention (treaty)	<p-n>noun</p-n>	@kombensyon
+cook (to prepare food for eating)	<p-n>verb</p-n>	@luto
+cooked rice (rice cooked by either steaming or boiling (idiomatic translations))	<p-n>noun</p-n>	@kan-on
+copulate (to engage in sexual intercourse)	<p-n>verb</p-n>	@iyot
+copy (produce something identical)	<p-n>verb</p-n>	@kopya
+copy (result of copying)	<p-n>noun</p-n>	@kopya
+coral tree (tree of the genus Erythrina)	<p-n>noun</p-n>	@dapdap
+coral vine (Antigonon leptopus)	<p-n>noun</p-n>	@cadena de amor
+cormorant (seabird of the family Phalacrocoracidae)	<p-n>noun</p-n>	@gamaw
+cornfield (a field of corn)	<p-n>noun</p-n>	@kamaisan	@maisan
+corpse (dead body)	<p-n>noun</p-n>	@haya	@minatay
+cosecant (reciprocal of the sine function)	<p-n>noun</p-n>	@kaduhabok
+cosine (trigonometric function)	<p-n>noun</p-n>	@kalidpa
+cotangent (trigonometric function)	<p-n>noun</p-n>	@kaliras
+cotton (fiber)	<p-n>noun</p-n>	@gapas	@algodon
+cough (sudden, often involuntary expulsion of air from the lungs through the glottis, and out through the mouth)	<p-n>noun</p-n>	@ubo
+cough (to push air from the lungs through the glottis (causing a short, explosive sound) and out through the mouth)	<p-n>verb</p-n>	@ubo
+count (to enumerate or determine number)	<p-n>verb</p-n>	@ihap
+count noun (noun used to refer to things that can be counted)	<p-n>noun</p-n>	@pangihap
+counterproductive (more of a hindrance than a help)	<p-n>adj</p-n>	@kontra-produktibo
+courage (quality of a confident character)	<p-n>noun</p-n>	@kaisog
+cousin (child of a person’s parent’s brother or sister)	<p-n>noun</p-n>	@ig-agaw
+cover (lid)	<p-n>noun</p-n>	@tabon
+cow (adult female of species Bos taurus)	<p-n>noun</p-n>	@baka
+coward (a person who lacks courage)	<p-n>noun</p-n>	@talawan
+cowardice (the lack of courage)	<p-n>noun</p-n>	@katalawan
+cowlick (unruly lock of hair)	<p-n>noun</p-n>	@alimpulo
+crab (crustacean)	<p-n>noun</p-n>	@kasag
+cramp (painful contraction of a muscle)	<p-n>noun</p-n>	@kalambre
+crawl (to move along the ground)	<p-n>verb</p-n>	@kamang
+crazy (insane, demented)	<p-n>adj</p-n>	@buang
+creation (act of creation)	<p-n>noun</p-n>	@buhat
+creature (living being)	<p-n>noun</p-n>	@mananap
+crocodile (reptile)	<p-n>noun</p-n>	@buaya
+crocodile tear (tear shed falsely)	<p-n>noun</p-n>	@luha sa bao
+crop up (to occur)	<p-n>verb</p-n>	@gitib
+crossword (word puzzle)	<p-n>noun</p-n>	@pulongbay
+crow (any bird of the genus Corvus)	<p-n>noun</p-n>	@uwak
+crown (royal headdress)	<p-n>noun</p-n>	@korona	@purongpurong
+crown cap (type of bottle cap)	<p-n>noun</p-n>	@tansan
+cry (shedding of tears)	<p-n>noun</p-n>	@hilak
+cry (shout or scream)	<p-n>noun</p-n>	@singgit	@siyagit
+cucumber (edible fruit)	<p-n>noun</p-n>	@pepino
+cupboard (enclosed storage)	<p-n>noun</p-n>	@aparador
+cupcake (small cake)	<p-n>noun</p-n>	@kapkeyk
+curly (having curls)	<p-n>adj</p-n>	@kulot
+current (part of a fluid that moves continuously in a certain direction — see also ocean current)	<p-n>noun</p-n>	@sulog
+custom (frequent repetition of the same act)	<p-n>noun</p-n>	@batasan
+cycle rickshaw (cycle rickshaw)	<p-n>noun</p-n>	@traysikad	@trisikad	@sikad
+daft (crazy, insane — see also crazy, insane, mad)	<p-n>adj</p-n>	@buang
+daggertooth pike conger (Muraenesox cinereus)	<p-n>noun</p-n>	@banusak	@egat
+dance (move rhythmically to music)	<p-n>verb</p-n>	@sayaw
+dance (movements to music)	<p-n>noun</p-n>	@sayaw
+dandruff (dead skin flakes)	<p-n>noun</p-n>	@kaspa
+dark (having an absolute or relative lack of light)	<p-n>adj</p-n>	@dulom
+dark-necked tailorbird (O. atrogularis)	<p-n>noun</p-n>	@batiwtiw
+darkness (state of being dark)	<p-n>noun</p-n>	@kangitngit
+daughter (female offspring)	<p-n>noun</p-n>	@anak
+dawdle (to spend time idly and unfruitfully)	<p-n>verb</p-n>	@nagpainday-inday
+dawn (morning twilight period)	<p-n>noun</p-n>	@kaadlawon
+day (period of 24 hours)	<p-n>noun</p-n>	@adlaw
+daydream (to have such a series of thoughts)	<p-n>verb</p-n>	@dagaw
+dead (no longer alive)	<p-n>adj</p-n>	@patay
+deaf (unable to hear)	<p-n>adj</p-n>	@bungol
+deaf person (deaf person - translation entry)	<p-n>noun</p-n>	@bungol
+death (cessation of life)	<p-n>noun</p-n>	@kamatayon
+debt (money that one person or entity owes or is required to pay to another)	<p-n>noun</p-n>	@utang
+decade (period of ten years)	<p-n>noun</p-n>	@napuloan	@dekada
+deceive (trick or mislead)	<p-n>verb</p-n>	@limbong
+deer (animal of the family Cervidae)	<p-n>noun</p-n>	@usa
+defecate (expel feces from one's bowels)	<p-n>verb</p-n>	@hugaw
+deft (skillful)	<p-n>adj</p-n>	@maabilidad
+deify (to make into a god)	<p-n>verb</p-n>	@diosnon
+delouse (to remove lice from)	<p-n>verb</p-n>	@hinguto
+democracy (government under the rule of its people)	<p-n>noun</p-n>	@demokrasya
+destroy (to damage beyond use or repair)	<p-n>verb</p-n>	@guba
+detailed (characterized by attention to detail and thoroughness of treatment)	<p-n>adj</p-n>	@detalyado
+detective (person employed to find information)	<p-n>noun</p-n>	@detektib
+detective (police officer who looks for evidence)	<p-n>noun</p-n>	@detektib
+dew (moisture in the air that settles on plants, etc)	<p-n>noun</p-n>	@yamog
+dialect (particular variety of a language)	<p-n>noun</p-n>	@pinulongan	@sinultihan
+diameter (line)	<p-n>noun</p-n>	@latastid
+dictionary (reference work of words and their meanings)	<p-n>noun</p-n>	@diksyonaryo
+die (to stop living)	<p-n>verb</p-n>	@matay
+difference (arithmetic: result of a subtraction)	<p-n>noun</p-n>	@iban
+difference (characteristic of something that makes it different from something else)	<p-n>noun</p-n>	@kalahian	@diperensiya
+difference (disagreement or argument about something important)	<p-n>noun</p-n>	@bikil	@kalahian
+difference (quality of being different)	<p-n>noun</p-n>	@kalahian
+difference (to distinguish or differentiate)	<p-n>verb</p-n>	@sahin
+difficult (hard, not easy)	<p-n>adj</p-n>	@lisud
+dinner (evening meal)	<p-n>noun</p-n>	@panihapon
+diphtheria (infectious disease of the upper respiratory tract)	<p-n>noun</p-n>	@dipterya
+diphthong (complex vowel sound)	<p-n>noun</p-n>	@diptonggo	@duhanog	@sikpat
+disappointed (defeated of hope or expectation)	<p-n>adj</p-n>	@nasagmuyo
+disappointment (emotion)	<p-n>noun</p-n>	@kahigawad
+disaster (unexpected catastrophe causing physical damage, etc.)	<p-n>noun</p-n>	@katalagman
+disease (an abnormal condition of the body causing discomfort or dysfunction)	<p-n>noun</p-n>	@sakit
+dish (vessel for holding/serving food)	<p-n>noun</p-n>	@plato
+dishevelled (uncombed)	<p-n>adj</p-n>	@pagpag	@palpag	@warong
+dishwasher (person)	<p-n>noun</p-n>	@tighugas og plato	@tagahugas ng plato	@tagapaghugas ng plato
+disobedience (refusal to obey)	<p-n>noun</p-n>	@paglapas
+disposable diaper (disposable diaper)	<p-n>noun</p-n>	@dayaper
+dividend (arithmetic: a number or expression)	<p-n>noun</p-n>	@bahinon
+divisor (arithmetic: a number or expression)	<p-n>noun</p-n>	@tigbahin
+do (perform, execute)	<p-n>verb</p-n>	@buhat	@buhaton
+do you need help (do you need help?)	<p-n>phrase</p-n>	@kinahanglan ba nimo ang tabang?
+dog (animal)	<p-n>noun</p-n>	@iro	@ayam
+doll (a toy in the form of a human)	<p-n>noun</p-n>	@monyeka
+dolphin (aquatic mammal)	<p-n>noun</p-n>	@lumod
+door (portal of entry into a building, room or vehicle)	<p-n>noun</p-n>	@pultahan
+doorway (passage of a door)	<p-n>noun</p-n>	@pulta
+doubt (disbelief or uncertainty (about something))	<p-n>noun</p-n>	@duda
+dove (bird of the family Columbidae, especially one smaller than a pigeon — see also pigeon)	<p-n>noun</p-n>	@pati
+dowry (property or payment given at time of marriage)	<p-n>noun</p-n>	@bugay
+dragonfly (insect of the infraorder Anisoptera)	<p-n>noun</p-n>	@alindanaw	@handanaw	@helikopter
+dream (imaginary events seen while sleeping)	<p-n>noun</p-n>	@damgo
+drift (act or motion of drifting)	<p-n>noun</p-n>	@anod
+drink (consume liquid through the mouth)	<p-n>verb</p-n>	@inom
+drink (served beverage)	<p-n>noun</p-n>	@imnunon
+driver (person who drives a motorized vehicle, such as a car or a bus)	<p-n>noun</p-n>	@drayber
+drizzle (light rain)	<p-n>noun</p-n>	@talisik
+drop (to let (something) fall; to allow (something) to fall (either by releasing hold of, or losing one's grip on))	<p-n>verb</p-n>	@hulog
+drunk (intoxicated after drinking too much alcohol)	<p-n>adj</p-n>	@hubog
+drunkenness (state of being drunk)	<p-n>noun</p-n>	@kahubog
+dry (lacking any kind of liquid or moisture)	<p-n>adj</p-n>	@uga	@maa
+dry (to become dry)	<p-n>verb</p-n>	@uga
+dry (to make dry)	<p-n>verb</p-n>	@uga
+dugong (Dugong dugon)	<p-n>noun</p-n>	@dugong
+dunk (basketball)	<p-n>verb</p-n>	@hansak
+durian (fruit)	<p-n>noun</p-n>	@durian
+dust (fine, dry particles)	<p-n>noun</p-n>	@abog
+dustpan (flat scoop for assembling dust)	<p-n>noun</p-n>	@daspan
+dysentery (disease characterised by inflammation of the intestines)	<p-n>noun</p-n>	@disenteriya
+eagle (any of several large carnivorous birds in the family Accipitridae)	<p-n>noun</p-n>	@agila
+ear (organ of hearing)	<p-n>noun</p-n>	@dunggan	@dalunggan	@talinga
+early (at a time in advance of the usual)	<p-n>adj</p-n>	@sayo
+earring (piece of jewelry)	<p-n>noun</p-n>	@ariyos
+earth (the ground, land)	<p-n>noun</p-n>	@yuta
+earthquake (shaking of the surface of a planet)	<p-n>noun</p-n>	@linog	@teremoto
+east (compass point)	<p-n>noun</p-n>	@sidlakan
+easy (requiring little skill or effort)	<p-n>adj</p-n>	@sayon
+eat (to ingest — see also consume, ingest)	<p-n>verb</p-n>	@kaun	@kaon
+eat away (to physically corrode or erode (something) gradually; (figurative) to destroy (something) gradually by an ongoing process)	<p-n>verb</p-n>	@kutkot
+eclipse (passage of a planetary object between others)	<p-n>noun</p-n>	@bakunawa
+economics (study of resource and wealth allocation, consumption, and distribution, of capital and investment, and of management of the factors of production; application of this study to a particular domain)	<p-n>noun</p-n>	@ekonomiks
+eczema (acute or chronic inflammation of the skin)	<p-n>noun</p-n>	@yabon
+eel (any fish of the order Anguilliformes)	<p-n>noun</p-n>	@kasili
+eeny, meeny, miny, moe (similar children's counting-out games in other languages)	<p-n>noun</p-n>	@butikaw, butikaw, ikaw
+egg (approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development)	<p-n>noun</p-n>	@itlog
+eggplant (edible fruit)	<p-n>noun</p-n>	@talong
+eggplant (plant)	<p-n>noun</p-n>	@talong
+eight (cardinal number 8)	<p-n>num</p-n>	@walo
+eighteen (cardinal number)	<p-n>num</p-n>	@napulog walo
+elastic band (loop of rubber or similar material)	<p-n>noun</p-n>	@lastiko
+elbow (joint between upper arm and forearm)	<p-n>noun</p-n>	@siko
+elderly (elderly person)	<p-n>noun</p-n>	@tigulang
+electricity (form of energy)	<p-n>noun</p-n>	@dagitab
+elegant tit (Pardaliparus elegans)	<p-n>noun</p-n>	@buririgon
+elephant foot yam (Amorphophallus paeoniifolius)	<p-n>noun</p-n>	@anto	@pungapong
+eleven (the cardinal number occurring after ten and before twelve)	<p-n>num</p-n>	@napulog usa
+eleventh (one of eleven equal parts of a whole)	<p-n>noun</p-n>	@sikanapulog usa	@sikanapog usa
+eleventh (ordinal form of eleven — see also 11th)	<p-n>adj</p-n>	@ikanapulog usa	@ikanapog usa
+eleventh (something in the eleventh position)	<p-n>noun</p-n>	@ikanapulog usa	@ikanapog usa
+embarrassed (Having a feeling of shameful discomfort)	<p-n>adj</p-n>	@ulaw
+embrace (to clasp (someone or each other) in the arms with affection — see also hug)	<p-n>verb</p-n>	@gakos
+endocarp (inner layer of the pericarp)	<p-n>noun</p-n>	@bagol
+endorse (support)	<p-n>verb</p-n>	@endorso
+endorse (write on the back of a cheque)	<p-n>verb</p-n>	@endorso
+enemy (someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else)	<p-n>noun</p-n>	@kaaway
+ensaimada (Mallorcan pastry)	<p-n>noun</p-n>	@ensaymada
+enter (to go into (a room, etc.))	<p-n>verb</p-n>	@sulod
+envious (feeling or exhibiting envy)	<p-n>adj</p-n>	@suyaon
+envy (to feel displeasure towards (someone) because of their good fortune, possessions)	<p-n>verb</p-n>	@sina	@suya
+epistaxis (nosebleed)	<p-n>noun</p-n>	@sunggo
+epistemology (branch of philosophy dealing with the study of knowledge)	<p-n>noun</p-n>	@epistemolohiya
+equinox (one of the two points in space where the apparent path of the Sun intersects with the equatorial plane of the Earth)	<p-n>noun</p-n>	@kilingan
+etc. (and so on — see also and so forth)	<p-n>phrase</p-n>	@ubp.	@ugbp.
+eternity (infinite time)	<p-n>noun</p-n>	@kahangtoran
+ethno- (race, ethnicity)	<p-n>prefix</p-n>	@etno-
+evening (time of day between dusk and night)	<p-n>noun</p-n>	@gabii
+evil (moral badness, wickedness)	<p-n>noun</p-n>	@demonyo
+expensive (having a high price or cost)	<p-n>adj</p-n>	@mahal
+eye (hole in needle)	<p-n>noun</p-n>	@mata (sa dagom)
+eye (mark on an animal resembling an eye)	<p-n>noun</p-n>	@matamata	@mata
+eye (of a hurricane)	<p-n>noun</p-n>	@mata (sa bagyo)
+eye (organ)	<p-n>noun</p-n>	@mata
+eyebrow (hair that grows over the bone ridge above the eye socket)	<p-n>noun</p-n>	@kilay
+eyelash (hair growing on the edge of an eyelid)	<p-n>noun</p-n>	@pilok
+face (anatomy: front part of head)	<p-n>noun</p-n>	@nawong
+factor (mathematical sense)	<p-n>noun</p-n>	@sab-oy
+factory (manufacturing place)	<p-n>noun</p-n>	@planta
+fainting (an act of collapsing to a state of temporary unconsciousness)	<p-n>noun</p-n>	@kuyap	@lipong
+falafel (Middle Eastern food)	<p-n>noun</p-n>	@palapel	@palápel
+fall (move to a lower position under the effect of gravity)	<p-n>verb</p-n>	@hulog
+false trevally (Lactarius lactarius)	<p-n>noun</p-n>	@awa-on	@pagapa
+fan (hand-held device)	<p-n>noun</p-n>	@abaniko
+far (remote in space)	<p-n>adj</p-n>	@layo
+fare dodger (a person who deliberately avoids payment for public transport)	<p-n>noun</p-n>	@mamukongay
+farmer (person who works the land and/or who keeps livestock)	<p-n>noun</p-n>	@mag-uuma
+fast (to abstain from food)	<p-n>verb</p-n>	@puasa
+fat (carrying a larger than normal amount of fat on one's body)	<p-n>adj</p-n>	@tambok
+fat (specialized animal tissue)	<p-n>noun</p-n>	@tambok
+father (male parent)	<p-n>noun</p-n>	@amahan
+fathom (measure of six feet — see also brace, toise)	<p-n>noun</p-n>	@dupa
+fear (uncountable: emotion caused by actual or perceived danger or threat)	<p-n>noun</p-n>	@hadlok
+feast day (religious festival)	<p-n>noun</p-n>	@pista
+feces (digested waste material discharged from the bowels)	<p-n>noun</p-n>	@tai
+feminine (belonging to females)	<p-n>adj</p-n>	@pangbabaye
+feminine (of the feminine grammatical gender distinction)	<p-n>adj</p-n>	@pangbabaye
+fence (barrier)	<p-n>noun</p-n>	@koral
+fern (plant)	<p-n>noun</p-n>	@pakó
+fever (higher than normal body temperature)	<p-n>noun</p-n>	@hilanat	@kalentura
+fiction (literary type)	<p-n>noun</p-n>	@handurawat
+fifteen (cardinal number)	<p-n>num</p-n>	@napulog lima
+fifth cousin (fifth cousin)	<p-n>noun</p-n>	@ig-agaw igtagilma
+fifty (cardinal number)	<p-n>num</p-n>	@kalim-an
+finger ((anatomy) extremity of the hand)	<p-n>noun</p-n>	@tudlo
+fire (oxidation reaction)	<p-n>noun</p-n>	@kalayo
+firefly (Lampyridae)	<p-n>noun</p-n>	@aninipot
+first (before anything else)	<p-n>adv</p-n>	@una	@permiro
+first (colloquial: a first-edition copy)	<p-n>noun</p-n>	@orihinal
+first (numeral first — see also 1st)	<p-n>adj</p-n>	@una
+first (person or thing in the first position)	<p-n>noun</p-n>	@una	@primero	@permiro
+fish (to catch fish or aquatic animals)	<p-n>verb</p-n>	@mamasol	@mamukot	@managat	@mangisda
+fish (vertebrate animal)	<p-n>noun</p-n>	@isda
+fish corral (type of fish trap)	<p-n>noun</p-n>	@bungsod
+fisherman (person catching fish)	<p-n>noun</p-n>	@mangingisda
+fistfight (a fight using bare fists)	<p-n>noun</p-n>	@sinumbagay	@suntokay
+five (cardinal number)	<p-n>num</p-n>	@lima
+five hundred (cardinal number 500)	<p-n>num</p-n>	@lima ka gatos
+flag (piece of cloth or often its representation)	<p-n>noun</p-n>	@bandera
+flatulence (state of having gas in digestive system)	<p-n>noun</p-n>	@butod
+float (to be supported by a liquid)	<p-n>verb</p-n>	@lutaw
+flood (overflow of water)	<p-n>noun</p-n>	@baha	@lunop
+floor (bottom part of a room)	<p-n>noun</p-n>	@salog
+flour (ground cereal grains or other foodstuff)	<p-n>noun</p-n>	@harina
+flower (reproductive structure in angiosperms)	<p-n>noun</p-n>	@bulak
+flowering (action)	<p-n>noun</p-n>	@pagpamulak	@pagpamuwak
+flowering (of a plant)	<p-n>adj</p-n>	@mamulak	@mamuwak
+flowering (period)	<p-n>noun</p-n>	@pagpamulak	@pagpamuwak
+fly (insect of the family Muscidae)	<p-n>noun</p-n>	@langaw
+fly (insect of the order Diptera)	<p-n>noun</p-n>	@langaw
+fly (to travel through air)	<p-n>verb</p-n>	@lupad
+flying fish (a tropical marine fish)	<p-n>noun</p-n>	@bangsi
+fog (cloud that forms at a low altitude and obscures vision)	<p-n>noun</p-n>	@gabon
+follow (to go or come after in physical space)	<p-n>verb</p-n>	@sunod
+fontanelle (soft spot on a baby's head)	<p-n>noun</p-n>	@hubon
+food (any substance consumed by living organisms to sustain life)	<p-n>noun</p-n>	@pagkaon
+foot (part of human body)	<p-n>noun</p-n>	@tiil
+force (to compel someone to do something)	<p-n>verb</p-n>	@lugos
+forefinger (first finger next to the thumb)	<p-n>noun</p-n>	@tudlo
+forehead (part of face above eyebrows)	<p-n>noun</p-n>	@agtang
+forest (dense collection of trees)	<p-n>noun</p-n>	@kalasangan	@lasang
+foreword (an introductory section)	<p-n>noun</p-n>	@pasiuna
+forget (to lose remembrance of)	<p-n>verb</p-n>	@limot
+forgetful (liable to forget)	<p-n>adj</p-n>	@bungaw
+forgiveness (the action of forgiving)	<p-n>noun</p-n>	@kapasayloan
+fortnight (period of two weeks)	<p-n>noun</p-n>	@kinsena
+four (the cardinal number 4)	<p-n>num</p-n>	@upat
+fourteen (cardinal number)	<p-n>num</p-n>	@napulog upat
+fragrant (sweet-smelling)	<p-n>adj</p-n>	@humot
+frangipani (any of several tropical American shrubs and trees of the genus Plumeria)	<p-n>noun</p-n>	@kalatsutsi
+freedom (state of not being imprisoned or enslaved)	<p-n>noun</p-n>	@kagawasan
+friend (person whose company one enjoys)	<p-n>noun</p-n>	@higala
+frog (amphibian)	<p-n>noun</p-n>	@baki
+fuck (to have sexual intercourse—obscene or vulgar)	<p-n>verb</p-n>	@iyot
+full moon (phase of moon when in opposition to sun)	<p-n>noun</p-n>	@daktol
+funeral (ceremony to honour a deceased person)	<p-n>noun</p-n>	@lubong
+future (the time ahead)	<p-n>noun</p-n>	@umalabot
+gall bladder (pear-shaped organ that stores bile)	<p-n>noun</p-n>	@apdo
+gamble (to play risky games for monetary gain)	<p-n>verb</p-n>	@sugal
+game (playful activity that may be unstructured, amusement, pastime)	<p-n>noun</p-n>	@dula
+gangly (tall and thin, especially so as to cause physical awkwardness)	<p-n>adj</p-n>	@lagwis
+gangplank (board used as a temporary footbridge between a ship and a dockside)	<p-n>noun</p-n>	@andamyo
+garbage can (waste receptacle)	<p-n>noun</p-n>	@basurahan
+garden (piece of land outside with flowers and plants)	<p-n>noun</p-n>	@hardin
+garlic (plant)	<p-n>noun</p-n>	@ahos
+gay man (a male homosexual)	<p-n>noun</p-n>	@bayot
+gender identity (person's sense of self as a member of a particular gender)	<p-n>noun</p-n>	@pagkailhanan sa kinatawhan
+generation (single step in the succession of natural descent)	<p-n>noun</p-n>	@kaliwatan	@kaliwat	@henerasyon
+generous (willing to give and share unsparingly)	<p-n>adj</p-n>	@hingatag	@mahatagon	@manggihatagon	@bukhad og palad
+geometry (branch of mathematics)	<p-n>noun</p-n>	@sukodbutáng
+gerund (verb form functioning as a verbal noun)	<p-n>noun</p-n>	@punglihongan
+get up (to rise from one's bed)	<p-n>verb</p-n>	@bangon
+giant clam (bivalve)	<p-n>noun</p-n>	@taklobo
+giant mud crab (S. serrata)	<p-n>noun</p-n>	@kagang
+gill (breathing organ of fish)	<p-n>noun</p-n>	@hasang
+ginger (plant)	<p-n>noun</p-n>	@luy-a
+ginger (spice)	<p-n>noun</p-n>	@luy-a
+glans penis (conical vascularized body forming the extremity of the penis)	<p-n>noun</p-n>	@ulok
+glass (drinking vessel — see also cup, chalice, goblet)	<p-n>noun</p-n>	@baso
+glass (substance)	<p-n>noun</p-n>	@bildo
+glossy (having a reflective surface)	<p-n>adj</p-n>	@sinawon
+glutton (one who eats voraciously)	<p-n>noun</p-n>	@hakog
+gluttony (the vice of eating to excess)	<p-n>noun</p-n>	@kahakog
+gnash (to grind one's teeth in pain or in anger)	<p-n>verb</p-n>	@kagot
+gnaw (to bite something persistently)	<p-n>verb</p-n>	@kitkit
+go by (to pass by without paying attention to)	<p-n>verb</p-n>	@labay
+goat (animal)	<p-n>noun</p-n>	@kanding
+gobble (to eat hastily or greedily)	<p-n>verb</p-n>	@habhab (Onomatopoeic)
+gold (element Au)	<p-n>symbol</p-n>	@bulawan	@buwawan
+golden (having a color or other richness suggestive of gold)	<p-n>adj</p-n>	@bulawanon
+golden (made of, or relating to, gold)	<p-n>adj</p-n>	@bulawanon
+golden (relating to a fiftieth anniversary)	<p-n>adj</p-n>	@bulawanon
+good (acting in the interest of good; ethical good intentions)	<p-n>adj</p-n>	@maayo	@maayohon
+good afternoon (greeting said in the afternoon)	<p-n>phrase</p-n>	@maayong hapon	@maayong udto
+good day (greeting between sunrise and sunset)	<p-n>intj</p-n>	@maayong adlaw
+good evening (greeting said in the evening)	<p-n>intj</p-n>	@maayong gabii
+good morning (when seeing someone for the first time in the morning)	<p-n>intj</p-n>	@maayong buntag
+goodbye (an utterance of goodbye)	<p-n>noun</p-n>	@panamilit
+goodbye (farewell — see also bye)	<p-n>intj</p-n>	@panamilit	@babay	@hangtod sa sunod
+goods (that which is produced, traded, bought or sold)	<p-n>noun</p-n>	@tinda
+gouge (to make a groove, hole, or mark in by scooping)	<p-n>verb</p-n>	@lugit
+government (body with the power to make and/or enforce laws)	<p-n>noun</p-n>	@kagamhanan
+grandchild (child of one’s child)	<p-n>noun</p-n>	@apo
+grass (ground cover plant)	<p-n>noun</p-n>	@sagbot	@balili
+grasshopper (an insect of the suborder Caelifera)	<p-n>noun</p-n>	@apan
+gravelly (full of, covered with, or similar to gravel or pebbles)	<p-n>adj</p-n>	@grabahon
+graveyard (tract of land in which the dead are buried)	<p-n>noun</p-n>	@sementeryo	@menteryo	@sam-ang	@lubnganan
+gray (of a color somewhere between white and black, like cinders)	<p-n>adj</p-n>	@abohon
+graze (to eat grass from a pasture)	<p-n>verb</p-n>	@sabsab	@sibsib
+graze (to feed or supply with grass)	<p-n>verb</p-n>	@sabsab	@sibsib
+great-grandson (son of a grandchild)	<p-n>noun</p-n>	@apo sa tuhod
+green (colour)	<p-n>noun</p-n>	@berde
+green (having green as its colour)	<p-n>adj</p-n>	@lunhaw	@berde
+grin (A smile revealing the teeth)	<p-n>noun</p-n>	@yuhom
+grow ((intransitive) to become bigger)	<p-n>verb</p-n>	@tubo
+guava (fruit)	<p-n>noun</p-n>	@bayabas
+guess (prediction about the outcome of something)	<p-n>noun</p-n>	@panaghap
+guest (recipient of hospitality)	<p-n>noun</p-n>	@bisita
+gum (flesh around teeth)	<p-n>noun</p-n>	@lagos
+gum arabic (substance from acacia trees)	<p-n>noun</p-n>	@tagok arabe
+hacky sack (game)	<p-n>noun</p-n>	@takyan
+hair (mass of such filaments on the human head)	<p-n>noun</p-n>	@buhok
+hair (pigmented filament of keratin on the skin of humans and other mammals)	<p-n>noun</p-n>	@bulbol
+half brother (male half-sibling)	<p-n>noun</p-n>	@hablos
+half sister (a female half sibling)	<p-n>noun</p-n>	@hablos
+ham (thigh of a hog cured for food)	<p-n>noun</p-n>	@hamon
+hammer (tool)	<p-n>noun</p-n>	@martilyo
+hand (part of the fore limb)	<p-n>noun</p-n>	@kamot
+hand (to give, pass or transmit with the hand)	<p-n>verb</p-n>	@hatag
+hand over (to relinquish control or possession)	<p-n>verb</p-n>	@dunol	@tunol	@duhol
+handle (part of an object held in the hand when used or moved — see also grip, handgrip)	<p-n>noun</p-n>	@kubtanan
+hang (to be or remain suspended)	<p-n>verb</p-n>	@bitay
+hanger-on (Someone who hangs on, or sticks)	<p-n>noun</p-n>	@kuyog baboy
+hapless (very unlucky; ill-fated)	<p-n>adj</p-n>	@makalolooy
+happiness (emotion of being happy)	<p-n>noun</p-n>	@kalipay
+happy New Year (Happy New Year)	<p-n>phrase</p-n>	@malipayong Bag-ong Tuig
+haram (forbidden by Islam)	<p-n>adj</p-n>	@haram
+hard (requiring a lot of effort to do or understand)	<p-n>adj</p-n>	@lisod
+hard (resistant to pressure)	<p-n>adj</p-n>	@gahi
+harelipped (having a harelip)	<p-n>adj</p-n>	@bungi
+harvest (to bring in a harvest; reap)	<p-n>verb</p-n>	@ani	@dugnas	@guno	@kayas	@lagpi	@panglin	@sanggi	@tuba
+harvest (to win, achieve a gain)	<p-n>verb</p-n>	@ani
+harvest (yield of harvesting)	<p-n>noun</p-n>	@abot	@ani	@dugnas	@guno	@kayas	@kutsitsa	@lagpi	@panglin	@sanggi	@tuba
+hasten (to make someone/something speed up)	<p-n>verb</p-n>	@dali
+hat (a head covering)	<p-n>noun</p-n>	@kalo
+hatch (1. to emerge from an egg)	<p-n>verb</p-n>	@pusa
+hatch (2. of an egg, to break open)	<p-n>verb</p-n>	@pusa
+hatch (3. to incubate eggs)	<p-n>verb</p-n>	@lumlom
+haunch (area encompassing the upper thigh, hip and buttocks)	<p-n>noun</p-n>	@balikawang
+haunted (frequented by a ghost)	<p-n>adj</p-n>	@abtanan	@hamokan	@taw-an
+hawk (predatory bird of Accipitridae)	<p-n>noun</p-n>	@banog
+hawklike (reminiscent of a hawk)	<p-n>adj</p-n>	@banogon
+he (personal pronoun "he")	<p-n>pron</p-n>	@siya
+head (part of the body)	<p-n>noun</p-n>	@ulo
+headache (pain or ache in the head)	<p-n>noun</p-n>	@sakit sa ulo
+health (state of being free of physical or psychological disease, illness, or malfunction)	<p-n>noun</p-n>	@panglawas
+heart (an organ)	<p-n>noun</p-n>	@kasingkasing
+heart attack (acute myocardial infarction)	<p-n>noun</p-n>	@atake sa kasingkasing
+heart of palm (a vegetable harvested from the inner core and growing bud of certain palm trees)	<p-n>noun</p-n>	@ubod
+heartwood (wood)	<p-n>noun</p-n>	@sahig sa kahoy
+heat (thermal energy)	<p-n>noun</p-n>	@init
+heaven (paradise and upper-world)	<p-n>noun</p-n>	@langit
+heaven (sky)	<p-n>noun</p-n>	@langit
+heavy (having great weight)	<p-n>adj</p-n>	@bug-at
+hedonism (devotion to the pursuit of pleasure)	<p-n>noun</p-n>	@hedonismo
+hedonism (philosophical belief that prioritizes pleasure as the highest value)	<p-n>noun</p-n>	@hedonismo
+heel (anatomy: part of the foot)	<p-n>noun</p-n>	@tikod
+heir (one who inherits, or is designated to inherit, the property of another)	<p-n>noun</p-n>	@manununod
+help (action given to provide assistance)	<p-n>noun</p-n>	@tabang
+help (transitive: provide assistance to (someone or something))	<p-n>verb</p-n>	@tabang
+hem (to make a sound like "hem")	<p-n>verb</p-n>	@igham
+hemorrhoid (perianal varicosity)	<p-n>noun</p-n>	@almoranas
+hen (female chicken)	<p-n>noun</p-n>	@himungaan
+hentai (work of sexual art)	<p-n>noun</p-n>	@hentai
+here (in, on, or at this place)	<p-n>adv</p-n>	@dinhi	@diri
+here (to this place)	<p-n>adv</p-n>	@tipakanhi
+hermit crab (crustacean)	<p-n>noun</p-n>	@umang
+hero (person of great bravery)	<p-n>verb</p-n>	@bagani
+hiccup (spasm of the diaphragm)	<p-n>noun</p-n>	@sid-ok
+hidden gem (something of value or beauty not immediately apparent)	<p-n>noun</p-n>	@tinagoang hiyas
+hill (elevated location)	<p-n>noun</p-n>	@bungtod
+historical (pertaining to history)	<p-n>adj</p-n>	@makasaysayon
+history (aggregate of past events)	<p-n>noun</p-n>	@kasaysayan
+hitman (contract killer)	<p-n>noun</p-n>	@hitman	@tirador
+holiday-maker (somebody on holiday)	<p-n>noun</p-n>	@bakasyonista
+homosexual (person who is attracted solely or primarily to others of the same sex)	<p-n>noun</p-n>	@bayot
+homosexual (sexually attracted solely or primarily to the same sex)	<p-n>adj</p-n>	@bayot	@bakla
+homosexuality (sexual orientation)	<p-n>noun</p-n>	@homosekswalidad
+honest (scrupulous with regard to telling the truth)	<p-n>adj</p-n>	@matinod-anon
+honey (sweet substance produced by bees)	<p-n>noun</p-n>	@dugos
+honor (favourable reputation; dignity; sense of self-worth)	<p-n>noun</p-n>	@bantog	@dungog
+honor (token of praise or respect)	<p-n>noun</p-n>	@dungog
+hoodlum (a rough or violent youth)	<p-n>noun</p-n>	@bugoy
+hoopoe (bird Upupa epops)	<p-n>noun</p-n>	@abubilya
+hop (jump a short distance)	<p-n>verb</p-n>	@lukso
+hope (belief that something wished for can happen)	<p-n>noun</p-n>	@paglaom
+hope (to want something to happen, with expectation that it might)	<p-n>verb</p-n>	@laom
+hopelessness (the lack of hope; despair)	<p-n>noun</p-n>	@pagkawalay-paglaom
+hopia (an Indonesian and Philippine bean-filled pastry)	<p-n>noun</p-n>	@hopya
+horizontal (parallel to the plane of the horizon)	<p-n>adj</p-n>	@pinahigda
+horn (growth on the heads of certain animals)	<p-n>noun</p-n>	@sungay
+horndog (man fixated on sex)	<p-n>noun</p-n>	@palautog
+horse (members of the species ''Equus ferus'')	<p-n>noun</p-n>	@kabayo
+hose (flexible tube)	<p-n>noun</p-n>	@hos
+hot (feverish — see also febrile, ardent)	<p-n>adj</p-n>	@init
+hot (having a high temperature)	<p-n>adj</p-n>	@init
+hot (of the weather)	<p-n>adj</p-n>	@init	@alingaang
+hot (slang: physically very attractive — see also sensual, tasty)	<p-n>adj</p-n>	@hat	@hot
+house (human abode)	<p-n>noun</p-n>	@balay
+house lizard (lizard)	<p-n>noun</p-n>	@tiki
+houseboy (young male domestic servant, especially in a British colony in former times)	<p-n>noun</p-n>	@houseboy	@atsoy	@boy	@muchacho	@mutsatso
+housefly (fly)	<p-n>noun</p-n>	@langaw
+hover (to remain stationary or float in the air)	<p-n>verb</p-n>	@langaw
+how are you (greeting)	<p-n>phrase</p-n>	@kumusta?	@kumusta na ka?
+huh (expressing doubt or confusion)	<p-n>intj</p-n>	@ha
+human (human being)	<p-n>noun</p-n>	@tawo
+humour (wit)	<p-n>noun</p-n>	@kataw'anan
+hundred thousand (100,000 — see also lakh)	<p-n>num</p-n>	@usa ka gatos libo	@gatos libo	@napulo ka laksa
+hunger (need for food)	<p-n>noun</p-n>	@gutom
+hunter (person who hunts game)	<p-n>noun</p-n>	@tigpangayam	@tigpusil
+hurricane (weather phenomenon)	<p-n>noun</p-n>	@bagyo
+husband (male partner in marriage)	<p-n>noun</p-n>	@bana
+hut (small wooden shed)	<p-n>noun</p-n>	@payag
+hyacinth bean (the plant or its produce of seed)	<p-n>noun</p-n>	@bataw
+hydrogen (lightest chemical element)	<p-n>noun</p-n>	@idroheno	@hidroheno
+hydrogen peroxide (H2O2)	<p-n>noun</p-n>	@agwa oksinada
+hyperbola (geometric curve)	<p-n>noun</p-n>	@duhalitok
+ice (water in frozen form)	<p-n>noun</p-n>	@yelo
+ice cream cone (conical confection for holding ice cream)	<p-n>noun</p-n>	@apa
+idea (an image of an object that is formed in the mind or recalled by the memory)	<p-n>noun</p-n>	@hunahuna
+if I'm not mistaken (Translations)	<p-n>phrase</p-n>	@kon wala ko masayop
+ignorance (condition of being uninformed or uneducated)	<p-n>noun</p-n>	@katagaw
+imagination (image-making power of the mind)	<p-n>noun</p-n>	@handurawan
+immature (childish)	<p-n>adj</p-n>	@bataot
+impatience (quality of being impatient)	<p-n>noun</p-n>	@kalaay
+in-law (relative by marriage)	<p-n>noun</p-n>	@umagad
+inconsistency (state of being inconsistent)	<p-n>noun</p-n>	@inkonsistensi
+independence (state or quality of being independent)	<p-n>noun</p-n>	@kagawasan	@kaugalingnan
+independence day (annual celebration)	<p-n>noun</p-n>	@adlaw sa kagawasan	@Adlaw sa Kaugalingnan	@Adlaw sa Kagawasan
+indolence (habitual laziness or sloth)	<p-n>noun</p-n>	@tapól
+influenza (an acute contagious disease of the upper airways and lungs)	<p-n>noun</p-n>	@trangkaso
+inhabitant (someone or thing who lives in a place)	<p-n>noun</p-n>	@lumulupyo
+inhuman (cruel and savage, not humane)	<p-n>adj</p-n>	@dili-makitawhanong
+injustice (absence of justice)	<p-n>noun</p-n>	@inhustisya
+injustice (violation of the rights of another)	<p-n>noun</p-n>	@inhustisya
+inquisitive (eager to acquire knowledge)	<p-n>adj</p-n>	@masukitsukiton	@mausisahon
+insane (exhibiting unsoundness or disorder of mind)	<p-n>adj</p-n>	@buang
+insanity (state of being insane)	<p-n>noun</p-n>	@kabuang
+inside (interior or inner part)	<p-n>noun</p-n>	@sulod
+integrated circuit (thin chip)	<p-n>noun</p-n>	@pisa	@IC
+integrity (quality or condition of being complete; pure)	<p-n>noun</p-n>	@lunsay
+integrity (steadfast adherence to a strict moral or ethical code)	<p-n>noun</p-n>	@integridad
+international (between, concerning, or transcending multiple nations)	<p-n>adj</p-n>	@internasyonal
+interpretation (sense given by an interpreter)	<p-n>noun</p-n>	@hubad
+intestine (alimentary canal)	<p-n>noun</p-n>	@tinai
+iron (chemical element Fe)	<p-n>noun</p-n>	@puthaw
+iron fist (ruthless control)	<p-n>noun</p-n>	@kamot nga puthaw
+is it going to rain (is it going to rain)	<p-n>phrase</p-n>	@mag-ulan ba
+island (area of land completely surrounded by water)	<p-n>noun</p-n>	@pulo
+isosceles (having two sides of equal length, used especially of an isosceles triangle or trapezoid)	<p-n>adj</p-n>	@duhalid
+jackfruit (the fruit)	<p-n>noun</p-n>	@nangkà
+jam (to force something into a space)	<p-n>verb</p-n>	@pansak
+jambul (tree)	<p-n>noun</p-n>	@lumboy
+jarbua terapon (Terapon jarbua)	<p-n>noun</p-n>	@bugaong
+jaw (bone holding the teeth)	<p-n>noun</p-n>	@apapangig	@alungaing (mandible)
+jicama (the edible root of the yam bean)	<p-n>noun</p-n>	@singkamas
+joint (part of the body where bones join)	<p-n>noun</p-n>	@luta	@lutahan
+journalism (activity or profession of being a journalist)	<p-n>noun</p-n>	@dyornalismo	@peryodismo
+journalist (one whose occupation or profession is journalism)	<p-n>noun</p-n>	@dyornalist	@dyornalista	@peryodista
+journalist (reporter)	<p-n>noun</p-n>	@dyornalist	@dyornalista	@peryodista
+journey (trip, a voyage)	<p-n>noun</p-n>	@panaw
+jovial (cheerful and good-humoured — see also jolly, merry)	<p-n>adj</p-n>	@alegre	@malipayon
+joy (feeling of happiness)	<p-n>noun</p-n>	@kalipay
+judgment (conclusion or result of judging)	<p-n>noun</p-n>	@hukom
+kaffir lime (fruit)	<p-n>noun</p-n>	@kabugaw
+kancho (game or prank involving thrusting one's hand into another's anal region)	<p-n>noun</p-n>	@suntoy
+kapok (silky fibre obtained from seed pods of the silk-cotton tree (Ceiba pentandra))	<p-n>noun</p-n>	@duldol	@durol	@kapok
+karaoke box (small room)	<p-n>noun</p-n>	@bidyokehan	@videokehan
+key (device designed to open and close a lock)	<p-n>noun</p-n>	@yawe
+kick (strike with or raise the foot or leg)	<p-n>verb</p-n>	@sipa
+kill (to put to death)	<p-n>verb</p-n>	@patay
+king (a male of a royal family who is the supreme ruler of his nation)	<p-n>noun</p-n>	@hari
+king cobra (Ophiophagus hannah)	<p-n>noun</p-n>	@banakon
+king of clubs (playing card)	<p-n>noun</p-n>	@king kamunggay
+king quail (S. chinensis)	<p-n>noun</p-n>	@pitpitaw
+kiss (a touch with the lips)	<p-n>noun</p-n>	@halok
+kiss (to touch with the lips)	<p-n>verb</p-n>	@halokan	@halok
+knee (joint in the middle of the leg and area around it)	<p-n>noun</p-n>	@tuhod
+knee-deep (reaching up to the knees)	<p-n>adj</p-n>	@tagatuhod
+kneecap (bone)	<p-n>noun</p-n>	@tuwáytuway
+kneel (to stoop down and rest on the knee)	<p-n>verb</p-n>	@luhod
+knock on wood (hopefully; used when undertaking such a customary action)	<p-n>intj</p-n>	@simbako
+knock-kneed (having knees abnormally close together)	<p-n>adj</p-n>	@kimpi
+knock-kneed (suffering from genu valgum)	<p-n>adj</p-n>	@kimpi	@kimpion
+know (be acquainted or familiar with)	<p-n>verb</p-n>	@katultol	@kaila
+know (be justifiably certain or sure about (something true))	<p-n>verb</p-n>	@kahibalo
+know (have knowledge of)	<p-n>verb</p-n>	@kahibalo	@kamao
+know (understand (a subject))	<p-n>verb</p-n>	@sabot
+known (whom other people know; renowned, famous)	<p-n>adj</p-n>	@giila
+kugel (traditional savoury or sweet Jewish dish)	<p-n>noun</p-n>	@kugl
+ladle (deep-bowled spoon with a long, usually curved, handle)	<p-n>noun</p-n>	@luwag
+lake (body of water)	<p-n>noun</p-n>	@danaw
+language (body of words used as a form of communication)	<p-n>noun</p-n>	@pinulongan
+lanky (tall, slim)	<p-n>adj</p-n>	@balaghoy	@gangkaw	@lagsaw	@mantiw	@tikling	@waklay	@yagkaw
+laser (device producing beam of light)	<p-n>noun</p-n>	@laser
+laser beam (light from a laser)	<p-n>noun</p-n>	@laser
+lass (girl — see also girl)	<p-n>noun</p-n>	@dalaga
+last night (during the night before today)	<p-n>adv</p-n>	@kagabii
+last night (previous evening or night)	<p-n>noun</p-n>	@kagabii
+laugh (show mirth by peculiar movement of the muscles of the face and emission of sounds)	<p-n>verb</p-n>	@katawa
+law (body of rules established in a community by its authorities)	<p-n>noun</p-n>	@balaod
+laziness (quality of being lazy)	<p-n>noun</p-n>	@tapol	@katapol
+lazy (unwilling to work)	<p-n>adj</p-n>	@tapolan
+leaf (part of a plant)	<p-n>noun</p-n>	@dahon
+lecherous (given to a lustful craving of sexual activities)	<p-n>adj</p-n>	@uwagan
+ledger (collection of accounting entries)	<p-n>noun</p-n>	@libro
+leech (annelid)	<p-n>noun</p-n>	@alimatok
+left (west side of the body when one is facing north)	<p-n>adj</p-n>	@wala
+leg (lower limb from groin to ankle)	<p-n>noun</p-n>	@bitiis
+legislation (law already enacted by legislature)	<p-n>noun</p-n>	@lehislasyon
+legislation (the act of legislating)	<p-n>noun</p-n>	@lehislasyon
+lemon basil (basil)	<p-n>noun</p-n>	@sangig
+leper (person who has leprosy)	<p-n>noun</p-n>	@lansarohon
+leprosy (infectious disease caused by M. leprae)	<p-n>noun</p-n>	@lansaro
+lesser yam (Dioscorea esculenta)	<p-n>noun</p-n>	@balyakag	@apali
+letter (written message — see also missive)	<p-n>noun</p-n>	@sulat
+liar (one who tells lies)	<p-n>noun</p-n>	@bakakon
+lick (to stroke with the tongue)	<p-n>verb</p-n>	@dila	@tila	@tilap
+lie (intentionally false statement)	<p-n>noun</p-n>	@bakak
+life (the state of being alive)	<p-n>noun</p-n>	@kinabuhi
+lift (to raise or rise)	<p-n>verb</p-n>	@aswat	@baswat	@hangwat
+light (electromagnetic waves)	<p-n>noun</p-n>	@kahayag
+light (of low weight)	<p-n>adj</p-n>	@gaan
+lightning (flash of light)	<p-n>noun</p-n>	@kilat
+like (to enjoy)	<p-n>verb</p-n>	@buot
+like it or not (Translations)	<p-n>adv</p-n>	@gusto mo o dili
+lima bean (butter bean)	<p-n>noun</p-n>	@patani
+lime (inorganic material containing calcium)	<p-n>noun</p-n>	@apog
+linguist (a person skilled in languages)	<p-n>noun</p-n>	@magdidila
+linguist (one who studies linguistics)	<p-n>noun</p-n>	@magdidila
+linguistics (scientific study of language)	<p-n>noun</p-n>	@linggwistiks
+lion (big cat Panthera leo)	<p-n>noun</p-n>	@leon
+lip (fleshy protrusion framing the mouth)	<p-n>noun</p-n>	@ngabil	@wait
+lip (part of body resembling a lip)	<p-n>noun</p-n>	@ngabilngabil	@waitwait
+lip (rim of an open container)	<p-n>noun</p-n>	@wait	@ngabil
+listen (to accept advice or obey instruction)	<p-n>verb</p-n>	@patalinghugi
+listen (to hear (something))	<p-n>verb</p-n>	@patalinghugi
+listen (to pay attention to a sound)	<p-n>verb</p-n>	@dungog (pagdungog)	@mamati (pagpamati)	@paminaw (pagpaminaw)
+listenership (audience that listens to an audio broadcast)	<p-n>noun</p-n>	@tigpaminaw
+live (having life)	<p-n>adj</p-n>	@buhi
+liver (organ as food)	<p-n>noun</p-n>	@higado
+liver (organ of the body)	<p-n>noun</p-n>	@atay
+loanword (word taken from another language)	<p-n>noun</p-n>	@pulong hinulaman
+lobster (crustacean)	<p-n>noun</p-n>	@banagan
+localization (act of localizing)	<p-n>noun</p-n>	@lokalisasyon
+localization (algebra: systematic method of adding multiplicative inverses to a ring)	<p-n>noun</p-n>	@lokalisasyon
+localization (software engineering: act or process of making a product suitable for use in a particular country or region)	<p-n>noun</p-n>	@lokalisasyon
+localization (state of being localized)	<p-n>noun</p-n>	@lokalisasyon
+long (having much distance from one point to another)	<p-n>adj</p-n>	@taas
+long-tailed shrike (Lanius schach)	<p-n>noun</p-n>	@berdugo	@amumunggot	@mamumunggot
+louse (an insect of the order Psocodea)	<p-n>noun</p-n>	@tuma
+love ((euphemistic): to have sex with — see also make love)	<p-n>verb</p-n>	@pakipaghilawas
+love (be strongly inclined towards doing — see also like, adore, into)	<p-n>verb</p-n>	@gusto
+love (care about; will good for)	<p-n>verb</p-n>	@pagtagad
+love (have a strong affection for)	<p-n>verb</p-n>	@higugma
+love (object of one's romantic feelings; darling or sweetheart)	<p-n>noun</p-n>	@hinigugma
+love (strong affection)	<p-n>noun</p-n>	@gugma
+lover (one who loves another person)	<p-n>noun</p-n>	@uyab
+low (in a position comparatively close to the ground)	<p-n>adj</p-n>	@ubos
+low tide (the tide at its lowest level)	<p-n>noun</p-n>	@hunas
+luck (something that happens to someone by chance)	<p-n>noun</p-n>	@suwerte
+lug (to haul something heavy)	<p-n>verb</p-n>	@baguod
+lumpia (a kind of spring roll)	<p-n>noun</p-n>	@lumpya
+lunch (meal around midday)	<p-n>noun</p-n>	@paniudto
+lung (organ that extracts oxygen from the air)	<p-n>noun</p-n>	@baga
+lust (strong desire, especially of a sexual nature)	<p-n>noun</p-n>	@uwag	@kauwag
+lymph node (filtrating oval bodies of the lymphatic system)	<p-n>noun</p-n>	@lusay
+macapuno (coconut sport)	<p-n>noun</p-n>	@makapuno
+mad dog (rabid dog)	<p-n>noun</p-n>	@iróng buang
+maelstrom (large and violent whirlpool)	<p-n>noun</p-n>	@lilo
+magazine (ammunition clip or chamber enabling multiple rounds to be held before firing)	<p-n>noun</p-n>	@magasin
+magazine (periodical)	<p-n>noun</p-n>	@rebista	@magasin
+magnesium (chemical element)	<p-n>noun</p-n>	@magnesium
+maguey (North American agave)	<p-n>noun</p-n>	@magay
+make (to create)	<p-n>verb</p-n>	@gama
+male (human of masculine sex or gender)	<p-n>noun</p-n>	@laki
+maltreat (treat badly)	<p-n>verb</p-n>	@dagmal	@tampalas	@maltrato
+man (adult male human)	<p-n>noun</p-n>	@lalaki
+mangal (tropical and subtropical coastal intertidal swampland ecosystem characterized by mangroves or similar shrubs and trees)	<p-n>noun</p-n>	@bakhawan
+mangrove (tree of the genus Rhizophora)	<p-n>noun</p-n>	@bakhaw
+manhood (euphemism of male genitalia)	<p-n>noun</p-n>	@pagkalalaki
+manhood (state of being a man)	<p-n>noun</p-n>	@pagkalalaki
+manicurist (manicurist)	<p-n>noun</p-n>	@manikurista	@manikyurista
+manny (male nanny)	<p-n>noun</p-n>	@yayo
+mark (put a mark upon)	<p-n>verb</p-n>	@timan-an
+market (spacious site for trading)	<p-n>noun</p-n>	@tiyanggi
+marlin (game fish with a pointed upper jaw)	<p-n>noun</p-n>	@malasugi
+married couple (two people who are married to each other)	<p-n>noun</p-n>	@magtiayon
+marvel of Peru (Mirabilis jalapa)	<p-n>noun</p-n>	@alas kwatro	@marabilya
+masculine ((grammar) the masculine gender)	<p-n>noun</p-n>	@panglalaki
+masculine (belonging to males; appropriated to, or used by, males)	<p-n>adj</p-n>	@panglalaki
+masculine (grammar: being of the masculine class, being inflected in the masculine manner)	<p-n>adj</p-n>	@panglalaki
+mass noun (noun describing something that cannot be counted)	<p-n>noun</p-n>	@paningob
+massage (to perform a massage on somebody)	<p-n>verb</p-n>	@hilot
+masturbate (to masturbate)	<p-n>verb</p-n>	@lulu	@jakol
+masturbation (manual erotic stimulation of the genitals)	<p-n>noun</p-n>	@paglusi
+mathematics (field of study)	<p-n>noun</p-n>	@matematika
+mattress (a pad on which a person can recline and sleep)	<p-n>noun</p-n>	@kutson
+mayonnaise (dressing)	<p-n>noun</p-n>	@mayones
+mayor (leader of a city)	<p-n>noun</p-n>	@alkalde	@mayor
+meat (animal flesh used as food)	<p-n>noun</p-n>	@unod	@karne
+meatball (ball of minced or ground meat)	<p-n>noun</p-n>	@bolabola
+mechanic (skilled worker on machinery)	<p-n>noun</p-n>	@mekaniko
+medium of instruction (language used in teaching)	<p-n>noun</p-n>	@pinulongan sa pagtudlo
+megamouth shark (Megachasma pelagios, a rare deepwater shark)	<p-n>noun</p-n>	@tangoytangoy
+memory (ability to recall)	<p-n>noun</p-n>	@memorya
+mention (a speaking or notice of anything, usually in a brief or cursory manner)	<p-n>noun</p-n>	@hisgot
+mercy (forgiveness or compassion)	<p-n>noun</p-n>	@kaluoy
+mercy (relenting; forbearance to cause or allow harm to another)	<p-n>noun</p-n>	@kaluoy
+merry Christmas (good wishes at Christmas time)	<p-n>phrase</p-n>	@malipayong Pasko
+middle (centre, midpoint)	<p-n>noun</p-n>	@tunga
+midnight (12 o'clock at night exactly — see also twelve o'clock)	<p-n>noun</p-n>	@tunganggabii
+midnight (middle of the night)	<p-n>noun</p-n>	@tunganggabii
+milk (liquid)	<p-n>noun</p-n>	@gatas	@letse
+milk (to draw from the breasts or udder)	<p-n>verb</p-n>	@gatasan
+milk (to express milk from mammal)	<p-n>verb</p-n>	@gatasan
+milk tongue (patching on a baby's tongue)	<p-n>noun</p-n>	@ugam
+million (cardinal number)	<p-n>num</p-n>	@yukot	@milyon
+minuend (number from which another is subtracted)	<p-n>noun</p-n>	@kuhaanan
+minute (record of meeting)	<p-n>noun</p-n>	@akta
+minute (short but unspecified period of time)	<p-n>noun</p-n>	@kadiyot
+minute (unit of angular measure — see also minute of angle)	<p-n>noun</p-n>	@gutlo
+minute (unit of time)	<p-n>noun</p-n>	@gutlo	@mitna	@minuto
+minx (flirtatious, impudent, or pert young woman)	<p-n>noun</p-n>	@igat	@takirub
+miracle (wonderful event attributed to supernatural powers)	<p-n>noun</p-n>	@tugahala	@milagro
+mirror (smooth reflecting surface)	<p-n>noun</p-n>	@samin
+mistreat (to treat someone or something roughly or badly)	<p-n>verb</p-n>	@dagmal	@tampalas
+molave (tree)	<p-n>noun</p-n>	@molave	@tugas
+money (means of exchange and measure of value)	<p-n>noun</p-n>	@kwarta
+monkey (primate)	<p-n>noun</p-n>	@amo
+monosodium glutamate (mono sodium salt of the amino acid, glutamic acid)	<p-n>noun</p-n>	@bitsin
+monotonous (tedious, repetitious or lacking in variety)	<p-n>adj</p-n>	@puol	@sumo	@sum-ol
+month (period into which a year is divided)	<p-n>noun</p-n>	@bulan
+monthly (occurring every month)	<p-n>adj</p-n>	@binulan	@binuwan
+moon (the natural satellite of planet Earth)	<p-n>noun</p-n>	@bulan
+moonfish (Mene maculata)	<p-n>noun</p-n>	@bilongbilong
+moonfish (any of various flat, oval marine fish species)	<p-n>noun</p-n>	@bilongbilong
+moralist (one driven by perceived morals)	<p-n>noun</p-n>	@moralista
+morning (part of the day between dawn and midday)	<p-n>noun</p-n>	@buntag
+morning (the part of the day after midnight and before midday — see also AM)	<p-n>noun</p-n>	@kadlawon
+morpheme (smallest linguistic unit)	<p-n>noun</p-n>	@morpheme
+morphology (a description of the form and structure of something)	<p-n>noun</p-n>	@morpolohiya
+morphology (a scientific study of form and structure)	<p-n>noun</p-n>	@morpolohiya
+morphology (biology: study of the form and structure)	<p-n>noun</p-n>	@morpolohiya
+morphology (geology: study of the form and structure)	<p-n>noun</p-n>	@morpolohiya
+morphology (linguistics: study of the form and structure)	<p-n>noun</p-n>	@morpolohiya
+morphology (the form and structure of something)	<p-n>noun</p-n>	@morpolohiya
+mortar (vessel used to grind ingredients)	<p-n>noun</p-n>	@lusong
+mosquito (small flying insect of the family Culicidae, known for biting and sucking blood)	<p-n>noun</p-n>	@lamok	@namok
+mosquito larva (Translations)	<p-n>noun</p-n>	@nguyonguyo
+mosquito net (fine net used to protect against mosquitos)	<p-n>noun</p-n>	@moskitero
+moth (insect similar to a butterfly)	<p-n>noun</p-n>	@anunugba
+mothball (small ball of chemical pesticide to deter moth larvae)	<p-n>noun</p-n>	@naptalina
+mother (female (human) who gives birth to or parents a child)	<p-n>noun</p-n>	@inahan
+motorcycle (open-seated motor vehicle with handlebars instead of a steering wheel)	<p-n>noun</p-n>	@motorsiklo
+motorcycle taxi (motorcycle which transports passengers in return for payment)	<p-n>noun</p-n>	@habalhabal	@skylab
+mountain (large mass of earth and rock)	<p-n>noun</p-n>	@bukid
+mouse (rodent of the genus Mus)	<p-n>noun</p-n>	@ilaga
+mouth (an outlet, aperture or orifice)	<p-n>noun</p-n>	@babababa	@baba
+mouth (the end of a river out of which water flows)	<p-n>noun</p-n>	@sabang	@babababa	@baba (sa suba, wahig)
+mouth (the opening of a creature through which food is ingested — see also lip, face)	<p-n>noun</p-n>	@baba
+mouthy (overly talkative, insolent, and loud)	<p-n>adj</p-n>	@babaon
+movie (motion picture)	<p-n>noun</p-n>	@pelikula
+mud (mixture of soil and water)	<p-n>noun</p-n>	@lapok
+multiplicand (number that is to be multiplied by another)	<p-n>noun</p-n>	@tigpilo
+multiplication (calculation)	<p-n>noun</p-n>	@pagpilo-pilo
+multiplication (process)	<p-n>noun</p-n>	@pagpilo-pilo
+multiplier (number)	<p-n>noun</p-n>	@pil-anon
+mumps (contagious disease)	<p-n>noun</p-n>	@bayuok
+mung bean (seed of Vigna radiata)	<p-n>noun</p-n>	@munggos
+muscle (contractile tissue)	<p-n>noun</p-n>	@kusog
+mushroom (fruiting body of a fungus — see also fungus, champignon, fairy-ring champignon)	<p-n>noun</p-n>	@uhong
+my (belonging to me)	<p-n>det</p-n>	@aku
+my eye (Expression of disapproval, disregard, disdain, disgust, or disbelief)	<p-n>intj</p-n>	@pikat
+mystery (something secret or unexplainable)	<p-n>noun</p-n>	@tugahala
+nail (on fingers and toes)	<p-n>noun</p-n>	@kuko
+nail (spike-shaped metal fastener used for joining wood or similar materials)	<p-n>noun</p-n>	@lansang
+name (to designate for a role — see also denominate)	<p-n>verb</p-n>	@nganlan	@panganlan
+name (to give a name to)	<p-n>verb</p-n>	@nganlan	@panganlan
+name (to publicly implicate — see also denominate)	<p-n>verb</p-n>	@nganlan	@panganlan
+name (word or phrase indicating a particular person, place, class or thing)	<p-n>noun</p-n>	@ngalan	@pangalan
+nape (back part of the neck)	<p-n>noun</p-n>	@tangkugo
+narrate (to relate a story)	<p-n>verb</p-n>	@saysay
+nation (community of people)	<p-n>noun</p-n>	@nasod
+nation (sovereign state)	<p-n>noun</p-n>	@nasod
+neap tide (tide which occurs when the moon is in its first or third quarter)	<p-n>noun</p-n>	@ayaay
+near (almost)	<p-n>adj</p-n>	@padulong
+near (physically close)	<p-n>adj</p-n>	@duol
+neck (part of body connecting the head and the trunk)	<p-n>noun</p-n>	@liog
+necklace (jewelry)	<p-n>noun</p-n>	@kuwintas
+necktie (strip of cloth worn around the neck and tied in the front)	<p-n>noun</p-n>	@korbata
+necromancy (divination involving the dead)	<p-n>noun</p-n>	@nekromansya
+need (something required)	<p-n>noun</p-n>	@kinahanglan
+needle (implement for sewing etc.)	<p-n>noun</p-n>	@dagom
+neighbour (a person living on adjacent or nearby land)	<p-n>noun</p-n>	@silingan
+nemesis (principle of retributive justice)	<p-n>noun</p-n>	@gaba
+nest (bird-built structure)	<p-n>noun</p-n>	@salag
+nestling (small, young bird that is still confined to the nest)	<p-n>noun</p-n>	@kuyabog	@pispis
+new (recently made or created)	<p-n>adj</p-n>	@bag-o
+news (new information of interest)	<p-n>noun</p-n>	@balita
+next to (beside; alongside)	<p-n>prep</p-n>	@tapad
+nibling (gender-neutral term for child of one's sibling or sibling-in-law)	<p-n>noun</p-n>	@pag-umangkon
+night (period between sunset and sunrise)	<p-n>noun</p-n>	@gabii
+nihilism (doctrine grounded on the negation of one or more meaningful aspects of life)	<p-n>noun</p-n>	@magtagad sa panghunahuna
+nine (cardinal number)	<p-n>num</p-n>	@siyam
+nineteen (cardinal number)	<p-n>num</p-n>	@napulog siyam
+ninja (spy and mercenary in pre-modern Japan)	<p-n>noun</p-n>	@ninja
+nipa (tree of the species Nypa fruticans)	<p-n>noun</p-n>	@nipa
+nipple (projection of mammary gland)	<p-n>noun</p-n>	@atngal
+no (a negating expression)	<p-n>noun</p-n>	@dili
+no (used to show disagreement or negation)	<p-n>particle</p-n>	@dili
+no problem (it does not pose a problem)	<p-n>intj</p-n>	@walay problema
+no smoking (phrase used in notices indicating that the smoking of cigarettes is not permitted)	<p-n>phrase</p-n>	@gidili pagpanigarilyo
+noon (midday)	<p-n>noun</p-n>	@udto
+north (compass point)	<p-n>noun</p-n>	@amihanan
+nose (protuberance on the face)	<p-n>noun</p-n>	@ilong
+nose (snout, nose of an animal)	<p-n>noun</p-n>	@sungad	@ilong (sa mananap)
+nosy (prying, inquisitive or curious in other’s affairs; tending to snoop or meddle)	<p-n>adj</p-n>	@ukiton	@maukit-ukiton
+not (negates meaning of another word)	<p-n>adv</p-n>	@dili
+nothing (not any thing)	<p-n>pron</p-n>	@walay bisan unsa
+noun (grammatical category (narrow sense))	<p-n>noun</p-n>	@pungan
+now (at the present time)	<p-n>adv</p-n>	@karon
+nude (without clothing or other covering)	<p-n>adj</p-n>	@hubo
+numb (physically unable to feel)	<p-n>adj</p-n>	@banhod
+number (abstract entity used to describe quantity)	<p-n>noun</p-n>	@numero	@gidaghanon
+numbness (absent or reduced sensitivity to cutaneous stimulation)	<p-n>noun</p-n>	@banhod
+nunchaku (weapon consisting of two sticks joined by a chain or cord)	<p-n>noun</p-n>	@tsako
+oak (tree or shrub of the genus Quercus)	<p-n>noun</p-n>	@ulayan
+oath (solemn pledge)	<p-n>noun</p-n>	@sumpa
+obnoxious (extremely offensive or unpleasant; very annoying, contemptible, or odious)	<p-n>adj</p-n>	@hilas
+observation (act of observing or being observed)	<p-n>noun</p-n>	@paniid
+octogenarian (Of or related to people between 80 and 89 years of age)	<p-n>adj</p-n>	@oktohenariyo
+octopus (mollusc)	<p-n>noun</p-n>	@kugita
+of (introducing an epithet)	<p-n>prep</p-n>	@sa
+of (possessive genitive: belonging to)	<p-n>prep</p-n>	@sa
+older brother (single-word translations)	<p-n>noun</p-n>	@manoy
+olive-backed sunbird (Cinnyris jugularis)	<p-n>noun</p-n>	@siwit	@tamsi
+once (one and only one time)	<p-n>adv</p-n>	@makausa	@kausa
+once upon a time (traditional beginning of children’s stories, especially fairy tales)	<p-n>adv</p-n>	@kaniadtong panahona
+one (cardinal number 1)	<p-n>num</p-n>	@usa	@uno
+onion (Allium cepa)	<p-n>noun</p-n>	@sibuyas
+opium (drug from opium poppy)	<p-n>noun</p-n>	@ampiyon	@upyo	@upyum
+opposition (politics: party or movement opposed to government)	<p-n>noun</p-n>	@oposisyon
+or (conjunction)	<p-n>conj</p-n>	@o
+orderly (methodical; systematic)	<p-n>adj</p-n>	@hapsay
+orderly (neat; tidy; possessing order)	<p-n>adj</p-n>	@hapsay
+orphan (person whose (parent or) parents have died)	<p-n>noun</p-n>	@ilo
+orthography (aspect of language study concerned with letters and their sequences in words)	<p-n>noun</p-n>	@ortograpiya
+orthography (correct spelling according to established usage)	<p-n>noun</p-n>	@ortograpiya
+orthography (method of representing a language or the sounds of language by written symbols — see also spelling)	<p-n>noun</p-n>	@ortograpiya
+out (away from the inside or the centre)	<p-n>adv</p-n>	@gawas
+outrace (to travel faster than another in a competitive event)	<p-n>verb</p-n>	@lumbaan
+overgrown (having large numbers of plants which have become too big)	<p-n>adj</p-n>	@malibon
+owl (bird)	<p-n>noun</p-n>	@ngiwngiw	@mingok	@bukaw
+paddle (two-handed, single-bladed oar)	<p-n>noun</p-n>	@bugsay
+paddy (rice unmilled)	<p-n>noun</p-n>	@pasi	@tipasi
+paddy (wet land where rice grows)	<p-n>noun</p-n>	@humayan	@kahumayan	@pilapil
+pagoda flower (Translations)	<p-n>noun</p-n>	@dagtong
+palace (large, lavish residence)	<p-n>noun</p-n>	@palasyo
+pale (light in color)	<p-n>adj</p-n>	@luspad
+palm (inner, concave part of hand)	<p-n>noun</p-n>	@palad
+pandemonium (an outburst; loud, riotous uproar)	<p-n>noun</p-n>	@kasibaw
+pandemonium (chaos; tumultuous protest or disorder)	<p-n>noun</p-n>	@kasibaw
+panegyrist (eulogist)	<p-n>noun</p-n>	@tigdalayeg
+panties (underpants for women or girls)	<p-n>noun</p-n>	@panti
+paper tiger (paper tiger)	<p-n>noun</p-n>	@tigre nga papel
+parabola (a conic section)	<p-n>noun</p-n>	@halitok
+parent-in-law (mother-in-law or father-in-law)	<p-n>noun</p-n>	@ugangan
+paresthesia (sensation of burning, prickling, itching, or tingling of the skin with no obvious cause)	<p-n>noun</p-n>	@binhod
+parol (an ornamental star-like Christmas lantern)	<p-n>noun</p-n>	@parol
+parrot (kind of bird)	<p-n>noun</p-n>	@periko
+participant (one who participates)	<p-n>noun</p-n>	@sumasalmot	@umaayap	@partisipante
+passport (official document for foreign travel)	<p-n>noun</p-n>	@pasaporte
+past (period of time that has already happened)	<p-n>noun</p-n>	@kagahapon
+pasta (dough)	<p-n>noun</p-n>	@pasta
+patient (someone who receives treatment from a doctor)	<p-n>noun</p-n>	@pasyente
+pay (to give money in exchange for goods or services)	<p-n>verb</p-n>	@bayad
+peace (tranquility, quiet, harmony)	<p-n>noun</p-n>	@kalinaw
+peanut (a legume resembling a nut)	<p-n>noun</p-n>	@mani
+pear (fruit)	<p-n>noun</p-n>	@peras
+peasant (member of the agriculture low class)	<p-n>noun</p-n>	@mag-uuma
+pedicab (vehicle)	<p-n>noun</p-n>	@trisikad	@potpot
+peduncle (botany: axis or supporting stalk of inflorescence)	<p-n>noun</p-n>	@pawod
+pelt (to bombard (someone or something) with missiles)	<p-n>verb</p-n>	@rakrak
+penalty (punishment for violating rules of procedure)	<p-n>noun</p-n>	@silot
+penis (male organ for copulation and urination)	<p-n>noun</p-n>	@utin
+periodic table (tabular chart of the chemical elements)	<p-n>noun</p-n>	@talaang peryodiko
+person (individual)	<p-n>noun</p-n>	@tawo
+personal (of or pertaining to a particular person)	<p-n>adj</p-n>	@personal
+pervert (sexually perverted person)	<p-n>noun</p-n>	@manyak
+pestle (instrument used with a mortar to grind things)	<p-n>noun</p-n>	@alho
+phlegm (mucus secreted in the bronchial passages)	<p-n>noun</p-n>	@plema	@kughal
+phoneme (indivisible unit of sound)	<p-n>noun</p-n>	@ponema
+phonology (study of the way sounds function in languages)	<p-n>noun</p-n>	@ponolohiya
+phonology (way sounds function within a given language)	<p-n>noun</p-n>	@ponolohiya
+photograph (picture)	<p-n>noun</p-n>	@hulagway
+photographer (one who takes photographs)	<p-n>noun</p-n>	@kodaker	@litratista	@mamiktyuray	@mangungudak	@maniniyot	@retratista
+physician (medical doctor)	<p-n>noun</p-n>	@mantatambal
+pick one's nose (insert a finger into one's nostril)	<p-n>verb</p-n>	@hingugmo
+pied bushchat (Saxicola caprata)	<p-n>noun</p-n>	@tiririkoy
+pig (mammal of family Suidae)	<p-n>noun</p-n>	@baboy
+pigeon (bird of the dove and pigeon family Columbidae — see also dove)	<p-n>noun</p-n>	@salampati
+piggyback (to carry someone on the back or shoulders)	<p-n>verb</p-n>	@baba
+piglet (young pig)	<p-n>noun</p-n>	@baktin
+pillar (large post, often used as supporting architecture)	<p-n>noun</p-n>	@haligi
+pimple (inflamed spot on the surface of the skin)	<p-n>noun</p-n>	@bugas
+pine (tree of the genus Pinus)	<p-n>noun</p-n>	@pino
+pineapple (fruit)	<p-n>noun</p-n>	@pinya
+piss (urine)	<p-n>noun</p-n>	@ihi
+plant (organism capable of photosynthesis)	<p-n>noun</p-n>	@tanom
+plant (to place (an object, or sometimes a person), often with the implication of intending deceit)	<p-n>verb</p-n>	@tanum
+plant (to place in soil or other substrate in order that it may live and grow)	<p-n>verb</p-n>	@tanum
+plateau (high, level expanse)	<p-n>noun</p-n>	@patag ibabaw sa bukid
+playing card (Translations)	<p-n>noun</p-n>	@baraha
+please (interjection to make a polite request)	<p-n>adv</p-n>	@palihog
+plenty (a more-than-adequate amount)	<p-n>noun</p-n>	@daghan
+pliers (gripping tool which multiplies the strength of the user's hand)	<p-n>noun</p-n>	@playis	@alikate
+plough (device pulled through the ground)	<p-n>noun</p-n>	@daro
+plus (arithmetic: sum)	<p-n>prep</p-n>	@dugang	@puno	@imas
+poblacion (a town center, or the barangay where one is located)	<p-n>noun</p-n>	@poblacion
+pocket (bag stitched to an item of clothing)	<p-n>noun</p-n>	@bulsa
+poetry (literature composed in verse)	<p-n>noun</p-n>	@balak
+poison (substance harmful to a living organism)	<p-n>noun</p-n>	@hilo
+pole (long and slender object for construction or support)	<p-n>noun</p-n>	@usok
+police force (police organization, constabulary)	<p-n>noun</p-n>	@kapolisan
+police officer (peace officer who is a member of a police force — see also cop)	<p-n>noun</p-n>	@polís
+pomelo (large fruit of the C. maxima or grandis)	<p-n>noun</p-n>	@buongon
+popcorn (a snack food made from corn kernels popped by dry heating)	<p-n>noun</p-n>	@papkorn
+population (all people living within a political or geographical boundary)	<p-n>noun</p-n>	@kamulupyohan
+pornography (depiction of sexual subject matter with prurient intent)	<p-n>noun</p-n>	@pornograpiya
+port (dock or harbour)	<p-n>noun</p-n>	@dunggoanan	@pantalan
+postage stamp (piece of paper indicating postage has been paid)	<p-n>noun</p-n>	@selyo
+pot (vessel for cooking or storing food etc.)	<p-n>noun</p-n>	@kulon
+power (ability to affect or influence)	<p-n>noun</p-n>	@gahom
+prawn (large shrimp)	<p-n>noun</p-n>	@pansat
+prawn cracker (Light, deep-fried snack made from shrimp and starch)	<p-n>noun</p-n>	@kropek
+praying mantis (Mantis religiosa)	<p-n>noun</p-n>	@bayingbaying
+praying mantis (any of various predatory insects of the Mantidae family)	<p-n>noun</p-n>	@simbasimba	@bayingbaying
+praying mantis (any of various predatory insects of the Mantodea order)	<p-n>noun</p-n>	@bayingbaying
+pregnant (carrying developing offspring within the body)	<p-n>adj</p-n>	@buros
+preparation (act of preparing)	<p-n>noun</p-n>	@pagpangandam
+prepare (to make ready for a specific future purpose)	<p-n>verb</p-n>	@andam
+prepared (ready, willing)	<p-n>adj</p-n>	@andam
+preparedness (state of being prepared)	<p-n>noun</p-n>	@pagpangandam
+present (current time)	<p-n>noun</p-n>	@karon
+present (pertaining to the current time)	<p-n>adj</p-n>	@karon
+primary (first in a group or series)	<p-n>adj</p-n>	@kinaunhan	@kinaunahan
+primary (that which is placed ahead of others)	<p-n>adj</p-n>	@nauna
+princess (female member of royal family)	<p-n>noun</p-n>	@prinsesa
+prison (place of long-term confinement for those convicted of serious crimes)	<p-n>noun</p-n>	@bilanggoan	@prisohan
+prisoner (person incarcerated in a prison)	<p-n>noun</p-n>	@bilanggo
+privilege (particular benefit, advantage, or favor)	<p-n>noun</p-n>	@pribilehiyo
+prize (honor or reward striven for in a competitive contest)	<p-n>noun</p-n>	@premyo
+problem (difficulty)	<p-n>noun</p-n>	@kalisud
+problem (puzzling circumstance)	<p-n>noun</p-n>	@problema
+producer (in arts)	<p-n>noun</p-n>	@producer
+producer (in economics)	<p-n>noun</p-n>	@producer
+product (amount created by a process)	<p-n>noun</p-n>	@bunga	@resulta
+product (commodity for sale)	<p-n>noun</p-n>	@ani	@produkto	@epektos
+product (consequence of efforts)	<p-n>noun</p-n>	@bunga
+product (multiplication result)	<p-n>noun</p-n>	@abot
+progenitor (an individual from which (a) people(s) descend)	<p-n>noun</p-n>	@giliwatan
+progenitor (any of a person's direct ancestors)	<p-n>noun</p-n>	@giliwatan
+promise (to commit to something)	<p-n>verb</p-n>	@saad
+proper noun (the name of a particular person, place, organization, or other individual entity)	<p-n>noun</p-n>	@pangpiho
+prosecutor (a person instituting criminal prosecution)	<p-n>noun</p-n>	@prosekyutor
+prosecutor (prosecuting attorney)	<p-n>noun</p-n>	@prosekyutor
+prosperity (condition of being prosperous)	<p-n>noun</p-n>	@kalamboan
+pubic hair (collectively)	<p-n>noun</p-n>	@bulbol
+puff pastry (light, flaky pastry)	<p-n>noun</p-n>	@ohaldre
+punch (a hit or a strike with one's fist)	<p-n>noun</p-n>	@sumbag
+punch (to strike something or someone with one's fist)	<p-n>verb</p-n>	@sumbag	@suntok
+punishment (act of punishing)	<p-n>noun</p-n>	@kastigo
+purple yam (Dioscorea alata)	<p-n>noun</p-n>	@ubi
+push (to apply a force to something so that it moves away)	<p-n>verb</p-n>	@tulod	@duso
+pussy (slang: female genitalia — see also vagina)	<p-n>noun</p-n>	@nanaon
+put (to place something somewhere)	<p-n>verb</p-n>	@i-butang
+pyroclastic flow (pyroclastic flow)	<p-n>noun</p-n>	@piroklastikong pag-agay
+queen (female monarch)	<p-n>noun</p-n>	@hara
+queen of clubs (playing card)	<p-n>noun</p-n>	@queen kamunggay
+quiz (interrogate)	<p-n>verb</p-n>	@tuki
+quotient (number resulting from division)	<p-n>noun</p-n>	@lapa
+rabbit (mammal)	<p-n>noun</p-n>	@koneho
+rabies (viral disease)	<p-n>noun</p-n>	@rabis
+radio (receiver — see also radioreceptor)	<p-n>noun</p-n>	@radyo
+radio (technology)	<p-n>noun</p-n>	@radyo
+radish (plant Raphanus sativus var. sativus)	<p-n>noun</p-n>	@labanos
+radius (line segment)	<p-n>noun</p-n>	@tungatid
+raft (flat, floating structure)	<p-n>noun</p-n>	@gakit
+rag (piece of cloth)	<p-n>noun</p-n>	@trapo
+rain (condensed water from a cloud)	<p-n>noun</p-n>	@ulan
+rainbow (multicoloured arch in the sky)	<p-n>noun</p-n>	@bangaw
+rainy season (portion of the year when rainfall amounts are greatest)	<p-n>noun</p-n>	@ting-ulan
+rape (act of forcing sexual activity)	<p-n>noun</p-n>	@paglugos
+rat (rodent)	<p-n>noun</p-n>	@ilaga
+ratify (give formal consent to)	<p-n>verb</p-n>	@uyon
+rattan (climbing palm)	<p-n>noun</p-n>	@uway
+rattle (to scare, startle, unsettle, or unnerve)	<p-n>verb</p-n>	@ratol
+raw (uncooked)	<p-n>adj</p-n>	@hilaw
+ray (marine fish with a flat body, large wing-like fins, and a whip-like tail)	<p-n>noun</p-n>	@pagi
+reach (to arrive at by effort)	<p-n>verb</p-n>	@abot
+reach (to extend in dimension, time or action, so as to touch, attain to, or be equal to, something)	<p-n>verb</p-n>	@abot
+reach (to extend, to thrust out)	<p-n>verb</p-n>	@abot
+reach (to obtain by stretching forth, to extend so as to touch)	<p-n>verb</p-n>	@abot
+reach (to stretch out the hand)	<p-n>verb</p-n>	@abot
+reason (that which causes: a cause)	<p-n>noun</p-n>	@rason
+reckon (to charge, attribute, or adjudge to one, as having a certain quality or value)	<p-n>verb</p-n>	@suma
+reckon (to count; to enumerate; to number; also, to compute; to calculate)	<p-n>verb</p-n>	@suma
+red (colour)	<p-n>noun</p-n>	@pula or puwa
+red (having red as its colour)	<p-n>adj</p-n>	@pula
+red (red wine — see also red wine)	<p-n>noun</p-n>	@bino tinto	@tinto
+refuse ((transitive) decline (request, demand))	<p-n>verb</p-n>	@balibad
+relapse ((medicine) To recur; to worsen)	<p-n>verb</p-n>	@bughat
+relapse (the act or situation of relapsing)	<p-n>noun</p-n>	@bughat
+relative (someone connected by blood, marriage, or adoption; someone in the same family)	<p-n>noun</p-n>	@paryente
+rely (rest with confidence)	<p-n>verb</p-n>	@salig
+remainder (mathematics: amount left over after repeatedly subtracting the divisor)	<p-n>noun</p-n>	@kida	@puwaki
+remainder (mathematics: number left over after a simple subtraction)	<p-n>noun</p-n>	@sobra
+remainder (what remains after some has been removed)	<p-n>noun</p-n>	@salin
+remora (elongate fish from the family Echeneidae)	<p-n>noun</p-n>	@remora	@kumi
+renaissance (rebirth or revival)	<p-n>noun</p-n>	@pagkabalik
+reproach (to criticize or rebuke someone)	<p-n>verb</p-n>	@basol
+resident (person living at a location or an area)	<p-n>noun</p-n>	@lumulupyo	@residente
+respond (to say something in return)	<p-n>verb</p-n>	@balos
+responsibility (a duty, obligation or liability for which someone is responsible)	<p-n>noun</p-n>	@katungdanan
+responsibility (the state of being responsible)	<p-n>noun</p-n>	@responsibilidad
+rest (relief afforded by sleeping; sleep)	<p-n>noun</p-n>	@pahulay
+reticulated python (Malayapython reticulatus)	<p-n>noun</p-n>	@baksan
+return (to come or go back)	<p-n>verb</p-n>	@uli
+revolver (handgun with revolving chambers)	<p-n>noun</p-n>	@bolber
+rib (curved bone)	<p-n>noun</p-n>	@gusok
+ribbit (the sound made by a frog or toad)	<p-n>intj</p-n>	@kokak
+rice (plants)	<p-n>noun</p-n>	@humáy
+rice (seeds used as food)	<p-n>noun</p-n>	@bugas kan-on
+ride (instance of riding)	<p-n>noun</p-n>	@sakay
+right ((archaic) straight, not bent — see also straight)	<p-n>adj</p-n>	@tul-id
+right (of direction, opposite of left)	<p-n>adj</p-n>	@tuo
+ring (round piece of (precious) metal worn around the finger)	<p-n>noun</p-n>	@singsing
+ripe (ready for reaping or gathering, of fruits and seeds)	<p-n>adj</p-n>	@hinog
+rise (of a celestial body: to appear to move from behind the horizon)	<p-n>verb</p-n>	@subang
+river (large stream which drains a landmass)	<p-n>noun</p-n>	@suba
+road (a way for travel)	<p-n>noun</p-n>	@dalan
+robot (intelligent mechanical being)	<p-n>noun</p-n>	@robot
+robot (machine to perform complex tasks)	<p-n>noun</p-n>	@robot
+robot (person who does not seem to have any emotions)	<p-n>noun</p-n>	@robot
+roll (to cause something to revolve by turning over and over)	<p-n>verb</p-n>	@lukot
+roof (the cover at the top of a building)	<p-n>noun</p-n>	@atop
+rooster (male chicken; male gallinaceous bird)	<p-n>noun</p-n>	@sunoy
+root (part of a plant)	<p-n>noun</p-n>	@gamot
+rope (thick, strong string)	<p-n>noun</p-n>	@lubid
+rosary (Catholic prayer beads)	<p-n>noun</p-n>	@rosaryo
+rosary (devotion)	<p-n>noun</p-n>	@rosaryo
+rufous-crowned bee-eater (Merops americanus)	<p-n>noun</p-n>	@purokpurok
+run (to move quickly on two feet)	<p-n>verb</p-n>	@dagan
+rust (result of oxidation)	<p-n>noun</p-n>	@taya
+sacristan (person who maintains the sacristy)	<p-n>noun</p-n>	@sakristan
+sacrum (bone at the base of the spine)	<p-n>noun</p-n>	@kugongkugong
+sadness (state/emotion)	<p-n>noun</p-n>	@kasubo
+safety pin (pin in the form of a clasp)	<p-n>noun</p-n>	@alpiril
+salt (sodium chloride)	<p-n>noun</p-n>	@asin
+same (not different as regards self; identical)	<p-n>adj</p-n>	@pareha	@parehas	@pareho	@parehos
+same (similar, alike)	<p-n>adj</p-n>	@pareha	@parehas	@pareho	@parehos
+same (something similar, something of the identical type)	<p-n>pron</p-n>	@kapareha	@kaparehas	@kapareho	@kaparehos
+same (the identical thing)	<p-n>pron</p-n>	@kapareha	@kaparehas	@kapareho	@kaparehos
+same old story (the repetition of an annoying occurrence)	<p-n>noun</p-n>	@pareha ra gihapon nga istorya
+sand (finely ground rock)	<p-n>noun</p-n>	@balas
+sangria (Spanish wine drink with fruit, sugar and soda)	<p-n>noun</p-n>	@sanggriya
+santol (fruit)	<p-n>noun</p-n>	@santol
+satisfy (to be enough (for))	<p-n>verb</p-n>	@tagbaw
+saucer (small dish)	<p-n>noun</p-n>	@platito
+save (to help someone to survive, or rescue someone)	<p-n>verb</p-n>	@luwas
+savior (a person who saves someone, rescues another from harm)	<p-n>noun</p-n>	@manunubos
+scale (keratin pieces covering the skin of certain animals)	<p-n>noun</p-n>	@kalis
+scarlet (colour)	<p-n>noun</p-n>	@lakha
+scenario (outline of the plot of a dramatic or literary work)	<p-n>noun</p-n>	@senaryo
+scenario (outline or model of an expected or supposed sequence of events)	<p-n>noun</p-n>	@senaryo
+school (an institution dedicated to teaching and learning)	<p-n>noun</p-n>	@eskuwela	@eskuwelahan
+science (collective discipline of learning acquired through the scientific method)	<p-n>noun</p-n>	@kaalamdag
+scissors (tool used for cutting)	<p-n>noun</p-n>	@gunting
+scorched rice (Translations)	<p-n>noun</p-n>	@dukot
+scorpion (any of various arachnids of the order Scorpiones)	<p-n>noun</p-n>	@alikdana	@tanga
+scrape (draw an object along while exerting pressure)	<p-n>verb</p-n>	@kutkot	@kagis
+screed (tool drawn over a wet layer to make it smooth and flat; machine that achieves this effect)	<p-n>noun</p-n>	@kalis
+scribble (hastily done writing)	<p-n>noun</p-n>	@kuriskuris
+sea (body of water)	<p-n>noun</p-n>	@dagat
+sea cucumber (sea cucumber)	<p-n>noun</p-n>	@balat
+sea horse (fish)	<p-n>noun</p-n>	@kulkog
+sea urchin (any of many marine echinoderms of the class Echinoidea)	<p-n>noun</p-n>	@tuyom	@swaki
+seagrass (grasslike marine plants)	<p-n>noun</p-n>	@lusay
+seat (place in which to sit)	<p-n>noun</p-n>	@linkoranan
+seaweed (marine algae)	<p-n>noun</p-n>	@sagbot sa dagat
+secant (in trigonometry)	<p-n>noun</p-n>	@kaliras
+second (number two in a series)	<p-n>noun</p-n>	@ikaduha	@sikan
+second (one that is next in rank)	<p-n>noun</p-n>	@ikaduha	@ubos	@sunod
+second (one-sixtieth of a minute; SI unit of time)	<p-n>noun</p-n>	@gutling	@segundo
+second (place next below first in a race or contest)	<p-n>noun</p-n>	@ikaduhang puwesto	@ikaduha	@sikan plis
+second (second (numeral) — see also 2nd)	<p-n>adj</p-n>	@ikaduha
+second (second gear)	<p-n>noun</p-n>	@segunda
+second (that comes after the first)	<p-n>adj</p-n>	@ikaduha
+second base (the base opposite home plate)	<p-n>noun</p-n>	@sikan bis
+sedative (an agent or drug that sedates)	<p-n>noun</p-n>	@igpahupay
+seed (any small seed-like fruit)	<p-n>noun</p-n>	@liso
+seldom (infrequently, rarely)	<p-n>adv</p-n>	@talagsa
+sell (to agree to transfer goods or provide services for payment)	<p-n>verb</p-n>	@baligya
+sensitive (capable of offending)	<p-n>adj</p-n>	@sensitib	@sensitibo
+sensitive (easily offended)	<p-n>adj</p-n>	@sensitib	@sensitibo
+sensitive (having the faculty of sensation; pertaining to the senses)	<p-n>adj</p-n>	@sensitib	@sensitibo
+sensitive (responsive to stimuli)	<p-n>adj</p-n>	@sensitib	@sensitibo
+sensitive plant (Mimosa pudica)	<p-n>noun</p-n>	@harupay	@huyahuya
+sentence ((dated) decision or judgement of a court — see also judgment, verdict)	<p-n>noun</p-n>	@sentensya	@desisyon
+sentence (grammatically complete series of words consisting of a subject and predicate)	<p-n>noun</p-n>	@kapahayag
+sentence (judicial order for punishment)	<p-n>noun</p-n>	@sentensya
+sentence (punishment imposed on a person convicted of a crime — see also punishment)	<p-n>noun</p-n>	@sentensya
+serene (fair and unclouded)	<p-n>adj</p-n>	@tilha
+serene (peaceful, calm)	<p-n>adj</p-n>	@tin-od	@tinong
+sesame (seed)	<p-n>noun</p-n>	@lunga
+settle (to conclude as an argument)	<p-n>verb</p-n>	@husay
+seven (cardinal number 7)	<p-n>num</p-n>	@pito
+seventeen (cardinal number)	<p-n>num</p-n>	@napulog pito
+seventy (cardinal number)	<p-n>num</p-n>	@kapitoan
+sew ((transitive) use a needle)	<p-n>verb</p-n>	@tahi
+shabby (of a person: wearing ragged or very worn, and often dirty, clothing)	<p-n>adj</p-n>	@nagkagidlay
+shabby (of clothing, a place, etc.: unkempt and worn or otherwise in poor condition due to age or neglect — see also worn)	<p-n>adj</p-n>	@nagkagidlay
+shadow (dark image projected onto a surface)	<p-n>noun</p-n>	@aníno
+shaky (unstady, wobbly)	<p-n>adj</p-n>	@huyang
+shallow (having little depth and significantly less deep than wide)	<p-n>adj</p-n>	@mabaw
+shame (uncomfortable or painful feeling)	<p-n>noun</p-n>	@kaulaw
+share (portion of something)	<p-n>noun</p-n>	@bahin
+shark (fish)	<p-n>noun</p-n>	@iho
+shelf (structure)	<p-n>noun</p-n>	@estante
+shell (covering of a nut)	<p-n>noun</p-n>	@bagol
+shield (armor)	<p-n>noun</p-n>	@kalasag
+shipworm (any of several wormlike marine molluscs of the family Teredinidae)	<p-n>noun</p-n>	@tamasok	@tamilok
+shiver (to tremble or shake)	<p-n>verb</p-n>	@kurog	@kugkog	@kigkig
+shoe (protective covering for the foot)	<p-n>noun</p-n>	@sapatos
+shooting (instance of shooting)	<p-n>noun</p-n>	@pagpamusil
+shop (establishment that sells goods)	<p-n>noun</p-n>	@tindahan
+short (having a small distance between ends or edges)	<p-n>adj</p-n>	@mubo
+shoulder (joint between arm and torso)	<p-n>noun</p-n>	@abaga
+shoulder blade (bone)	<p-n>noun</p-n>	@payod	@bulogsan
+shrimp (decapod crustacean)	<p-n>noun</p-n>	@pasayan
+shumai (a traditional steamed Chinese pork dumpling served in dim sum)	<p-n>noun</p-n>	@siomai
+sibling (person who shares same parents — see also brother, sister)	<p-n>noun</p-n>	@igsuon	@utod
+side dish (serving of food meant as an accompanying dish)	<p-n>noun</p-n>	@sud-an
+siesta (an afternoon nap)	<p-n>noun</p-n>	@syista
+sign (a fact that shows that something exists or may happen)	<p-n>noun</p-n>	@tima-ilhan
+sign (to make (a document) official by writing one's signature)	<p-n>verb</p-n>	@pirma
+silver (metal)	<p-n>noun</p-n>	@pilak
+silver screen (by extension, movies)	<p-n>noun</p-n>	@pinilakang tabil
+silver screen (cinema screen)	<p-n>noun</p-n>	@pinilakang tabil
+sin (to commit a sin)	<p-n>verb</p-n>	@paghimo ug salä
+sin (violation of religious law)	<p-n>noun</p-n>	@sala
+sincerity (quality of being sincere)	<p-n>noun</p-n>	@sinceridad
+sine (trigonometric function)	<p-n>noun</p-n>	@lidpa
+sink ((''intransitive'') descend into liquid, etc.)	<p-n>verb</p-n>	@lunod
+sinkhole (geology: hole formed in soluble rock)	<p-n>noun</p-n>	@bung-aw
+sip (to drink slowly, small mouthfuls at a time)	<p-n>verb</p-n>	@higop	@supsop
+sissy (a timid, unassertive or cowardly person)	<p-n>noun</p-n>	@bayoti
+sissy (an effeminate boy or man)	<p-n>noun</p-n>	@bayoti
+sissy (cowardly)	<p-n>adj</p-n>	@bayoti
+sissy (effeminate)	<p-n>adj</p-n>	@bayoti
+sister (woman or girl having the same parents)	<p-n>noun</p-n>	@igsoong babae
+sister-in-law (brother's wife)	<p-n>noun</p-n>	@hipag (disused)	@bayaw	@bayaw nga babaye (sa igsoong lalaki)
+sister-in-law (husband's brother's wife)	<p-n>noun</p-n>	@bilas nga babaye (sa igsoong lalaki sa bana)
+sister-in-law (husband's sister)	<p-n>noun</p-n>	@hipag (disused)	@bayaw	@bayaw nga babaye (sa bana)
+sister-in-law (wife's brother's wife)	<p-n>noun</p-n>	@bilas nga babaye (sa igsoong lalaki sa asawa)
+sister-in-law (wife's sister)	<p-n>noun</p-n>	@hipag (disused)	@bayaw	@bayaw nga babaye (sa asawa)
+sit (of a person, be in a position in which the upper body is upright and the legs are supported)	<p-n>verb</p-n>	@linkod
+six (cardinal number)	<p-n>num</p-n>	@unom
+sixteen (cardinal number 16)	<p-n>num</p-n>	@napulog unom
+sixty (cardinal number)	<p-n>num</p-n>	@kan-oman
+size (dimensions or magnitude of a thing)	<p-n>noun</p-n>	@gidak-on
+skillful (possessing skill, skilled)	<p-n>adj</p-n>	@maayo	@hanas
+skin (outer protective layer of the body of a person or animal)	<p-n>noun</p-n>	@panit
+skin and bones (emaciated; very skinny)	<p-n>noun</p-n>	@panit ug bukog
+skink (lizard)	<p-n>noun</p-n>	@tabili
+skirt (article of clothing)	<p-n>noun</p-n>	@palda
+skull (bones of the head: cranium and mandible)	<p-n>noun</p-n>	@bagolbagol	@kalabera
+skunk (animal)	<p-n>noun</p-n>	@milô
+skyrocket (to increase suddenly and extremely)	<p-n>verb</p-n>	@sulbong
+slack-water (seawater without current)	<p-n>noun</p-n>	@ayaay
+slack-water (turn of the tide)	<p-n>noun</p-n>	@ayaay
+slave (person owned by another)	<p-n>noun</p-n>	@ulipon
+sleep (substance found in the corner of the eyes, sometimes as a figurative objectification of sleep — see also rheum)	<p-n>noun</p-n>	@muta
+sleep (to rest in state of reduced consciousness)	<p-n>verb</p-n>	@tulog
+sleeve (part of a garment that covers the arm)	<p-n>noun</p-n>	@manggas
+sloth (laziness)	<p-n>noun</p-n>	@katapol
+slow (not quick in motion)	<p-n>adj</p-n>	@hinay
+slug (gastropod)	<p-n>noun</p-n>	@hilâhilâ
+small (not large)	<p-n>adj</p-n>	@gamay
+small change (a minor or insignificant amount of money)	<p-n>noun</p-n>	@sensilyo
+smallpox (disease)	<p-n>noun</p-n>	@buti
+smile (a happy face expression using mouth, but without producing voice)	<p-n>noun</p-n>	@pahiyom
+smile (to have a smile on one's face)	<p-n>verb</p-n>	@pahiyom
+smoke (visible particles and vapour given off by burning material)	<p-n>noun</p-n>	@aso
+snake (legless reptile)	<p-n>noun</p-n>	@bitin
+sneeze (expel air as a reflex)	<p-n>verb</p-n>	@bahon
+snow (partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer)	<p-n>noun</p-n>	@nyebe
+soak (to be saturated with liquid by being immersed in it)	<p-n>verb</p-n>	@humol
+soft (easily giving way under pressure)	<p-n>adj</p-n>	@humok
+soft rush (Juncus effusus)	<p-n>noun</p-n>	@balili
+soil (mixture of sand and organic material)	<p-n>noun</p-n>	@yuta
+soldier (member of an army)	<p-n>noun</p-n>	@sundalo
+solve (to find an answer or solution)	<p-n>verb</p-n>	@sulbaron
+sometimes (on certain occasions, but not always)	<p-n>adv</p-n>	@usahay
+son (a male person in relation to his parents)	<p-n>noun</p-n>	@anak	@anak nga lalaki
+song (music with words)	<p-n>noun</p-n>	@awit	@kanta
+soul (the spirit or essence of a person that is often believed to live on after the person's death)	<p-n>noun</p-n>	@kalag
+soup (dish)	<p-n>noun</p-n>	@sabaw
+soup bowl (a deep bowl, designed for serving soup)	<p-n>noun</p-n>	@yahong
+sour (having an acidic, sharp or tangy taste)	<p-n>adj</p-n>	@aslom
+source (spring etc.)	<p-n>noun</p-n>	@tuboran
+source (the person, place or thing from which something (information, goods, etc.) comes or is acquired)	<p-n>noun</p-n>	@tuboran
+south (compass point)	<p-n>noun</p-n>	@habagatan
+souvenir (item of sentimental value)	<p-n>noun</p-n>	@handomanan
+spatter (to splash with small droplets)	<p-n>verb</p-n>	@pisikpisik
+spear (long stick with a sharp tip)	<p-n>noun</p-n>	@bangkaw
+spectacles (a pair of lenses set in a frame)	<p-n>noun</p-n>	@antepara
+spelling (a specific spelling of a word)	<p-n>noun</p-n>	@espeling
+spelling (manner of spelling of words; correct spelling)	<p-n>noun</p-n>	@espeling	@panitik
+spelling (the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography)	<p-n>noun</p-n>	@espeling	@panitik
+spice (plant matter used to season or flavour food)	<p-n>noun</p-n>	@panakot
+spider (arthropod)	<p-n>noun</p-n>	@damang
+spiderweb (net-like construct of a spider)	<p-n>noun</p-n>	@lawa-lawa
+spindle (rod in spinning and winding thread)	<p-n>noun</p-n>	@kalinyasan
+spiny lobster (crustacean of the family Palinuridae)	<p-n>noun</p-n>	@banagan
+spoon (scooped utensil for eating (or serving))	<p-n>noun</p-n>	@kutsara
+spoon-feed (to help somebody to eat using a spoon)	<p-n>verb</p-n>	@hungit
+spouse (person in a marriage or marital relationship)	<p-n>noun</p-n>	@asawa
+spring (water springing from the ground)	<p-n>noun</p-n>	@tubod
+staff (long, straight, thick rod or stick to assist in walking)	<p-n>noun</p-n>	@sungkod
+stain (discoloured spot or area)	<p-n>noun</p-n>	@mansa
+stair (series of steps)	<p-n>noun</p-n>	@hagdanan
+stairs (contiguous set of steps)	<p-n>noun</p-n>	@hagdan
+stalk (stem or main axis of a plant)	<p-n>noun</p-n>	@dagami
+stammer (to stutter)	<p-n>verb</p-n>	@kanga
+stand (to support oneself on the feet in an erect position)	<p-n>verb</p-n>	@tindog
+standardization (act or process of complying with a standard)	<p-n>noun</p-n>	@estandardisasyon
+standardization (act or process of establishing a standard)	<p-n>noun</p-n>	@estandardisasyon
+star (a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other)	<p-n>noun</p-n>	@bituon
+star anise (a plant, Illicium verum)	<p-n>noun</p-n>	@anis	@sangki
+star anise (the spice)	<p-n>noun</p-n>	@anis	@sangki
+star fruit (fruit)	<p-n>noun</p-n>	@balimbing
+starch (substance)	<p-n>noun</p-n>	@tayubong
+statement (declaration or remark)	<p-n>noun</p-n>	@pahayag	@saysay
+statement (finance: document that summarizes financial activity)	<p-n>noun</p-n>	@ihap	@kwenta	@balansi
+statement (presentation of opinion or position — see also assertion, declaration, affirmation)	<p-n>noun</p-n>	@tanyag
+statue (three-dimensional work of art)	<p-n>noun</p-n>	@estatuwa
+steel (metal produced from iron)	<p-n>noun</p-n>	@asero	@asiro	@aserawo	@puthaw
+step (intransitive: to move the foot in walking)	<p-n>verb</p-n>	@lakang
+sticky (able or likely to stick)	<p-n>adj</p-n>	@pilit
+sting (of an insect or arachnid: to puncture with the stinger)	<p-n>verb</p-n>	@gipaak	@napaak
+stingy (unwilling to spend or give)	<p-n>adj</p-n>	@inot
+stone (substance)	<p-n>noun</p-n>	@bato
+storm (disturbed state of the atmosphere causing destructive or unpleasant weather)	<p-n>noun</p-n>	@bagyo
+storm surge (unusual rise in sea level)	<p-n>noun</p-n>	@sultaob
+story (account of events)	<p-n>noun</p-n>	@estorya
+straight (not crooked or bent)	<p-n>adj</p-n>	@tanos	@tul-id
+straw (dried stalks considered collectively)	<p-n>noun</p-n>	@dagami
+street (paved part of road in a village or a town)	<p-n>noun</p-n>	@dalan
+stroll (wander on foot)	<p-n>verb</p-n>	@suroy
+study (to acquire knowledge)	<p-n>verb</p-n>	@tuon
+study (to revise/review materials)	<p-n>verb</p-n>	@tuon
+subtrahend (A number or quantity to be subtracted from another)	<p-n>noun</p-n>	@tigkuha or tagkuha
+sudden (happening quickly and with little or no warning)	<p-n>adj</p-n>	@kalit
+suffocate ((intransitive) to suffer from severely reduced oxygen intake to the body)	<p-n>verb</p-n>	@lumos
+suffocate ((transitive) to cause someone to suffer severely reduced oxygen supply to his body)	<p-n>verb</p-n>	@lumos
+sugar (sucrose from sugar cane or sugar beet used to sweeten food and drink)	<p-n>noun</p-n>	@asukar
+sugared (containing sugar)	<p-n>adj</p-n>	@inasukaran
+sum (quantity obtained by addition or aggregation)	<p-n>noun</p-n>	@tingob	@sumada
+sum (quantity of money)	<p-n>noun</p-n>	@kantidad
+summand (term of addition)	<p-n>noun</p-n>	@pampadugang
+summer (hottest season)	<p-n>noun</p-n>	@ting-init
+summons (notice summoning someone to appear in court)	<p-n>noun</p-n>	@sumon
+sun (a star, especially when seen as the centre of any single solar system)	<p-n>noun</p-n>	@adlaw
+sun (the star around which the Earth revolves — see also Sun)	<p-n>name</p-n>	@adlaw
+supper (dinner at night)	<p-n>noun</p-n>	@panihapon
+supper (food before going to bed)	<p-n>noun</p-n>	@panihapon
+suppurate (form or discharge pus)	<p-n>verb</p-n>	@ansoy
+suprasegmental (relating to a suprasegmental)	<p-n>adj</p-n>	@suprasegmental
+surgeonfish (any of many brightly coloured fishes, of the family Acanthuridae)	<p-n>noun</p-n>	@indangan
+suspicion (act of suspecting something or someone, especially of something wrong)	<p-n>noun</p-n>	@panahap	@katahap
+suspicious (arousing suspicion)	<p-n>adj</p-n>	@matahapon
+swallow (to cause to pass from the mouth into the stomach)	<p-n>verb</p-n>	@tulon
+sweat (fluid that exits the body through pores)	<p-n>noun</p-n>	@singot
+sweet (having a pleasant taste)	<p-n>adj</p-n>	@tam-is
+swift (fast; quick; rapid)	<p-n>adj</p-n>	@paspas
+swimming pool (pool for swimming)	<p-n>noun</p-n>	@langoyanan
+syntax (set of rules that govern how words are combined)	<p-n>noun</p-n>	@hanaysay
+syntax (study of the structure of phrases and sentences)	<p-n>noun</p-n>	@hanaysay
+system (group or set of related things that operate together as a complex whole)	<p-n>noun</p-n>	@pamaagi
+table (item of furniture)	<p-n>noun</p-n>	@lamesa	@talad
+taffy (soft, chewy candy)	<p-n>noun</p-n>	@tiratira
+tail (appendage of an animal — see also dock)	<p-n>noun</p-n>	@ikog
+take (to get into one's hands or control)	<p-n>verb</p-n>	@kuha
+take care (good-bye)	<p-n>intj</p-n>	@pag-amping	@amping
+talk back (to reply impertinently; to answer in a cheeky manner)	<p-n>verb</p-n>	@tubagtubag
+tamaraw (Bubalus mindorensis)	<p-n>noun</p-n>	@tamaraw
+tamarind (tropical tree)	<p-n>noun</p-n>	@sambag
+tangent (in trigonometry)	<p-n>noun</p-n>	@liras
+tank (closed container for fluids)	<p-n>noun</p-n>	@tangke
+target (butt or mark to shoot at)	<p-n>noun</p-n>	@target
+target (goal or objective)	<p-n>noun</p-n>	@target
+target (to aim something (especially a weapon) at a target)	<p-n>verb</p-n>	@target
+taro (Colocasia esculenta)	<p-n>noun</p-n>	@gabi
+taste (to sample the flavor of something)	<p-n>verb</p-n>	@tilaw
+tattletale (one who tattles)	<p-n>noun</p-n>	@sumbongero
+tax (money paid to the government)	<p-n>noun</p-n>	@buhis
+tea (dried leaves of tea plant)	<p-n>noun</p-n>	@tsa
+teacher (person who teaches)	<p-n>noun</p-n>	@magtutudlo
+tear (drop of clear salty liquid from the eyes)	<p-n>noun</p-n>	@luha
+tear (to rend)	<p-n>verb</p-n>	@gisi
+techno- (used to form words relating to technology)	<p-n>prefix</p-n>	@tekno-
+technology (a particular technological concept)	<p-n>noun</p-n>	@teknolohiya
+technology (the study of or a collection of techniques)	<p-n>noun</p-n>	@teknolohiya
+telephone (telecommunication device which converts data or sounds into electrical signals which are then transmitted to enable two or more people to communicate with each other over a distance)	<p-n>noun</p-n>	@telepono
+temptation (act of tempting)	<p-n>noun</p-n>	@panulay
+ten (the cardinal number occurring after 9 and before 11)	<p-n>num</p-n>	@napulo
+ten thousand (10,000)	<p-n>num</p-n>	@laksa	@napulo ka libo
+tentacle (elongated, boneless, flexible appendage)	<p-n>noun</p-n>	@gaway
+tenth (ordinal form of ten — see also 10th)	<p-n>adj</p-n>	@ikanapulo	@ikanapo
+termite (insect)	<p-n>noun</p-n>	@anay
+terrorism (use of terror as a means of coercion)	<p-n>noun</p-n>	@terorismo
+terrorist (person who uses terror as a weapon in a political struggle)	<p-n>noun</p-n>	@terorista
+test (challenge, trial)	<p-n>noun</p-n>	@pagsulay
+testicle (male sex gland)	<p-n>noun</p-n>	@lagay
+thank (to express appreciation or gratitude toward (someone or something))	<p-n>verb</p-n>	@salamat
+thank you (an expression of gratitude)	<p-n>intj</p-n>	@salamat
+thank you very much (greater gratitude than "thank you")	<p-n>intj</p-n>	@daghang salamat
+that (connecting a noun clause)	<p-n>conj</p-n>	@nga
+that (what is being indicated)	<p-n>det</p-n>	@kana	@kadto (or kato)
+the apple does not fall far from the tree (a child is similar to its parents)	<p-n>proverb</p-n>	@walay man kardaba mamunga og tundan
+their (belonging to them (plural))	<p-n>det</p-n>	@ila (preposed)	@nila (postposed)
+there is (third-person singular simple present indicative form of there be)	<p-n>verb</p-n>	@naa
+thief (one who carries out theft)	<p-n>noun</p-n>	@kawatan
+thin (having little body fat or flesh; slim; slender; lean; gaunt — see also skinny)	<p-n>adj</p-n>	@niwang
+thin (having little thickness or extent from one surface to its opposite)	<p-n>adj</p-n>	@nipis
+thing (individual object or distinct entity)	<p-n>noun</p-n>	@butang
+thing (that which is considered to exist as a separate entity, object, quality or concept)	<p-n>noun</p-n>	@butang
+thingy (a thing)	<p-n>noun</p-n>	@kuwan
+third cousin (third cousin)	<p-n>noun</p-n>	@ig-agaw igtagutlo
+thirst (dryness)	<p-n>noun</p-n>	@kauhaw
+thirteen (the cardinal number occurring after twelve and before fourteen)	<p-n>num</p-n>	@napulog tulo
+thirteenth (ordinal form of thirteen — see also 13th)	<p-n>adj</p-n>	@ikanapulog tulo	@ikanapog tulo
+this (the (thing) here)	<p-n>det</p-n>	@kari	@kani
+thorax (region of the mammalian body)	<p-n>noun</p-n>	@dughan
+thorn (sharp protective structure of a plant)	<p-n>noun</p-n>	@tunok
+thorn apple (any of several species of plants belonging to the genus Datura)	<p-n>noun</p-n>	@katsubong
+thousand (cardinal number 1000)	<p-n>num</p-n>	@libo
+thousandth (one of a thousand equal parts of a whole)	<p-n>noun</p-n>	@sikalibo
+thousandth (ordinal form of 1000 — see also 1000th)	<p-n>adj</p-n>	@ikalibo
+thousandth (the person or thing in the thousandth position)	<p-n>noun</p-n>	@ikalibo
+threat (expression of intent to injure or punish another)	<p-n>noun</p-n>	@hulga	@bahad
+threaten (to make a threat against someone; to use threats)	<p-n>verb</p-n>	@huga	@hulga	@talhog
+threaten (to menace, or be dangerous)	<p-n>verb</p-n>	@hulga
+three (cardinal number 3)	<p-n>num</p-n>	@tulo
+three (digit/figure 3)	<p-n>noun</p-n>	@tulo
+thrice (three times)	<p-n>adv</p-n>	@makatulo	@katulo
+throat (front part of the neck)	<p-n>noun</p-n>	@tutunlan
+throw (to cause an object to move rapidly through the air)	<p-n>verb</p-n>	@labay
+thumb (digit)	<p-n>noun</p-n>	@kumagko
+thunder (sound caused by lightning)	<p-n>noun</p-n>	@dalugdog
+tick (arachnid)	<p-n>noun</p-n>	@garapata
+tickle (act of tickling)	<p-n>noun</p-n>	@gitik
+tie (to attach or fasten with string)	<p-n>verb</p-n>	@hikot
+tiger (The mammal Panthera tigris)	<p-n>noun</p-n>	@tigre
+tiger grass (genus Saccharum)	<p-n>noun</p-n>	@bugang
+tight (pushed/pulled together)	<p-n>adj</p-n>	@hugot
+tighten one's belt (be more frugal)	<p-n>verb</p-n>	@hugot sa bakos
+tired (in need of rest or sleep)	<p-n>adj</p-n>	@kapoy
+today (nowadays — see also nowadays, these days, currently)	<p-n>adv</p-n>	@karon	@karong panahon
+today (on the current day)	<p-n>adv</p-n>	@karon
+tomorrow (on the day after the present day)	<p-n>adv</p-n>	@ugma
+tongue (flap in a shoe)	<p-n>noun</p-n>	@dila	@diladila
+tongue (organ)	<p-n>noun</p-n>	@dila
+tonight (during today's evening)	<p-n>adv</p-n>	@karong gabii
+tool (mechanical device intended to make a task easier)	<p-n>noun</p-n>	@gamit	@himan
+tooth (anatomy: tooth)	<p-n>noun</p-n>	@ngipon
+toothbrush (brush for cleaning the teeth and tongue)	<p-n>noun</p-n>	@sipilyo
+torch (stick of wood, etc., with one end soaked in a flammable substance and set on fire; similarly shaped implement with a replaceable supply of flammable material)	<p-n>noun</p-n>	@sulo
+torture (intentional causing of somebody's experiencing agony)	<p-n>noun</p-n>	@kasakit
+torture (to intentionally inflict unnecessary pain or suffering on helpless victims)	<p-n>verb</p-n>	@pasakitan
+tow (pull something using a line)	<p-n>verb</p-n>	@guyod
+towel (cloth used for wiping)	<p-n>noun</p-n>	@toalya
+town (settlement)	<p-n>noun</p-n>	@lungsod
+toy (something to play with)	<p-n>noun</p-n>	@dulaan
+tranquilizer (drug used to reduce anxiety or tension)	<p-n>noun</p-n>	@ighuhupay
+trap (device designed to catch or kill animals)	<p-n>noun</p-n>	@lit-ag
+treason (crime of betraying one’s country)	<p-n>noun</p-n>	@pagluib	@pagbudhi
+treason (providing aid and comfort to the enemy)	<p-n>noun</p-n>	@pagbudhi
+treasure (collection of valuable things)	<p-n>noun</p-n>	@bahandi
+tree (large woody plant)	<p-n>noun</p-n>	@kahoy
+triggerfish (any of several fish)	<p-n>noun</p-n>	@pakol
+tripletail wrasse (Cheilinus trilobatus)	<p-n>noun</p-n>	@ananapan	@maming puntikon
+trivet (stand with three short legs)	<p-n>noun</p-n>	@sug-ang
+tropical cyclone ((broad sense))	<p-n>noun</p-n>	@bagyo
+trust (confidence in or reliance on some person or quality)	<p-n>noun</p-n>	@salig
+truth (state or quality of being true to someone or something)	<p-n>noun</p-n>	@kamatuoran
+truth (true facts)	<p-n>noun</p-n>	@kamatuoran
+try (to attempt)	<p-n>verb</p-n>	@sulay
+tuberculosis (infectious disease)	<p-n>noun</p-n>	@tuberkulosis	@itika
+turkey (bird in the genus Meleagris)	<p-n>noun</p-n>	@pabo
+turmeric (spice)	<p-n>noun</p-n>	@dulaw
+turtle (land or marine reptile with a shell)	<p-n>noun</p-n>	@bao
+turtle (sea turtle)	<p-n>noun</p-n>	@pawikan
+twelfth (one of twelve equal parts of a whole)	<p-n>noun</p-n>	@sikanapulog duha	@sikanapog duha
+twelfth (ordinal form of twelve — see also 12th)	<p-n>adj</p-n>	@ikanapulog duha	@ikanapog duha
+twelve (cardinal number 12)	<p-n>num</p-n>	@napulog duha
+twenty (cardinal number)	<p-n>num</p-n>	@kawhaan	@kaluhaan	@kaluwaan
+twenty-eight (number)	<p-n>num</p-n>	@kawhaa'g walo	@baynete otso
+twenty-five (twenty-five)	<p-n>num</p-n>	@kawhaa'g lima	@baynete singko
+twenty-four (cardinal number)	<p-n>num</p-n>	@kawhaa`g upat	@baynete kwatro
+twenty-nine (cardinal number)	<p-n>num</p-n>	@kawhaa'g siyam	@baynete nuybe
+twenty-one (cardinal number)	<p-n>num</p-n>	@kawhaa`g usa	@bayente uno
+twenty-seven (twenty-seven)	<p-n>num</p-n>	@kawhaa'g pito	@baynete syete
+twenty-six (cardinal number)	<p-n>num</p-n>	@kawhaa'g unom	@baynete sais
+twenty-three (twenty-three)	<p-n>num</p-n>	@kawhaa`g tulo	@baynete tres
+twenty-two (twenty-two)	<p-n>num</p-n>	@kawhaa`g duha	@bayente dos
+twice (two times)	<p-n>adv</p-n>	@makaduha	@kaduha
+twilight (evening twilight)	<p-n>noun</p-n>	@kilumkilom
+twilight (light before rising and after the setting of the Sun)	<p-n>noun</p-n>	@kilumkilom
+twin (either of two people who shared the same uterus, or of two similar or closely related objects)	<p-n>noun</p-n>	@kaluha
+two (cardinal number 2)	<p-n>num</p-n>	@duha
+two (digit or figure)	<p-n>noun</p-n>	@duha
+two-thirds (two of three equal parts)	<p-n>noun</p-n>	@duha ka sikatulo
+umbrella (cloth-covered frame used for protection against rain or sun)	<p-n>noun</p-n>	@payong
+uncircumcised (not circumcised)	<p-n>adj</p-n>	@pisot
+understand (to grasp the meaning of)	<p-n>verb</p-n>	@sabot
+unhusked rice (Translations)	<p-n>noun</p-n>	@tipasi
+unify (become one)	<p-n>verb</p-n>	@ihiusa
+unify (cause to become one)	<p-n>verb</p-n>	@ihiusa	@ipahiusa
+unripe (not ripe)	<p-n>adj</p-n>	@hilaw
+until (up to the time of)	<p-n>prep</p-n>	@hangtod
+ununennium (chemical element)	<p-n>noun</p-n>	@ununennium
+urban legend (dubious story)	<p-n>noun</p-n>	@leyenda urbanon
+urinary bladder (urinary bladder)	<p-n>noun</p-n>	@pantog
+urine (liquid excrement)	<p-n>noun</p-n>	@ihi
+use (act of using)	<p-n>noun</p-n>	@gamit
+useless (good-for-nothing, not dependable)	<p-n>adj</p-n>	@walay gamit
+useless (unable to do well)	<p-n>adj</p-n>	@bala	@banga
+useless (unhelpful, pointless)	<p-n>adj</p-n>	@walay gamit
+useless (without use or possibility to be used)	<p-n>adj</p-n>	@walay gamit
+vagina (anatomical sense)	<p-n>noun</p-n>	@bilat	@buto
+vaginal flatulence (emission or expulsion of air from the vagina)	<p-n>noun</p-n>	@butot
+vagrant (wandering from place to place, particularly when without any settled employment or habitation)	<p-n>adj</p-n>	@libod suroy	@libot suroy
+valley (elongated depression between hills or mountains)	<p-n>noun</p-n>	@walog
+value (quality that renders something desirable or valuable)	<p-n>noun</p-n>	@balor
+vanilla (fruit)	<p-n>noun</p-n>	@baynilya
+vegetable (a plant raised for some edible part of it)	<p-n>noun</p-n>	@utanon
+verification (confirmation; authentication)	<p-n>noun</p-n>	@beripikasyon	@kamatuoran
+verification (legal: confirmation by evidence)	<p-n>noun</p-n>	@beripikasyon
+verification (math: verification of an equation)	<p-n>noun</p-n>	@beripikasyon	@pagsuta
+verification (the act of verifying)	<p-n>noun</p-n>	@beripikasyon	@pagsuta
+verification (the state of being verified)	<p-n>noun</p-n>	@beripikasyon	@beripikado
+vertebra (any of the small bones making up the backbone)	<p-n>noun</p-n>	@dugokan
+vertebral column (vertebral column)	<p-n>noun</p-n>	@butagtok
+viand (food eaten with rice)	<p-n>noun</p-n>	@sud-an	@suwa
+vice president (deputy to a president)	<p-n>noun</p-n>	@bise presidente
+vicious (pertaining to vice; characterised by immorality or depravity)	<p-n>adj</p-n>	@mapintas nga
+victory (condition or state of having won a battle or competition, or having succeeded in an effort; an instance of this)	<p-n>noun</p-n>	@kadaogan
+vigil (keeping awake)	<p-n>noun</p-n>	@tukaw
+violate (to break or fail to act by rules)	<p-n>verb</p-n>	@lapas	@lipas
+violation (act or instance of violating)	<p-n>noun</p-n>	@paglapas	@paglipas
+virtue (excellence in morals)	<p-n>noun</p-n>	@birtud
+virtuoso (A person with masterly ability, technique or style)	<p-n>noun</p-n>	@tang-an
+visit (to go and meet (someone))	<p-n>verb</p-n>	@bisita
+vodka (clear distilled alcoholic liquor)	<p-n>noun</p-n>	@bodka
+volcano (mountain containing a magma chamber)	<p-n>noun</p-n>	@bolkan
+voltage (difference in electrostatic potential)	<p-n>noun</p-n>	@boltahe
+vomit (regurgitate the contents of a stomach)	<p-n>verb</p-n>	@suka
+vomit (regurgitated former contents of a stomach)	<p-n>noun</p-n>	@pagsuka
+vulva (collectively the external female sexual organs)	<p-n>noun</p-n>	@puki
+wage (money paid to a worker)	<p-n>noun</p-n>	@suhol
+waist (part of the body)	<p-n>noun</p-n>	@hawak
+wait (delay until some event)	<p-n>verb</p-n>	@hulat
+wake (period after death)	<p-n>noun</p-n>	@haya
+walking catfish (Clarias batrachus)	<p-n>noun</p-n>	@pantat
+walking stick (cane)	<p-n>noun</p-n>	@sungkod
+wall (structure built for defense surrounding an area)	<p-n>noun</p-n>	@paril
+walls have ears (be careful about what you say)	<p-n>proverb</p-n>	@walay aso makumkom
+walrus (large Arctic marine mammal)	<p-n>noun</p-n>	@walrus
+wanted (subject to immediate detainment)	<p-n>adj</p-n>	@gipangita	@wanted
+war (conflict involving organized use of arms)	<p-n>noun</p-n>	@gubat
+warm (having a temperature slightly higher than usual)	<p-n>adj</p-n>	@alimuot	@igang
+warning (warning of danger in signs)	<p-n>intj</p-n>	@pahibalo
+wash (to clean with water — see also deterge)	<p-n>verb</p-n>	@laba	@hugas
+washout (unsuccessful person)	<p-n>noun</p-n>	@bangâ
+wasp (insect)	<p-n>noun</p-n>	@lampinig
+water (inorganic compound H₂O)	<p-n>noun</p-n>	@tubig
+water buffalo (large ungulate)	<p-n>noun</p-n>	@kabaw
+waterfall (flow of water over the edge of a cliff)	<p-n>noun</p-n>	@busay
+watermelon (fruit)	<p-n>noun</p-n>	@pakwan
+wave (moving disturbance, undulation)	<p-n>noun</p-n>	@balod
+wax apple (fruit)	<p-n>noun</p-n>	@makopa
+wax apple (plant)	<p-n>noun</p-n>	@makopa
+way (method or manner)	<p-n>noun</p-n>	@paagi
+way (road, direction, path)	<p-n>noun</p-n>	@dalan
+weakness (condition of being weak)	<p-n>noun</p-n>	@kahuyang
+weapon (instrument of attack or defense in combat)	<p-n>noun</p-n>	@hinagiban
+wear (to have on (clothes or accessories))	<p-n>verb</p-n>	@sul-ob
+weather (state of the atmosphere)	<p-n>noun</p-n>	@panahon
+weave (to form something by passing strands of material over and under one another)	<p-n>verb</p-n>	@hablon
+wee-wee (male or female genitalia (childish))	<p-n>noun</p-n>	@badudoy
+week (period of seven days)	<p-n>noun</p-n>	@semana
+weekly (happening once a week or every week)	<p-n>adj</p-n>	@sinemana
+weight (force due to gravity)	<p-n>noun</p-n>	@kabug-aton
+welcome (greeting given upon someone's arrival)	<p-n>intj</p-n>	@maayong pag-abot	@pag-abot	@pag-abiabi
+well (hole sunk into the ground)	<p-n>noun</p-n>	@mahusay
+west (compass point)	<p-n>noun</p-n>	@kasadpan
+western cattle egret (Bubulcus ibis)	<p-n>noun</p-n>	@talabong
+wet (of an object: covered with or impregnated with liquid)	<p-n>adj</p-n>	@basa
+whale (large sea mammal)	<p-n>noun</p-n>	@balyena
+whale shark (Rhincodon typus)	<p-n>noun</p-n>	@butanding
+what (what? (interrogative pronoun))	<p-n>pron</p-n>	@unsa
+what are you doing (what are you doing)	<p-n>phrase</p-n>	@nag-unsa man ka?
+what is your name (what is your name?)	<p-n>phrase</p-n>	@kinsa imong pangalan	@unsa imong ngalan
+what number (what number, which (in a numbered series))	<p-n>adv</p-n>	@ikapila
+what the (expression of astonishment)	<p-n>intj</p-n>	@gibaliw
+what time is it (what is the time of day?)	<p-n>phrase</p-n>	@unsa nang oras?
+what's done is done (events that have already taken place cannot be changed)	<p-n>proverb</p-n>	@dili na mabalik ang baha paingon sa bukid
+what's the matter (what's wrong?)	<p-n>phrase</p-n>	@unsay problema?
+wheat (grain)	<p-n>noun</p-n>	@trigo
+wheel (a circular device facilitating movement or transportation)	<p-n>noun</p-n>	@ligid
+wheelbarrow (small cart)	<p-n>noun</p-n>	@karetilya
+where are we (where are we)	<p-n>phrase</p-n>	@asa man ta?
+where are you (where are you?)	<p-n>phrase</p-n>	@asa ka?
+where are you from (in which country or region were you born or raised)	<p-n>phrase</p-n>	@taga-diin man ka?
+where do you live (where do you live?)	<p-n>phrase</p-n>	@asa ka nagpuyo?
+whip (rod or rope)	<p-n>noun</p-n>	@latigo
+whisper (act of speaking in a quiet voice)	<p-n>noun</p-n>	@hunghong
+whisper (talk in a quiet voice)	<p-n>verb</p-n>	@hunghong
+white (bright and colourless)	<p-n>adj</p-n>	@puti	@pution	@duas
+white (color)	<p-n>noun</p-n>	@puti	@duas
+white-breasted waterhen (Translations)	<p-n>noun</p-n>	@wakwak
+who (who? (interrogative pronoun))	<p-n>pron</p-n>	@kinsa
+who are you (who are you?)	<p-n>phrase</p-n>	@kinsa ka?
+whore (prostitute)	<p-n>noun</p-n>	@burikat
+whore (sexually promiscuous person)	<p-n>noun</p-n>	@burikat
+why ((interrogative) for what reason)	<p-n>adv</p-n>	@ngano
+wicked (evil or mischievous)	<p-n>adj</p-n>	@payter
+wide (having a large physical extent from side to side)	<p-n>adj</p-n>	@lapad
+width (measurement of something from side to side)	<p-n>noun</p-n>	@gilapdon
+wife (female partner in a marriage)	<p-n>noun</p-n>	@asawa
+wig (head of artificial hair)	<p-n>noun</p-n>	@tagabong
+will (act of choosing to do something; conscious intent or volition)	<p-n>noun</p-n>	@buot	@pagbuot
+willy (The penis)	<p-n>noun</p-n>	@badudoy
+wind (movement of air)	<p-n>noun</p-n>	@hangin
+window (opening for light and air)	<p-n>noun</p-n>	@bintana
+wing (part of an animal)	<p-n>noun</p-n>	@pako
+winter (fourth season, marked by short days and the lowest temperatures)	<p-n>noun</p-n>	@tingtugnaw
+wisdom tooth (rearmost molar in humans)	<p-n>noun</p-n>	@pamuok
+witch (person who uses magic)	<p-n>noun</p-n>	@mamamarang	@bruha
+witching hour (midnight, as an hour bringing bad luck — see also midnight)	<p-n>noun</p-n>	@tinggawas
+witness (one who has a personal knowledge of something)	<p-n>noun</p-n>	@saksi
+witness (someone called to give evidence in a court)	<p-n>noun</p-n>	@saksi
+woman (adult female person)	<p-n>noun</p-n>	@babaye
+woolly aphid (Translations)	<p-n>noun</p-n>	@dugosdugos
+woolly bear (hairy caterpillar)	<p-n>noun</p-n>	@sapiring
+word (unit of language)	<p-n>noun</p-n>	@pulong
+work (labour, employment, occupation, job)	<p-n>noun</p-n>	@trabaho
+workers of the world, unite (workers of the world, unite)	<p-n>phrase</p-n>	@mga trabahador sa mundo, paghiusa
+world (collective/subjective human experience)	<p-n>noun</p-n>	@kalibotan
+world (the Earth)	<p-n>noun</p-n>	@kalibotan
+worm (animal)	<p-n>noun</p-n>	@ulod
+wound (injury)	<p-n>noun</p-n>	@samad
+wrapper (something that is wrapped around something else as a cover or protection)	<p-n>noun</p-n>	@putos
+wrest (to obtain by pulling or violent force)	<p-n>verb</p-n>	@ilog
+wrestle ((intransitive) to grapple or otherwise contend with an opponent in order to throw or force them to the ground, chiefly as a sport or in unarmed combat)	<p-n>verb</p-n>	@dumog
+wriggler (mosquito larva)	<p-n>noun</p-n>	@nguyonguyo
+write (to form letters, etc.)	<p-n>verb</p-n>	@sulat
+writer (person who writes; an author)	<p-n>noun</p-n>	@tigsuwat
+xerox (to make photocopies)	<p-n>verb</p-n>	@seroks
+yawn (open the mouth and take a deep breath)	<p-n>verb</p-n>	@langhab
+yaws (a contagious tropical disease caused by the spirochete Treponema pertenue)	<p-n>noun</p-n>	@puko
+year (time it takes for the Earth to complete one revolution around the Sun)	<p-n>noun</p-n>	@tuig
+yearn (1. intransitive: to have a strong desire for something or to do something)	<p-n>verb</p-n>	@hidlaw
+yearn (1.1. to long for something in the past with melancholy or nostalgia)	<p-n>verb</p-n>	@hidlaw
+yellow (having yellow as its color)	<p-n>adj</p-n>	@dalag	@amarilyo
+yellow-vented bulbul (Pycnonotus goiavier)	<p-n>noun</p-n>	@pirokpirok	@kulkol	@tangul-ol	@agul-ol	@parago
+yesterday (day before today)	<p-n>noun</p-n>	@gahapon
+yesterday (on the day before today)	<p-n>adv</p-n>	@gahapon
+ylang ylang (flower)	<p-n>noun</p-n>	@alangilan
+ylang ylang (tree)	<p-n>noun</p-n>	@alangilan
+yogurt (a milk-based product thickened by a bacterium-aided curdling process)	<p-n>noun</p-n>	@yogur
+yolk (yellow of egg)	<p-n>noun</p-n>	@pughak
+you (subject pronoun: the person being addressed)	<p-n>pron</p-n>	@ikaw
+you can lead a horse to water, but you can't make it drink (you can show someone how to do something, but you can't make them do it)	<p-n>proverb</p-n>	@madala nimo ang baka sa suba apan dili nimo mainom
+you're welcome (reply to thanks)	<p-n>phrase</p-n>	@wala'y sapayan	@wa'y sapayan
+your (belonging to you (singular; one owner))	<p-n>det</p-n>	@imo
+zebra dove (Geopelia striata)	<p-n>noun</p-n>	@kurukuko	@kurukutok
+zero (cardinal number before 1, denoting nothing)	<p-n>num</p-n>	@sero	@nulo
+zero (digit zero)	<p-n>noun</p-n>	@sero
+zero (informal: virtually none)	<p-n>adj</p-n>	@wala
+zero (nothing, or none — see also nothing, null)	<p-n>noun</p-n>	@wala	@nulo
+zero (numeric symbol of zero)	<p-n>noun</p-n>	@sero
+zero (person of little importance — see also nobody, absolute zero)	<p-n>noun</p-n>	@walay gamit	@nada
+zero (to cause or set some value or amount to be zero)	<p-n>verb</p-n>	@i-sero
+zero (to set to zero)	<p-n>verb</p-n>	@i-sero	@serohi
+zitting cisticola (Cisticola juncidis)	<p-n>noun</p-n>	@tiktikrubong
+zombie (the undead)	<p-n>noun</p-n>	@sombi	@amaranhig

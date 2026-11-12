@@ -1,0 +1,818 @@
+#desc	Mentawai (Pagai and Sipora) words from the Holle list, in its Dutch-era spelling (toeboe: tubu), with English, Indonesian and Dutch glosses. Stokhof & Almanar 1987, digitised by Rajeg et al. 2025 (<a href="https://zenodo.org/records/17999484">Zenodo</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>)
+#priority	2
+#lang	mwv,en,id
+toeboe	body; <p-l>badan, tubuh</p-l>; <p-n>lichaam</p-n>	@tubu
+oete	head; <p-l>kepala</p-l>; <p-n>hoofd</p-n>	@ute
+mata	face; <p-l>muka, wajah</p-l>; <p-n>gezicht, aangezicht</p-n><br>eye; <p-l>mata</p-l>; <p-n>oog</p-n><br>unripe; <p-l>belum masak, belum matang, mentah</p-l>; <p-n>onrijp</p-n>
+boekkoe	forehead; <p-l>dahi</p-l>; <p-n>voorhoofd</p-n>	@bukku
+lakoepat	skull; <p-l>tempurung kepala</p-l>; <p-n>schedel</p-n>	@lakupat
+alai	hair; <p-l>rambut</p-l>; <p-n>hoofdhaar</p-n>
+leˈlekat	crown; <p-l>hulu kepala</p-l>; <p-n>kruin (v.h.hoofd)</p-n>	@le'lekat
+talinga	ear; <p-l>telinga</p-l>; <p-n>oor</p-n>
+akkekeiloe	eyebrow; <p-l>alis (tunggal)</p-l>; <p-n>wenkbrauw</p-n>	@akkekeilu
+eloe	tear; <p-l>air mata (tunggal)</p-l>; <p-n>traan</p-n>	@elu
+asak	nose; <p-l>hidung</p-l>; <p-n>neus</p-n>
+singoe	mucus; <p-l>ingus</p-l>; <p-n>snot</p-n><br>phlegm; <p-l>dahak</p-l>; <p-n>fluim</p-n>	@singu
+bailat	cheek; <p-l>pipi</p-l>; <p-n>wang</p-n>
+ngoengoe	mouth; <p-l>mulut</p-l>; <p-n>mond</p-n>	@ngungu
+bibo	lips; <p-l>bibir (jamak)</p-l>; <p-n>lippen</p-n>
+boeloet ngoengoe	moustache; <p-l>kumis</p-l>; <p-n>knevel</p-n><br>goatee; <p-l>janggut seperti, janggut kambing</p-l>; <p-n>sik</p-n><br>beard; <p-l>janggut</p-l>; <p-n>baard</p-n>	@bulut ngungu
+baˈkala	chin; <p-l>dagu</p-l>; <p-n>kin</p-n>	@ba'kala
+lila	tongue; <p-l>lidah</p-l>; <p-n>tong</p-n><br>ray; <p-l>ikan pari</p-l>; <p-n>rog</p-n>
+son	tooth; <p-l>gigi</p-l>; <p-n>tand</p-n>
+ngat ngaret	molar; <p-l>geraham</p-l>; <p-n>kies</p-n>
+koelit son	gums; <p-l>gusi</p-l>; <p-n>tandvlees</p-n>	@kulit son
+tolou lolokad	throat; <p-l>kerongkongan</p-l>; <p-n>keel</p-n>
+lolokkat	neck; <p-l>leher</p-l>; <p-n>hals</p-n>
+roeroekad	chest, breast (male); <p-l>dada (laki-laki, jamak)</p-l>; <p-n>borsten (mannen)</p-n>	@rurukad
+tottot	breasts (female); <p-l>dada (perempuan, jamak)</p-l>; <p-n>borsten (vrouwen)</p-n>
+soeat tottot	breast milk; <p-l>air susu</p-l>; <p-n>melk</p-n>	@suat tottot
+moetottot	to suck at the breast; <p-l>menyusu</p-l>; <p-n>zuigen &lt;aan de borst&gt;</p-n>	@mutottot
+oesoe	rib; <p-l>tulang rusuk</p-l>; <p-n>rib</p-n>	@usu
+teinoeng	heart; <p-l>jantung</p-l>; <p-n>hart</p-n>	@teinung
+baloegoe	stomach; <p-l>lambung</p-l>; <p-n>maag</p-n>	@balugu
+tinanai	belly; <p-l>perut</p-l>; <p-n>bulk</p-n>
+atei	liver; <p-l>hati</p-l>; <p-n>lever</p-n>
+lappegoe	bile; <p-l>empedu</p-l>; <p-n>gal</p-n>	@lappegu
+poesoe	navel; <p-l>pusat</p-l>; <p-n>navel</p-n><br>umbilical cord; <p-l>tali pusat</p-l>; <p-n>navelstreng</p-n>	@pusu
+teitei	back; <p-l>belakang, punggung</p-l>; <p-n>rug</p-n>
+sikeilik	shoulderblade; <p-l>tulang belikat</p-l>; <p-n>schouderblad</p-n>
+tambaut	buttock; <p-l>pantat bagian kiri atau kanan</p-l>; <p-n>bil</p-n>
+matat baut	posterior, buttocks; <p-l>pantat</p-l>; <p-n>achterste</p-n>
+matat oen	posterior, buttocks; <p-l>pantat</p-l>; <p-n>achterste</p-n>	@matat un
+matat oet	posterior, buttocks; <p-l>pantat</p-l>; <p-n>achterste</p-n>	@matat ut
+tokoi	tailbone, coccyx; <p-l>tulang tungging, tulang ekor</p-l>; <p-n>stuit</p-n>
+moetanai	to defecate; <p-l>berak</p-l>; <p-n>poepen</p-n>	@mutanai
+tanai	faeces; <p-l>tahi</p-l>; <p-n>poep</p-n>
+moeëtoet	to fart; <p-l>berkentut</p-l>; <p-n>wind laten</p-n>	@muetut
+maboete	to stink, to smell; <p-l>berbau busuk</p-l>; <p-n>stinken</p-n>	@mabute
+peret	penis; <p-l>batang pelir</p-l>; <p-n>penis</p-n>
+tilei	vagina; <p-l>puki, liang peranakan</p-l>; <p-n>vagina</p-n>
+moekia	to urinate; <p-l>kencing (k.k.)</p-l>; <p-n>pissen</p-n>	@mukia
+kia	piss, urine; <p-l>air kencing (k.b.)</p-l>; <p-n>pis</p-n>
+rere	leg; <p-l>kaki</p-l>; <p-n>been</p-n>; <p-n>(note: <i>oedoet tadda</i> instep of foot)</p-n>
+sokoel	ankle; <p-l>buku kaki, pergelangan kaki</p-l>; <p-n>enkel</p-n>	@sokul
+tadda	heel; <p-l>tumit</p-l>; <p-n>hiel</p-n>
+bakkapat	thigh; <p-l>paha</p-l>; <p-n>dij</p-n>
+taket bokolo	knee; <p-l>lutut</p-l>; <p-n>knie</p-n>
+biti	calf; <p-l>betis</p-l>; <p-n>knit</p-n>
+paloe	shin; <p-l>tulang kering</p-l>; <p-n>scheen</p-n>	@palu
+para	arm; <p-l>lengan</p-l>; <p-n>arm</p-n>
+takep	hand; <p-l>tangan</p-l>; <p-n>hand</p-n><br>deaf; <p-l>tuli</p-l>; <p-n>doof</p-n>
+kabe	hand; <p-l>tangan</p-l>; <p-n>hand</p-n>
+matat keppa	armpit; <p-l>ketiak</p-l>; <p-n>oksel</p-n>
+eto	elbow; <p-l>siku</p-l>; <p-n>elleboog</p-n>
+bagat takep	palm of the hand; <p-l>telapak tangan</p-l>; <p-n>handpalm</p-n>
+singongai	fingers; <p-l>jari tangan (jamak)</p-l>; <p-n>vingers</p-n>
+soelet	(finger)nail; <p-l>kuku</p-l>; <p-n>nagel</p-n>	@sulet
+sikebboe	thumb; <p-l>ibu jari</p-l>; <p-n>duim</p-n>	@sikebbu
+panausau	index finger; <p-l>telunjuk</p-l>; <p-n>wijsvinger</p-n>
+siritenga	middle finger; <p-l>jari tengah</p-l>; <p-n>middelvinger</p-n>
+inat singongai	middle finger; <p-l>jari tengah</p-l>; <p-n>middelvinger</p-n>
+sitaoni	ring finger; <p-l>jari manis</p-l>; <p-n>ringvinger</p-n>
+togat singongai	little finger; <p-l>kelingking</p-l>; <p-n>pink</p-n>
+tolat	bone; <p-l>tulang</p-l>; <p-n>been (gebeente)</p-n>
+logau	blood; <p-l>darah</p-l>; <p-n>bloed</p-n>
+akkoela	flesh; <p-l>daging</p-l>; <p-n>vlees op het lichaam</p-n>	@akkula
+oengat	tendon; <p-l>urat</p-l>; <p-n>pees</p-n><br>root; <p-l>akar</p-l>; <p-n>wortel &lt;unsp.&gt;</p-n>	@ungat
+koelit	skin; <p-l>kulit</p-l>; <p-n>huid</p-n><br>bark; <p-l>kulit kayu</p-l>; <p-n>schors</p-n><br>rind, peel; <p-l>kulit buah</p-l>; <p-n>schil</p-n>	@kulit
+boeloe	hair; <p-l>rambut</p-l>; <p-n>haar &lt;unsp.&gt;</p-n>	@bulu
+attinang	sweat; <p-l>keringat</p-l>; <p-n>zweet</p-n>
+loedji	saliva; <p-l>ludah</p-l>; <p-n>speeksel</p-n>	@luji
+moeënga	to breath; <p-l>bernapas</p-l>; <p-n>ademen</p-n>	@muenga
+moekôm	to eat; <p-l>makan</p-l>; <p-n>eten</p-n>	@mukom
+maladje	hungry; <p-l>lapar</p-l>; <p-n>hongerig</p-n>	@malaje
+moelô	to drink; <p-l>minum</p-l>; <p-n>drinken</p-n>	@mulo
+laiket	drunk; <p-l>mabuk</p-l>; <p-n>dronken</p-n>; <p-n>(note: <i>mapoeing mata</i> = dizzy)</p-n>
+maônggou	thirsty; <p-l>haus</p-l>; <p-n>dorstig</p-n>	@maonggou
+maektek	satisfied; <p-l>kenyang, puas</p-l>; <p-n>verzadigd</p-n><br>replete, satisfied; <p-l>kenyang, puas</p-l>; <p-n>zat, verzadigd</p-n>
+goeng	to swallow; <p-l>telan</p-l>; <p-n>slikken</p-n>	@gung
+merep	to sleep; <p-l>tidur</p-l>; <p-n>slapen</p-n>
+merem	to sleep; <p-l>tidur</p-l>; <p-n>slapen</p-n>
+pangamoek	dream; <p-l>mimpi</p-l>; <p-n>dromen, droom &lt;unsp.&gt;</p-n>	@pangamuk
+moerio	to stand; <p-l>berdiri</p-l>; <p-n>staan</p-n>	@murio
+moeënoeng	to walk; <p-l>berjalan</p-l>; <p-n>lopen</p-n>	@muenung
+moegaila	to lie supine; <p-l>telentang</p-l>; <p-n>liggen op de rug</p-n>	@mugaila
+moeloekke	to lie prone; <p-l>tiarap</p-l>; <p-n>liggen op de buik</p-n>	@mulukke
+toeboedjoek	to lie; <p-l>berbaring</p-l>; <p-n>liggen (in het algemeen)</p-n>	@tubujuk
+moekoeddoe	to sit (on a chair); <p-l>duduk (di atas kursi)</p-l>; <p-n>zitten (op een stoel, bank etc.)</p-n>	@mukuddu
+moerekkoek	to sit (with the knees bent to one side); <p-l>bertimpuh</p-l>; <p-n>zitten (met de beide benen op zij en gebogen)</p-n>	@murekkuk
+moerêggeu	to squat; <p-l>berjongkok</p-l>; <p-n>hurken</p-n>	@mureggeu
+moelalak	to swim; <p-l>berenang</p-l>; <p-n>zwemmen</p-n>	@mulalak
+moeraû	to take a bath; <p-l>mandi</p-l>; <p-n>baden &lt;intr.&gt;</p-n>	@murau
+nganga	voice; <p-l>suara</p-l>; <p-n>stem</p-n>
+madjorok	hoarse; <p-l>parau</p-l>; <p-n>schor(hees)</p-n>	@majorok
+moegerei	to shout; <p-l>berteriak</p-l>; <p-n>schreeuwen</p-n>	@mugerei
+moegaˈgaˈ	to laugh; <p-l>tertawa</p-l>; <p-n>lachen</p-n>	@muga'ga'
+moesoû	to weep; <p-l>menangis</p-l>; <p-n>schreien &lt;intr.&gt;</p-n>	@musou
+tsimin	to smile; <p-l>tersenyum</p-l>; <p-n>glimlachen</p-n>
+moehoi	to sigh; <p-l>berkeluh kesah, mengeluh</p-l>; <p-n>zuchten</p-n>	@muhoi
+moeloedji	to spit; <p-l>meludah</p-l>; <p-n>spugen, spuwen</p-n>	@muluji
+moepaisi	to sneeze; <p-l>bersin</p-l>; <p-n>niezen</p-n>	@mupaisi
+moekôkolo	to cough; <p-l>batuk</p-l>; <p-n>hoesten</p-n>	@mukokolo
+moesokot	hiccups; <p-l>tersedu</p-l>; <p-n>hik</p-n>	@musokot
+toesagat	to choke; <p-l>tersedak</p-l>; <p-n>zich verslikken</p-n>	@tusagat
+moegê	belch; <p-l>sendawa</p-l>; <p-n>boer (oprisping)</p-n>	@muge
+moeoap	to yawn; <p-l>menguap</p-l>; <p-n>gapen</p-n>	@muoap
+malaulau	to nod; <p-l>mengangguk</p-l>; <p-n>knikken</p-n>
+moeri manoea	to live (alive); <p-l>hidup</p-l>; <p-n>leven (levend)</p-n>	@muri manua
+mâtei	to die; <p-l>meninggal dunia</p-l>; <p-n>sterven</p-n>	@matei
+katatakat	death; <p-l>kematian</p-l>; <p-n>dood (zelfstnw.)</p-n>
+simamâtei	corpse; <p-l>mayat</p-l>; <p-n>lijk</p-n>	@simamatei
+râtei	grave; <p-l>kuburan</p-l>; <p-n>graf</p-n>	@ratei
+moenoe	to kill; <p-l>membunuh</p-l>; <p-n>doden</p-n>	@munu
+mateiake	to kill; <p-l>membunuh</p-l>; <p-n>doden</p-n>
+koepkoepmen	to inherit; <p-l>mewarisi</p-l>; <p-n>erven</p-n>	@kupkupmen
+koepkoep akenen	inheritance; <p-l>warisan</p-l>; <p-n>erfenis</p-n>	@kupkup akenen
+sinetekat	wound; <p-l>luka</p-l>; <p-n>wond</p-n>
+appoe	an infected wound; <p-l>luka bernanah</p-l>; <p-n>zweer</p-n><br>boil; <p-l>bisul</p-l>; <p-n>steenpuist</p-n>	@appu
+bokbong	an infected wound; <p-l>luka bernanah</p-l>; <p-n>zweer</p-n>
+balak	scar; <p-l>bekas luka</p-l>; <p-n>litteken</p-n><br>worm; <p-l>cacing</p-l>; <p-n>worm</p-n>
+mabesi	ill; <p-l>sakit</p-l>; <p-n>ziek</p-n><br>to be ill; <p-l>merasa sakit</p-l>; <p-n>ziek zijn</p-n>
+maron toeboe	healthy; <p-l>sehat</p-l>; <p-n>gezond</p-n>	@maron tubu
+roket	fever; <p-l>demam (k.b.)</p-l>; <p-n>koorts</p-n>
+besit baga	stomach ache; <p-l>sakit perut</p-l>; <p-n>buikpijn</p-n>
+patsat	diarrhoea; <p-l>menceret (k.b.)</p-l>; <p-n>buikloop</p-n>
+mabesi oetoe	headache; <p-l>sakit kepala, pusing</p-l>; <p-n>hoofdpijn</p-n>	@mabesi utu
+masingoe	a cold; <p-l>selesma</p-l>; <p-n>verkoudheid</p-n>	@masingu
+maseret	gone to sleep (limbs); <p-l>kesemutan</p-l>; <p-n>slapen van de ledematen, slaap (mierenkriewel)</p-n>
+sakit	paralysed; <p-l>lumpuh</p-l>; <p-n>verlamd</p-n>
+mapeset	blind; <p-l>buta</p-l>; <p-n>blind</p-n>
+likei	squinting; <p-l>juling</p-l>; <p-n>scheel</p-n>
+liki	squinting; <p-l>juling</p-l>; <p-n>scheel</p-n>
+male	cured; <p-l>sembuh</p-l>; <p-n>genezen</p-n>
+lage	medicine (with magic power); <p-l>obat (dari dukun)</p-l>; <p-n>geneesmiddel (met toverkracht)</p-n>
+siagai gaut	doctor (medicine man); <p-l>dokter (dukun)</p-l>; <p-n>dokter (dukun)</p-n>; <p-n>(note: who knows medicine)</p-n>
+sirimanoea	man, mankind; <p-l>manusia</p-l>; <p-n>mens (in de zin van mensdom)</p-n><br>people; <p-l>orang</p-l>; <p-n>mens (in de zin van de mensen werden gedood)</p-n>	@sirimanua
+Tai tako	people; <p-l>orang</p-l>; <p-n>mens (in de zin van de mensen v. het gebergte zijn onze vijanden)</p-n>; <p-n>(note: the people from kako)</p-n>
+oni	name; <p-l>nama</p-l>; <p-n>naam</p-n>
+simantêoe	man; <p-l>orang laki-laki</p-l>; <p-n>man</p-n>	@simanteu
+sinanalep	woman; <p-l>orang perempuan</p-l>; <p-n>vrouw</p-n><br>female; <p-l>perempuan</p-l>; <p-n>vrouwelijk &lt;unsp.&gt;</p-n><br>husband; <p-l>suami</p-l>; <p-n>man (echtgenoot)</p-n><br>wife; <p-l>istri</p-l>; <p-n>vrouw (echtgenote)</p-n>
+simanteoe	male (human); <p-l>laki-laki</p-l>; <p-n>mannelijk (v.d. mens)</p-n>	@simanteu
+boetoeat	male (animal); <p-l>jantan</p-l>; <p-n>mannelijk (v.d.dieren)</p-n>	@butuat
+tai okko	<p-n>maagd, maagdom &lt;unsp.&gt;</p-n>
+si okko	<p-n>maagd, maagdom &lt;unsp.&gt;</p-n>
+tai lainge	boy, lad; <p-l>anak laki-laki</p-l>; <p-n>jongen</p-n>
+si lainge	boy, lad; <p-l>anak laki-laki</p-l>; <p-n>jongen</p-n>
+toga sinalalep	girl; <p-l>gadis</p-l>; <p-n>meisje</p-n>
+oekui	father; <p-l>ayah</p-l>; <p-n>vader</p-n>	@ukui
+ama	father; <p-l>ayah</p-l>; <p-n>vader</p-n>; <p-n>(note: Sabiroet)</p-n>
+ina	mother; <p-l>ibu</p-l>; <p-n>moeder</p-n>
+toga	child; <p-l>anak</p-l>; <p-n>kind &lt;unsp.&gt;</p-n>; <p-n>(note: <i>sikeboekat</i> the first-born)</p-n><br>sprout; <p-l>tunas</p-l>; <p-n>spruit</p-n><br>young of animal (calf, foal, chicken, etc.); <p-l>anak binatang</p-l>; <p-n>jong van dier (kalf, veulen, kuiken, etc.)</p-n>
+togat simanteoe	son; <p-l>anak laki-laki</p-l>; <p-n>zoon</p-n>	@togat simanteu
+togat sinanalep	daughter; <p-l>anak perempuan</p-l>; <p-n>dochter</p-n>
+siboeboea	grandfather; <p-l>nenek laki-laki (kakek)</p-l>; <p-n>grootvader</p-n><br>grandmother; <p-l>nenek perempuan (nenek)</p-l>; <p-n>grootmoeder</p-n><br>great-grandparents; <p-l>moyang</p-l>; <p-n>overgrootouders</p-n>	@sibubua
+teteu	grandfather; <p-l>nenek laki-laki (kakek)</p-l>; <p-n>grootvader</p-n>
+tai keboekat siboeroe	ancestors; <p-l>leluhur, nenek moyang</p-l>; <p-n>voorouders</p-n>	@tai kebukat siburu
+alei	brother; <p-l>saudara laki-laki</p-l>; <p-n>broeder</p-n>; <p-n>(note: calls his brother/sister)</p-n><br>brother; <p-l>saudara laki-laki</p-l>; <p-n>broeder</p-n>; <p-n>(note: <i>balin</i> brother and sister calls each other)</p-n><br>sister; <p-l>saudara perempuan</p-l>; <p-n>zuster</p-n>; <p-n>(note: calls his brother/sister)</p-n><br>sister; <p-l>saudara perempuan</p-l>; <p-n>zuster</p-n>; <p-n>(note: <i>balin</i> brother and sister calls each other)</p-n><br>comrade, friend; <p-l>sekutu, teman</p-l>; <p-n>metgezel, vriend</p-n>
+kebboe	<p-n>oudere broeder, zuster &lt;unsp.&gt;</p-n>	@kebbu
+bagi	<p-n>jongere broeder, zuster &lt;unsp.&gt;</p-n>
+poenoe teteu	grandchild; <p-l>cucu</p-l>; <p-n>kleinkind</p-n>	@punu teteu
+oekoei	uncle FB; <p-l>paman FB</p-l>; <p-n>oom &lt;FB&gt;</p-n>	@ukui
+badja	uncle FB; <p-l>paman FB</p-l>; <p-n>oom &lt;FB&gt;</p-n>	@baja
+kamaman	uncle MB; <p-l>paman MB</p-l>; <p-n>oom &lt;MB&gt;</p-n>
+kameinan	aunt FZ; <p-l>bibi FZ</p-l>; <p-n>tante &lt;FZ&gt;</p-n><br>the supreme being; <p-l>yang maha kuasa</p-l>; <p-n>opperwezen</p-n>; <p-n>(note: water spirits one does not know one Supreme Being because all the names of the good spirtits are preceded by the plural marker “tai”)</p-n>
+kalâbai	aunt MZ; <p-l>bibi MZ</p-l>; <p-n>tante &lt;MZ&gt;</p-n>	@kalabai
+boea	<p-n>neef &lt;unsp.&gt;</p-n><br><p-n>neef &lt;unsp.&gt;</p-n><br><p-n>nicht &lt;unsp.&gt;</p-n><br><p-n>nicht &lt;unsp.&gt;</p-n><br>fruit; <p-l>buah</p-l>; <p-n>vrucht</p-n>	@bua
+momoi	<p-n>neef &lt;unsp.&gt;</p-n><br><p-n>neef &lt;unsp.&gt;</p-n><br><p-n>nicht &lt;unsp.&gt;</p-n><br><p-n>nicht &lt;unsp.&gt;</p-n><br>to be able to; <p-l>dapat, sanggup</p-l>; <p-n>kunnen</p-n>
+talikoe	<p-n>schoonouders wederzijdse ouders der gehuwden &lt;unsp.&gt;</p-n>	@taliku
+talikoe simanteoe	son-in-law; <p-l>menantu laki-laki</p-l>; <p-n>schoonzoon</p-n>	@taliku simanteu
+talikoe sinanalep	daughter-in-law; <p-l>menantu perempuan</p-l>; <p-n>schoondochter</p-n>	@taliku sinanalep
+sioeran	<p-n>stiefzoon, stiefdochter &lt;unsp.&gt;</p-n><br>adopted child; <p-l>anak pungut ; anak angkat</p-l>; <p-n>aangenomen kind</p-n>	@siuran
+oekui eninasioerau	stepparents; <p-l>ayah dan ibu tiri</p-l>; <p-n>stiefouders</p-n>	@ukui eninasiurau
+eira	<p-n>zwager &lt;unsp.&gt;</p-n>
+lakoet	<p-n>schoonbroer, schoonzuster &lt;unsp.&gt;</p-n>	@lakut
+sauloe	<p-n>schoonbroer, schoonzuster &lt;unsp.&gt;</p-n>	@saulu
+samandi	related; <p-l>keluarga</p-l>; <p-n>verwant</p-n>
+taˈ samandi	unrelated; <p-l>bukan keluarga</p-l>; <p-n>niet verwant</p-n>	@ta' samandi
+tairasema	guest, stranger; <p-l>tamu, orang asing</p-l>; <p-n>gast, vreemdeling</p-n>
+laggai	town (capital); <p-l>kota (ibu kota)</p-l>; <p-n>stad (of hoofdplaats)</p-n><br>hamlet; <p-l>dukuh</p-l>; <p-n>bijdorp (gehucht)</p-n>
+sikarei	sorcerer; <p-l>tukang sihir</p-l>; <p-n>tovenaar (of bezweerder)</p-n>
+ngâlou	talisman; <p-l>jimat</p-l>; <p-n>talisman</p-n>	@ngalou
+katoea gadjat	omen; <p-l>pertanda</p-l>; <p-n>voorteken</p-n>	@katua gajat
+sanitoe	ghost; <p-l>setan</p-l>; <p-n>spook</p-n><br>evil spirit; <p-l>ruh jahat</p-l>; <p-n>kwade geest</p-n>; <p-n>(note: spook, originally the soul of a person who died)</p-n>	@sanitu
+saboeloengan	ghost; <p-l>setan</p-l>; <p-n>spook</p-n>	@sabulungan
+ketaat	<p-n>ziel, geest (v.e. levende, v.e. dode) &lt;unsp.&gt;</p-n>; <p-n>(note: <i>ketsat</i>)</p-n>
+nitoe	<p-n>ziel, geest (v.e. levende, v.e. dode) &lt;unsp.&gt;</p-n>	@nitu
+simagre	<p-n>ziel, geest (v.e. levende, v.e. dode) &lt;unsp.&gt;</p-n>
+taikamanoea	the supreme being; <p-l>yang maha kuasa</p-l>; <p-n>opperwezen</p-n>; <p-n>(note: the spirits of the clouds one does not know one Supreme Being because all the names of the good spirtits are preceded by the plural marker “tai”)</p-n>	@taikamanua
+taikaleleu	the supreme being; <p-l>yang maha kuasa</p-l>; <p-n>opperwezen</p-n>; <p-n>(note: the spirits of the forest one does not know one Supreme Being because all the names of the good spirtits are preceded by the plural marker “tai”)</p-n>
+masiboeloe	to worship; <p-l>menyembah</p-l>; <p-n>aanbidden</p-n>	@masibulu
+poengoengoean	story; <p-l>cerita</p-l>; <p-n>verhaal</p-n>	@pungunguan
+leleoi	poem; <p-l>sanjak, syair</p-l>; <p-n>gedicht (of rijmwerk)</p-n>
+simakate baga	virtue; <p-l>kebajikan</p-l>; <p-n>deugd (goed zijn)</p-n>
+simadjô	sin; <p-l>dosa</p-l>; <p-n>zonde (kwaad doen)</p-n>	@simajo
+takeikei	forbidden; <p-l>pantangan, pemali</p-l>; <p-n>verboden (onrein)</p-n>
+sema	town hall; <p-l>balai kota</p-l>; <p-n>raadhuis</p-n>
+poenen	town hall; <p-l>balai kota</p-l>; <p-n>raadhuis</p-n>	@punen
+moelia	town hall; <p-l>balai kota</p-l>; <p-n>raadhuis</p-n>	@mulia
+sikerei	king; <p-l>raja</p-l>; <p-n>koning</p-n><br>a sort of first minister; <p-l>patih</p-l>; <p-n>patih</p-n>
+laggaira sanitoe	(sacred) place (held in awe); <p-l>tempat (menyeramkan)</p-l>; <p-n>plaats (die gevreesd wordt)</p-n>	@laggaira sanitu
+rimata	village head; <p-l>kepala kampung</p-l>; <p-n>dorpshoofd</p-n>
+oektoeh	happiness; <p-l>kebahagiaan</p-l>; <p-n>geluk</p-n>	@uktuh
+masoeboe	unhappiness; <p-l>kesedihan, kemalangan</p-l>; <p-n>ongeluk</p-n>	@masubu
+arat	common law; <p-l>hukum adat</p-l>; <p-n>gewoonterecht</p-n>
+ioekoem	to punish; <p-l>menghukum</p-l>; <p-n>straffen</p-n>	@iukum
+oetak	fine; <p-l>denda</p-l>; <p-n>boete</p-n><br>debt; <p-l>hutang</p-l>; <p-n>schuld</p-n>	@utak
+katoemoenengan	witness; <p-l>saksi</p-l>; <p-n>getuige</p-n>	@katumunengan
+poesikebboe koenan	marry, marriage; <p-l>menikah, perkawinan</p-l>; <p-n>huwen &lt;unsp.&gt; huwelijk</p-n>	@pusikebbu kunan
+poetalimongat	marry, marriage; <p-l>menikah, perkawinan</p-l>; <p-n>huwen &lt;unsp.&gt; huwelijk</p-n>	@putalimongat
+poetadekat	marry, marriage; <p-l>menikah, perkawinan</p-l>; <p-n>huwen &lt;unsp.&gt; huwelijk</p-n>	@putadekat
+pagalak	to divorce; <p-l>bercerai</p-l>; <p-n>scheiden</p-n>
+moetoga	to give birth to; <p-l>melahirkan</p-l>; <p-n>baren (bevallen)</p-n>	@mutoga
+moesilainge	to commit adultery; <p-l>berzinah</p-l>; <p-n>overspel bedrijven</p-n>; <p-n>(note: <i>silainge</i> a youth)</p-n><br>to commit adultery; <p-l>berzinah</p-l>; <p-n>overspel bedrijven</p-n>; <p-n>(note: to behave as a youth)</p-n>	@musilainge
+paelet	to commit adultery; <p-l>berzinah</p-l>; <p-n>overspel bedrijven</p-n>; <p-n>(note: <i>silainge</i> a youth)</p-n><br>to commit adultery; <p-l>berzinah</p-l>; <p-n>overspel bedrijven</p-n>; <p-n>(note: <i>moesilainge</i> to behave as a youth)</p-n>
+ibat laggai	prostitute; <p-l>pelacur</p-l>; <p-n>lichtekooi</p-n>; <p-n>(note: <i>iba</i> bait)</p-n><br>prostitute; <p-l>pelacur</p-l>; <p-n>lichtekooi</p-n>; <p-n>(note: <i>laggai</i> villagge)</p-n>
+pipîau	flute; <p-l>suling</p-l>; <p-n>fluit</p-n>	@pipiau
+katêuba	drum; <p-l>genderang</p-l>; <p-n>trom</p-n>	@kateuba
+ngong	gong; <p-l>gong</p-l>; <p-n>gong</p-n>
+djadjaok	Jewˈs harp; <p-l>ginggung (genggong)</p-l>; <p-n>mondtrom</p-n>	@jajaok
+moetoeroe	to dance; <p-l>menari</p-l>; <p-n>dansen</p-n>	@muturu
+patoera	riddle; <p-l>teka-teki</p-l>; <p-n>raadsel</p-n>	@patura
+pagoeile	to play; <p-l>bermain</p-l>; <p-n>spelen</p-n>	@paguile
+oema	house; <p-l>rumah</p-l>; <p-n>huis</p-n><br>bird; <p-l>burung</p-l>; <p-n>vogel (in het algemeen en andere soorten)</p-n>; <p-n>(note: <i>kiaibok</i> beo)</p-n>	@uma
+lalep	house; <p-l>rumah</p-l>; <p-n>huis</p-n>
+roesoek	house; <p-l>rumah</p-l>; <p-n>huis</p-n>	@rusuk
+sâpou	hut, shelter; <p-l>pondok</p-l>; <p-n>hut (op het veld enz.)</p-n>	@sapou
+para boeboengan	ridge of roof; <p-l>bubungan</p-l>; <p-n>nok van het dak</p-n>	@para bubungan
+tobat	roofing: thatch; <p-l>atap</p-l>; <p-n>dakbedekking atap:</p-n>
+kâsou	rafter; <p-l>kasau</p-l>; <p-n>dakspar</p-n>	@kasou
+matat bâlin	door; <p-l>daun pintu</p-l>; <p-n>deur</p-n>	@matat balin
+torak	window; <p-l>jendela</p-l>; <p-n>venster</p-n>
+sikeîli	corner; <p-l>sudut</p-l>; <p-n>hoek</p-n>	@sikeili
+orat	staircase, steps; <p-l>tangga, anak tangga</p-l>; <p-n>trap</p-n>
+bagat lalep	floor; <p-l>lantai</p-l>; <p-n>vloer &lt;unsp.&gt;</p-n>; <p-n>(note: <i>laibokat</i> floor of the house)</p-n>
+kêkere	<p-n>omwanding &lt;unsp.&gt;</p-n>	@kekere
+arigri	main posts; <p-l>tiang rumah</p-l>; <p-n>hoofdstijlen</p-n>
+baibai	ceiling beams; <p-l>langit-langit rumah, tutup jenang</p-l>; <p-n>zolderbalken</p-n>
+tilakboek	curtain; <p-l>tirai</p-l>; <p-n>gordijn</p-n><br>bed curtain; <p-l>kelambu</p-l>; <p-n>bedgordijn</p-n>	@tilakbuk
+pareman	sleeping place; <p-l>kamar tidur</p-l>; <p-n>slaapplaats</p-n>
+lape	sleeping mat; <p-l>tikar</p-l>; <p-n>ligmatje</p-n>
+patoeloenan	pillow; <p-l>bantal</p-l>; <p-n>hoofdkussen</p-n>	@patulunan
+lâpara	attic (under the roof); <p-l>loteng</p-l>; <p-n>zolder (onder het dak)</p-n>	@lapara
+salaˈsa	rack above the fireplace; <p-l>para-para</p-l>; <p-n>zolderrek boven het vuur, rekje boven de haard</p-n>	@sala'sa
+poeroe soeat	hearth, fireplace; <p-l>dapur, tungku</p-l>; <p-n>kookplaats</p-n>	@puru suat
+api	fire; <p-l>api</p-l>; <p-n>vuur</p-n>
+malabo	fire; <p-l>api, kebakaran</p-l>; <p-n>brand</p-n><br>to burn (tr.); <p-l>membakar (tr.)</p-l>; <p-n>verbranden (overg.)</p-n>
+masiro͡esoei	to make a fire; <p-l>memasang api</p-l>; <p-n>vuur aanleggen</p-n>	@masiroesui
+masipeˈaka	to extinguish (with water); <p-l>memadamkan api (dengan air)</p-l>; <p-n>vuur blussen</p-n>	@masipe'aka
+koedjoek	smoke; <p-l>asap</p-l>; <p-n>rook</p-n>	@kujuk
+aboe	ashes; <p-l>abu</p-l>; <p-n>as</p-n>	@abu
+loina	fire wood; <p-l>kayu api</p-l>; <p-n>brandhout</p-n><br>tree; <p-l>pohon</p-l>; <p-n>boom</p-n>
+toenam alito	to put on (light); <p-l>menyalakan (sinar)</p-l>; <p-n>aansteken (licht)</p-n>	@tunam alito
+peˈake alito	to put off (light); <p-l>memadamkan (sinar)</p-l>; <p-n>uitdoen (licht)</p-n>	@pe'ake alito
+oedanan	bench, seat; <p-l>bangku untuk duduk</p-l>; <p-n>zitbankje</p-n>	@udanan
+koali	pot (iron); <p-l>kuali (besi), panci (besi)</p-l>; <p-n>pan (ijzeren)</p-n>; <p-n>(note: imported)</p-n>
+pario	pot (earthenware); <p-l>panci, kuali (tanah liat)</p-l>; <p-n>pan (aarden)</p-n>; <p-n>(note: imported)</p-n>
+poelokat	drinking bowl; <p-l>tempat minum</p-l>; <p-n>drinknap</p-n>	@pulokat
+pisau	knife; <p-l>pisau</p-l>; <p-n>mes</p-n><br>kris; <p-l>keris</p-l>; <p-n>dolk (kris)</p-n>
+palite	knife; <p-l>pisau</p-l>; <p-n>mes</p-n><br>kris; <p-l>keris</p-l>; <p-n>dolk (kris)</p-n><br>dagger; <p-l>golok</p-l>; <p-n>dolk (badi-badi)</p-n>
+têgele	chopper; <p-l>parang</p-l>; <p-n>hakmes</p-n>	@tegele
+sisip	spoon; <p-l>sendok</p-l>; <p-n>lepel</p-n>
+sese͡iloe	ladle; <p-l>ciduk, sendok</p-l>; <p-n>scheplepel, schepper</p-n>	@seseilu
+manga͡isoe	to fetch water; <p-l>mengambil air</p-l>; <p-n>water halen</p-n>	@mangaisu
+karadja	basket (all sorts of); <p-l>keranjang (bermacam-macam)</p-l>; <p-n>mand (grote, kleine, soorten)</p-n>	@karaja
+ore oegad	basket (all sorts of); <p-l>keranjang (bermacam-macam)</p-l>; <p-n>mand (grote, kleine, soorten)</p-n>	@ore ugad
+garaˈraˈ	basket (all sorts of); <p-l>keranjang (bermacam-macam)</p-l>; <p-n>mand (grote, kleine, soorten)</p-n>	@gara'ra'
+goeroegou	basket (all sorts of); <p-l>keranjang (bermacam-macam)</p-l>; <p-n>mand (grote, kleine, soorten)</p-n>	@gurugou
+long	basket (all sorts of); <p-l>keranjang (bermacam-macam)</p-l>; <p-n>mand (grote, kleine, soorten)</p-n>
+poeagau	basket (all sorts of); <p-l>keranjang (bermacam-macam)</p-l>; <p-n>mand (grote, kleine, soorten)</p-n>	@puagau
+loeloemai	basket (all sorts of); <p-l>keranjang (bermacam-macam)</p-l>; <p-n>mand (grote, kleine, soorten)</p-n><br><p-n>schepper, scheppen &lt;unsp.&gt;</p-n>	@lulumai
+bâkoeloe	basket (all sorts of); <p-l>keranjang (bermacam-macam)</p-l>; <p-n>mand (grote, kleine, soorten)</p-n>	@bakulu
+boeloeˈboeˈ	basket (all sorts of); <p-l>keranjang (bermacam-macam)</p-l>; <p-n>mand (grote, kleine, soorten)</p-n>	@bulu'bu'
+boloˈboˈ	basket (all sorts of); <p-l>keranjang (bermacam-macam)</p-l>; <p-n>mand (grote, kleine, soorten)</p-n>	@bolo'bo'
+alito	lamp; <p-l>lampu</p-l>; <p-n>lamp</p-n>
+toenam	lamp wick; <p-l>sumbu lampu</p-l>; <p-n>lampepit</p-n>	@tunam
+oˈong	torch; <p-l>suluh</p-l>; <p-n>fakkel</p-n>	@o'ong
+kîsou	torch; <p-l>suluh</p-l>; <p-n>fakkel</p-n>	@kisou
+maneoe	to cook; <p-l>memasak</p-l>; <p-n>koken &lt;unsp.&gt;</p-n>	@maneu
+masigoreng	to bake, to grill, to fry; <p-l>membakar, panggang menggoreng (dengan minyak)</p-l>; <p-n>braden</p-n>
+ipoekpoek	to roast (in ashes); <p-l>bembam</p-l>; <p-n>poffen</p-n>	@ipukpuk
+râˈ	to grill, to roast; <p-l>panggang</p-l>; <p-n>roosteren</p-n>	@ra'
+kan	food; <p-l>makanan</p-l>; <p-n>spijs(eten)</p-n>
+go͡elai	side-dish; <p-l>lauk-pauk</p-l>; <p-n>toespijs</p-n><br>vegetables; <p-l>sayuran</p-l>; <p-n>groente</p-n>	@goelai
+iba	meat (raw); <p-l>daging (mentah)</p-l>; <p-n>vlees (rauw)</p-n><br>fish; <p-l>ikan</p-l>; <p-n>vis (in het algemeen of in tegenstelling van vlees)</p-n>; <p-n>(note: <i>goeloek</i> the ray fish The ray fist in Malay is called “pare”)</p-n>
+akoela	meat (raw); <p-l>daging (mentah)</p-l>; <p-n>vlees (rauw)</p-n>	@akula
+siniboˈ	dried meat; <p-l>dendeng</p-l>; <p-n>gedroogd vlees</p-n>; <p-n>(note: <i>tibo</i> to dry over a fire derived from “tibo”)</p-n>	@sinibo'
+satsat	sieve for rice; <p-l>nyiru</p-l>; <p-n>wan</p-n>
+garap	salt; <p-l>garam</p-l>; <p-n>zout (subst.)</p-n>
+keliu	sarong; <p-l>sarung</p-l>; <p-n>sarong</p-n>
+sokkit	trousers; <p-l>celana</p-l>; <p-n>broek</p-n>
+lêppei	<p-n>baadje &lt;unsp.&gt;</p-n>	@leppei
+kirit	<p-n>hoofddoek &lt;unsp.&gt;</p-n>
+sipsip	ring; <p-l>cincin</p-l>; <p-n>ring</p-n>
+lai-lai	<p-n>buikband &lt;unsp.&gt;</p-n>
+letsoe	arm ring, bracelet; <p-l>gelang tangan</p-l>; <p-n>band of ring (arm)</p-n>; <p-n>(note: <i>poetoe</i> a necklack of beads)</p-n><br>anklet; <p-l>gelang laki</p-l>; <p-n>band of ring (enkel)</p-n>; <p-n>(note: <i>poetoe</i> a necklack of beads)</p-n>	@letsu
+raksok	arm ring, bracelet; <p-l>gelang tangan</p-l>; <p-n>band of ring (arm)</p-n>; <p-n>(note: <i>poetoe</i> a necklack of beads)</p-n><br>anklet; <p-l>gelang laki</p-l>; <p-n>band of ring (enkel)</p-n>; <p-n>(note: <i>poetoe</i> a necklack of beads)</p-n>
+kabit	loin cloth; <p-l>cawat</p-l>; <p-n>schaamgordel (soorten)</p-n>
+komang	cotton fabric (local, European); <p-l>tenunan kapas (asli, Eropa)</p-l>; <p-n>katoenen weefsel (inheems, europees)</p-n>
+birak	to weave, to plait; <p-l>menganyam</p-l>; <p-n>vlechten</p-n>
+po͡etere	to twine a rope; <p-l>memintal tali</p-l>; <p-n>touwdraaien</p-n>	@poetere
+tali	rope; <p-l>tali</p-l>; <p-n>touw</p-n>
+poele	thread, yarn; <p-l>benang</p-l>; <p-n>garen</p-n>	@pule
+manoebai	to knot, to knit; <p-l>merajut, menyirat</p-l>; <p-n>knopen (van netten, een knoop leggen)</p-n>; <p-n>(note: of nets)</p-n>	@manubai
+peu-peu	to knot, to knit; <p-l>merajut, menyirat</p-l>; <p-n>knopen (van netten, een knoop leggen)</p-n>; <p-n>(note: <i>manoebai</i> of nets)</p-n>
+siloegoeˈ	sabre; <p-l>parang, kelewang</p-l>; <p-n>zwaard (houwer)</p-n>	@silugu'
+sakboek	sheath; <p-l>sarung pedang</p-l>; <p-n>schede</p-n>	@sakbuk
+rou-rou	bow; <p-l>busur</p-l>; <p-n>boog</p-n>
+silogoei	arrow; <p-l>anak panah</p-l>; <p-n>pijl</p-n>	@silogui
+korabbi	shield; <p-l>perisai</p-l>; <p-n>schild</p-n>
+beboetoeet	rifle; <p-l>bedil (senapan)</p-l>; <p-n>geweer</p-n>; <p-n>(note: thunderer)</p-n>	@bebutuet
+baba͡idjo	sling; <p-l>ali-ali</p-l>; <p-n>slinger</p-n>	@babaijo
+pasaggak	war; <p-l>perang</p-l>; <p-n>oorlog</p-n><br>to go head hunting; <p-l>mengayau</p-l>; <p-n>koppensnellen</p-n>
+saggak	enemy; <p-l>musuh</p-l>; <p-n>vijand</p-n>
+paˈabat	peace; <p-l>damai</p-l>; <p-n>vrede</p-n><br>to make peace; <p-l>berdamai, mengadakan perdamaian</p-l>; <p-n>vrede sluiten</p-n>	@pa'abat
+paˈaban	peace; <p-l>damai</p-l>; <p-n>vrede</p-n>	@pa'aban
+taˈiom	to surrender; <p-l>menyerah</p-l>; <p-n>zich overwonnen geven</p-n>; <p-n>(note: he cannot stand it any longer)</p-n>	@ta'iom
+magege	victory; <p-l>kemenangan</p-l>; <p-n>overwinning</p-n><br>brave, bold; <p-l>perkasa, gagah</p-l>; <p-n>dapper</p-n>
+pakoiniet	delegate; <p-l>utusan</p-l>; <p-n>gezant</p-n>
+toetoera	dibble; <p-l>tugal</p-l>; <p-n>pootstok</p-n>	@tutura
+papâkoeroe	hoe; <p-l>pacul</p-l>; <p-n>patjoel, hak</p-n>	@papakuru
+mone	garden; <p-l>kebun</p-l>; <p-n>tuin</p-n>
+sa͡ibri	fence, hedge; <p-l>pagar</p-l>; <p-n>omheining</p-n>	@saibri
+oeremen	vegetation; <p-l>tumbuhan</p-l>; <p-n>gewas</p-n>	@uremen
+mangarap	sow; <p-l>tabur</p-l>; <p-n>zaaien &lt;unsp.&gt;</p-n>
+karamen	seed; <p-l>benih</p-l>; <p-n>zaad</p-n>
+mangoerep	to plant; <p-l>menanam</p-l>; <p-n>planten</p-n>	@mangurep
+mara	ripe; <p-l>masak, matang</p-l>; <p-n>rijp</p-n>
+moeboeat kadjoe	to gather; <p-l>mengumpulkan (buah-buahan)</p-l>; <p-n>oogsten (van boomvruchten)</p-n>	@mubuat kaju
+atimoen	cucumber; <p-l>ketimun</p-l>; <p-n>komkommer</p-n>	@atimun
+oebe	tobacco; <p-l>tembakau</p-l>; <p-n>tabak</p-n>	@ube
+kole	sugarcane; <p-l>tebu</p-l>; <p-n>suikerriet</p-n>
+katsang	peanut; <p-l>kacang tanah</p-l>; <p-n>aardnoot</p-n>
+laboe	gourd; <p-l>labu kendi</p-l>; <p-n>kalebas</p-n>	@labu
+gobi	species of tuber; <p-l>ubi (macam-macam ubi)</p-l>; <p-n>oebi (soorten)</p-n>
+laikit	species of tuber; <p-l>ubi (macam-macam ubi)</p-l>; <p-n>oebi (soorten)</p-n>
+paratsi	cassava; <p-l>ketela</p-l>; <p-n>cassave, katela</p-n>
+raro	red pepper; <p-l>cabe</p-l>; <p-n>spaanse peper, tjabe</p-n>
+toitet	<p-n>kokos &lt;unsp.&gt;</p-n>
+pooela	sugarpalm, aren tree; <p-l>pohon aren</p-l>; <p-n>arenpalm, arenboom</p-n>	@poula
+soeat pooela	palm juice (unfermented); <p-l>nira</p-l>; <p-n>legen (ongegist)</p-n>	@suat poula
+bola	nipa palm; <p-l>pohon nipah</p-l>; <p-n>nipah</p-n>
+saggai	sago tree; <p-l>pohon sagu</p-l>; <p-n>sago boem</p-n><br>sago; <p-l>sagu</p-l>; <p-n>sago</p-n>
+bâtara	cotton; <p-l>kapas</p-l>; <p-n>katoen</p-n>	@batara
+padat	pandanus; <p-l>pandan</p-l>; <p-n>pandan</p-n>
+ambangan	mango; <p-l>mangga</p-l>; <p-n>mangga</p-n>
+pe͡igoe	Artocarpus integrifolia, Jack fruit; <p-l>nangka</p-l>; <p-n>nangka</p-n>	@peigu
+kapa	Nephelium lappaceum; <p-l>rambutan</p-l>; <p-n>ramboetan</p-n>
+roriat	Durio zibethinus; <p-l>durian</p-l>; <p-n>doerian</p-n>
+djamboe	Eugenia; <p-l>jambu</p-l>; <p-n>djamboe</p-n>	@jambu
+samoeng	Lansium domesticum; <p-l>langsat</p-l>; <p-n>langsat</p-n>	@samung
+bago	banana; <p-l>pisang</p-l>; <p-n>pisang (tamme)</p-n>
+sogo͡enei	banana (wild); <p-l>pisang (liar)</p-l>; <p-n>pisang (wilde)</p-n>	@sogoenei
+rîmau	lemon; <p-l>jeruk sitrun</p-l>; <p-n>citroen</p-n>	@rimau
+nêteu	Morinda atrocarpus; <p-l>mangkudu</p-l>; <p-n>tjangkoedoe</p-n>	@neteu
+kiniu	Curcuma domestica; <p-l>kunyit</p-l>; <p-n>kurkuma (koenjit)</p-n>
+saˈsaˈ	rattan, cane; <p-l>rotan</p-l>; <p-n>rotan</p-n>	@sa'sa'
+okboek	bamboo; <p-l>bambu</p-l>; <p-n>bamboe</p-n>	@okbuk
+sineboe	bamboo shoot, young sprout; <p-l>rebung</p-l>; <p-n>jonge bamboespruit</p-n>	@sinebu
+mangârai loina	to climb a tree; <p-l>memanjat pohon</p-l>; <p-n>klimmen in een boom</p-n>	@mangarai loina
+manâtara lêleu	to climb; <p-l>memanjat</p-l>; <p-n>klimmen</p-n>	@manatara leleu
+râu	branch; <p-l>cabang</p-l>; <p-n>tak &lt;unsp.&gt;</p-n>	@rau
+boeloek	leaf; <p-l>daun</p-l>; <p-n>blad</p-n>	@buluk
+eket	sap; <p-l>air (buah, pohon)</p-l>; <p-n>sap</p-n>
+pinang	Areca catechu LINN; <p-l>pinang</p-l>; <p-n>pinang</p-n>
+sâbbai	betel; <p-l>sirih</p-l>; <p-n>sirih</p-n>	@sabbai
+moeno	resin; <p-l>damar (umum)</p-l>; <p-n>hars</p-n><br>resin (from the damar tree); <p-l>damar (khusus dari pohon damar)</p-l>; <p-n>damar</p-n>	@muno
+ogo	flower; <p-l>bunga</p-l>; <p-n>bloem</p-n>
+goilôoe	pip, stone; <p-l>biji</p-l>; <p-n>pit</p-n>	@goilou
+loeîkoe	pip, stone; <p-l>biji</p-l>; <p-n>pit</p-n>	@luiku
+baga	the flesh of the fruit; <p-l>daging buah</p-l>; <p-n>vruchtvlees</p-n>
+sangoti	bunch; <p-l>rangkai, tangkai, tandan</p-l>; <p-n>tros</p-n>; <p-n>(note: bunch of banana, coconuts)</p-n>
+toela	oil; <p-l>minyak</p-l>; <p-n>olie</p-n>	@tula
+seˈseˈ	grass; <p-l>rumput</p-l>; <p-n>gras</p-n>	@se'se'
+parou	grass; <p-l>rumput</p-l>; <p-n>gras</p-n><br>weeds; <p-l>rumput</p-l>; <p-n>onkruid</p-n>
+soa	Imperata cylindria (Kunai grass); <p-l>lalang</p-l>; <p-n>alang-alang</p-n>
+soai	Imperata cylindria (Kunai grass); <p-l>lalang</p-l>; <p-n>alang-alang</p-n>
+popo͡upou	Saccharum spontaneum; <p-l>gelagah</p-l>; <p-n>glagah</p-n>	@popoupou
+lambâet	Saccharum spontaneum; <p-l>gelagah</p-l>; <p-n>glagah</p-n>	@lambaet
+tarimese	animal, beast; <p-l>binatang</p-l>; <p-n>dier, beest</p-n>
+leilei	tail; <p-l>ekor</p-l>; <p-n>staart</p-n>
+dere	paw; <p-l>kaki binatang</p-l>; <p-n>poot</p-n>
+soengai	hoof; <p-l>kuku binatang</p-l>; <p-n>hoef</p-n><br>claw; <p-l>cakar</p-l>; <p-n>klauw</p-n>	@sungai
+kapoˈ	wing; <p-l>sayap</p-l>; <p-n>vleugel</p-n>	@kapo'
+kepa	wing; <p-l>sayap</p-l>; <p-n>vleugel</p-n>
+boeloeˈ	feather; <p-l>bulu burung</p-l>; <p-n>veren</p-n>	@bulu'
+roemoen	nest; <p-l>sarang</p-l>; <p-n>nest</p-n>	@rumun
+adjolo	egg; <p-l>telur</p-l>; <p-n>ei</p-n>	@ajolo
+sakoilo	domesticated pig; <p-l>babi</p-l>; <p-n>tam varken</p-n>; <p-n>(note: <i>sikeu</i> boar)</p-n><br>domesticated pig; <p-l>babi</p-l>; <p-n>tam varken</p-n>; <p-n>(note: <i>babui</i> castrated boar)</p-n><br>domesticated pig; <p-l>babi</p-l>; <p-n>tam varken</p-n>; <p-n>(note: <i>takabelai</i> sow before she has produced any offspring)</p-n><br>domesticated pig; <p-l>babi</p-l>; <p-n>tam varken</p-n>; <p-n>(note: <i>sigelak</i> after she has produced her first litter)</p-n>
+djoegoe	to grunt; <p-l>menggeram</p-l>; <p-n>knorren</p-n>	@jugu
+simatooera	deer; <p-l>rusa</p-l>; <p-n>hert</p-n>	@simatoura
+djoˈdjoˈ	dog; <p-l>anjing</p-l>; <p-n>hond</p-n>	@jo'jo'
+masiogongi	to bark; <p-l>menyalak</p-l>; <p-n>blaffen</p-n>
+mao	cat; <p-l>kucing</p-l>; <p-n>kat, poes</p-n>
+amoemaoan	to miaow; <p-l>mengeong</p-l>; <p-n>miauwen</p-n>	@amumaoan
+limêndeu	pigeon; <p-l>burung merpati</p-l>; <p-n>duif (soorten)</p-n>	@limendeu
+ngoroet	pigeon; <p-l>burung merpati</p-l>; <p-n>duif (soorten)</p-n>	@ngorut
+oeke-oeke	pigeon; <p-l>burung merpati</p-l>; <p-n>duif (soorten)</p-n>	@uke-uke
+gougou	hen, chicken; <p-l>ayam</p-l>; <p-n>hoen, kip</p-n>
+sibaukatiti	chick; <p-l>anak ayam</p-l>; <p-n>kuiken</p-n>; <p-n>(note: <i>abelangan leilei</i> when the tail feathers appear)</p-n>
+abelangan leilei	chick; <p-l>anak ayam</p-l>; <p-n>kuiken</p-n>; <p-n>(note: when the tail feathers appear)</p-n>
+manosa	hen; <p-l>ayam betina</p-l>; <p-n>hen</p-n>; <p-n>(note: not egg-laying)</p-n>
+sitoei	hen; <p-l>ayam betina</p-l>; <p-n>hen</p-n>; <p-n>(note: egg-laying)</p-n>	@situi
+silaloe	cock, rooster; <p-l>ayam jantan</p-l>; <p-n>haan</p-n>; <p-n>(note: full grown)</p-n>	@silalu
+sikalila	cock, rooster; <p-l>ayam jantan</p-l>; <p-n>haan</p-n>; <p-n>(note: <i>sikaila</i> not yet full grown)</p-n>
+galik	parrot; <p-l>burung nuri</p-l>; <p-n>papegaai</p-n>; <p-n>(note: grey)</p-n>
+anderek	parakeet, budgerigar; <p-l>burung bayan</p-l>; <p-n>parkiet</p-n>
+lagi-lagi	swallow; <p-l>burung layang-layang</p-l>; <p-n>zwaluw</p-n>
+kailea	heron; <p-l>burung bangau</p-l>; <p-n>reiger</p-n>; <p-n>(note: black and white)</p-n>
+seggoe	heron; <p-l>burung bangau</p-l>; <p-n>reiger</p-n>; <p-n>(note: black and white)</p-n>	@seggu
+popo	owl; <p-l>burung hantu</p-l>; <p-n>uil</p-n>
+piligi	kite (bird); <p-l>burung rajawali</p-l>; <p-n>kiekendief</p-n>; <p-n>(note: <i>manjang</i> sea-eagle)</p-n><br>kite (bird); <p-l>burung rajawali</p-l>; <p-n>kiekendief</p-n>; <p-n>(note: <i>silabbai</i> diving-bird)</p-n>
+loga	squirrel; <p-l>bajing, tupai</p-l>; <p-n>eekhoorn</p-n>
+letoewang	bat; <p-l>kelelawar</p-l>; <p-n>vleermuis</p-n>	@letuwang
+siamtsoera	deer; <p-l>kijang</p-l>; <p-n>kidang, ree</p-n>	@siamtsura
+simatsoera	cherrotain mousedeer; <p-l>kancil</p-l>; <p-n>dwerghert, kancil</p-n>	@simatsura
+biroet	mouse; <p-l>tikus</p-l>; <p-n>muis</p-n><br>rat; <p-l>tikus</p-l>; <p-n>rat</p-n>	@birut
+tei	mouse; <p-l>tikus</p-l>; <p-n>muis</p-n><br>rat; <p-l>tikus</p-l>; <p-n>rat</p-n>
+njongnjang	mouse; <p-l>tikus</p-l>; <p-n>muis</p-n><br>rat; <p-l>tikus</p-l>; <p-n>rat</p-n>
+kaboe-kaboe	mouse; <p-l>tikus</p-l>; <p-n>muis</p-n><br>rat; <p-l>tikus</p-l>; <p-n>rat</p-n>	@kabu-kabu
+sorai	mouse; <p-l>tikus</p-l>; <p-n>muis</p-n>; <p-n>(note: <i>soroai</i>)</p-n><br>rat; <p-l>tikus</p-l>; <p-n>rat</p-n>; <p-n>(note: <i>soroai</i>)</p-n>
+sîsili	mouse; <p-l>tikus</p-l>; <p-n>muis</p-n><br>rat; <p-l>tikus</p-l>; <p-n>rat</p-n>	@sisili
+lamasoed	mouse; <p-l>tikus</p-l>; <p-n>muis</p-n><br>rat; <p-l>tikus</p-l>; <p-n>rat</p-n>	@lamasud
+sitoet	monkey; <p-l>monyet, kera</p-l>; <p-n>aap</p-n>; <p-n>(note: <i>siteoet</i> with red fur)</p-n>	@situt
+masepsep	monkey; <p-l>monyet, kera</p-l>; <p-n>aap</p-n>; <p-n>(note: with black fur)</p-n>
+atapaipai	monkey; <p-l>monyet, kera</p-l>; <p-n>aap</p-n>; <p-n>(note: with a long tail)</p-n>
+bîlou	monkey; <p-l>monyet, kera</p-l>; <p-n>aap</p-n>; <p-n>(note: without a tail)</p-n>	@bilou
+pasileked	net; <p-l>jala</p-l>; <p-n>net</p-n>; <p-n>(note: all kinds of fishing gear)</p-n>
+djarid	net; <p-l>jala</p-l>; <p-n>net</p-n>; <p-n>(note: all kinds of fishing gear)</p-n>	@jarid
+panoe	net; <p-l>jala</p-l>; <p-n>net</p-n>; <p-n>(note: all kinds of fishing gear)</p-n>	@panu
+soebba	net; <p-l>jala</p-l>; <p-n>net</p-n>; <p-n>(note: all kinds of fishing gear)</p-n>	@subba
+lêgeu	net; <p-l>jala</p-l>; <p-n>net</p-n>; <p-n>(note: all kinds of fishing gear)</p-n>	@legeu
+lolôboeroe	net; <p-l>jala</p-l>; <p-n>net</p-n>; <p-n>(note: all kinds of fishing gear)</p-n>	@loloburu
+pana-pana	net; <p-l>jala</p-l>; <p-n>net</p-n>; <p-n>(note: all kinds of fishing gear)</p-n>
+sinalidjat	net; <p-l>jala</p-l>; <p-n>net</p-n>; <p-n>(note: all kinds of fishing gear)</p-n>	@sinalijat
+patara	net; <p-l>jala</p-l>; <p-n>net</p-n>; <p-n>(note: all kinds of fishing gear)</p-n>
+kabâbili	net; <p-l>jala</p-l>; <p-n>net</p-n>; <p-n>(note: all kinds of fishing gear)</p-n>	@kababili
+ilek	eel; <p-l>belut</p-l>; <p-n>aal</p-n>
+ileng	eel; <p-l>belut</p-l>; <p-n>aal</p-n>
+goset	louse; <p-l>kutu</p-l>; <p-n>luis</p-n>
+kanang	nit; <p-l>telur kutu</p-l>; <p-n>neet</p-n>; <p-n>(note: <i>boeboek</i>)</p-n>
+tailakka	spider; <p-l>laba-laba</p-l>; <p-n>spin</p-n>
+legoe laibo	fly; <p-l>lalat</p-l>; <p-n>vlieg</p-n>	@legu laibo
+legoe sidjô	mosquito; <p-l>nyamuk</p-l>; <p-n>muskiet</p-n>; <p-n>(note: <i>singitngit</i> a small kind of mosquito)</p-n>	@legu sijo
+toeboeroet	butterfly; <p-l>kupu-kupu</p-l>; <p-n>kapel, vlinder</p-n>	@tuburut
+leîti	caterpillar; <p-l>ulat (bulu)</p-l>; <p-n>rups</p-n>	@leiti
+sin	grasshopper; <p-l>belalang</p-l>; <p-n>sprinkhaan</p-n>
+sigep	ant; <p-l>macam-macam semut</p-l>; <p-n>mier (in soorten)</p-n>; <p-n>(note: <i>gaba-gaba</i> red ants)</p-n><br>ant; <p-l>macam-macam semut</p-l>; <p-n>mier (in soorten)</p-n>; <p-n>(note: <i>berêkei</i> large black ant)</p-n><br>ant; <p-l>macam-macam semut</p-l>; <p-n>mier (in soorten)</p-n>; <p-n>(note: <i>silô</i> small black ants)</p-n><br>ant; <p-l>macam-macam semut</p-l>; <p-n>mier (in soorten)</p-n>; <p-n>(note: <i>tinem</i> small black ants)</p-n><br>ant; <p-l>macam-macam semut</p-l>; <p-n>mier (in soorten)</p-n>; <p-n>(note: <i>bolotsai</i> small black ants)</p-n><br>ant; <p-l>macam-macam semut</p-l>; <p-n>mier (in soorten)</p-n>; <p-n>(note: <i>sigep rango</i> small black ants)</p-n>
+saba	snake; <p-l>ular</p-l>; <p-n>slang</p-n>; <p-n>(note: python)</p-n><br>and; <p-l>dan</p-l>; <p-n>en</p-n><br>with; <p-l>dengan</p-l>; <p-n>met</p-n>
+sipeˈdang	snake; <p-l>ular</p-l>; <p-n>slang</p-n>; <p-n>(note: said to be poisonous (snake))</p-n>	@sipe'dang
+simaleu	snake; <p-l>ular</p-l>; <p-n>slang</p-n>; <p-n>(note: said to be poisonous (snake))</p-n>
+koemoe	snake; <p-l>ular</p-l>; <p-n>slang</p-n>; <p-n>(note: said to be poisonous (snake))</p-n>	@kumu
+boeˈboeˈ	snake; <p-l>ular</p-l>; <p-n>slang</p-n>; <p-n>(note: said to be poisonous (snake))</p-n>	@bu'bu'
+kabtian	snake; <p-l>ular</p-l>; <p-n>slang</p-n>
+soepainang	snake; <p-l>ular</p-l>; <p-n>slang</p-n>	@supainang
+komentsaba	centipede; <p-l>lipan</p-l>; <p-n>duizendpoot</p-n>
+toeˈtoeˈ	shrimp; <p-l>udang</p-l>; <p-n>garnaal</p-n>	@tu'tu'
+agau	crab; <p-l>kepiting</p-l>; <p-n>krab</p-n>
+toktok akenen	shell; <p-l>kulit kerang</p-l>; <p-n>schelp</p-n>; <p-n>(note: <i>ragi</i> large (in size))</p-n>
+ragi	shell; <p-l>kulit kerang</p-l>; <p-n>schelp</p-n>; <p-n>(note: large (in size))</p-n>
+koerid	frog; <p-l>katak</p-l>; <p-n>kikvors</p-n>	@kurid
+soepsoep	lizard; <p-l>kadal</p-l>; <p-n>hagedis</p-n>	@supsup
+tjetjak	lizard; <p-l>kadal</p-l>; <p-n>hagedis</p-n>	@cecak
+bate	iguana; <p-l>biawak</p-l>; <p-n>varaan, leguaan</p-n>
+sikoinan	crocodile; <p-l>buaya</p-l>; <p-n>krokodil</p-n>
+touloe	tortoise; <p-l>kura-kura</p-l>; <p-n>landschildpad</p-n>	@toulu
+naning	tortoise; <p-l>kura-kura</p-l>; <p-n>landschildpad</p-n>
+ibat laut	turtle; <p-l>penyu</p-l>; <p-n>zeeschildpad</p-n>
+manoea	universe; <p-l>alam semesta</p-l>; <p-n>heelal</p-n><br>sky; <p-l>langit</p-l>; <p-n>hemel</p-n>	@manua
+soeloe	sun; <p-l>matahari</p-l>; <p-n>zon</p-n>	@sulu
+gepgep	sun eclipse; <p-l>gerhana matahari</p-l>; <p-n>zonsverduistering</p-n><br>moon eclipse; <p-l>gerhana bulan</p-l>; <p-n>maansverduistering</p-n>
+lago	moon; <p-l>bulan</p-l>; <p-n>maan</p-n><br>month (name of the months); <p-l>bulan (nama-nama bulan)</p-l>; <p-n>maand (namen der maanden)</p-n>
+panjanjat	star; <p-l>bintang</p-l>; <p-n>ster (als ze namen hebben, die opgeven)</p-n>; <p-n>(note: <i>palatoetoenau</i> morning star/evening star)</p-n><br>star; <p-l>bintang</p-l>; <p-n>ster (als ze namen hebben, die opgeven)</p-n>; <p-n>(note: <i>sikaroeroekat</i> perhaps the constellation of the scorpion)</p-n>
+polak	earth (globe); <p-l>bumi</p-l>; <p-n>aarde (aardbol)</p-n><br>earth (ground); <p-l>tanah</p-l>; <p-n>aarde (grond)</p-n>
+oerat	rain; <p-l>hujan</p-l>; <p-n>regen</p-n>	@urat
+loˈloˈ	dew; <p-l>embun</p-l>; <p-n>dauw</p-n>	@lo'lo'
+tanai roesa	cloud; <p-l>awan</p-l>; <p-n>wolk</p-n>	@tanai rusa
+linoe	rainbow; <p-l>pelangi</p-l>; <p-n>regenboog</p-n>	@linu
+lêlegoe	thunder; <p-l>guruh</p-l>; <p-n>donder</p-n>	@lelegu
+teteoe	earthquake; <p-l>gempa bumi</p-l>; <p-n>aardbeving</p-n>	@teteu
+roesa	wind; <p-l>angin</p-l>; <p-n>wind</p-n>	@rusa
+talabari	storm; <p-l>badai, angin ribut</p-l>; <p-n>storm</p-n>
+oinan	water; <p-l>air</p-l>; <p-n>water</p-n>
+koat	sea; <p-l>laut</p-l>; <p-n>zee</p-n>
+magarak odjoe	ebb; <p-l>surut</p-l>; <p-n>eb</p-n>	@magarak oju
+makeroe odjoe	flood, tide; <p-l>pasang</p-l>; <p-n>vloed</p-n>	@makeru oju
+onoe	wave; <p-l>ombak</p-l>; <p-n>golf</p-n>	@onu
+maˈ onoe	breakers, surf; <p-l>gelombang</p-l>; <p-n>branding</p-n>	@ma' onu
+goegoeng	bay; <p-l>teluk</p-l>; <p-n>baai</p-n>	@gugung
+boege	beach; <p-l>pantai</p-l>; <p-n>strand</p-n>	@buge
+noeinoedjat	sandbank; <p-l>busung pasir</p-l>; <p-n>zandbank</p-n><br>coral reef; <p-l>karang</p-l>; <p-n>koraalrif</p-n>	@nuinujat
+padârai	sandbank; <p-l>busung pasir</p-l>; <p-n>zandbank</p-n><br>coral reef; <p-l>karang</p-l>; <p-n>koraalrif</p-n>	@padarai
+kapi	land; <p-l>darat</p-l>; <p-n>land (in tegenstelling van zee)</p-n>
+noesa	island; <p-l>pulau</p-l>; <p-n>eiland</p-n>	@nusa
+toenang	cape; <p-l>tanjung, ujung</p-l>; <p-n>landtong, kaap</p-n>	@tunang
+lêleu	mountain; <p-l>gunung</p-l>; <p-n>berg</p-n><br>forest, woods; <p-l>hutan</p-l>; <p-n>bos</p-n>	@leleu
+toeloetoet	to go down, to descend; <p-l>turun</p-l>; <p-n>dalen</p-n>	@tulutut
+simagaktoe	plain; <p-l>dataran</p-l>; <p-n>vlakte</p-n>	@simagaktu
+simasâmai	plain; <p-l>dataran</p-l>; <p-n>vlakte</p-n>	@simasamai
+goeloegoe	valley; <p-l>lembah</p-l>; <p-n>dal</p-n>	@gulugu
+loina sigoiso	bush; <p-l>belukar</p-l>; <p-n>kreupelbos</p-n>; <p-n>(note: small wood)</p-n>
+enoengan	way, road; <p-l>jalan</p-l>; <p-n>weg</p-n>	@enungan
+loteˈ	mud; <p-l>lumpur</p-l>; <p-n>modder</p-n>	@lote'
+siperakat	footstep (footprint); <p-l>bekas tapak kaki, jejak</p-l>; <p-n>voetstap (spoor)</p-n>
+song	border, boundary; <p-l>batas</p-l>; <p-n>grens</p-n>
+bat oinan	river; <p-l>sungai</p-l>; <p-n>rivier</p-n>
+manaˈsaˈ	to go upstream; <p-l>berlayar ke hulu</p-l>; <p-n>stroomop (varen)</p-n>	@mana'sa'
+toereoeroe	to go downstream; <p-l>berlayar ke hilir</p-l>; <p-n>stroomaf (varen)</p-n>	@tureuru
+tirit oinan	spring, source; <p-l>mata air, sumber air</p-l>; <p-n>bron of oorsprong rivier</p-n>
+eba	flood; <p-l>banjir</p-l>; <p-n>watervloed, overstroming</p-n>
+boekoe	stone; <p-l>batu</p-l>; <p-n>steen</p-n>	@buku
+ngai	sand; <p-l>pasir</p-l>; <p-n>zand</p-n>
+laba	iron; <p-l>besi</p-l>; <p-n>ijzer</p-n>
+sese	charcoal; <p-l>arang</p-l>; <p-n>houtskool</p-n><br>to find; <p-l>menemukan</p-l>; <p-n>vinden</p-n>
+bowoˈwoˈ	hammer; <p-l>martil</p-l>; <p-n>hamer</p-n>	@bowo'wo'
+lalaplap	tongs; <p-l>sepit, tang</p-l>; <p-n>tang</p-n>; <p-n>(note: fire tongs)</p-n>
+totoktok	tongs; <p-l>sepit, tang</p-l>; <p-n>tang</p-n>; <p-n>(note: kind of pliers)</p-n>
+bô	cinders, glowing coals; <p-l>bara api</p-l>; <p-n>gloeiende kool</p-n>	@bo
+asa	to sharpen, to grind; <p-l>mengasah</p-l>; <p-n>slijpen</p-n>
+pangoeroeat	gift, present; <p-l>hadiah, pemberian</p-l>; <p-n>geschenk</p-n>	@panguruat
+sipoeëkpak	merchant; <p-l>saudagar, pedagang</p-l>; <p-n>handelaar (grote, kleine)</p-n>; <p-n>(note: (lit.) wanderer)</p-n>	@sipuekpak
+moeekpak	merchant; <p-l>saudagar, pedagang</p-l>; <p-n>handelaar (grote, kleine)</p-n>; <p-n>(note: to roam about, not having a fixed dwelling place)</p-n>	@muekpak
+toko	shop; <p-l>toko, warung</p-l>; <p-n>winkel (grote, kleine, warong)</p-n>
+panakiat	market; <p-l>pasar</p-l>; <p-n>markt</p-n>
+pasaki	to trade; <p-l>berdagang</p-l>; <p-n>handeldrijven, handelen</p-n>
+bibilet	merchandise; <p-l>barang dagangan</p-l>; <p-n>koopwaren</p-n>
+soesoeilak	needle; <p-l>jarum</p-l>; <p-n>naald</p-n>	@susuilak
+saki	price; <p-l>harga</p-l>; <p-n>prijs</p-n><br>to buy; <p-l>membeli</p-l>; <p-n>kopen</p-n>
+oetoek	profit; <p-l>untung, laba</p-l>; <p-n>winst</p-n>	@utuk
+makepoe saki	expensive; <p-l>mahal</p-l>; <p-n>duur</p-n>	@makepu saki
+malâbai saki	cheap; <p-l>murah</p-l>; <p-n>goedkoop</p-n>	@malabai saki
+bajar	to pay; <p-l>membayar</p-l>; <p-n>betalen</p-n>
+isakiake	to sell; <p-l>menjual</p-l>; <p-n>verkopen</p-n>
+bale	borrow; <p-l>pinjam</p-l>; <p-n>lenen &lt;unsp.&gt;</p-n>
+pasili	to exchange; <p-l>menukar</p-l>; <p-n>ruilen</p-n>
+beleki	to offer; <p-l>mempersembahkan</p-l>; <p-n>bieden</p-n>; <p-n>(note: (lit.) to deduct , to lessen)</p-n>
+kereki	<p-n>maten en gewichten &lt;unsp.&gt;</p-n>; <p-n>(note: to measure)</p-n>
+abak	proa, canoe; <p-l>perahu</p-l>; <p-n>prauw</p-n>; <p-n>(note: an ordinary canoe)</p-n>
+kalabba	proa, canoe; <p-l>perahu</p-l>; <p-n>prauw</p-n>; <p-n>(note: a large canoe)</p-n>
+kinapat	proa, canoe; <p-l>perahu</p-l>; <p-n>prauw</p-n>; <p-n>(note: a large Malay proa)</p-n>
+pangaraitat	mast; <p-l>tiang perahu</p-l>; <p-n>mast</p-n>
+ladjo	to sail; <p-l>berlayar</p-l>; <p-n>zeilen</p-n>	@lajo
+moeladjo	to sail; <p-l>berlayar</p-l>; <p-n>zeilen</p-n>	@mulajo
+goeroengan	rudder, helm; <p-l>kemudi</p-l>; <p-n>roer</p-n>	@gurungan
+loega	oar, paddle; <p-l>pengayuh</p-l>; <p-n>(roei) riem, pagaai</p-n>	@luga
+nguiroet	oar, paddle; <p-l>pengayuh</p-l>; <p-n>(roei) riem, pagaai</p-n>	@nguirut
+moeloega	to row, to pull; <p-l>mengayuh</p-l>; <p-n>roeien</p-n>	@muluga
+ngoenguîroet	to row, to pull; <p-l>mengayuh</p-l>; <p-n>roeien</p-n>	@ngunguirut
+sao	anchor; <p-l>sauh</p-l>; <p-n>anker</p-n>
+poesasat	harbour; <p-l>pelabuhan</p-l>; <p-n>haven</p-n>; <p-n>(note: = anchorage)</p-n>	@pusasat
+magô	to be wrecked; <p-l>terdampar, kandas</p-l>; <p-n>stranden, schipbreuklijden</p-n>	@mago
+abeoe	great, big; <p-l>besar</p-l>; <p-n>groot</p-n>	@abeu
+magoiso	small; <p-l>kecil</p-l>; <p-n>klein</p-n>
+matanta	long (things); <p-l>panjang</p-l>; <p-n>lang (van een voorwerp)</p-n>
+maboeroeˈ	long (time); <p-l>lama</p-l>; <p-n>lang (van tijd)</p-n>	@maburu'
+matete	short (things); <p-l>pendek</p-l>; <p-n>kort (van een voorwerp)</p-n>
+taˈmaoedjoe	short (time); <p-l>singkat, pendek</p-l>; <p-n>kort (van tijd)</p-n>	@ta'mauju
+mamoˈmoˈ	big, fat; <p-l>gemuk</p-l>; <p-n>dik (van mens of dier)</p-n><br>far; <p-l>jauh</p-l>; <p-n>ver &lt;unsp.&gt;</p-n>	@mamo'mo'
+makepoe	thick; <p-l>tebal</p-l>; <p-n>dik (van een levenloos voorwerp)</p-n>	@makepu
+manipi	thin; <p-l>tipis</p-l>; <p-n>dun</p-n>
+makainang	thin, meagre, skinny; <p-l>kurus</p-l>; <p-n>mager</p-n>
+makalâssau	slim; <p-l>langsing</p-l>; <p-n>slank van middel</p-n>	@makalassau
+maôm	tame; <p-l>jinak</p-l>; <p-n>tam, mak</p-n>	@maom
+malia	
+maila	shy, ashamed; <p-l>malu</p-l>; <p-n>verlegen, beschaamd</p-n>
+makeroe	deep; <p-l>dalam</p-l>; <p-n>diep &lt;unsp.&gt;</p-n>	@makeru
+makale	shallow; <p-l>dangkal</p-l>; <p-n>ondiep &lt;unspec.&gt;</p-n>
+maboeak	high; <p-l>tinggi</p-l>; <p-n>hoog</p-n>	@mabuak
+malalep	low; <p-l>rendah</p-l>; <p-n>laag</p-n>
+maroipo	straight; <p-l>lurus</p-l>; <p-n>recht</p-n>
+makoiloet	crooked, bent; <p-l>bengkok</p-l>; <p-n>krom</p-n>	@makoilut
+manangka	light; <p-l>ringan</p-l>; <p-n>licht</p-n>
+marabram	slanting, sloping; <p-l>serong, miring</p-l>; <p-n>schuin</p-n>
+marauroe	sharp; <p-l>tajam</p-l>; <p-n>scherp</p-n>	@marauru
+makela	hard; <p-l>keras</p-l>; <p-n>hard</p-n>
+mameˈmeˈ	weak; <p-l>lembek, lemah</p-l>; <p-n>week</p-n>	@mame'me'
+marokat	hot; <p-l>panas</p-l>; <p-n>warm &lt;unsp.&gt;</p-n>
+maleppet	cold; <p-l>dingin</p-l>; <p-n>koud &lt;unsp.&gt;</p-n>
+malaimoetoe	round; <p-l>bulat</p-l>; <p-n>rond &lt;unsp.&gt;</p-n>	@malaimutu
+simuine	round; <p-l>bulat</p-l>; <p-n>rond &lt;unsp.&gt;</p-n>
+malio	broad; <p-l>luas, lebar</p-l>; <p-n>breed</p-n>
+makoilop	narrow; <p-l>sempit</p-l>; <p-n>nauw</p-n>
+alio	wide; <p-l>luas</p-l>; <p-n>ruim, wijd</p-n>
+maron	strong; <p-l>kokoh</p-l>; <p-n>krachtig, sterk</p-n><br><p-n>vast &lt;unsp.&gt;</p-n>
+mabeili	lazy; <p-l>malas</p-l>; <p-n>lui</p-n>
+magarak	dry; <p-l>kering</p-l>; <p-n>droog</p-n>
+masoea	wet; <p-l>basah</p-l>; <p-n>nat</p-n>	@masua
+maeroe	good; <p-l>baik, bagus</p-l>; <p-n>goed</p-n>	@maeru
+malaînge	nice; <p-l>bagus</p-l>; <p-n>mooi &lt;unsp.&gt;</p-n>	@malainge
+malatsak	beautiful (things); <p-l>indah, bagus</p-l>; <p-n>mooi (van zaak)</p-n>
+sitaˈ kabaga	empty; <p-l>kosong</p-l>; <p-n>leeg</p-n>	@sita' kabaga
+masoen	full; <p-l>penuh</p-l>; <p-n>vol</p-n>	@masun
+maroegoet	loose; <p-l>longgar</p-l>; <p-n>los &lt;unsp.&gt;</p-n>	@marugut
+toeroeba	loose; <p-l>longgar</p-l>; <p-n>los &lt;unsp.&gt;</p-n>	@turuba
+mabadja	old; <p-l>tua</p-l>; <p-n>oud</p-n>	@mabaja
+mabaoe	young; <p-l>muda</p-l>; <p-n>jong</p-n>	@mabau
+baoe	new; <p-l>baru</p-l>; <p-n>nieuw</p-n>	@bau
+mageba	poor; <p-l>miskin</p-l>; <p-n>arm</p-n>
+makaîo	wealthy; <p-l>kaya</p-l>; <p-n>welvarend</p-n>	@makaio
+masaggo	tired; <p-l>lelah</p-l>; <p-n>moe</p-n>
+taˈiga patoeat	dumb; <p-l>bodoh</p-l>; <p-n>dom</p-n>	@ta'iga patuat
+maagai	clever; <p-l>pandai</p-l>; <p-n>knap</p-n>
+makaikai	sweet; <p-l>manis</p-l>; <p-n>zoet</p-n>
+malaga	sour; <p-l>kecut, masam</p-l>; <p-n>zuur</p-n>
+mapait	bitter; <p-l>pahit</p-l>; <p-n>bitter</p-n>
+malêoe	astringent; <p-l>sepat</p-l>; <p-n>samentrekkend</p-n>; <p-n>(note: = tart)</p-n>	@maleu
+makoat	salty; <p-l>asin</p-l>; <p-n>zout, ziltig (bijvnw)</p-n>
+makaop	salty; <p-l>asin</p-l>; <p-n>zout, ziltig (bijvnw)</p-n>
+mabo͡elao	white; <p-l>putih</p-l>; <p-n>wit</p-n>	@maboelao
+mapoesoe	black; <p-l>hitam</p-l>; <p-n>zwart</p-n>	@mapusu
+mabonan	red; <p-l>merah</p-l>; <p-n>rood</p-n><br>brown; <p-l>coklat</p-l>; <p-n>bruin</p-n>
+makîniu	yellow; <p-l>kuning</p-l>; <p-n>geel</p-n>	@makiniu
+malimoen	blue; <p-l>biru</p-l>; <p-n>blauw</p-n><br>green; <p-l>hijau</p-l>; <p-n>groen</p-n>	@malimun
+gaba	to look for; <p-l>mencari</p-l>; <p-n>zoeken</p-n>
+ake	to give; <p-l>memberikan</p-l>; <p-n>geven</p-n>
+ala	to take; <p-l>mengambil</p-l>; <p-n>nemen</p-n><br>to get; <p-l>pergi mengambil</p-l>; <p-n>halen</p-n>
+agai	to know; <p-l>tahu, mengetahui kenal</p-l>; <p-n>kennen</p-n><br>to know; <p-l>tahu, mengetahui</p-l>; <p-n>weten</p-n>
+patoeat	to think; <p-l>berpikir</p-l>; <p-n>denken</p-n>	@patuat
+rebreb	to remember; <p-l>mengingat, mengenang</p-l>; <p-n>zich herinneren</p-n>
+toekalîpou	to have forgotten something; <p-l>lupa</p-l>; <p-n>vergeten zijn</p-n>	@tukalipou
+pakele	to deny; <p-l>menyangkal</p-l>; <p-n>ontkennen</p-n>
+boelatnake	to confess; <p-l>mengaku</p-l>; <p-n>bekennen</p-n>; <p-n>(note: to prove s.t.)</p-n>	@bulatnake
+mengmeng	to be silent; <p-l>diam</p-l>; <p-n>zwijgen</p-n>
+masingoenjoe	to mumble; <p-l>komat-kamit</p-l>; <p-n>prevelen</p-n>	@masingunju
+patibo	to speak; <p-l>berbicara</p-l>; <p-n>spreken</p-n>
+moeoerai	to sing; <p-l>bernyanyi</p-l>; <p-n>zingen</p-n>	@muurai
+sogai	to call; <p-l>memanggil</p-l>; <p-n>roepen</p-n>
+moegâlai	to work; <p-l>bekerja</p-l>; <p-n>werken</p-n>	@mugalai
+masibairat	to shoulder; <p-l>memikul</p-l>; <p-n>dragen (op de schouder)</p-n>
+masiboka	to carry something hanging from the hand; <p-l>menjinjing</p-l>; <p-n>dragen (aan de hangende hand)</p-n>
+beila	to carry on the hip; <p-l>menggendong, mendukung</p-l>; <p-n>dragen (op de heup)</p-n>
+masitino	to carry under the arm; <p-l>mengepit</p-l>; <p-n>dragen (onder de oksel)</p-n>
+iore	to carry on the back; <p-l>memikul (di punggung)</p-l>; <p-n>dragen (op de rug)</p-n>
+laptip	to carry in front of oneself; <p-l>menggendong di muka (memeluk)</p-l>; <p-n>dragen (voor de buik)</p-n>
+moemata	to be awake; <p-l>bangun, terjaga, tidak tidur</p-l>; <p-n>wakker zijn</p-n>	@mumata
+toedjago	to guard, to watch; <p-l>menjaga</p-l>; <p-n>bewaken</p-n>	@tujago
+areo	to hear; <p-l>mendengar</p-l>; <p-n>horen</p-n>
+itso	to see; <p-l>melihat</p-l>; <p-n>zien</p-n>
+ping	to smell; <p-l>mencium</p-l>; <p-n>ruiken</p-n>; <p-n>(note: to sniff at each other , to kiss)</p-n>
+pasigoek	to smell; <p-l>mencium</p-l>; <p-n>ruiken</p-n>; <p-n>(note: to sniff at each other , to kiss)</p-n>	@pasiguk
+djoeroep	to slurp; <p-l>menghirup</p-l>; <p-n>slurpen</p-n>	@jurup
+moesingoe	to blow the nose; <p-l>membuang ingus</p-l>; <p-n>snuiten</p-n>	@musingu
+makate baga	to love; <p-l>mencintai, mengasihi</p-l>; <p-n>liefhebben (iemd.)</p-n>
+masiˈsiˈ baga	to hate; <p-l>benci</p-l>; <p-n>haten</p-n>	@masi'si' baga
+oba	to want; <p-l>hendak</p-l>; <p-n>willen</p-n>; <p-n>(note: <i>taˈkoeoba</i> I donˈt want &lt;to do&gt; it)</p-n>
+teoe baga	to want something; <p-l>menghendaki sesuatu</p-l>; <p-n>iets willen</p-n>; <p-n>(note: <i>teoe</i> to resolve , have the intention to)</p-n><br>to want something; <p-l>menghendaki sesuatu</p-l>; <p-n>iets willen</p-n>; <p-n>(note: <i>baga</i> inner , inward)</p-n>	@teu baga
+boeka	to open; <p-l>membuka</p-l>; <p-n>openen</p-n>	@buka
+patpat	to close; <p-l>menutup</p-l>; <p-n>dicht doen</p-n>
+jorak	to hit, to touch; <p-l>mengenai, menyentuh</p-l>; <p-n>raken</p-n>
+kerek	to hit, to touch; <p-l>mengenai, menyentuh</p-l>; <p-n>raken</p-n>
+malailai	<p-n>breken &lt;unsp.&gt;</p-n>
+petsoet	to pinch, to squeeze; <p-l>menjepit, menekan</p-l>; <p-n>knijpen, persen</p-n>	@petsut
+toetadaake	to start; <p-l>mulai</p-l>; <p-n>beginnen &lt;unsp.&gt;</p-n>	@tutadaake
+moeari	to end; <p-l>berakhir</p-l>; <p-n>eindigen &lt;unsp.&gt;</p-n>	@muari
+âpra	to bind, to tie; <p-l>mengikat</p-l>; <p-n>binden (op allerlei wijzen)</p-n>	@apra
+moelipoet	to hide; <p-l>menyembunyikan</p-l>; <p-n>verbergen, zich verbergen &lt;unsp.&gt;</p-n>	@muliput
+nou nou	to ask; <p-l>bertanya</p-l>; <p-n>vragen</p-n>
+alegi	to answer; <p-l>menjawab</p-l>; <p-n>antwoorden</p-n>
+manido	to ask for; <p-l>meminta</p-l>; <p-n>vragen om iets</p-n>
+patadjoe	to cheat, to deceive; <p-l>menipu</p-l>; <p-n>bedriegen</p-n>	@pataju
+boko	to tell lies; <p-l>berdusta</p-l>; <p-n>liegen</p-n>
+bokoi	to tell lies; <p-l>berdusta</p-l>; <p-n>liegen</p-n>
+labo	to burn (intr.); <p-l>sedang terbakar (intr.)</p-l>; <p-n>branden (onoverg.)</p-n>
+gai gai	to dig; <p-l>menggali</p-l>; <p-n>graven</p-n>
+sege	to arrive; <p-l>tiba</p-l>; <p-n>aankomen</p-n>; <p-n>(note: <i>segeake</i> to bring something ; also ˈto informˈ)</p-n><br>to arrive; <p-l>tiba</p-l>; <p-n>aankomen</p-n>; <p-n>(note: <i>toedjôlou</i> to go ashore)</p-n>
+moetuitui	to depart; <p-l>berangkat</p-l>; <p-n>vertrekken</p-n>	@mutuitui
+boˈboˈ	to hit (to beat, to slap, etc.); <p-l>memukul (menampar meninju dll.)</p-l>; <p-n>slaan (op allerlei wijzen, bv. met de vlakke hand, met een stok, met een buigzaam, voorwerp enz.)</p-n>	@bo'bo'
+liso	to hit (to beat, to slap, etc.); <p-l>memukul (menampar meninju dll.)</p-l>; <p-n>slaan (op allerlei wijzen, bv. met de vlakke hand, met een stok, met een buigzaam, voorwerp enz.)</p-n>
+loemoen	to take revenge; <p-l>membalas dendam</p-l>; <p-n>wreken</p-n>	@lumun
+sara	one; <p-l>satu</p-l>; <p-n>een</p-n>
+doea	two; <p-l>dua</p-l>; <p-n>twee</p-n>	@dua
+teloe	three; <p-l>tiga</p-l>; <p-n>drie</p-n>	@telu
+epat	four; <p-l>empat</p-l>; <p-n>vier</p-n>
+lima	five; <p-l>lima</p-l>; <p-n>vijf</p-n>
+enem	six; <p-l>enam</p-l>; <p-n>zes</p-n>
+pitoe	seven; <p-l>tujuh</p-l>; <p-n>zeven</p-n>	@pitu
+baloe	eight; <p-l>delapan</p-l>; <p-n>acht</p-n>	@balu
+siba	nine; <p-l>sembilan</p-l>; <p-n>negen</p-n>
+poeloe	ten; <p-l>sepuluh</p-l>; <p-n>tien</p-n>	@pulu
+poeloe sara	eleven; <p-l>sebelas</p-l>; <p-n>elf</p-n>	@pulu sara
+poeloe roea	twelve; <p-l>dua belas</p-l>; <p-n>twaalf</p-n>	@pulu rua
+poeloe teloe	thirteen; <p-l>tiga belas</p-l>; <p-n>dertien</p-n>	@pulu telu
+poeloe baloe	eighteen; <p-l>delapan belas</p-l>; <p-n>achttien</p-n>	@pulu balu
+poeloe siba	nineteen; <p-l>sembilan belas</p-l>; <p-n>negentien</p-n>	@pulu siba
+doeanga poeloe	twenty; <p-l>dua puluh</p-l>; <p-n>twintig</p-n>	@duanga pulu
+doeanga poeloe sara	twenty one; <p-l>dua puluh satu</p-l>; <p-n>eenentwintig</p-n>	@duanga pulu sara
+doeanga poeloe lima	twenty five; <p-l>dua puluh lima</p-l>; <p-n>vijfentwintig</p-n>	@duanga pulu lima
+teloenga poeloe	thirty; <p-l>tiga puluh</p-l>; <p-n>dertig</p-n>	@telunga pulu
+epatnga poeloe	fourty; <p-l>empat puluh</p-l>; <p-n>veertig</p-n>	@epatnga pulu
+limanga poeloe	fifty; <p-l>lima puluh</p-l>; <p-n>vijftig</p-n>	@limanga pulu
+sangotoe	hundred; <p-l>seratus</p-l>; <p-n>honderd</p-n>	@sangotu
+poeloe ngotoe	thousand; <p-l>seribu</p-l>; <p-n>duizend</p-n>	@pulu ngotu
+sitenga	a half; <p-l>setengah</p-l>; <p-n>een half</p-n>
+sanga mitsa	once; <p-l>sekali</p-l>; <p-n>eenmaal</p-n>
+doeanga mitsa	twice; <p-l>dua kali</p-l>; <p-n>tweemaal</p-n>	@duanga mitsa
+sibioki	the first; <p-l>pertama</p-l>; <p-n>de eerste &lt;unsp.&gt;</p-n>
+karoeânia	the second; <p-l>kedua</p-l>; <p-n>de tweede &lt;unsp.&gt;</p-n>	@karuania
+kasapoerat	the last; <p-l>yang terakhir</p-l>; <p-n>de laatste &lt;unsp.&gt;</p-n>; <p-n>(note: &lt;he&gt; who is the hindmost (oen , oek))</p-n>	@kasapurat
+sikasen	the last; <p-l>yang terakhir</p-l>; <p-n>de laatste &lt;unsp.&gt;</p-n>; <p-n>(note: &lt;he&gt; who is the hindmost (oen , oek))</p-n>
+piga	how much, how many; <p-l>berapa</p-l>; <p-n>hoeveel</p-n>
+maigi	many, much; <p-l>banyak</p-l>; <p-n>veel</p-n>
+goiso	few, a little; <p-l>sedikit</p-l>; <p-n>weinig</p-n>
+kapata	finished; <p-l>habis</p-l>; <p-n>op</p-n><br>up, upper, above; <p-l>di atas</p-l>; <p-n>boven, op</p-n>
+peleˈigi	<p-n>meer, meest &lt;unsp.&gt;</p-n>	@pele'igi
+makaigi	<p-n>meer, meest &lt;unsp.&gt;</p-n>
+makagoiso	less; <p-l>kurang</p-l>; <p-n>minder</p-n>
+pigapa	a few, some; <p-l>beberapa</p-l>; <p-n>enkele</p-n>
+akoe	I; <p-l>saya</p-l>; <p-n>ik</p-n>	@aku
+akoe le	I myself; <p-l>saya sendiri</p-l>; <p-n>ik zelf</p-n>	@aku le
+ekeoe	you (sing.); <p-l>kamu, engkau</p-l>; <p-n>gij (enk.) &lt;jij&gt;</p-n>	@ekeu
+kam	you (sing.); <p-l>kamu, engkau</p-l>; <p-n>gij (enk.) &lt;jij&gt;</p-n><br>you; <p-l>kamu sekalian</p-l>; <p-n>gijlieden</p-n>
+nia	he; <p-l>ia, kata ganti orang ke III tunggal (laki-laki)</p-l>; <p-n>hij</p-n>
+sita	we (inclusive); <p-l>kita (kata ganti orang ke II jamak)</p-l>; <p-n>wij (met insluiting der toegesproken persoon)</p-n>
+kai	we (exclusive); <p-l>kami (kata ganti orang ke II jamak)</p-l>; <p-n>wij (met uitsluiting der toegesproken persoon)</p-n>
+sia	they; <p-l>mereka</p-l>; <p-n>zij &lt;unsp.&gt;</p-n>
+bakatkoe - sita	mine; <p-l>kata ganti empunya orang ke I</p-l>; <p-n>mijn &lt;unsp.&gt;</p-n>; <p-n>(note: bakat = ˈpossessionˈ)</p-n>	@bakatku - sita
+sibakat nia	mine; <p-l>kata ganti empunya orang ke I</p-l>; <p-n>mijn &lt;unsp.&gt;</p-n>; <p-n>(note: bakat = ˈpossessionˈ)</p-n>
+kai sibakat nia	mine; <p-l>kata ganti empunya orang ke I</p-l>; <p-n>mijn &lt;unsp.&gt;</p-n>; <p-n>(note: bakat = ˈpossessionˈ)</p-n>
+bakatnoe	your; <p-l>kata ganti empunya orang ke II</p-l>; <p-n>uw &lt;unsp.&gt;</p-n>	@bakatnu
+kam sibakat nia	your; <p-l>kata ganti empunya orang ke II</p-l>; <p-n>uw &lt;unsp.&gt;</p-n>
+lalep ra	their; <p-l>kata ganti empunya orang ke III jamak</p-l>; <p-n>hun &lt;unsp.&gt;</p-n>
+lalep nia	his; <p-l>kata ganti empunya orang ke III tunggal (laki-laki)</p-l>; <p-n>zijn</p-n>
+kasei	who?; <p-l>siapa</p-l>; <p-n>wie</p-n>
+apa	what?; <p-l>apa</p-l>; <p-n>wat</p-n><br>which?; <p-l>mana, (yang) mana</p-l>; <p-n>welke</p-n>
+neˈneˈ	this; <p-l>ini</p-l>; <p-n>deze</p-n>	@ne'ne'
+nedaˈ	that; <p-l>itu</p-l>; <p-n>die &lt;unsp.&gt;</p-n>	@neda'
+kasene	here; <p-l>di sini</p-l>; <p-n>hier</p-n>
+kasedaˈ	there (near hearer); <p-l>di situ (di sebelah pendengar)</p-l>; <p-n>daar (bij U)</p-n>	@kaseda'
+gogoi	day; <p-l>hari</p-l>; <p-n>dag (en tijden van dag)</p-n>
+pato	light; <p-l>sinar</p-l>; <p-n>licht</p-n>
+saino	night (time of the night); <p-l>malam</p-l>; <p-n>nacht (en tijden van nacht)</p-n>
+roera	year; <p-l>tahun</p-l>; <p-n>jaar</p-n>	@rura
+kineneîget	now; <p-l>sekarang</p-l>; <p-n>nu</p-n><br>today; <p-l>hari ini</p-l>; <p-n>vandaag</p-n>	@kineneiget
+lepageti	shortly; <p-l>sebentar lagi</p-l>; <p-n>straks</p-n>
+siaole	formerly; <p-l>tempo hari</p-l>; <p-n>vroeger</p-n>
+kamata	before; <p-l>sebelum</p-l>; <p-n>voor &lt;unsp.&gt;</p-n>
+silepa	a moment ago; <p-l>tadi</p-l>; <p-n>zoe_ven</p-n>
+sokat	yesterday; <p-l>kemarin</p-l>; <p-n>gisteren</p-n>
+sokat mintsa	the day before yesterday; <p-l>kemarin dulu</p-l>; <p-n>eergisteren</p-n>
+matsep	tomorrow; <p-l>besok</p-l>; <p-n>morgen</p-n>
+matsep mintsa	the day after tomorrow; <p-l>lusa</p-l>; <p-n>overmorgen</p-n>
+kau ioi, kau taˈioi	now and then, occasionally; <p-l>kadang-kadang</p-l>; <p-n>nu en dan</p-n>; <p-n>(note: <i>kau ioi , kau taˈioi</i> one time he comes , another time he doesnˈt come)</p-n>	@kau ioi, kau ta'ioi
+piga moi	when; <p-l>kapan, bilamana</p-l>; <p-n>wanneer</p-n>
+paˈan	already; <p-l>sudah</p-l>; <p-n>reeds</p-n>	@pa'an
+tapeî	not yet; <p-l>belum</p-l>; <p-n>nog niet</p-n>	@tapei
+bare	north; <p-l>utara</p-l>; <p-n>noord</p-n>
+sika͡ola	south; <p-l>selatan</p-l>; <p-n>zuid</p-n>	@sikaola
+kabelajat soeloe	east; <p-l>timur</p-l>; <p-n>oost</p-n>	@kabelajat sulu
+kabelakat soeloe	west; <p-l>barat</p-l>; <p-n>west</p-n>	@kabelakat sulu
+sikatsiu	left; <p-l>kiri</p-l>; <p-n>links</p-n>
+sikatoet	right; <p-l>kanan</p-l>; <p-n>rechts</p-n>	@sikatut
+sibara kapata	from above; <p-l>dari atas</p-l>; <p-n>van boven</p-n>
+kalalep	under; <p-l>di bawah</p-l>; <p-n>onder</p-n>
+sibara kalalep	from underneath; <p-l>dari bawah</p-l>; <p-n>van onderen</p-n>
+bara nangan sene pakaili kaseda	<p-n>van-tot &lt;unsp.&gt;</p-n>; <p-n>(note: from here to there)</p-n>
+kasene teret kaseda	<p-n>van-tot &lt;unsp.&gt;</p-n>; <p-n>(note: from here to there (better?))</p-n>
+malêgere	at; <p-l>di, pada</p-l>; <p-n>bij</p-n><br>nearby; <p-l>di dekat, di</p-l>; <p-n>nabij</p-n>	@malegere
+sibara	from; <p-l>dari</p-l>; <p-n>van</p-n>
+teret	until; <p-l>hingga</p-l>; <p-n>tot</p-n>; <p-n>(note: <i>teteret nia</i> up to that point)</p-n><br>until; <p-l>hingga</p-l>; <p-n>tot</p-n>; <p-n>(note: <i>papara nia</i> also ˈup to that pointˈ)</p-n>
+ka	at, in; <p-l>di</p-l>; <p-n>te</p-n>
+kasia	on; <p-l>di</p-l>; <p-n>aan</p-n>
+kabaga	in, inside; <p-l>di (dalam)</p-l>; <p-n>in</p-n>
+kabelajat	out, outside; <p-l>luar, (di) luar</p-l>; <p-n>uit</p-n>
+areoe	far; <p-l>jauh</p-l>; <p-n>veraf</p-n>	@areu
+masiboˈkoˈ	around, surrounding; <p-l>se-kellling</p-l>; <p-n>rondom</p-n>	@masibo'ko'
+kaipa	where; <p-l>di mana</p-l>; <p-n>waar</p-n>
+kipangan	how; <p-l>bagaimana</p-l>; <p-n>hoe</p-n>
+kisê	like this, like that; <p-l>begini, begitu</p-l>; <p-n>zo</p-n>	@kise
+angoi	why; <p-l>mengapa</p-l>; <p-n>waarom</p-n>
+boelat nia	certainly, sure; <p-l>pasti</p-l>; <p-n>zeker</p-n>	@bulat nia
+pa	maybe; <p-l>barangkali</p-l>; <p-n>misschien</p-n>
+taˈ	no; <p-l>tidak</p-l>; <p-n>neen</p-n><br>not; <p-l>tidak, bukan, jangan</p-l>; <p-n>niet &lt;unsp.&gt;</p-n>	@ta'
+oˈo	yes; <p-l>ya</p-l>; <p-n>ja</p-n>	@o'o
+sarat	only; <p-l>hanya</p-l>; <p-n>slechts</p-n>
+le	only; <p-l>hanya</p-l>; <p-n>slechts</p-n>
+ai le goiso	almost; <p-l>hampir</p-l>; <p-n>bijna</p-n>; <p-n>(note: = still a bit &lt;left&gt;)</p-n>
+tapoi	but; <p-l>tetapi</p-l>; <p-n>maar</p-n>
+taˈ anai	no, not a, none; <p-l>tidak, tidak ada, bukan</p-l>; <p-n>geen</p-n>	@ta' anai
+Pigomoi toeoeremi geti mone neˈneˈ?	when will these fields be planted?; <p-l>kapan tanah ini akan ditanami?</p-l>; <p-n>wanneer worden deze velden beplant?</p-n>	@Pigomoi tuuremi geti mone ne'ne'?
+Bara leoe toeoeripmake kanione neˈneˈ?	will rice be planted in these fields?; <p-l>apakah padi yang akan ditanam di tanah itu?</p-l>; <p-n>wordt er rijst geplant op die velden?</p-n>	@Bara leu tuuripmake kanione ne'ne'?
+Kasedda bai igit sakînia taˈmoi koeake	I do not want to pay so much; <p-l>saya tidak mau membayar sebanyak itu</p-l>; <p-n>zoveel wil ik niet betaalmiddel</p-n>	@Kasedda bai igit sakinia ta'moi kuake
+Oebe le koeake sakînia	I shall pay in tobacco; <p-l>saya memberikan tembakau sebagai alat penukar</p-l>; <p-n>ik geef tabak als betalen</p-n>	@Ube le kuake sakinia
+Sakiake ka toeboe mai bibilet neda	sell us these goods; <p-l>juallah barang ini kepada kami</p-l>; <p-n>verkoop ons die goederen</p-n>	@Sakiake ka tubu mai bibilet neda
+Rasaki katoeboe mai senet mata bibilet	they buy all sorts of things from us; <p-l>mereka membeli dari kami bermacam-macam barang</p-l>; <p-n>zij kopen van ons allerlei zaken</p-n>	@Rasaki katubu mai senet mata bibilet
+Maiginga mata bibilet arasaki ka toeboe mai	they buy all sorts of things from us; <p-l>mereka membeli dari kami bermacam-macam barang</p-l>; <p-n>zij kopen van ons allerlei zaken</p-n>	@Maiginga mata bibilet arasaki ka tubu mai
+Kasei irioeake radja pakoiniet	who has been appointed delegate by the king?; <p-l>siapa yang diangkat sebagai utusan oleh raja?</p-l>; <p-n>wie is door den vorst tot afgezant aangesteld?</p-n>	@Kasei iriuake raja pakoiniet
+Kasei iteoeake rimata pakoiniet?	who has been appointed delegate by the king?; <p-l>siapa yang diangkat sebagai utusan oleh raja?</p-l>; <p-n>wie is door den vorst tot afgezant aangesteld?</p-n>	@Kasei iteuake rimata pakoiniet?
+Piga sia saanak boea rimatam?	over how many people does your king reign?; <p-l>berapa jumlah rakyat yang diperintah oleh raja anda?</p-l>; <p-n>over hoeveel lieden regeert uw vorst?</p-n>	@Piga sia saanak bua rimatam?
+Bat oinan neˈneˈ taˈmoi toepoeabangi	this river is unnavigable; <p-l>sungai ini tak terlayari</p-l>; <p-n>deze rivier is niet te bevaren</p-n>	@Bat oinan ne'ne' ta'moi tupuabangi
+Kipa boeroenia toepoeabak ta aîla koat?	how long does it take to reach the sea by boat?; <p-l>berapa lama kita harus berlayar hingga sampai ke laut?</p-l>; <p-n>hoe lang varen is het tot aan zee?</p-n>	@Kipa burunia tupuabak ta aila koat?
+Taˈanai djambatan, kipa koepetalipo bat oinan neˈneˈ?	there is no bridge; how can I cross the river?; <p-l>tidak ada jembatan; bagaimana saya dapat menyeberangi sungai?</p-l>; <p-n>er is geen brug; hoe kan ik de rivier oversteken?</p-n>	@Ta'anai jambatan, kipa kupetalipo bat oinan ne'ne'?
+Senet gogoi me kai ka leleu masigaba boeat kadjoe	everyday we look for fruits in the forest; <p-l>setiap hari kami pergi mencari buah-buahan di hutan</p-l>; <p-n>elke dag gaan wij vruchten zoeken in het bos</p-n>	@Senet gogoi me kai ka leleu masigaba buat kaju
+Aileoe koegaba seˈseˈ kan koeroukoe	I want to find grass for my horse; <p-l>saya ingin mencari rumput untuk kuda saya</p-l>; <p-n>ik wil voor mijn paard gras zoeken</p-n>	@Aileu kugaba se'se' kan kurouku
+Piganga gogoian taˈai bela oerat?	how many days has it been since it rained?; <p-l>sudah berapa hari hujan tidak turun?</p-l>; <p-n>hoeveel dagen heeft het niet geregend?</p-n>	@Piganga gogoian ta'ai bela urat?
+Ta isese sikoeania pagaladjat toeboe mai	it is not true what they say about us; <p-l>tidak benar apa yang mereka katakan tentang kami</p-l>; <p-n>het is niet waar wat zij van ons zeggen</p-n>	@Ta isese sikuania pagalajat tubu mai
+Ai roebania enoengan; kai pa taˈei	the road forks, which way should we go?; <p-l>jalan bercabang dua, ke mana kami harus pergi?</p-l>; <p-n>de weg splitst zich, waarheen moeten wij gaan?</p-n>	@Ai rubania enungan; kai pa ta'ei
+Kasei momoi ibairat peti neˈneˈ?	who can carry this chest?; <p-l>siapa yang mampu memikul peti ini?</p-l>; <p-n>wie kan deze kist dragen?</p-n>	@Kasei momoi ibairat peti ne'ne'?
+Aisoe / seiloe oinan, pasi taptap komangkoe	bring water to wash try clothes; <p-l>ambil air untuk mencuci pakaian saya</p-l>; <p-n>haal water om mijn kleren te wassen</p-n>	@Aisu / seilu oinan, pasi taptap komangku
+Tidoupe gougou roea ele teloenga moeneng ka toeboe mai ; bo͡eleu iake	ask him for a few chickens perhaps he will give them; <p-l>minta kepada dia beberapa ekor ayam, barangkali ia akan memberikannya</p-l>; <p-n>vraag hem om een paar kippen, misschien geeft hij ze</p-n>	@Tidoupe gougou rua ele telunga muneng ka tubu mai ; boeleu iake
+Kasei taˈmoi itoet akoe, sedda ikoedoe sene	whoever can not keep up, should stay here; <p-l>siapa yang tidak sanggup mengikuti saya, harus tinggal di sini</p-l>; <p-n>wie mij niet volgen kan moet hier blijven</p-n>	@Kasei ta'moi itut aku, sedda ikudu sene
+Koegalak Ie sia roea	here I am leaving two men behind; <p-l>saya meninggalkan dua orang di sini</p-l>; <p-n>ik laat hier twee mannen achter</p-n>	@Kugalak Ie sia rua
+Kele ai tata rimata pasagak rangan saanak boeania	war broke out after the death of the king; <p-l>perang timbul setelah kematlan raja</p-l>; <p-n>na de dood van de koning brak een oorlog uit</p-n>	@Kele ai tata rimata pasagak rangan saanak buania
+Kasei sia abele ka pasagangara	who won the war?; <p-l>siapa yang menang dalam peperangan itu?</p-l>; <p-n>wie heeft in de oorlog overwonnen?</p-n>
+Kipagalainia ai bara besi sirimanoea neˈ?	what made these people ill?; <p-l>apa yang menyebabkan orang-orang ini menjadi sakit?</p-l>; <p-n>waardoor zijn deze lieden ziek geworden?</p-n>	@Kipagalainia ai bara besi sirimanua ne'?
+Ai leoe sirimanoea siagainia masialeake ekeoe	there is someone who can make you better; <p-l>ada orang yang dapat menyembuhkan anda</p-l>; <p-n>er is iemand die u genezen kan</p-n>	@Ai leu sirimanua siagainia masialeake ekeu
+lakopa	mangosteen; <p-l>manggis</p-l>
+njoang lêleu	cricket; <p-l>jangkrik</p-l>	@njoang leleu
+njoang	asthma; <p-l>asma</p-l>
+terengangang	scorpion; <p-l>kalajengking</p-l>

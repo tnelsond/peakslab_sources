@@ -1,0 +1,969 @@
+#desc	French Bible translation words (key terms, names and other words), just their words, from <a href="https://bibleineverylanguage.org/">bibleineverylanguage</a> (translationWords, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>): with another language's on, a dictionary between them
+#priority	-2
+#lang	fr,aligned
+Aaron	@Aaron
+Abel	@Abel
+Abiathar	@Abiathar
+Abijah	@Abijah
+Abimelek	@Abimelech
+Abner	@Abner
+Abraham	@Abraham	@Abram
+Absalom	@Absalom
+Adam	@Adam
+Adonijah	@Adonija
+Ahab	@Achab
+Ahaz	@Achaz
+Ahaziah	@Achazia
+Ahijah	@Achija
+Ai	@AÏ
+Almighty	@Tout puissant
+Amalekite	@Amalek	@Amalécite
+Amaziah	@Amatsia
+Ammon	@Ammon	@Ammonites
+Amnon	@Amnon
+Amorite	@Amoreens
+Amos	@Amos
+Amoz	@Amots
+Andrew	@André
+Annas	@Anne
+Antioch	@Antioche
+Apollos	@Apollos
+Aquila	@Aquilas
+Arabah	@Araba
+Arabia	@Arabie	@Arabe
+Aram	@Aram	@Arameen
+Ararat	@Ararat
+Artaxerxes	@Artaxèrxès
+Asa	@Asa
+Asaph	@Asaph
+Ashdod	@Asdod	@Azot
+Asher	@Aser
+Asherah	@Astarté	@Ashères
+Ashkelon	@Ascalon
+Asia	@Asie
+Assyria	@Assirie	@Assirien	@empire assirien
+Athaliah	@Athalie
+Azariah	@Azaria
+Baal	@Baal
+Baasha	@Baesha
+Babel	@Babel
+Babylon	@Babylone
+Balaam	@Balaam
+Barabbas	@Barabbas
+Barnabas	@Barnabas
+Bartholomew	@Barthelemie
+Baruch	@BARUCH
+Bashan	@Basan
+Bathsheba	@Bath- sheba
+Beelzebul	@Beelzébul
+Beersheba	@Beersheba
+Benaiah	@Benaja
+Benjamin	@Benjamin
+Berea	@Beréé
+Beth Shemesh	@Beth_Sémès
+Bethany	@Bethanie
+Bethel	@Béthel
+Bethlehem	@Bethléhem	@Ephrata
+Bethuel	@Béthuel
+Boaz	@Boaz
+Book of Life	@livre de vie
+Caesar	@Cesar
+Caesarea	@Cesaréé	@Cesaréé de Philippe
+Caiaphas	@Caïphe
+Cain	@Caïn
+Caleb	@Caleb
+Cana	@Cana
+Canaan	@Canaan	@Cananéens
+Capernaum	@Capharnaüm
+Carmel	@Carmel	@Mont Carmel
+Chaldeans	@Chaldéé	@Chaldéen
+Christ	@Christ	@Messie
+Christian	@Chretiens
+Cilicia	@Cilicie
+Colossae	@Colosses	@Colossiens
+Corinth	@Corinthe	@Corinthiens
+Cornelius	@Corneille
+Crete	@Crête	@Crétois
+Cush	@Cush
+Cyprus	@Chypre
+Cyrene	@Cyrène
+Cyrus	@Cyrus
+Damascus	@Damas
+Dan	@Dan
+Daniel	@Daniel
+Darius	@Darius
+David	@David
+Delilah	@Delila
+Eden	@Eden	@jardin d'eden
+Edom	@Edom	@Edomite Iduméa	@Séir
+Egypt	@Egypte	@Egyptien
+Ekron	@Ekron
+Elam	@Elam
+Eleazar	@Eléazar
+Eliakim	@Eliakim
+Elijah	@Eli
+Elisha	@Eliséé
+Elizabeth	@Elisabeth
+En Gedi	@En Gedi
+Enoch	@Enoch
+Ephesus	@Ephèse
+Ephraim	@Ephraim
+Esau	@Esaü
+Esther	@Esther
+Ethiopia	@Ethiopie	@Ethiopiens
+Euphrates	@L'Euphrate
+Eve	@Eve
+Gabriel	@Gabriel
+Gad	@Gad
+Galatia	@Galatie
+Galilee	@Galilée	@galiléen
+Gath	@Gath
+Gaza	@Gaza
+Gentile	@Gentil	@Paien
+Gerar	@Guérar
+Geshur	@Gueshur
+Gethsemane	@Gethsémané
+Gibeah	@Guibea
+Gibeon	@Gabaon	@Gabaonite
+Gideon	@Gédéon
+Gilead	@Galaad
+Gilgal	@Guilgal
+Girgashites	@Guirgasiens
+God	@Dieu
+God the Father	@Dieu le Père	@Père céleste	@Père
+Golgotha	@Golgotha
+Goliath	@Goliath
+Gomorrah	@Gomorrhe
+Goshen	@Goshen
+Greece	@Grèce
+Greek	@Grecque	@grec	@hellénistique
+Habakkuk	@Habacuc
+Hades	@Hadès	@shéol
+Hagar	@Hagar
+Haggai	@Aggée
+Ham	@Cham
+Hamath	@Hamath	@Lebo Hamath
+Hamor	@Hamor
+Hananiah	@Hanania
+Hannah	@Anne
+Haran	@Haran
+Hebrew	@hébreu
+Hebron	@Hébron
+Hermon	@Mont Hermon
+Herod Antipas	@Hérode Antipas
+Herod the Great	@Hérode le grand
+Herodias	@Hérodias
+Hezekiah	@Ezéchias
+Hilkiah	@Hilkija
+Hittite	@Hittites
+Hivite	@Héviens
+Holy One	@Le Saint
+Holy Spirit	@Le Saint Esprit	@Esprit de Dieu	@l'Esprit du Seigneur
+Horeb	@Horeb
+Hosea	@Osée
+Hoshea	@Osée
+Iconium	@Iconium
+Isaac	@Isaac
+Isaiah	@Esaîe
+Ishmael	@Ismael
+Israel	@Israel	@Israelistes	@La nation d'Israel
+Issachar	@Issacar
+Jacob	@Jacob	@Israël
+James brother of Jesus	@Jacques	@frère de Jésus
+James son of Alphaeus	@Jacques	@fils d'Alphée
+James son of Zebedee	@Jacques	@fils de Zébédée
+Japheth	@Japhet
+Jebus	@Jébusiens
+Jehoiachin	@Joachin
+Jehoiada	@Jehojada
+Jehoiakim	@Jojakim
+Jehoram	@Joram
+Jehoshaphat	@Josaphat
+Jehu	@Jéhu
+Jephthah	@Jephté
+Jeremiah	@Jérémie
+Jericho	@Jéricho
+Jeroboam	@Jéroboam
+Jerusalem	@Jérusalem
+Jesse	@Jesse
+Jesus	@Jésus	@Jésus-Christ
+Jethro	@Jethro	@Reuel
+Jew	@Juif	@juif
+Jewish authorities	@Les dirigeants juifs	@les autorités juives	@les chefs religieux
+Jezebel	@Jézabel
+Jezreel	@Jizreel
+Joab	@Joab
+Joash	@Joas
+Job	@Job
+Joel	@Joël
+John Mark	@Jean Marc
+John the Baptist	@Jean	@le Baptiste
+John the apostle	@Jean	@l'apôtre
+Jonah	@Jonas
+Jonathan	@Jonathan
+Joppa	@Joppée
+Joram	@Joram
+Jordan River	@Le fleuve Jourdain
+Joseph, New Testament	@Joseph	@NT
+Joseph, Old Testament	@Joseph	@AT
+Joshua	@Josué
+Josiah	@Josias
+Jotham	@Jotham
+Judah (names/judah)	@Juda
+Judah (names/kingdomofjudah)	@Juda	@royaume de Juda
+Judaism	@Le judaïsme	@la religion juive
+Judas Iscariot	@Judas Iscariote
+Judas son of James	@Judas	@fils de Jacques
+Judea	@Judée
+Kadesh	@Kadesh
+Kedar	@Kedar
+Kedesh	@Kédesh
+Kerethites	@kéréthiens
+King of the Jews	@Roi des Juifs
+Korah	@Koré
+Laban	@Laban
+Lamech	@Lamech
+Lazarus	@Lazare
+Leah	@Lea
+Lebanon	@Liban
+Levi	@Lévites	@Levi
+Leviathan	@Léviathan
+Lord Yahweh	@Seigneur	@l'Éternel	@l'Éternel Dieu
+Lord's Supper	@Le repas du Seigneur
+Lot	@Lot
+Luke	@Luc
+Lystra	@Lystre
+Macedonia	@Macédoine
+Maker	@Fabricant
+Malachi	@Malachie
+Manasseh	@Manassé
+Martha	@Marthe
+Mary	@Marie	@la mère de Jésus
+Mary Magdalene	@Marie-Madeleine
+Mary sister of Martha	@Marie soeur da Marthe
+Matthew	@Matthieu	@Levi
+Media	@"Medes
+Melchizedek	@Melchisédek
+Memphis	@Memphis
+Meshech	@Meshech
+Mesopotamia	@Mésopotamie	@Aram Naharaim
+Micah	@Miché
+Michael	@Michel
+Midian	@Madianites Madianites
+Miriam	@Miriam
+Mishael	@Mischaël
+Mizpah	@Mispa
+Moab	@Moab	@Moabite
+Molech	@Moloch	@Molek
+Mordecai	@"Mardochée
+Moses	@Moïse
+Most High	@Très Haut
+Mount of Olives	@Mont des Oliviers
+Naaman	@Naaman
+Nahor	@Nahor
+Nahum	@Nahum
+Naphtali	@Nephtali
+Nathan	@Nathan
+Nazareth	@Nazareth	@Nazaréen
+Nazirite	@Nazaréen	@vœu nazaréen"
+Nebuchadnezzar	@Nébucadnetsar
+Negev	@Néguev
+Nehemiah	@Néhémie
+Nile River	@Nil	@fleuve d'Egypte
+Nineveh	@Ninive	@ninivite
+Noah	@Noé
+Obadiah	@Abdias
+Omri	@Omri
+Passover	@La Pâques
+Paul	@Paul	@Saul
+Peter	@Pierre	@Simon Pierre	@Céphas
+Pharaoh	@Pharaon	@roi d’Égypte
+Philip (names/philip)	@Philippe	@l'évangéliste
+Philip (names/philiptheapostle)	@Philippe	@l'apôtre
+Philippi	@Philippes
+Philistia	@Philistie
+Philistines	@Philistins
+Phinehas	@Phinées
+Phoenicia	@Phénicie"
+Pilate	@Pilate
+Pontus	@Pont
+Potiphar	@Potiphar
+Priscilla	@Priscille"
+Promised Land	@Terre promise
+Rabbah	@Rabbah
+Rabbi	@Rabbi	@Rabboni
+Rachel	@Rachel
+Rahab	@Rahab
+Ramah	@Rama
+Ramoth	@Ramoth
+Rebekah	@Rebecca
+Rehoboam	@Roboam
+Reuben	@Ruben
+Rimmon	@Rimmon
+Rome	@Rome	@Romain
+Ruth	@Ruth
+Sabbath	@sabbat
+Sadducee	@sadducéen
+Salt Sea	@Mer Salée	@Mer Morte
+Samaria	@Samarie	@samaritain
+Samson	@Samson
+Samuel	@Samuel
+Sarah	@Sara	@Sarai
+Satan	@Satan	@diable	@malin
+Saul	@Saül	@AT
+Savior	@Sauveur
+Sea of Galilee	@Mer de Galilée
+Sea of Reeds	@Mer des Roseaux
+Sennacherib	@Sanchérib
+Seth	@Seth
+Sharon	@Saron	@Plaine de Saron
+Sheba	@Saba
+Shechem	@Sichem
+Shem	@Sem
+Shiloh	@Silo
+Shimei	@Schimei
+Shinar	@Schinear
+Sidon	@Sidon	@Sidoniens
+Silas	@Silas	@Silvanus
+Simeon	@Siméon
+Simon the Zealot	@Simon le Zélote
+Sinai	@Sinaï	@le Mont Sinaï
+Sodom	@Sodome
+Solomon	@Salomon
+Son of God	@Fils de Dieu	@le Fils
+Son of Man	@Fils de l'homme	@fils de l'homme"
+Stephen	@Etienne
+Sukkoth	@Succoth
+Syria	@Syrie
+Tamar	@Tamar
+Tarshish	@Tarsis
+Tarsus	@Tarse
+Ten Commandments	@Dix Commandements
+Terah	@Terah
+Thessalonica	@Thessalonique	@Thessaloniciens
+Thomas	@Thomas
+Timothy	@Timothée
+Tirzah	@Thirtsa
+Titus	@Tite
+Troas	@Troas
+Tubal	@Tubal
+Tychicus	@Tychique
+Tyre	@Tyr
+Uriah	@Urie
+Xerxes	@Assuérus
+Yahweh	@Yahvé	@l’Éternel	@SEIGNEUR	@Seigneur
+Zechariah, New Testament	@Zacharie
+abyss	@abîme
+acacia	@acacia
+accuse	@accuser	@accusation	@accusateur
+acknowledge	@honnorer
+acquit	@acquitter
+administration	@administration	@administrateur
+admonish	@exhorter
+adopt	@adoption
+adultery	@l’adultère	@adultère	@adj
+adversary	@adversaire	@ennemi
+afflict	@affliger	@affliction
+age	@âge
+alarm	@alarme	@alarmer
+alms	@aumône
+altar	@Autel
+altar of incense	@Autel des parfums
+amazed	@merveille
+ambassador	@ambassadeur
+amen	@amen
+angel	@ange	@archange
+anger	@colère
+anguish	@angoisse
+anoint	@oindre	@oint
+antichrist	@antichrist
+apostle	@apôtre
+appoint	@autoriser
+archer	@tireur d'arc	@archer
+ark	@arche
+ark of the covenant	@Arche de l'alliance	@ordonnances de l'arche de l'alliance	@arche de Jéhovah
+armor	@armure
+arrogant	@arrogant
+ash	@cendre
+asleep	@sommeil	@endormi	@s' endormir
+assembly	@assemblage	@assemblee
+assign	@assigner assigné
+astray	@egarer	@egaré	@errant
+atonement	@expier	@expiation
+atonement lid	@couvercle de l'expiation
+authority	@autorité
+avenge	@venger vengeance
+awe	@emerveillement impressionnant
+ax	@hache
+banquet	@banquet
+baptize	@baptiser ' baptême
+barley	@orge
+barren	@stérile
+basket	@panier
+bear (other/bear)	@supporter
+bear (other/bearanimal)	@ours
+beast	@bête
+beg	@mendier	@mendiant
+believe	@croire	@croyance
+believer	@croyant
+beloved	@bien aimé
+betray	@trahir	@traître
+bind	@lier	@lien  lié
+birthright	@droit d'aînesse
+blameless	@irreprochable
+blasphemy	@blasphème	@blasphemer
+blemish	@défaut
+bless	@bénir	@beni	@benediction
+blood	@sang
+bloodshed	@effusion de sang
+blot out	@essuyer	@effacer
+boast	@vantardise	@se vanter
+body	@corps
+bold	@audacieux	@audacieusement	@audace
+born again	@né de nouveau	@né de  Dieu nouvelle naissance
+bow	@s'incliner	@se prosterner s'agenouiller
+bow and arrow	@arc et flèche
+bread	@pain
+breastplate	@pectoral cuirasse
+breath	@souffle souffler
+bribe	@soudoyer
+bride	@mariéé
+bridegroom	@nouveau marié
+bronze	@bronze
+brother	@frére
+burden	@fardeau
+burnt offering	@holocauste	@sacrifice par le feu
+bury	@enterrer	@enterré	@enterrement
+call	@appeler	@appel	@appelé
+camel	@chameau
+captive	@captif	@captivité
+cast out	@chasser	@jeter dehors
+caught up	@enlevé
+cedar	@cèdre
+census	@recensement
+centurion	@centurion
+chaff	@balle
+chariot	@char
+cherubim	@cherubin
+chief	@chef
+chief priests	@principaux sacrificateurs
+children	@enfant	@enfants
+chronicles	@chroniques
+church	@eglise
+circumcise	@circoncis	@circoncision
+citizen	@citoyen
+city of David	@cité de David
+clan	@clan
+clean	@propre
+clothed	@vêtu	@revêtir
+comfort	@cnfort	@couette
+command	@commander	@commande	@commendement
+commander	@commander	@commandant
+commit	@commettre	@commis	@engagement
+companion	@compagnon
+compassion	@compassion	@compatissant
+conceive	@concevoir	@conception
+concubine	@concubine
+condemn	@condamner	@condamnation
+confess	@avouer	@confession
+confidence	@confiance	@confiant
+confirm	@confirmer	@confirmation
+conscience	@conscience
+consecrate	@cnsacrer	@consécration
+consume	@consumer	@consommer
+contempt	@mepriser	@meprisable
+cornerstone	@pierre	@angulaire
+corrupt	@corrompre	@corruption
+council	@conseil
+counsel	@avocat	@conseiller	@conseil
+courage	@courage courageux
+court	@cour
+covenant	@engagement
+covenant faithfulness	@alliance	@fidélité	@loyauté de l' alliance
+cow	@vache	@veau	@taureau	@bétail
+create	@creer	@creation	@createur
+creature	@creature
+crime	@crime	@criminel
+cross	@croix
+crown	@couronne	@couronner
+crucify	@crucifier
+cry	@crier	@pleurer
+cupbearer	@échanson
+curse	@maudire malédiction
+curtain	@rideau
+cut off	@couper
+darkness	@obscurité
+daughter of Zion	@Fille de Sion
+day	@temps biblique
+day of the Lord	@le jour du seigneur	@le jour de Yahweh
+deacon	@diacre
+death	@mort	@mourir	@la mort
+deceive	@tromperer	@tromperie	@trompeur
+declare	@declarer	@declaration
+decree	@décret
+dedicate	@dédier	@dédidace
+deer	@cerf	@biche	@daim	@chevreuil faon
+defile	@salir se salir
+delight	@delice
+deliver	@delivrer liberateur
+demon	@demon mauvais esprit esprit impur
+demon-possessed	@possedé par un démon
+descendant	@descendant	@descendre de
+desecrate	@profaner
+desert	@desert
+desolate	@abandon	@desolation
+destiny	@destin	@destinée	@destiner
+destroy	@detruire
+detest	@détestable	@detester
+devastated	@devaster	@devastation
+devour	@devorer
+discern	@discerner	@discernement
+disciple	@disciple
+discipline	@discipline	@auto_discipline
+disgrace	@disgrace	@honteux
+dishonor	@deshonneur	@deshonnorable
+disobey	@désobeïr	@désobeïssance	@désobeïssant
+disperse	@disperser	@dispersion
+divination	@devination	@sorcier	@prédiction	@voyant
+divine	@divin
+divorce	@divorcer
+doctrine	@doctrine
+dominion	@domination
+donkey	@Âne	@mule
+doom	@sort malheureux
+doorpost	@seuil
+dove	@colombe	@pigeon
+dream	@rêve
+drink offering	@sacrifice de boisson
+drunk	@ivre	@ivrogne
+dung	@fumier
+eagle	@aigle
+earth	@terre	@terrestre
+elder	@Aîné
+elect	@peuple choisi	@un élu	@des élus
+encourage	@encourager	@encouragement
+endure	@subir	@endurance
+enslave	@esclave	@esclavage
+envy	@envie	@convoiter
+ephod	@éphod
+eternity	@perpétuel	@éternel	@éternité
+eunuch	@ennuque
+evangelist	@evangeliste
+evil	@mauvais	@mechant	@mechanceté
+evildoer	@malfaiteur
+exalt	@exalter	@extase
+faith	@la foi
+faithful	@fidèle	@fidélité	@infidèle	@infidélité
+family	@la famille
+famine	@famine
+fast	@Jeûner
+favor	@Faveur	@favorable	@le favoritisme
+fear	@Peur	@crainte de l'Eternel
+feast	@Le banquet
+fellowship	@Communion
+fellowship offering	@Offre de bourse	@offre de paix
+festival	@Festival
+filled with the Holy Spirit	@rempli de l'Esprit
+fir	@sapin
+fire	@Feu
+firstborn	@premier-né
+firstfruit	@premiers fruits
+fishermen	@pêcheurs
+flesh	@la chair
+flood	@inondation
+flute	@flûte	@pipe
+fool	@fou	@folie
+footstool	@escabeau
+foreigner	@étranger	@étrangers
+forever	@pour toujours
+forgive	@pardonner	@le pardon
+forsaken	@abandonner	@abandonné
+found	@fondation	@fondée
+fountain	@fontaine	@source
+frankincense	@encens
+free	@libre	@la liberté
+freewill offering	@offrande volontaire
+fruit	@fruits	@fructueux
+fulfill	@remplir
+furnace	@fournaise
+gate	@porte	@barre de grille
+generation	@génération
+giant	@géant
+gift	@cadeau	@don
+gird	@ceindre
+glean	@glaner	@glanant
+glorify	@glorifier
+glory	@gloire	@glorieux
+gnashteeth	@broyer des dents	@grincer des dents
+goat	@chèvre
+god	@dieu	@faux dieu	@dieux	@déesse	@idole	@idoles	@idolâtre	@idolâtres	@idolâtrie
+godly	@pieuse	@la piété
+gold	@or
+good	@bon	@la bonté
+good news	@bonnes nouvelles	@Evangile
+gossip	@Calomnie
+governor	@gouverneur	@gouverner
+grace	@grâce	@gracieuse
+grain	@Grain
+grain offering	@offrande de grain
+grape	@grappe de raisin
+groan	@gémissement
+guilt	@culpabilité	@coupable
+guilt offering	@"l'offrande de culpabilité
+hail	@La grèle
+hand	@la main	@la main droite	@à la main sur
+hang	@pendre
+hard	@dur	@dureté
+harp	@harpe
+harvest	@récolte
+haughty	@hautain
+head	@tête
+heal	@guérir	@soigner
+heart	@cœur
+heaven	@ciel	@cieux	@céleste
+heifer	@génisse
+heir	@héritier
+hell	@enfer	@étang de feu
+high place	@Les Hauts Lieux
+high priest	@Grand prêtre
+holy	@Saint	@Sainteté
+holy city	@La ville Sainte
+holy place	@Le Lieu Saint	@Le Saint des Saints
+honey	@Miel	@Gateau de miel
+honor	@Honneur	@honorer
+hoof	@Sabot	@à Sabots
+hope	@Espoir
+horn	@Corne	@les Cornes
+horror	@Horreur	@Horrifié
+horse	@Cheval
+horseman	@Cavalier
+hour	@Le Temps
+hour, biblical time	@temps biblique	@heure
+house	@Maison
+house of David	@La  maison de David
+house of God	@La maison de Dieu	@la maison de Yahweh
+household	@Ménage
+humble	@Humble	@Humilité
+humiliate	@Humilier	@Humiliation
+hypocrite	@Hypocrite	@Hypocrisie
+idol	@Idole	@Idolâtre
+image	@Image	@image sculptée	@figure sculptée	@figure de métal moulé
+image of God	@Image de Dieu	@Image
+imitate	@Imiter	@Imitateur
+in Christ	@En Christ	@en Jésus	@dans le Seigneur
+incense	@Encens
+inherit	@Hériter	@Héritage	@Patrimoine	@Successeur
+iniquity	@Iniquité
+innocent	@Innocent
+inquire	@Se renseigner
+instruct	@Instuire	@Instruction
+integrity	@intégrité
+intercede	@Interceder	@intercession
+interpret	@Interpreter	@interprétation
+iyahweh	@Moi	@Yahweh
+jealous	@jaloux	@jalousie
+joy	@joie	@joyeux
+judge (kt/judge)	@juger	@jugement
+judge (other/judgeposition)	@juge
+judgment day	@jour du jugement dernier
+justice	@juste	@la justice	@à juste titre
+justify	@justifier	@justification
+kin	@Parenté	@parent
+kind	@genre	@sortes
+king	@Roi
+kingdom	@Royaume
+kingdom of God	@royaume de Dieu	@royaume des cieux
+kingdom of Israel	@royaume d'Israël
+kiss	@baiser
+know	@savoir	@les connaissances	@faire connaître
+labor	@travail	@ouvrier
+labor pains	@les douleurs du travail	@dans le travail
+lamb	@agneau	@Agneau de Dieu
+lament	@lamenter	@lamentation
+lamp	@lampe
+lampstand	@chandelier
+last day	@dernier jour	@derniers jours
+law of Moses	@la loi	@la loi de Moïse	@la loi de Dieu	@la loi de l'Eternel
+lawful	@légitime
+lawless	@sans loi	@l'anarchie
+learned men	@les savants	@les astrologues
+leopard	@léopard
+leper	@lèpre	@lépreux	@lépreuse
+letter	@lettre	@Epître
+life	@vie	@vivant	@vivre	@en vie
+light	@lumière
+like	@comme	@à l'image de
+lion	@Lion
+livestock	@bétail
+locust	@criquet
+loins	@Reins
+lord	@seigneur	@maître	@monsieur
+lordgod	@Seigneur
+lots	@tirage au sort
+love	@amour
+lover	@amoureux
+lowly	@humble	@humilité
+lust	@luxure
+lute	@luth	@cithare
+magic	@magie	@magicien
+magistrate	@magistrat	@magistrats
+magnify	@magnifier
+majesty	@majesté
+man of God	@homme de Dieu
+manager	@gestionnaire	@intendant
+manna	@manne
+mealoffering	@Offrande de repas
+mediator	@médiateur
+meditate	@méditer
+meek	@doux	@douceur
+melt	@fondre
+member	@membre
+memorial offering	@commémoratif	@mémorial offre
+mercy	@miséricorde	@miséricordieux
+messenger	@Messager
+mighty	@puissant	@puissance
+mind	@esprit
+minister	@ministre	@ministère
+miracle	@miracle	@merveille	@signe
+mock	@moquerie	@ridicule	@se moquer
+mold	@moule
+month	@temps biblique	@mois
+mourn	@deuil	@être en deuil
+multiply	@multiplier
+myrrh	@myrrhe
+mystery	@mystère	@vérité cachée
+name	@nom
+nation	@nation
+neighbor	@voisin
+new moon	@nouvelle lune
+newcovenant	@nouvelle alliance
+noble	@noble
+oak	@chêne
+oath	@serment	@jurer	@jurer par"
+obey	@obéir	@obéissant	@l'obéissance
+offspring	@progéniture
+oil	@Huile
+olive	@olive
+peace	@La paix	@paisible	@paisiblement	@pacifique	@conciliateur
+people group	@groupe de personnes	@les gens	@le peuple	@une nation
+persecute	@persécuter	@persécution	@persécuteur
+pierce	@transpercer	@percer
+pig	@porc	@cochon
+pillar	@pilier	@colonne
+pit	@fosse
+plague	@peste
+plead	@plaider	@plaidant	@plaidoyer
+pledge	@gage
+plow	@charrue
+pomegranate	@Grenade
+possess	@posséder	@possession
+power	@puissance	@pouvoirs
+praise	@louange
+pray	@priez	@prière
+preach	@prêcher
+precious	@précieux
+predestine	@prédestiner	@prédestiné
+prey	@proies	@des proies sur
+priest	@prêtre	@prêtrise
+prince	@Prince	@Princesse
+prison	@prison	@prisonnier
+proclaim	@proclamer	@proclamation
+profane	@profane
+profit	@profit	@profitable
+promise	@promesse
+prophet	@prophète	@prophétie	@prophétiser	@voyant	@prophétesse
+propitiation	@propitiation
+prosper	@prospérer	@prospérité	@prospère
+prostitute	@prostitué	@prostituée
+prostrate	@prosterner
+proud	@fier	@fierté	@orgueilleux
+proverb	@proverbe
+province	@province	@provincial
+provoke	@provoquer
+prudent	@prudent
+psalm	@psaume
+puffed up	@gonflé
+punish	@punir	@punition
+pure	@pur	@purifier	@purification
+purple	@violet
+push	@pousser
+qualify	@qualifier	@qualifié
+queen	@reine
+quench	@éteindre
+rage	@Enragé
+raise	@lever	@lève	@ressuscité	@ressusciter	@debout
+ransom	@une rançon
+reap	@récolter	@moissonner
+rebel	@rebeller	@rebelle
+rebuke	@réprimander
+receive	@recevoir
+reconcile	@concilier	@la réconciliation
+redeem	@racheter	@le rachat	@rédemption
+reed	@roseau	@roseaux
+refuge	@refuge	@un abri
+reign	@règne
+reject	@rejeter
+rejoice	@réjouir
+remnant	@reste
+renown	@renommée	@renommé
+repent	@repentir	@se repentir
+report	@rapport
+reproach	@reproche
+rest	@le repos
+restore	@restaurer	@restauration
+resurrection	@résurrection
+return	@retour
+reveal	@révéler	@la révélation
+revere	@révérence
+reward	@récompense
+right hand	@main droite
+righteous	@juste	@la justice
+robe	@robe
+rod	@barre
+royal	@Royal
+ruin	@ruine	@ruiner
+ruler	@Commandant	@règles	@règle
+run	@courir
+sackcloth	@toile à sac
+sacred	@sacré
+sacrifice	@sacrifice	@offrande
+saint	@saints
+salvation	@salut
+sanctify	@sanctifier	@sanctification
+sanctuary	@sanctuaire
+sandal	@sandale
+save	@Demeurer en toute sécurité
+scepter	@sceptre
+scribe	@scribe	@expert dans la loi juive
+scroll	@faire défiler
+seacow	@vache de mer
+seal	@sceller	@pour sceller
+seed	@la graine
+seek	@chercher	@rechercher
+seize	@saisir
+selah	@selah
+self-control	@maîtrise de soi
+send	@envoyer
+serpent	@serpent
+servant	@serviteur	@esclave	@esclavage
+serve	@servir	@le service
+set apart	@mettre à part
+sex	@Dormir avec	@avoir des relations avec	@couché avec	@copulation
+sexual immorality	@immoralité sexuelle
+shadow	@ombre
+shame	@honte	@honteux	@être honni
+sheep	@moutons	@bélier	@brebis
+shepherd	@Paître	@le berger
+shield	@bouclier
+shrewd	@astucieux
+siege	@siège	@assiéger
+sign	@signe	@preuve	@rappel
+silver	@argent
+sin	@péché	@pécheur	@péchant
+sin offering	@Sacrifice de péché
+sister	@sœur
+skull	@crâne
+slain	@tuer	@tué
+slander	@calomnie	@calomniateur
+slaughter	@abattage
+snare	@piège	@pièger
+snow	@neige
+son	@fils	@fils de
+sons of God	@fils de Dieu"
+sorcery	@sorcellerie	@sorcier	@magie
+soul	@âme
+sow	@Semer	@semeur
+spear	@lance
+spirit	@esprit	@spirituel
+splendor	@splendeur
+staff	@Une verge
+statute	@lois	@statuts
+stiff-necked	@cou raide	@têtu
+stone	@pierre	@la lapidation
+storehouse	@entrepôt
+strength	@force	@renforcer
+strife	@conflit
+strong drink	@boisson forte
+stronghold	@forteresse	@fortifié
+stumble	@trébucher
+stumbling block	@pierre d'achoppement
+subject	@sujet	@être soumis à	@dans la soumission à
+submit	@présenter	@dans la soumission
+suffer	@souffrir	@souffrance
+sulfur	@soufre
+sweep	@balayage	@balayé
+sword	@épée
+synagogue	@synagogue
+tabernacle	@tabernacle
+tax	@impôts	@taxes
+taxcollector	@Collecteur des impôts
+teach	@enseigner	@enseignement	@professeur
+teacher	@professeur	@enseignant
+temple	@temple
+tempt	@tenter	@tentation
+tent	@tente
+tent of meeting	@tente de réunion
+tenth	@dixième	@dîme
+terror	@terreur	@épouvante
+test	@tester
+testimony	@témoignage	@témoigner
+tetrarch	@tétrarque
+the sea	@la mer	@la grande mer	@la mer occidentale
+the twelve	@douze	@onze
+thief	@voleur	@voleurs	@dérobeur
+thorn	@épine	@chardon
+thresh	@Battre	@battage
+threshold	@seuil
+throne	@trône
+time	@Temps
+tomb	@tombe	@tombeau	@lieu de sépulture
+tongue	@langue
+torment	@tourmenter
+tradition	@Tradition
+trample	@bafouer
+trance	@transe
+transgress	@transgresser	@transgression
+tremble	@trembler
+trespass	@Transgression
+trial	@procès
+tribe	@tribu
+tribulation	@Tribulation
+tribute	@hommage
+trouble	@trouble	@troubles	@troublés
+true	@vraie	@vérité
+trumpet	@trompette
+trust	@confiance	@digne de confiance	@la fiabilité
+tunic	@tunique
+turn	@tourner	@tourner le dos	@revenir en arrière
+unbeliever	@incroyant	@incroyance
+uncircumcised	@incirconcis	@incirconcision
+unclean	@impur
+understand	@comprendre	@comprend	@compris	@compréhension
+vain	@Vain	@vanité
+veil	@voile	@voiles	@voilé	@dévoilé
+vine	@vigne	@vignes
+vineyard	@Vigne	@cep	@vignobles
+virgin	@vierge	@vierges	@virginité
+vision	@vision	@visions	@visionné
+voice	@voix	@les voix
+walk	@Marcher	@marché	@marchait	@la marche
+waste	@déchets	@gaspillé	@gaspillage	@terres à l'abandon	@terres désolées
+watch	@regarder	@gardien	@veilleurs	@vigilants
+watch, biblical time	@temps biblique	@montre
+watchtower	@tour de garde	@tours de guet	@tour
+water	@eau	@eaux	@arrosé	@arrosage
+week	@temps biblique semaine
+wheat	@blé
+winepress	@pressoir
+winnow	@vanner	@vanné	@vannage	@tamiser	@tamisage
+wise men	@les sages
+wolf	@loup
+womb	@uterus	@les utérus
+word	@écrit
+wordoftruth	@loup
+world	@mot	@mots
+worship	@Adoration
+wrong	@faux	@Données Wfaux	@mauvais	@offensé	@à tort	@malfaiteur	@faute	@maltraitance	@maltraité	@blessé	@mal	@blesser	@blessant
+year	@temps biblique	@annéé
+yeast	@levure	@levain	@levains	@levés	@sans levain
+yoke	@joug

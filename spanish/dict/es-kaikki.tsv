@@ -1,5 +1,5 @@
 #desc	Kaikki Spanish-English Dictionary (English Wiktionary, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>), from <a href="https://kaikki.org/dictionary/Spanish/">kaikki.org</a>
-#priority	2
+#priority	1
 #lang	bi
 gratis	<p-ipa>@[ˈɡɾa.t̪is]</p-ipa>	<p-n>adj</p-n> <ol><li><p-tags>invariable</p-tags> free, without charge<p>Synonyms: <p-a>gratuito</p-a></p></li></ol><p>Etymology: Derived from Latin grātīs. Compare English grace.</p>
 gratis	<p-ipa>@[ˈɡɾa.t̪is]</p-ipa>	<p-n>adv</p-n> <ol><li>free, without charge<p>Synonyms: <p-a>gratuitamente</p-a></p></li></ol><p>Etymology: Derived from Latin grātīs. Compare English grace.</p>

@@ -1,0 +1,1056 @@
+#desc	Hausa words by English sense, from English Wiktionary's translation tables (<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>), from <a href="https://kaikki.org/dictionary/English/">kaikki.org</a>: with another language's on, a dictionary between them
+#priority	-2
+#lang	ha,aligned
+-less (lacking)	<p-n>suffix</p-n>	@mara	@marasa
+Aaron (biblical brother of Moses)	<p-n>name</p-n>	@Haruna
+Aaron (male given name)	<p-n>name</p-n>	@Haruna
+Abdullah (Muslim given name)	<p-n>name</p-n>	@Abdullahi
+Abraham (male given name)	<p-n>name</p-n>	@Ibrahim
+Abraham (prophet in the Old Testament)	<p-n>name</p-n>	@Ibrahim
+Abu Bakr (Translations)	<p-n>name</p-n>	@Abubakar
+Accra (capital of Ghana)	<p-n>name</p-n>	@Ankara
+Adam (first man in Abrahamic religions)	<p-n>name</p-n>	@Adamu
+Adam (male given name)	<p-n>name</p-n>	@Adamu
+Afghanistan (country)	<p-n>name</p-n>	@Afganistan	@Afaganistan
+Africa (continent)	<p-n>name</p-n>	@Afirka
+African locust bean (Parkia biglobosa)	<p-n>noun</p-n>	@ɗorowa	@corawa
+African mahogany (tree of the genus Khaya)	<p-n>noun</p-n>	@maɗaci
+Ahmed (male given name)	<p-n>name</p-n>	@Ahmadu
+Aisha (female given name)	<p-n>name</p-n>	@A'ishatu
+Ajami (Translations)	<p-n>name</p-n>	@ajami
+Albania (country in south-eastern Europe)	<p-n>name</p-n>	@Albaniya
+Alexandria (city in Egypt)	<p-n>name</p-n>	@Isƙandariya
+Algeria (country)	<p-n>name</p-n>	@Aljeriya
+Ali (male given name from Arabic)	<p-n>name</p-n>	@Ali
+Allah (God, in Islam)	<p-n>name</p-n>	@Allah
+Andorra (country)	<p-n>name</p-n>	@Andora
+Angola (country in Southern Africa)	<p-n>name</p-n>	@Angola
+April (fourth month of the Gregorian calendar)	<p-n>name</p-n>	@Afrilu
+Arab (person from Arabia)	<p-n>noun</p-n>	@Balarabe	@Balarabiya
+Arabic (language)	<p-n>name</p-n>	@arabiyya
+Armenia (ancient kingdom and country)	<p-n>name</p-n>	@Armeniya
+Asia (the continent of Asia)	<p-n>name</p-n>	@Asiya
+Atyap (ethnic cluster)	<p-n>name</p-n>	@Kataf
+August (eighth month of the Gregorian calendar)	<p-n>name</p-n>	@Agusta
+Australia (Commonwealth of Australia)	<p-n>name</p-n>	@Ostareliya
+Austria (country in Central Europe)	<p-n>name</p-n>	@Austriya
+Azerbaijan (country in the Caucasus)	<p-n>name</p-n>	@Azerbaijan	@Azarbaijan
+Baghdad (city)	<p-n>name</p-n>	@Bàgàdāzà
+Bahrain (country in West Asia)	<p-n>name</p-n>	@Baharain
+Bangladesh (country)	<p-n>name</p-n>	@Bangladesh	@Bangaladash
+Belarus (country)	<p-n>name</p-n>	@Belarus
+Belgium (country in Europe)	<p-n>name</p-n>	@Belgium	@Belgiyom
+Benin (country)	<p-n>name</p-n>	@Binin	@Benin
+Benue (river in Cameroon and Nigeria)	<p-n>name</p-n>	@Binuwai
+Bhutan (Himalayan country)	<p-n>name</p-n>	@Butan	@Bhutan
+Bishkek (capital of Kyrgyzstan)	<p-n>name</p-n>	@Bishkek
+Bosnia (short for 'Bosnia and Herzegovina')	<p-n>name</p-n>	@Bosniya
+Bosnia and Herzegovina (country on the Balkan peninsula)	<p-n>name</p-n>	@Bosnia da Herzegovina
+Botswana (Republic of Botswana)	<p-n>name</p-n>	@Baswana
+Brazil (Portuguese-speaking country in South America)	<p-n>name</p-n>	@Birazil
+Brunei (a country in Southeast Asia)	<p-n>name</p-n>	@Burunai
+Bulgaria (country)	<p-n>name</p-n>	@Bulgeriya
+Burkina Faso (country)	<p-n>name</p-n>	@Burkina Faso
+Burundi (a country in Eastern Africa)	<p-n>name</p-n>	@Burundi
+Cairo (capital of Egypt — see also Fustat)	<p-n>name</p-n>	@Alƙahira
+Cambodia (country in Southeast Asia)	<p-n>name</p-n>	@Kambodiya
+Cameroon (country in Central Africa)	<p-n>name</p-n>	@Kàmàr̃u
+Canada (country in North America)	<p-n>name</p-n>	@Kyanadà
+Catalonia (autonomous community in Spain)	<p-n>name</p-n>	@Katalunya
+Central African Republic (country in Central Africa)	<p-n>name</p-n>	@Jamhuriyar Afirka ta Tsakiya
+Chad (country)	<p-n>name</p-n>	@Cādì
+Chemnitz (city in Saxony)	<p-n>name</p-n>	@Chemnitz
+China (country in East Asia — see also Serica, Cathay)	<p-n>name</p-n>	@Sin
+Chinese (the standard language of China — see also Mandarin)	<p-n>name</p-n>	@harshen Sin
+Christmas (festival or holiday commemorating the birth of Jesus Christ which in Western Christianity is celebrated on December 25 in most places)	<p-n>name</p-n>	@Kir̃sìmatì
+Commonwealth of Australia (formal and full name of Australia)	<p-n>name</p-n>	@Commonwealh na Asturaliya
+Comoros (country in Eastern Africa)	<p-n>name</p-n>	@Komoros
+Confucius (Chinese philosopher)	<p-n>name</p-n>	@Confucius
+Congo (Congo, ambiguously)	<p-n>name</p-n>	@Kwango	@Kongo
+Cook Islands (self-governing country in Oceania)	<p-n>name</p-n>	@Tsibiran Kuku
+Croatia (country in Europe)	<p-n>name</p-n>	@Kuroshiya
+Cyprus (island or country)	<p-n>name</p-n>	@Cyprus
+Czech Republic (country in Central Europe)	<p-n>name</p-n>	@Jamhuriyar Cak
+Czechia (country in Europe)	<p-n>name</p-n>	@Kazech
+Côte d'Ivoire (country)	<p-n>name</p-n>	@Côte d'Ivoire
+Dane gun (Dane gun)	<p-n>noun</p-n>	@àdakā̀
+David (king of Israel)	<p-n>name</p-n>	@Dauda
+David (male given name)	<p-n>name</p-n>	@Dauda
+December (twelfth month of the Gregorian calendar)	<p-n>name</p-n>	@Disamba
+Democratic Republic of the Congo (country in Central Africa)	<p-n>name</p-n>	@Jamhuriyar Demokaradiyyar Kwango	@Jamhuriyar Demokaradiyyar Kongo
+Denmark (country in Northern Europe)	<p-n>name</p-n>	@Denmark
+Djibouti (Republic of Djibouti)	<p-n>name</p-n>	@Jibuti
+East Timor (Country in Southeast Asia)	<p-n>name</p-n>	@Timor ta Gabas
+Egypt (country in North Africa)	<p-n>name</p-n>	@Masar	@Misira
+England (Kingdom in southeastern Britain, one of the constituent countries of the UK)	<p-n>name</p-n>	@Ingila
+English (the English language)	<p-n>name</p-n>	@Turanci	@Ingilishi
+Enugu (city in Nigeria)	<p-n>name</p-n>	@Enugu
+Equatorial Guinea (country in Western Africa)	<p-n>name</p-n>	@Gini Ta Ikwaita
+Eritrea (country in Eastern Africa)	<p-n>name</p-n>	@Eriteria	@Iritiriya
+Estonia (country in northeastern Europe)	<p-n>name</p-n>	@Estoniya
+Ethiopia (country in Eastern Africa)	<p-n>name</p-n>	@Habashà	@Itofiya
+Europe (continent)	<p-n>name</p-n>	@Turai
+European (person)	<p-n>noun</p-n>	@Bature	@Baturiya
+Eve (given name)	<p-n>name</p-n>	@Hauwa
+Eve (the first woman)	<p-n>name</p-n>	@Hauwa
+Fatima (daughter of Muhammad)	<p-n>name</p-n>	@Faɗimatu
+Fatima (female given name)	<p-n>name</p-n>	@Faɗimatu
+February (second month of the Roman, Julian, and Gregorian calendars)	<p-n>name</p-n>	@Fabrairu
+Finland (Nordic country)	<p-n>name</p-n>	@Finland	@Finlan
+France (country)	<p-n>name</p-n>	@Fàr̃ansà
+French (principal language of France and other related countries)	<p-n>name</p-n>	@Faransanci	@Turanci
+Friday (day of the week)	<p-n>noun</p-n>	@Jumma'a
+Fula (people)	<p-n>noun</p-n>	@Filani
+Gabon (Gabonese Republic)	<p-n>name</p-n>	@Gabon
+Gabriel (archangel)	<p-n>name</p-n>	@Jibirilu
+Gabriel (male given name)	<p-n>name</p-n>	@Jibirilu
+Gambia (The Republic of The Gambia)	<p-n>name</p-n>	@Gambiya
+Gaza Strip (Gaza Strip)	<p-n>name</p-n>	@Zirin Gaza
+Georgia (country of the Caucasus)	<p-n>name</p-n>	@Georgiya
+German (the German language)	<p-n>name</p-n>	@Jamusanci
+Germany (country in Central Europe)	<p-n>name</p-n>	@Jāmùs
+Ghana (The Republic of Ghana)	<p-n>name</p-n>	@Gānà
+God (single deity of monotheism)	<p-n>name</p-n>	@Allàh
+Gold Coast (West African area and former British colony)	<p-n>name</p-n>	@Gwalkwas
+Greece (country in Southeastern Europe)	<p-n>name</p-n>	@Yunan	@Girka
+Greek (language of the Greek people)	<p-n>name</p-n>	@Yunananci
+Guinea (short form of the Republic of Guinea)	<p-n>name</p-n>	@Gini
+Guinea-Bissau (Republic of Guinea-Bissau)	<p-n>name</p-n>	@Gini Bisau
+Harun (given name)	<p-n>name</p-n>	@Haruna
+Hasan (male given name)	<p-n>name</p-n>	@Hasan
+Hausa (language)	<p-n>name</p-n>	@Hausa	@هَوُس	<p-ipa>Hausa</p-ipa>
+Hausa (people)	<p-n>noun</p-n>	@Bahaushe	@Bahaushiya	@Hausawa
+House of Representatives (lower house of parliament)	<p-n>name</p-n>	@Majalisar Wakilai
+Hungary (the country)	<p-n>name</p-n>	@Hungariya	@Hungari
+Husayn (Husayn)	<p-n>name</p-n>	@Husaini
+I (personal pronoun)	<p-n>pron</p-n>	@nī
+I love you (affirmation of romantic feeling)	<p-n>phrase</p-n>	@ina sonki
+I'm a Muslim (I'm a Muslim)	<p-n>phrase</p-n>	@ni Musulmi
+Ibadan (city in Nigeria)	<p-n>name</p-n>	@Bā̀dùn
+Iceland (country in Europe)	<p-n>name</p-n>	@Iceland	@Aisalan
+India (the country)	<p-n>name</p-n>	@Indiya
+Indonesia (country)	<p-n>name</p-n>	@Indonesiya
+Internet (specific internet consisting of the global network of computers)	<p-n>name</p-n>	@yanar gizo
+Iran (country in West Asia)	<p-n>name</p-n>	@Iran
+Iraq (country)	<p-n>name</p-n>	@Iraƙi
+Ireland (island)	<p-n>name</p-n>	@Ireland	@Ayalan
+Isaac (male given name)	<p-n>name</p-n>	@Isiyaku
+Isaac (son of Abraham and Sarah)	<p-n>name</p-n>	@Isiyaku
+Ishmael (eldest son of Abraham)	<p-n>name</p-n>	@Isma'ilu
+Ishmael (male given name)	<p-n>name</p-n>	@Isma'ilu
+Islam (Abrahamic religion)	<p-n>name</p-n>	@Islam	@Musulunci	@Muslinci
+Islamic State (jihadist group — see also IS)	<p-n>name</p-n>	@Daular Musulunci
+Israel (the state)	<p-n>name</p-n>	@Isra'ila
+Istanbul (largest city of Turkey and last capital of the Ottoman Empire)	<p-n>name</p-n>	@Santambul
+Italy (country in southern Europe)	<p-n>name</p-n>	@Italiya
+Jack (anglicized form of Jacques)	<p-n>name</p-n>	@Yaƙubu
+Jacob (male given name (the standard form))	<p-n>name</p-n>	@Yaƙubu
+Jacob (one of the sons of Isaac and Rebecca)	<p-n>name</p-n>	@Yaƙubu
+Jaipur (capital of Rajasthan, India)	<p-n>name</p-n>	@Jaipur
+January (first month of the Gregorian calendar)	<p-n>name</p-n>	@Janairu
+Japan (a country in East Asia)	<p-n>name</p-n>	@Japan
+Jesus (religious figure)	<p-n>name</p-n>	@Isa
+Jordan (country)	<p-n>name</p-n>	@Jordan
+Joseph (male given name — see also Joe)	<p-n>name</p-n>	@Yusufu
+July (seventh month of the Gregorian calendar)	<p-n>name</p-n>	@Yuli
+June (sixth month of the Gregorian calendar)	<p-n>name</p-n>	@Yuni
+Kanuri (Nilo-Saharan language)	<p-n>name</p-n>	@Barbarci
+Katsina (city in Nigeria)	<p-n>name</p-n>	@Katsina
+Katsina (state of Nigeria)	<p-n>name</p-n>	@Katsina
+Kazakhstan (country in Central Asia and Eastern Europe)	<p-n>name</p-n>	@Kazakistan
+Kenya (country in Eastern Africa)	<p-n>name</p-n>	@Kenya
+Khadija (female given name)	<p-n>name</p-n>	@Hadizatu
+Kuwait (country in West Asia)	<p-n>name</p-n>	@Kwìyât
+Kyrgyzstan (country in Central Asia)	<p-n>name</p-n>	@Kyrgystan
+Lagos (former capital of Nigeria)	<p-n>name</p-n>	@Ikko
+Laos (country in Southeast Asia)	<p-n>name</p-n>	@Laos
+Latvia (country)	<p-n>name</p-n>	@Latvia	@Latibiya
+Lebanon (Lebanese Republic)	<p-n>name</p-n>	@Labanan
+Lesotho (country in Southern Africa)	<p-n>name</p-n>	@Lesoto	@Lesotho
+Liberia (country in Western Africa)	<p-n>name</p-n>	@Laberiya
+Libya (country in Northern Africa)	<p-n>name</p-n>	@Libya
+Liechtenstein (microstate in Central Europe)	<p-n>name</p-n>	@Liechtenstein	@Licansitan
+Lithuania (country)	<p-n>name</p-n>	@Lithuania	@Lituweniya
+London (capital of England and United Kingdom)	<p-n>name</p-n>	@Landan
+Luxembourg (country)	<p-n>name</p-n>	@Luxembourg	@Lukusambur
+Macedonia (Republic of North Macedonia — see also Republic of North Macedonia)	<p-n>name</p-n>	@Masedoniya
+Madagascar (country in Southern Africa)	<p-n>name</p-n>	@Madagaskar
+Maiduguri (city)	<p-n>name</p-n>	@Maiduguri
+Malawi (Republic of Malawi)	<p-n>name</p-n>	@Malawi
+Malaysia (country in Southeast Asia)	<p-n>name</p-n>	@Malaisiya
+Maldives (country in South Asia)	<p-n>name</p-n>	@Maldibi	@Maldives
+Mali (a country in Western Africa)	<p-n>name</p-n>	@Mali
+Malta (republic)	<p-n>name</p-n>	@Malta
+Manchu (language)	<p-n>name</p-n>	@Yaren Manchu
+March (third month of the Gregorian calendar)	<p-n>name</p-n>	@Maris
+Marxism (philosophy)	<p-n>noun</p-n>	@makisani
+Mary (Mary, mother of Jesus — see also Madonna, Mother of God, Our Lady, Queen of Heaven, Saint Mary, Theotokos, Virgin Mary
+Note: Translations for Mary's various titles and appellations should go in the respective entries.)	<p-n>name</p-n>	@Maryamu
+Mary (female given name)	<p-n>name</p-n>	@Maryamu
+Mauritania (Islamic Republic of Mauritania)	<p-n>name</p-n>	@Moritaniya	@Muritaniya
+Mauritius (country)	<p-n>name</p-n>	@Mauritius	@Moris
+May (fifth month of the Gregorian calendar)	<p-n>name</p-n>	@Mayu
+Mecca (city in Saudi Arabia)	<p-n>name</p-n>	@Maka
+Medina (city in Saudi Arabia)	<p-n>name</p-n>	@Madina
+Mediterranean Sea (sea between Europe and Africa)	<p-n>name</p-n>	@Bahar Rum
+Mexico (country)	<p-n>name</p-n>	@Mexico	@Makasiko
+Miriam (female given name)	<p-n>name</p-n>	@Maryamu
+Miriam (sister of Moses and Aaron)	<p-n>name</p-n>	@Maryamu
+Moldova (country)	<p-n>name</p-n>	@Maldoba
+Monaco (country in Europe)	<p-n>name</p-n>	@Monaco	@Monako
+Monday (day of the week)	<p-n>noun</p-n>	@Litinin
+Mongolia (East Asian country)	<p-n>name</p-n>	@Mongolia	@Mongoliya
+Montenegro (country in Europe)	<p-n>name</p-n>	@Montenegro
+Moon (sole natural satellite of the Earth)	<p-n>name</p-n>	@Wata
+Mormon (ancient prophet)	<p-n>name</p-n>	@Mormon
+Mormon (member of The Church of Jesus Christ of Latter-day Saints)	<p-n>noun</p-n>	@Mormon
+Mormon (pertaining to the faith established by Joseph Smith, Jr)	<p-n>adj</p-n>	@Mormon
+Morocco (country)	<p-n>name</p-n>	@Màr̃ōkò
+Moscow (capital city of Russia)	<p-n>name</p-n>	@Moscow
+Moses (male given name)	<p-n>name</p-n>	@Musa
+Moses (the biblical patriarch)	<p-n>name</p-n>	@Musa
+Muhammad (male given name)	<p-n>name</p-n>	@Muhammadu
+Muhammad (the prophet who introduced Islam)	<p-n>name</p-n>	@Muhammadu
+Muharram (the first month of the Islamic calendar)	<p-n>name</p-n>	@Muharram
+Muslim (believer of Islam)	<p-n>noun</p-n>	@Musulmi
+Myanmar (Southeast Asian country — see also Burma)	<p-n>name</p-n>	@Bama	@Myanmar	@Miyamar
+N'ko (West African literary language)	<p-n>name</p-n>	@N'Ko
+Namibia (Republic of Namibia)	<p-n>name</p-n>	@Namibiya
+Nepal (Federal Democratic Republic of Nepal)	<p-n>name</p-n>	@Nepal
+Netherlands (country in northwestern Europe — see also Holland)	<p-n>name</p-n>	@Holan
+New Testament (second half of the Christian Bible)	<p-n>name</p-n>	@Linjila
+Niamey (capital of Niger)	<p-n>name</p-n>	@Yàmài
+Niger (country)	<p-n>name</p-n>	@Nijar
+Niger (river)	<p-n>name</p-n>	@Kwara
+Nigeria (a country in Western Africa)	<p-n>name</p-n>	@Nijeriya	@Najeriya
+Nile (river)	<p-n>name</p-n>	@Nil
+Noah (biblical character)	<p-n>name</p-n>	@Nuhu
+Noah (male given name)	<p-n>name</p-n>	@Nuhu
+North Korea (a country in East Asia whose territory consists of the northern part of Korea)	<p-n>name</p-n>	@Koriya ta Arewa
+Norway (Scandinavian country)	<p-n>name</p-n>	@Norwe	@Nowe
+November (eleventh month of the Gregorian calendar)	<p-n>name</p-n>	@Nuwamba
+October (tenth month of the Gregorian calendar)	<p-n>name</p-n>	@Oktoba
+Old Testament (first half of the Christian Bible)	<p-n>name</p-n>	@Attaura
+Oman (country in the West Asia)	<p-n>name</p-n>	@Oman
+Omar (male given name)	<p-n>name</p-n>	@Umaru
+Onitsha (city in Nigeria)	<p-n>name</p-n>	@Anaca
+Ouagadougou (capital of Burkina Faso)	<p-n>name</p-n>	@Wagadugu
+Pakistan (country in South Asia)	<p-n>name</p-n>	@Pakistan
+Palestine (West Bank and Gaza Strip collectively)	<p-n>name</p-n>	@Palasɗinu	@Falasdinu
+Paris (capital of France)	<p-n>name</p-n>	@Paris
+Passover (one-day Biblical feast or festival during which the firstborn sons of the Israelites were passed over by God while those of the Egyptians were killed; Jewish festival of Pesach)	<p-n>name</p-n>	@Ista
+Philippines (Republic of the Philippines)	<p-n>name</p-n>	@Filipin
+Poland (European country)	<p-n>name</p-n>	@Polan
+Port Harcourt (city)	<p-n>name</p-n>	@Fatakwal
+Portugal (country)	<p-n>name</p-n>	@Portugal
+Portuguese (the language)	<p-n>name</p-n>	@Portuguese
+Qatar (country in West Asia)	<p-n>name</p-n>	@Qatar
+Qur'an (the Islamic holy book)	<p-n>name</p-n>	@Alƙur'ani
+Rachel (female given name)	<p-n>name</p-n>	@Rahila
+Rachel (younger daughter of Laban)	<p-n>name</p-n>	@Rahila
+Rajab (month)	<p-n>name</p-n>	@Rajàb
+Ramadan (holy ninth month of Islamic lunar calendar)	<p-n>name</p-n>	@Ramalan
+Romania (South-Eastern European country)	<p-n>name</p-n>	@Romaniya
+Russia (country in Eastern Europe and North Asia)	<p-n>name</p-n>	@Rāshà
+Rwanda (country)	<p-n>name</p-n>	@Ruwanda
+Safar (the second month of the Islamic calendar)	<p-n>name</p-n>	@Safàr̃
+San Marino (landlocked microstate)	<p-n>name</p-n>	@San Marino
+Sarah (given name from Hebrew)	<p-n>name</p-n>	@Saratu
+Sarah (the wife of Abraham)	<p-n>name</p-n>	@Saratu
+Saturday (day of the week)	<p-n>noun</p-n>	@Asabar	@Sati
+Saudi Arabia (country in West Asia)	<p-n>name</p-n>	@Ƙasar Maka	@Saudiyya	@Saudi Arebiya
+Senegal (Republic of Senegal)	<p-n>name</p-n>	@Sinigal	@Senegal
+September (ninth month of the Gregorian calendar)	<p-n>name</p-n>	@Satumba
+Serbia (a country in Southeastern Europe)	<p-n>name</p-n>	@Serbiya
+Shaitan (Iblis, Satan in Islam)	<p-n>name</p-n>	@shaidan
+Shawwal (tenth month of the Islamic calendar)	<p-n>name</p-n>	@Shàwwâl
+Sicily (island in the Mediterranean Sea)	<p-n>name</p-n>	@Sisiliya
+Sierra Leone (Republic of Sierra Leone)	<p-n>name</p-n>	@Saliyo
+Singapore (an island and city-state in Southeast Asia)	<p-n>name</p-n>	@Singapur
+Slovakia (country in eastern Europe)	<p-n>name</p-n>	@Sulobakiya
+Slovenia (country in Europe)	<p-n>name</p-n>	@Sloveniya	@Sulobeniya
+Solomon (king of Israel)	<p-n>name</p-n>	@Sulemanu
+Solomon (male given name)	<p-n>name</p-n>	@Sulemanu
+Somalia (country in the Horn of Africa)	<p-n>name</p-n>	@Somaliya
+South Africa (country)	<p-n>name</p-n>	@Afirka ta Kudu
+South Korea (a country in East Asia, comprising the southern half of the Korean Peninsula)	<p-n>name</p-n>	@Koriya ta Kudu
+Spain (country in Europe)	<p-n>name</p-n>	@Sipen	@Sipaniya
+Sri Lanka (an island and country in South Asia)	<p-n>name</p-n>	@Siri Lanka
+Sudan (Republic of Sudan)	<p-n>name</p-n>	@Sudan
+Sunday (day of the week)	<p-n>noun</p-n>	@Lahadi
+Swaziland (Kingdom of Swaziland — see also Eswatini)	<p-n>name</p-n>	@Suwazilan
+Sweden (Scandinavian country)	<p-n>name</p-n>	@Suwedan
+Switzerland (sovereign country)	<p-n>name</p-n>	@Suwizalan
+Syria (country in West Asia)	<p-n>name</p-n>	@Shâm	@Siriya
+São Tomé and Príncipe (Democratic Republic of São Tomé and Príncipe)	<p-n>name</p-n>	@Sawo Tome da Pirinsipe	@Sawo Tome da Paransip
+Taiwan (East Asian country)	<p-n>name</p-n>	@Taiwan
+Tajikistan (Republic of Tajikistan)	<p-n>name</p-n>	@Tajikistan
+Tanka (member of a group of southern Chinese people who traditionally live on junks)	<p-n>noun</p-n>	@Tanka
+Ten Commandments (religious ten commandments)	<p-n>name</p-n>	@Dokokin nan goma
+Thailand (country in Southeast Asia)	<p-n>name</p-n>	@Tailan
+Thursday (day of the week)	<p-n>noun</p-n>	@Alhamis
+Timbuktu (city)	<p-n>name</p-n>	@Tàmbūtù
+Togo (Togolese Republic)	<p-n>name</p-n>	@Togo
+Torah (the Five Books of Moses - the full body of Jewish law)	<p-n>name</p-n>	@Attaura
+Tripoli (capital of Libya)	<p-n>name</p-n>	@Tarabulus
+Tuesday (day of the week)	<p-n>noun</p-n>	@Talata
+Tunisia (Republic of Tunisia)	<p-n>name</p-n>	@Tunisiya
+Turkey (country at intersection of Europe and Asia)	<p-n>name</p-n>	@Turkiyya
+Turkmenistan (Central Asian country)	<p-n>name</p-n>	@Turkmenistan
+UN (Initialism of United Nations — see also United Nations)	<p-n>name</p-n>	@MƊD
+Uganda (Republic of Uganda)	<p-n>name</p-n>	@Yuganda
+Ukraine (country in Eastern Europe)	<p-n>name</p-n>	@Ukraniya
+United Kingdom (sovereign state in Europe — see also Great Britain)	<p-n>name</p-n>	@Birtaniya
+United Nations (international coalition)	<p-n>name</p-n>	@Majalisar Ɗinkin Duniya
+United States of America (country in North America)	<p-n>name</p-n>	@Tarayyar Amurka
+Uzbekistan (Republic of Uzbekistan)	<p-n>name</p-n>	@Uzubekistan
+Vietnam (country in Southeast Asia)	<p-n>name</p-n>	@Biyetinam
+Wednesday (day of the week)	<p-n>noun</p-n>	@Laraba
+Wikipedia (online encyclopedia)	<p-n>name</p-n>	@Wikipedia
+Yemen (Republic of Yemen)	<p-n>name</p-n>	@Yamàl
+Zachary (male given name)	<p-n>name</p-n>	@Zakariya
+Zaire (former name of DR of Congo)	<p-n>name</p-n>	@Zàyâr̃
+Zambia (country in Southern Africa)	<p-n>name</p-n>	@Zambiya
+Zaria (city)	<p-n>name</p-n>	@Zariya	@Zazzau
+Zaynab (Female given name)	<p-n>name</p-n>	@Zainabu
+Zimbabwe (Republic of Zimbabwe)	<p-n>name</p-n>	@Zimbabuwe
+Zinder (city in Niger)	<p-n>name</p-n>	@Zandar
+aardvark (mammal)	<p-n>noun</p-n>	@dagbi
+absolutely (in an absolute manner)	<p-n>adv</p-n>	@tabbas	@sosai
+ace (card with a single spot)	<p-n>noun</p-n>	@sarki
+acre (unit of surface area)	<p-n>noun</p-n>	@ēkā̀
+action (something done so as to accomplish a purpose)	<p-n>noun</p-n>	@yin abu
+actual (existing in act or reality, not just potentially)	<p-n>adj</p-n>	@ainihin
+add (to append (e.g. a statement); to say further information; to add on)	<p-n>verb</p-n>	@tara	@ƙara
+address (description of the location of a property; direction for correspondence)	<p-n>noun</p-n>	@adireshi
+agbada (long, flowing robe worn by men in West Africa)	<p-n>noun</p-n>	@rī̀gā
+age (amount of time since the birth of a being or the beginning of a thing)	<p-n>noun</p-n>	@shekara
+agriculture (the art or science of cultivating the ground)	<p-n>noun</p-n>	@noma
+aide-de-camp (military officer)	<p-n>noun</p-n>	@ēdīsì
+air (1. mixture of gases making up the atmosphere of the Earth)	<p-n>noun</p-n>	@iska
+airplane (powered aircraft)	<p-n>noun</p-n>	@jirgin sama
+airport (place designated for airplanes)	<p-n>noun</p-n>	@filin jirgin sama
+alphabet (an ordered set of letters used in a language)	<p-n>noun</p-n>	@ā̀bā̀cā̀dâ	@abjàdī
+amen (so be it)	<p-n>intj</p-n>	@amin
+and (used to connect two similar words, phrases, et cetera)	<p-n>conj</p-n>	@dà	@kuma
+animal (organism)	<p-n>noun</p-n>	@dabba
+ant (insect)	<p-n>noun</p-n>	@gara
+anteater (mammal)	<p-n>noun</p-n>	@dagbi
+anthology (collection of literary works)	<p-n>noun</p-n>	@diwani
+anus (lower opening of the digestive tract)	<p-n>noun</p-n>	@dubùr̃ā
+apostasy (renunciation of set of beliefs)	<p-n>noun</p-n>	@ridda
+apple of Sodom (Calotropis procera)	<p-n>noun</p-n>	@tumfafiya
+apple of Sodom (Solanum incanum)	<p-n>noun</p-n>	@yalo
+architecture (art and science of designing buildings and other structures)	<p-n>noun</p-n>	@handasa
+archive (repository or other place for storing material no longer in current use, and usually having historical value)	<p-n>noun</p-n>	@rumbun
+argumentativeness (the state of being argumentative)	<p-n>noun</p-n>	@rākī̀
+arm (upper appendage from shoulder to wrist)	<p-n>noun</p-n>	@hannu
+arrow (projectile)	<p-n>noun</p-n>	@kibiya
+ask (request an answer)	<p-n>verb</p-n>	@tambaya
+asr (afternoon prayer)	<p-n>noun</p-n>	@la'asar
+association (group of persons associated for a common purpose)	<p-n>noun</p-n>	@ƙungiya
+attorney general (major government officer)	<p-n>noun</p-n>	@atone-janar
+automobile (passenger vehicle)	<p-n>noun</p-n>	@mota
+axe (tool)	<p-n>noun</p-n>	@gā̀tarī
+baboon (primate)	<p-n>noun</p-n>	@bika
+baby (very young human being — see also child)	<p-n>noun</p-n>	@jariri
+bag (flexible container)	<p-n>noun</p-n>	@jaka
+ball (solid or hollow sphere)	<p-n>noun</p-n>	@dunkulen
+balloon (child’s toy)	<p-n>noun</p-n>	@balân
+balloon (inflatable and buoyant object)	<p-n>noun</p-n>	@balân
+banana (fruit)	<p-n>noun</p-n>	@ayaba
+bank (institution)	<p-n>noun</p-n>	@banki
+baobab (Adansonia digitata)	<p-n>noun</p-n>	@kūkā̀	@mùrnàà	@ɓákkô
+barley (Hordeum vulgare or its grains)	<p-n>noun</p-n>	@sha’ir
+basket (container)	<p-n>noun</p-n>	@kwàndō
+bathtub (large container in which a person may bathe)	<p-n>noun</p-n>	@bāhṑ
+beard (facial hair)	<p-n>noun</p-n>	@gemu
+bed (piece of furniture)	<p-n>noun</p-n>	@gado
+bee (insect)	<p-n>noun</p-n>	@zuma
+beer (alcoholic drink made of malt)	<p-n>noun</p-n>	@giyā̀
+before (in advance of the time when)	<p-n>conj</p-n>	@kafin
+begin (to start, to initiate (transitive))	<p-n>verb</p-n>	@fāra
+bellows (air blower)	<p-n>noun</p-n>	@mafuri	@zigazigai
+bicycle (vehicle)	<p-n>noun</p-n>	@basukur	@keke
+big (of a great size — see also large)	<p-n>adj</p-n>	@bàbba
+billion (a thousand million (1,000,000,000); a milliard)	<p-n>num</p-n>	@biliyan
+biomechanics (branch of biophysics)	<p-n>noun</p-n>	@biomechanics
+bird (animal)	<p-n>noun</p-n>	@tsuntsu
+birdcage (cage to keep birds in)	<p-n>noun</p-n>	@kējī̀
+bitterleaf (Translations)	<p-n>noun</p-n>	@shiwaakaa	@shuwaka
+black (colour/color)	<p-n>noun</p-n>	@bak̑ī
+black market (trade that is in violation of restrictions, rationing or price controls)	<p-n>noun</p-n>	@kasuwar shunku
+black pepper (spice)	<p-n>noun</p-n>	@màsōrō
+black rhinoceros (Diceros bicornis)	<p-n>noun</p-n>	@karkandan
+black-crowned night heron (Nycticorax nycticorax)	<p-n>noun</p-n>	@namakiri
+blanket (fabric)	<p-n>noun</p-n>	@bargo
+blessing (divine or supernatural aid or reward)	<p-n>noun</p-n>	@albarka
+blood (vital liquid flowing in human and animal bodies)	<p-n>noun</p-n>	@jini
+boat (water craft — see also watercraft, vessel, ship)	<p-n>noun</p-n>	@jirgi
+bone (component of a skeleton)	<p-n>noun</p-n>	@ƙashi
+bone (material)	<p-n>noun</p-n>	@ƙashi
+book (collection of sheets of paper bound together containing printed or written material)	<p-n>noun</p-n>	@littafi
+box (cuboid space; container)	<p-n>noun</p-n>	@sunduƙi
+boy (male child)	<p-n>noun</p-n>	@yaro	@yārṑ
+bread (baked dough made from cereals)	<p-n>noun</p-n>	@gùr̃āsā̀
+bribe (inducement to a breaking of the rules)	<p-n>noun</p-n>	@hanci	@toshiya
+brick (hardened block used for building)	<p-n>noun</p-n>	@tubali
+bridge (construction or natural feature that spans a divide)	<p-n>noun</p-n>	@kadarko
+bring (to transport toward somebody/somewhere)	<p-n>verb</p-n>	@kāwo
+broom (domestic utensil)	<p-n>noun</p-n>	@másháaríi
+brothel (house of prostitution)	<p-n>noun</p-n>	@gidan mata
+brother (male sibling)	<p-n>noun</p-n>	@ɗanuwa
+bubble (spherically contained volume of air or other gas)	<p-n>noun</p-n>	@kumfa
+bucket (container)	<p-n>noun</p-n>	@guga
+buffalo (bovid of the Bubalina subtribe)	<p-n>noun</p-n>	@baffa
+bull (uncastrated adult male bovine)	<p-n>noun</p-n>	@sa
+bus (vehicle)	<p-n>noun</p-n>	@bas
+butter (soft foodstuff made from milk)	<p-n>noun</p-n>	@man shanu
+butterfly (insect)	<p-n>noun</p-n>	@balebale	@bude littafi	@malam bu'de littafi
+button (knob or small disc serving as a fastener)	<p-n>noun</p-n>	@anini
+buy (to obtain something with money)	<p-n>verb</p-n>	@sáyṓ
+calabash (fruit of the Lagenaria siceraria)	<p-n>noun</p-n>	@duma
+calcium (chemical element of atomic number 20)	<p-n>noun</p-n>	@alli
+camel (beast of burden)	<p-n>noun</p-n>	@raƙumi
+camera (still camera)	<p-n>noun</p-n>	@kyamara
+camphor (white transparent waxy crystalline isoprenoid ketone)	<p-n>noun</p-n>	@kafur
+candle (a light source)	<p-n>noun</p-n>	@kyándìr̃
+canoe (small long and narrow boat)	<p-n>noun</p-n>	@kwalekwale
+car (automobile, a vehicle steered by a driver)	<p-n>noun</p-n>	@mota	@bwā̀cîr̃
+caracal (Caracal caracal)	<p-n>noun</p-n>	@metso
+card (flat, normally rectangular piece of stiff paper, plastic etc.)	<p-n>noun</p-n>	@kati
+carrion (rotting flesh of a dead animal or person)	<p-n>noun</p-n>	@mushe
+cash (money in the form of notes/bills and coins)	<p-n>noun</p-n>	@kuɗi
+cassava (plant (''Manihot esculenta''))	<p-n>noun</p-n>	@rogo
+cat (domestic species)	<p-n>noun</p-n>	@kyânwā
+cattle (domesticated bovine animals)	<p-n>noun</p-n>	@shanu
+ceiling (upper limit of room)	<p-n>noun</p-n>	@silin
+century (period of 100 years)	<p-n>noun</p-n>	@ƙarni
+cheek (part of face)	<p-n>noun</p-n>	@kunci
+cheese (dairy product)	<p-n>noun</p-n>	@cuku
+chess (two-player board game)	<p-n>noun</p-n>	@dara
+chicken (bird)	<p-n>noun</p-n>	@kaza
+child (son or daughter; someone's child)	<p-n>noun</p-n>	@ya’ya
+chili pepper (fruit)	<p-n>noun</p-n>	@barkono
+chin (bottom of a face)	<p-n>noun</p-n>	@haɓā̀
+church (house of worship)	<p-n>noun</p-n>	@coci
+cinnamon (spice)	<p-n>noun</p-n>	@kirfa
+circumcision (removal of foreskin from penis)	<p-n>noun</p-n>	@kaciya
+city (large settlement)	<p-n>noun</p-n>	@birni
+clan (group having common ancestor)	<p-n>noun</p-n>	@zuriya
+claw (curved horny nail)	<p-n>noun</p-n>	@akaifa
+clean (not dirty)	<p-n>adj</p-n>	@tsari
+clock (instrument to measure or keep track of time)	<p-n>noun</p-n>	@àgṓgó
+clubs (one of the four suits of playing cards, marked with the symbol ♣)	<p-n>noun</p-n>	@caka
+co-wife (in a polygamous marriage, another wife of a woman's husband)	<p-n>noun</p-n>	@kīshìyā
+coal (uncountable: carbon rock)	<p-n>noun</p-n>	@kwal
+cockroach (type of insect)	<p-n>noun</p-n>	@kyànkyasṑ
+coffee (beverage)	<p-n>noun</p-n>	@kṑfī	@kafe
+cold (having a low temperature)	<p-n>adj</p-n>	@sansanya
+collar (fabric garment part fitting around throat)	<p-n>noun</p-n>	@kwala	@kwal
+color (spectral composition of visible light)	<p-n>noun</p-n>	@launi
+comb (toothed implement for grooming the hair)	<p-n>noun</p-n>	@matsēfi
+come (to move nearer)	<p-n>verb</p-n>	@zo
+compass (instrument to determine cardinal directions)	<p-n>noun</p-n>	@kamfas
+computer (programmable electronic device)	<p-n>noun</p-n>	@na'ura
+congress (legislative body)	<p-n>noun</p-n>	@majalisa
+conversation (expression and exchange of individual ideas through talking with other people)	<p-n>noun</p-n>	@batu
+cookie (small, flat baked good — see also biscuit)	<p-n>noun</p-n>	@fànkee	@bìskît
+copyright (right to publish)	<p-n>noun</p-n>	@hakkin-mallaka
+corpse (dead body)	<p-n>noun</p-n>	@gāwā
+cotton (any plant yielding fiber like that of Gossypium)	<p-n>noun</p-n>	@audùgā
+council (committee that leads or governs)	<p-n>noun</p-n>	@majalisa
+couplet (in poetry, a pair of lines with rhyming end words)	<p-n>noun</p-n>	@ƙwàr̃
+couscous (pasta of North African origin)	<p-n>noun</p-n>	@kuskùs
+cover (lid)	<p-n>noun</p-n>	@murfi
+cow (adult female of species Bos taurus)	<p-n>noun</p-n>	@saniya
+cricket (game)	<p-n>noun</p-n>	@kur̃kèt
+crocodile (reptile)	<p-n>noun</p-n>	@kada
+crow (any bird of the genus Corvus)	<p-n>noun</p-n>	@hankaka
+cushion (soft material in cloth bag)	<p-n>noun</p-n>	@kushin
+date (fruit of the date palm)	<p-n>noun</p-n>	@dabīnṑ
+daughter (female offspring)	<p-n>noun</p-n>	@'ya	@ɗiya
+dawn (morning twilight period)	<p-n>noun</p-n>	@alfijir
+day (period between sunrise and sunset)	<p-n>noun</p-n>	@rana
+day (period of 24 hours)	<p-n>noun</p-n>	@rana
+death (cessation of life)	<p-n>noun</p-n>	@mutuwa
+deliver (to set free)	<p-n>verb</p-n>	@haifu
+democracy (government under the rule of its people)	<p-n>noun</p-n>	@dimokuraɗiyya
+democracy (rule by the people)	<p-n>noun</p-n>	@dimokuraɗiyya
+descendant (one who is the progeny of someone)	<p-n>noun</p-n>	@zuriya
+desert (barren area)	<p-n>noun</p-n>	@hamada
+desert date (tree native to Africa and the Middle East)	<p-n>noun</p-n>	@aduwa
+destruction (act of destroying)	<p-n>noun</p-n>	@ɓarna
+devil (evil creature)	<p-n>noun</p-n>	@shaidan
+dhuhr (noon prayer)	<p-n>noun</p-n>	@azahar
+diabetes (A group of metabolic diseases)	<p-n>noun</p-n>	@ciwon sukari
+diamond (uncountable: mineral)	<p-n>noun</p-n>	@daimon
+diamonds (one of the four suits of playing cards, marked with the symbol ♦)	<p-n>noun</p-n>	@zî
+dictionary (reference work of words and their meanings)	<p-n>noun</p-n>	@ƙamus
+diesel (fuel)	<p-n>noun</p-n>	@gas
+dinner party (A relatively formal guestmeal)	<p-n>noun</p-n>	@dinā̀
+diplomacy (art of conducting international relations)	<p-n>noun</p-n>	@diflomasiyya
+director (supervisor, manager — see also film director)	<p-n>noun</p-n>	@darekta
+disappointed (defeated of hope or expectation)	<p-n>adj</p-n>	@masanan basu ji dadin
+district officer (civil servant)	<p-n>noun</p-n>	@di'o
+dizziness (state of being dizzy)	<p-n>noun</p-n>	@juwa
+dog (animal)	<p-n>noun</p-n>	@kàrē
+dollar (designation for specific currency)	<p-n>noun</p-n>	@dala
+dominion (power or the use of power; sovereignty over something)	<p-n>noun</p-n>	@mulki
+donkey (a domestic animal — see also ass)	<p-n>noun</p-n>	@jaki
+doomed (certain to suffer death, failure, or a similarly negative outcome)	<p-n>adj</p-n>	@wanzuwa
+door (portal of entry into a building, room or vehicle)	<p-n>noun</p-n>	@ƙyaure	@ƙofa
+dorcas gazelle (Gazella dorcas)	<p-n>noun</p-n>	@barewa
+double (made up of two matching or complementary elements)	<p-n>adj</p-n>	@biyu
+doum palm (Hyphaene thebaica)	<p-n>noun</p-n>	@aru	@goriba
+drizzle (light rain)	<p-n>noun</p-n>	@yayyafī
+drop (small quantity of liquid, just large enough to hold its own round shape through surface tension)	<p-n>noun</p-n>	@ɗigo
+drown (to be suffocated in fluid)	<p-n>verb</p-n>	@nutsar
+drummer (one who plays the drums)	<p-n>noun</p-n>	@makaɗi
+drumstick (stick used to play drums)	<p-n>noun</p-n>	@gulā̀	@makaɗi
+du'a' ((Islam) private prayer by an individual — see also prayer)	<p-n>noun</p-n>	@du'a'i
+duck (aquatic bird of the family Anatidae)	<p-n>noun</p-n>	@agwagwa
+duiker (One of any species of small antelope)	<p-n>noun</p-n>	@gada
+dump truck (heavy truck for carrying loose, bulk cargo)	<p-n>noun</p-n>	@tīfā̀
+eagle (any of several large carnivorous birds in the family Accipitridae)	<p-n>noun</p-n>	@shaho
+ear (organ of hearing)	<p-n>noun</p-n>	@kunne
+earring (piece of jewelry)	<p-n>noun</p-n>	@yari
+earthshine (sunlight reflected from the Earth’s surface)	<p-n>noun</p-n>	@hasken ƙasa
+east (compass point)	<p-n>noun</p-n>	@gabàs
+eat (to ingest — see also consume, ingest)	<p-n>verb</p-n>	@ci
+eclipse (passage of a planetary object between others)	<p-n>noun</p-n>	@hùsūfī̀
+egg (approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development)	<p-n>noun</p-n>	@ƙwai
+egg (edible egg of a domestic fowl; the contents of such an egg or eggs used as food)	<p-n>noun</p-n>	@ƙwai
+egusi (melon seeds used to make soup)	<p-n>noun</p-n>	@àgushī
+eight (cardinal number 8)	<p-n>num</p-n>	@takwàs
+eighty (80)	<p-n>num</p-n>	@tamanin
+electricity (form of energy)	<p-n>noun</p-n>	@wuta
+elephant (mammal)	<p-n>noun</p-n>	@giwa
+ember (glowing piece of coal or wood)	<p-n>noun</p-n>	@garwashi
+emir (Islamic prince or leader)	<p-n>noun</p-n>	@sarki
+enemy (someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else)	<p-n>noun</p-n>	@maƙiyi
+energy (impetus behind activity)	<p-n>noun</p-n>	@kuzari
+enthusiasm (feeling of excited, lively interest)	<p-n>noun</p-n>	@ɗoki
+envy (resentful desire of something possessed by another)	<p-n>noun</p-n>	@hassadā̀
+eye (organ)	<p-n>noun</p-n>	@idṑ	@ijiya
+eyelash (hair growing on the edge of an eyelid)	<p-n>noun</p-n>	@gashin ido
+faith (feeling that something is true)	<p-n>noun</p-n>	@imani
+fajr (dawn prayer)	<p-n>noun</p-n>	@asubahi	@asuba
+family (immediate family [as a group], e.g. parents and their children)	<p-n>noun</p-n>	@Iyali
+farm (place where agricultural activities take place)	<p-n>noun</p-n>	@gona
+father (male parent)	<p-n>noun</p-n>	@ùbā	@bā̀ba
+fear (uncountable: emotion caused by actual or perceived danger or threat)	<p-n>noun</p-n>	@tsṑrō
+fence (barrier)	<p-n>noun</p-n>	@shinge
+fennec (fox)	<p-n>noun</p-n>	@Fennec
+fifty (cardinal number)	<p-n>num</p-n>	@hamsin
+fig (fruit)	<p-n>noun</p-n>	@ɓaure
+fig (tree or shrub)	<p-n>noun</p-n>	@ɓaure
+finger ((anatomy) extremity of the hand)	<p-n>noun</p-n>	@yatsa
+finger millet (a plant grown as a cereal)	<p-n>noun</p-n>	@támbà
+fingernail (covering near the tip of finger)	<p-n>noun</p-n>	@farce
+fiqh (Jurisprudence in the Islamic law)	<p-n>noun</p-n>	@fiƙihu
+fire (oxidation reaction)	<p-n>noun</p-n>	@wuta
+firearm (personal weapon)	<p-n>noun</p-n>	@bindiga
+fish (vertebrate animal)	<p-n>noun</p-n>	@kifi
+fishhook (barbed hook for fishing)	<p-n>noun</p-n>	@fatsa
+fishing net (net used for fishing)	<p-n>noun</p-n>	@koma
+five (cardinal number)	<p-n>num</p-n>	@biyar
+flag (piece of cloth or often its representation)	<p-n>noun</p-n>	@tuta
+flower (reproductive structure in angiosperms)	<p-n>noun</p-n>	@fure
+flowerbed (place where flowers are grown)	<p-n>noun</p-n>	@bedi
+flute (woodwind instrument)	<p-n>noun</p-n>	@mabusa
+fog (cloud that forms at a low altitude and obscures vision)	<p-n>noun</p-n>	@hazo
+foil (thin sheet of metal)	<p-n>noun</p-n>	@takardar ƙarfe siririya
+folk medicine (traditional medical practices developed and used by non-physicians)	<p-n>noun</p-n>	@maganin gargajiya
+fonio (Digitaria exilis)	<p-n>noun</p-n>	@acca
+forest (dense collection of trees)	<p-n>noun</p-n>	@kurmi
+fortune-telling (fortunetelling, predicting one's future)	<p-n>noun</p-n>	@haɗɗī̀
+forty (the cardinal number occurring after thirty-nine)	<p-n>num</p-n>	@arba'in
+four (the cardinal number 4)	<p-n>num</p-n>	@huɗu
+freedom (state of not being imprisoned or enslaved)	<p-n>noun</p-n>	@'yanci
+friend (person whose company one enjoys)	<p-n>noun</p-n>	@aboki	@ƙawa
+frog (amphibian)	<p-n>noun</p-n>	@kwaɗo
+garlic (plant)	<p-n>noun</p-n>	@àlbásà mai go
+gift (something given to another voluntarily, without charge)	<p-n>noun</p-n>	@kyauta
+girl (young female person)	<p-n>noun</p-n>	@yarinya
+goat (animal)	<p-n>noun</p-n>	@bunsuru
+god (deity)	<p-n>noun</p-n>	@allà
+gold (element Au)	<p-n>symbol</p-n>	@zinari	@zinariya	@gwal
+gonorrhea (STD)	<p-n>noun</p-n>	@ciwon sanyi
+good day (greeting between sunrise and sunset)	<p-n>intj</p-n>	@barka da rana
+good morning (when seeing someone for the first time in the morning)	<p-n>intj</p-n>	@ina kwana
+government (body with the power to make and/or enforce laws)	<p-n>noun</p-n>	@gwamnati
+governor (chief executive officer of first-level division of a country)	<p-n>noun</p-n>	@gwamna
+grammar (rules for speaking and writing a language)	<p-n>noun</p-n>	@nahawu
+grandfather (grandfather (from either side))	<p-n>noun</p-n>	@kaka
+grandmother (mother of someone's parent)	<p-n>noun</p-n>	@kaka
+grape (fruit)	<p-n>noun</p-n>	@inabi
+grass (ground cover plant)	<p-n>noun</p-n>	@cìyāwā̀
+grease (animal fat)	<p-n>noun</p-n>	@mai
+grease (oily or fatty matter)	<p-n>noun</p-n>	@giris	@mai
+green (colour)	<p-n>noun</p-n>	@kṓṛḕ
+green (having green as its colour)	<p-n>adj</p-n>	@kore
+greens (leaves of certain edible green plants)	<p-n>noun</p-n>	@ganye
+group (number of things or persons being in some relation to each other)	<p-n>noun</p-n>	@ƙungiya
+guava (fruit)	<p-n>noun</p-n>	@goba
+guide (document, book)	<p-n>noun</p-n>	@jā̀gorā̀
+gum arabic (substance from acacia trees)	<p-n>noun</p-n>	@ƙārō
+gun (portable, short weapon, for hand use)	<p-n>noun</p-n>	@bindiga
+habit (an action done on a regular basis)	<p-n>noun</p-n>	@dabu'a
+hajj (pilgrimage to Mecca)	<p-n>noun</p-n>	@hajji	@haji
+hajji (one who has participated in a hajj)	<p-n>noun</p-n>	@alhaji
+halva (confection)	<p-n>noun</p-n>	@àlāwā̀
+hammer (tool)	<p-n>noun</p-n>	@gùdumā̀	@hamā̀
+hand (part of the fore limb)	<p-n>noun</p-n>	@hannū
+hand grenade (explosive device)	<p-n>noun</p-n>	@gùr̃nêt
+hare (animal)	<p-n>noun</p-n>	@zomo
+hawk (predatory bird of Accipitridae)	<p-n>noun</p-n>	@shaho
+he (personal pronoun "he")	<p-n>pron</p-n>	@shíi
+head (part of the body)	<p-n>noun</p-n>	@kai
+health (state of being free of physical or psychological disease, illness, or malfunction)	<p-n>noun</p-n>	@lafiya
+heart (an organ)	<p-n>noun</p-n>	@zūcìyā
+hearts (the card suit (♥))	<p-n>noun</p-n>	@kubbi
+heat (thermal energy)	<p-n>noun</p-n>	@zafi
+hello (greeting)	<p-n>intj</p-n>	@sannu
+henna (shrub)	<p-n>noun</p-n>	@gwarzo
+hijab (headscarf)	<p-n>noun</p-n>	@hijabi
+hijab (practice of wearing a headscarf)	<p-n>noun</p-n>	@hijabi
+hill (elevated location)	<p-n>noun</p-n>	@tsauni
+hippopotamus (African mammal)	<p-n>noun</p-n>	@dṑrinā
+home (house or structure in which someone lives — see also domicile, dwelling, abode)	<p-n>noun</p-n>	@gidā
+homosexuality (sexual orientation)	<p-n>noun</p-n>	@kishili
+honey (sweet substance produced by bees)	<p-n>noun</p-n>	@zama
+honey badger (Mellivora capensis)	<p-n>noun</p-n>	@dage
+hoopoe (bird Upupa epops)	<p-n>noun</p-n>	@kahuhu	@alhudahuda
+horizontal (parallel to the plane of the horizon)	<p-n>adj</p-n>	@a kwance
+horn (growth on the heads of certain animals)	<p-n>noun</p-n>	@ƙaho
+horse (members of the species ''Equus ferus'')	<p-n>noun</p-n>	@doki
+hospital (large medical facility)	<p-n>noun</p-n>	@asibiti
+hotel (establishment providing accommodation)	<p-n>noun</p-n>	@hotel
+hour (time period of sixty minutes)	<p-n>noun</p-n>	@sa'a	@awa
+house (human abode)	<p-n>noun</p-n>	@'daki	@gida	@soro
+houseboy (young male domestic servant, especially in a British colony in former times)	<p-n>noun</p-n>	@boyi
+human (human being)	<p-n>noun</p-n>	@mutun
+hump (rounded fleshy mass as in camel's back)	<p-n>noun</p-n>	@tozo
+hundred (cardinal number 100)	<p-n>num</p-n>	@ɗari
+husband (male partner in marriage)	<p-n>noun</p-n>	@mijī̀
+hyena (mammal)	<p-n>noun</p-n>	@kūrā
+hyrax (mammal of the order Hyracoidea)	<p-n>noun</p-n>	@rēmā
+imam (Muslim leader)	<p-n>noun</p-n>	@liman
+in (contained by)	<p-n>prep</p-n>	@cikin	@a	@a ciki
+in short (as a summary)	<p-n>prep_phrase</p-n>	@a taƙaice
+ink (coloured fluid used for writing)	<p-n>noun</p-n>	@tawada
+intelligence (capacity of mind)	<p-n>noun</p-n>	@fahami
+investigation (the act of investigating)	<p-n>noun</p-n>	@bahàsī
+iodine (element)	<p-n>noun</p-n>	@aidin
+iroko (Milicia excelsa (syn. Chlorophora excelsa) and M. regia)	<p-n>noun</p-n>	@loko
+ironwood (any of a number of tree species known for having a particularly solid wood)	<p-n>noun</p-n>	@kirni
+isha (evening or night prayer)	<p-n>noun</p-n>	@lisha
+island (area of land completely surrounded by water)	<p-n>noun</p-n>	@tsibiri
+ivory (material)	<p-n>noun</p-n>	@hauren giwa
+jackal (wild canine)	<p-n>noun</p-n>	@dilā
+jihad (holy war undertaken by Muslims)	<p-n>noun</p-n>	@jihadi
+judge (public judicial official)	<p-n>noun</p-n>	@alƙali
+jungle (large, undeveloped, humid forest)	<p-n>noun</p-n>	@kurmi
+justice (state of being just or fair)	<p-n>noun</p-n>	@adalci
+kafir (infidel, non-Muslim)	<p-n>noun</p-n>	@kāfìr̃ī
+kerchief (piece of cloth)	<p-n>noun</p-n>	@mayani
+kettle (vessel for boiling a liquid or cooking food)	<p-n>noun</p-n>	@būtā̀
+key (device designed to open and close a lock)	<p-n>noun</p-n>	@mabuɗi
+kidney (an organ in the body)	<p-n>noun</p-n>	@ƙoda
+king (a male of a royal family who is the supreme ruler of his nation)	<p-n>noun</p-n>	@sarki
+kitchen (room)	<p-n>noun</p-n>	@madafaa	@kicin
+knee (joint in the middle of the leg and area around it)	<p-n>noun</p-n>	@gwiwa
+knife (utensil or tool designed for cutting)	<p-n>noun</p-n>	@wuƙa
+know (be justifiably certain or sure about (something true))	<p-n>verb</p-n>	@sanī̀
+kob (Kobus kob)	<p-n>noun</p-n>	@maraya
+kola nut (seed)	<p-n>noun</p-n>	@gōr̃ò
+lake (body of water)	<p-n>noun</p-n>	@tabkī
+lamp (oil device producing light)	<p-n>noun</p-n>	@fitila
+language (body of words used as a form of communication)	<p-n>noun</p-n>	@harshe
+laugh (show mirth by peculiar movement of the muscles of the face and emission of sounds)	<p-n>verb</p-n>	@dāra
+lead (chemical element)	<p-n>noun</p-n>	@darma
+leaf (part of a plant)	<p-n>noun</p-n>	@ganye	@warƙa
+legislature (governmental body with the power to make, amend and repeal laws)	<p-n>noun</p-n>	@majalisa
+leopard (a large wild cat with a spotted coat, Panthera pardus)	<p-n>noun</p-n>	@damisa
+letter (written message — see also missive)	<p-n>noun</p-n>	@wàsīƙā̀
+lettuce (an edible plant, Lactuca)	<p-n>noun</p-n>	@latas
+leucoma (opaque area or scar on the cornea of an eye)	<p-n>noun</p-n>	@hakiya
+library (institution which holds books, etc.)	<p-n>noun</p-n>	@laburare
+life (the state of being alive)	<p-n>noun</p-n>	@rai
+lion (big cat Panthera leo)	<p-n>noun</p-n>	@zaki
+liver (organ of the body)	<p-n>noun</p-n>	@hantā̀	@antā̀
+lizard (reptile)	<p-n>noun</p-n>	@ƙadangare
+locust (type of grasshopper)	<p-n>noun</p-n>	@fàra
+long (having much distance from one point to another)	<p-n>adj</p-n>	@dōgō
+loofah (tropical vine)	<p-n>noun</p-n>	@soso
+love (strong affection)	<p-n>noun</p-n>	@ƙauna
+lung (organ that extracts oxygen from the air)	<p-n>noun</p-n>	@huhu
+lungfish (air-breathing fish of the class Dipnoi)	<p-n>noun</p-n>	@gaiwa
+magazine (periodical)	<p-n>noun</p-n>	@mujalla
+maghrib (sunset prayer)	<p-n>noun</p-n>	@magariba
+maize (corn; a type of grain of the species Zea mays)	<p-n>noun</p-n>	@agwado
+man (a human being)	<p-n>noun</p-n>	@mutun
+man (adult male human)	<p-n>noun</p-n>	@mutum
+manatee (any of several plant-eating marine mammals, of family Trichechidae)	<p-n>noun</p-n>	@àyū
+marathon (road race)	<p-n>noun</p-n>	@dogon gudu
+marijuana (cannabis drug)	<p-n>noun</p-n>	@ganye
+market (spacious site for trading)	<p-n>noun</p-n>	@kasuwa
+marriage (state of being married)	<p-n>noun</p-n>	@aure
+masculine (grammar: being of the masculine class, being inflected in the masculine manner)	<p-n>adj</p-n>	@namiji
+mason (one who builds with stone or brick)	<p-n>noun</p-n>	@mēsìn
+match (device to make fire)	<p-n>noun</p-n>	@ashana
+maternal uncle (brother of one's mother)	<p-n>noun</p-n>	@rafani	@kawu
+mathematics (field of study)	<p-n>noun</p-n>	@lissafi
+mathematics (person's ability to use mathematics)	<p-n>noun</p-n>	@lissafi
+meaning (definition or connotation of a word)	<p-n>noun</p-n>	@ma'ana
+meaning (symbolic value of something)	<p-n>noun</p-n>	@ma'ana
+meat (animal flesh used as food)	<p-n>noun</p-n>	@nama
+medicine (substance which promotes healing)	<p-n>noun</p-n>	@magani
+memorization (act of committing something to memory)	<p-n>noun</p-n>	@haddā̀
+mercury (silvery-coloured, metallic chemical element with the atomic number 80)	<p-n>noun</p-n>	@zaiba
+mercy (forgiveness or compassion)	<p-n>noun</p-n>	@rahama
+messenger (one who brings messages)	<p-n>noun</p-n>	@manzo	@masinja
+middle school (school containing both primary and secondary students)	<p-n>noun</p-n>	@midìl
+midnight (12 o'clock at night exactly — see also twelve o'clock)	<p-n>noun</p-n>	@tsakad dare
+milk (liquid)	<p-n>noun</p-n>	@madara	@nono
+minister (politician who heads a ministry)	<p-n>noun</p-n>	@minista
+ministry (government department)	<p-n>noun</p-n>	@ma'aikataa
+minute (unit of time)	<p-n>noun</p-n>	@minti
+miracle (wonderful event attributed to supernatural powers)	<p-n>noun</p-n>	@mu'ujiza
+mirror (smooth reflecting surface)	<p-n>noun</p-n>	@madubi	@boka	@matsokaci
+misery (great unhappiness)	<p-n>noun</p-n>	@uƙuba
+mister (title of adult male)	<p-n>noun</p-n>	@malam
+mistletoe (any of several hemiparasitic evergreen plants of the order Santalales)	<p-n>noun</p-n>	@kauci
+miswak (Translations)	<p-n>noun</p-n>	@asawaki
+molar (back tooth)	<p-n>noun</p-n>	@mataunī
+money (means of exchange and measure of value)	<p-n>noun</p-n>	@kuɗi
+monkey (primate)	<p-n>noun</p-n>	@biri	@birinya
+month (period into which a year is divided)	<p-n>noun</p-n>	@wata
+moon (the natural satellite of planet Earth)	<p-n>noun</p-n>	@wata
+morning (the part of the day after midnight and before midday — see also AM)	<p-n>noun</p-n>	@asuba
+mosque (a place of worship for Muslims)	<p-n>noun</p-n>	@masallaci
+mother (female (human) who gives birth to or parents a child)	<p-n>noun</p-n>	@uwa	@inna
+motor (colloquial: motor car — see also automobile)	<p-n>noun</p-n>	@mōtā̀
+motorcycle (open-seated motor vehicle with handlebars instead of a steering wheel)	<p-n>noun</p-n>	@babur
+mountain (large mass of earth and rock)	<p-n>noun</p-n>	@dutse
+mourner (someone filled with or expressing grief or sadness)	<p-n>noun</p-n>	@makoki
+mouse (rodent of the genus Mus)	<p-n>noun</p-n>	@ɓera
+mouth (the opening of a creature through which food is ingested — see also lip, face)	<p-n>noun</p-n>	@baki
+movie (motion picture)	<p-n>noun</p-n>	@sinima
+mud (mixture of soil and water)	<p-n>noun</p-n>	@taɓo
+muezzin (person who issues call to prayer)	<p-n>noun</p-n>	@ladan	@ladani
+mumps (contagious disease)	<p-n>noun</p-n>	@hàngum
+myrrh (dried sap of the myrrha tree)	<p-n>noun</p-n>	@mûr̃
+myself (me, reflexive form of me)	<p-n>pron</p-n>	@kaina
+naira (the currency of Nigeria)	<p-n>noun</p-n>	@nair̃ā̀
+name (word or phrase indicating a particular person, place, class or thing)	<p-n>noun</p-n>	@suna
+navel (remnant of umbilical cord)	<p-n>noun</p-n>	@cibiya
+neck (part of body connecting the head and the trunk)	<p-n>noun</p-n>	@wuya
+neck (tapered part of a bottle)	<p-n>noun</p-n>	@wuya
+needle (implement for sewing etc.)	<p-n>noun</p-n>	@allura
+neem (Azadirachta indica)	<p-n>noun</p-n>	@nim	@maina	@darbejiya
+new (recently made or created)	<p-n>adj</p-n>	@sabo
+news (new information of interest)	<p-n>noun</p-n>	@labari
+newspaper (publication)	<p-n>noun</p-n>	@jarida
+nightjar (nocturnal bird of the family Caprimulgidae)	<p-n>noun</p-n>	@yautai
+nightmare (dream)	<p-n>noun</p-n>	@mafarki mai ban tsoro
+nine (cardinal number)	<p-n>num</p-n>	@tar̃à
+ninety (90)	<p-n>num</p-n>	@casa'in	@tis'in
+northeastern (northeastern)	<p-n>adj</p-n>	@arewa maso gabashi
+nose (protuberance on the face)	<p-n>noun</p-n>	@hanci
+nosebleed (haemorrhage from the nose)	<p-n>noun</p-n>	@haɓṑ
+not (negates meaning of another word)	<p-n>adv</p-n>	@ba
+nothing (not any thing)	<p-n>pron</p-n>	@kome ba
+noun (grammatical category (narrow sense))	<p-n>noun</p-n>	@suna
+nut (hard-shelled fruit)	<p-n>noun</p-n>	@goro
+nylon (substance)	<p-n>noun</p-n>	@nailan
+occasionally (at relatively infrequent intervals)	<p-n>adv</p-n>	@rana-rana
+occiput (Translations)	<p-n>noun</p-n>	@kwanyā
+ocean (one of the large bodies of water)	<p-n>noun</p-n>	@tḕku
+official (office holder invested with powers and authorities)	<p-n>noun</p-n>	@jami'i
+oh dear (expression of dismay, concern, worry or disapproval)	<p-n>intj</p-n>	@kash
+oil (liquid fat)	<p-n>noun</p-n>	@mai
+oil (petroleum-based liquid)	<p-n>noun</p-n>	@mai
+okra (A. esculentus)	<p-n>noun</p-n>	@kuɓḕwā
+okra (edible capsules of A. esculentus)	<p-n>noun</p-n>	@kuɓewa
+old (of an object, concept, etc: having existed for a relatively long period of time)	<p-n>adj</p-n>	@tsoho
+olive (fruit)	<p-n>noun</p-n>	@zàitûn
+olive tree (tree that produces olives)	<p-n>noun</p-n>	@zàitûn
+one (cardinal number 1)	<p-n>num</p-n>	@ɗaya
+one-way street (road on which traffic is only allowed to proceed in one direction)	<p-n>noun</p-n>	@wanwê
+onion (Allium cepa)	<p-n>noun</p-n>	@àlbásà
+opposition (politics: party or movement opposed to government)	<p-n>noun</p-n>	@hamayya
+orange (colour)	<p-n>noun</p-n>	@mai ruwan lemo	@lemo
+organization (group of people or other legal entities with an explicit purpose and written rules)	<p-n>noun</p-n>	@ƙungiya
+ostrich (large flightless bird)	<p-n>noun</p-n>	@jìminā
+outcast (someone excluded from a society or system, a pariah, a leper)	<p-n>noun</p-n>	@zā̀rē
+oven (chamber used for baking or heating)	<p-n>noun</p-n>	@obin
+owl (bird)	<p-n>noun</p-n>	@mujiya
+paddle (two-handed, single-bladed oar)	<p-n>noun</p-n>	@filafili
+palm wine (alcoholic beverage made from palm)	<p-n>noun</p-n>	@bammi
+palmyra palm (Borassus aethiopum)	<p-n>noun</p-n>	@giginyā̀
+panegyric (formal speech or opus publicly praising someone or something)	<p-n>noun</p-n>	@yabo
+papaya (fruit)	<p-n>noun</p-n>	@gwanda
+paper clip (paper clip)	<p-n>noun</p-n>	@kìlîf
+partnership (association of two or more people to conduct a business)	<p-n>noun</p-n>	@tarayya
+passport (official document for foreign travel)	<p-n>noun</p-n>	@fasfo	@fazgo
+paternal aunt (the sister or sister-in-law of someone's father)	<p-n>noun</p-n>	@gwaggo
+pea (plant)	<p-n>noun</p-n>	@fis
+peace (tranquility, quiet, harmony)	<p-n>noun</p-n>	@lumana
+pearl (rounded shelly concretion produced by certain mollusks)	<p-n>noun</p-n>	@lu'ulu'u
+pearl millet (Pennisetum glaucum)	<p-n>noun</p-n>	@gero	@maiwa	@dauro
+pen (writing tool)	<p-n>noun</p-n>	@alƙalami
+pencil (graphite writing-instrument)	<p-n>noun</p-n>	@fensir
+perhaps (indicating a lack of certainty)	<p-n>adv</p-n>	@yiwu	@iya
+period (punctation mark “.”)	<p-n>noun</p-n>	@ɗigo
+person (individual)	<p-n>noun</p-n>	@mutun
+pickaxe (heavy iron tool)	<p-n>noun</p-n>	@digā̀
+pig (mammal of family Suidae)	<p-n>noun</p-n>	@alade
+pigeon (bird of the dove and pigeon family Columbidae — see also dove)	<p-n>noun</p-n>	@tantabara
+pillow (soft cushion used to support the head in bed)	<p-n>noun</p-n>	@matāshī
+pineapple (fruit)	<p-n>noun</p-n>	@abarba
+pink (pale red colour)	<p-n>noun</p-n>	@ruwan hoda
+plant (organism capable of photosynthesis)	<p-n>noun</p-n>	@shuka
+plantain (fruit)	<p-n>noun</p-n>	@agade
+playing card (Translations)	<p-n>noun</p-n>	@kati
+pocket (bag stitched to an item of clothing)	<p-n>noun</p-n>	@aljihu
+political party (political organization)	<p-n>noun</p-n>	@jam'iyya
+politics (a methodology and activities associated with running a government)	<p-n>noun</p-n>	@siyasa
+polo (ball game)	<p-n>noun</p-n>	@hōlṑ
+post office (place)	<p-n>noun</p-n>	@fasa'ofis
+postcard (rectangular piece of thick paper to be mailed without an envelope)	<p-n>noun</p-n>	@fôskātì
+pound (unit of currency)	<p-n>noun</p-n>	@fam
+pound (unit of mass (16 ounces avoirdupois))	<p-n>noun</p-n>	@laba
+powder (fine particles of any dry substance)	<p-n>noun</p-n>	@hōdā̀
+prayer (practice of communicating with one's God)	<p-n>noun</p-n>	@salla
+prayer beads (string of beads — see also rosary)	<p-n>noun</p-n>	@càr̃bī
+primary school (first formal, obligatory school)	<p-n>noun</p-n>	@firamare
+prime minister (chief member of the cabinet and head of the government)	<p-n>noun</p-n>	@firaminista
+prime number (natural number)	<p-n>noun</p-n>	@firayim yawan
+princess (female member of royal family)	<p-n>noun</p-n>	@gimbiya
+prophet (one who speaks by divine inspiration)	<p-n>noun</p-n>	@annabi
+prostitute (a person having sex for profit)	<p-n>noun</p-n>	@karuwa
+pullet (young hen)	<p-n>noun</p-n>	@sā̀garā
+purple (colour)	<p-n>noun</p-n>	@shunayya
+pushcart (small pushable cart)	<p-n>noun</p-n>	@amalanke
+queen (female monarch)	<p-n>noun</p-n>	@sarauniya
+question (sentence, phrase or word)	<p-n>noun</p-n>	@tambaya
+quiet (with little sound)	<p-n>adj</p-n>	@shuru
+quinine (alkaloid used to treat malaria)	<p-n>noun</p-n>	@kùnî
+race (contest)	<p-n>noun</p-n>	@gudùù
+radar (method of detecting a distant object by analysing radio waves which are sent towards the object and which reflect off its surfaces; field of study of this method)	<p-n>noun</p-n>	@radar
+radio (receiver — see also radioreceptor)	<p-n>noun</p-n>	@rediyo
+radio (technology)	<p-n>noun</p-n>	@rediyo
+raffia (Raphia sudanica)	<p-n>noun</p-n>	@gwangwala
+rain (condensed water from a cloud)	<p-n>noun</p-n>	@ruwa
+rainbow (multicoloured arch in the sky)	<p-n>noun</p-n>	@bàkan gizò
+rat (rodent)	<p-n>noun</p-n>	@ɓera	@kūsu
+read (to look at and interpret letters or other information)	<p-n>verb</p-n>	@kar̃àntā
+red (colour)	<p-n>noun</p-n>	@ja
+red (having red as its colour)	<p-n>adj</p-n>	@ja
+religion (system of beliefs dealing with soul, deity and/or life after death)	<p-n>noun</p-n>	@addini
+report (information describing events)	<p-n>noun</p-n>	@rahoto
+republic (a type of state)	<p-n>noun</p-n>	@jamhuriya
+rhinoceros (herbivorous pachyderm with horn(s))	<p-n>noun</p-n>	@karkanda
+rhythm (variation of strong and weak elements of sounds over time)	<p-n>noun</p-n>	@taakee
+rib cage (part of skeleton)	<p-n>noun</p-n>	@àwazā̀
+rice (plants)	<p-n>noun</p-n>	@shìnkāfā
+right away (very soon)	<p-n>adv</p-n>	@nan take
+ringworm (contagious fungal affliction of the skin)	<p-n>noun</p-n>	@màkērṑ
+rivalry (competition)	<p-n>noun</p-n>	@hamayya
+river (large stream which drains a landmass)	<p-n>noun</p-n>	@kogi
+robot (intelligent mechanical being)	<p-n>noun</p-n>	@saƙago
+roselle (Hibiscus sabdariffa)	<p-n>noun</p-n>	@soɓarodo
+rousong (meat floss)	<p-n>noun</p-n>	@dambū nāmā̀
+salaam alaikum (peace be upon you (Muslim greeting))	<p-n>intj</p-n>	@salamu alaikum
+salt (sodium chloride)	<p-n>noun</p-n>	@gishiri
+sandal (type of footwear)	<p-n>noun</p-n>	@sandal
+sapphire (gem)	<p-n>noun</p-n>	@saffir
+satiated (pleasantly full)	<p-n>adj</p-n>	@ƙṑshi
+saw (tool)	<p-n>noun</p-n>	@zarto
+scar (permanent mark on the skin)	<p-n>noun</p-n>	@tabo
+scary (causing fear or anxiety)	<p-n>adj</p-n>	@ban tsoro
+school (an institution dedicated to teaching and learning)	<p-n>noun</p-n>	@makar̃antā
+scimitar-horned oryx (Oryx dammah)	<p-n>noun</p-n>	@mariri
+scissors (tool used for cutting)	<p-n>noun</p-n>	@almakashi
+scorpion (any of various arachnids of the order Scorpiones)	<p-n>noun</p-n>	@kunama
+see (perceive with the eyes)	<p-n>verb</p-n>	@gani
+seed (any small seed-like fruit)	<p-n>noun</p-n>	@tsaba
+send (make something go somewhere)	<p-n>verb</p-n>	@aika
+sermon (religious discourse)	<p-n>noun</p-n>	@huɗuba
+servant (one who is hired to perform regular household or other duties, and receives compensation)	<p-n>noun</p-n>	@yaro
+seven (cardinal number 7)	<p-n>num</p-n>	@bakwài
+seventy (cardinal number)	<p-n>num</p-n>	@saba'in
+shadda (diacritic used in the Arabic script)	<p-n>noun</p-n>	@shaddā̀
+shahada (Islamic declaration of belief)	<p-n>noun</p-n>	@shahada
+she (person)	<p-n>pron</p-n>	@’ítá
+shea (fruit)	<p-n>noun</p-n>	@kaɗanya
+shea (tree)	<p-n>noun</p-n>	@kaɗanya
+sheep (animal)	<p-n>noun</p-n>	@tunkìyā
+shield (armor)	<p-n>noun</p-n>	@garkuwa
+shoe (protective covering for the foot)	<p-n>noun</p-n>	@takalmi
+shore (land adjoining a large body of water)	<p-n>noun</p-n>	@baki
+short (having a small distance between ends or edges)	<p-n>adj</p-n>	@gajere
+shoulder (joint between arm and torso)	<p-n>noun</p-n>	@kafaɗa
+shyness (quality of being shy)	<p-n>noun</p-n>	@kunya
+silk (fiber)	<p-n>noun</p-n>	@tsamiya
+silver (metal)	<p-n>noun</p-n>	@azurfa
+sin (violation of religious law)	<p-n>noun</p-n>	@zùnubī̀
+sing (to produce harmonious sounds with one’s voice)	<p-n>verb</p-n>	@rera
+sister (woman or girl having the same parents)	<p-n>noun</p-n>	@ya
+six (cardinal number)	<p-n>num</p-n>	@shidà
+sixty (cardinal number)	<p-n>num</p-n>	@sìttin
+skim milk (milk with removed cream)	<p-n>noun</p-n>	@tsala
+skirt (article of clothing)	<p-n>noun</p-n>	@siket
+skull (bones of the head: cranium and mandible)	<p-n>noun</p-n>	@kwanyar
+sky (atmosphere above a given point, especially as visible from the surface of the Earth as the place where the sun, moon, stars, and clouds are seen)	<p-n>noun</p-n>	@samà
+slave (person owned by another)	<p-n>noun</p-n>	@bawa	@baiwa
+slave-girl (female slave)	<p-n>noun</p-n>	@kùyangā
+slingshot (Y-shaped stick with an elastic sling between the arms used for shooting small projectiles — see also sling)	<p-n>noun</p-n>	@màjajjawā
+sloth (laziness)	<p-n>noun</p-n>	@lalaci	@ragwanci
+slovenly (having an untidy appearance; unkempt)	<p-n>adj</p-n>	@kucaki
+small (not large)	<p-n>adj</p-n>	@ƙure
+smile (a happy face expression using mouth, but without producing voice)	<p-n>noun</p-n>	@murmushi
+smoke (visible particles and vapour given off by burning material)	<p-n>noun</p-n>	@hayaƙi
+snake (legless reptile)	<p-n>noun</p-n>	@macī̀jī	@macījìyā
+snow (partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer)	<p-n>noun</p-n>	@ƙànƙar̃ā
+soap (substance)	<p-n>noun</p-n>	@sabulu
+soccer ball (ball that is designed for use in the sport of soccer)	<p-n>noun</p-n>	@tamaula
+society (group of persons who meet from time to time to engage in a common interest)	<p-n>noun</p-n>	@jam'iyya
+solution (answer to a problem (mathematics))	<p-n>noun</p-n>	@amsa
+sometimes (on certain occasions, but not always)	<p-n>adv</p-n>	@wani lokaci
+son (a male person in relation to his parents)	<p-n>noun</p-n>	@ɗa
+song (music with words)	<p-n>noun</p-n>	@waƙa
+sorghum (cereal)	<p-n>noun</p-n>	@dawa
+sound (sensation perceived by the ear)	<p-n>noun</p-n>	@amo
+soup (dish)	<p-n>noun</p-n>	@miya
+spanner (hand tool for adjusting nuts and bolts)	<p-n>noun</p-n>	@sufana
+spear (long stick with a sharp tip)	<p-n>noun</p-n>	@mashi
+spider (arthropod)	<p-n>noun</p-n>	@gizò-gizò	@tautàu
+spinach (a particular edible plant, Spinacia oleracea)	<p-n>noun</p-n>	@alayyaho
+spinal cord (thick, whitish cord of nerve tissue)	<p-n>noun</p-n>	@lakā
+spoon (scooped utensil for eating (or serving))	<p-n>noun</p-n>	@cōkàlī
+squacco (Ardeola ralloides)	<p-n>noun</p-n>	@makwabo
+square (type of polygon)	<p-n>noun</p-n>	@mùr̃abbàʼī
+stallion (uncastrated male horse)	<p-n>noun</p-n>	@ingarma
+stanza (a unit of a poem)	<p-n>noun</p-n>	@baitī̀
+star ((astronomy) a luminous celestial body made of plasma)	<p-n>noun</p-n>	@tauraro
+star (a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other)	<p-n>noun</p-n>	@tauraro
+star (celebrity)	<p-n>noun</p-n>	@tauraro
+star (talented or famous person)	<p-n>noun</p-n>	@tauraro
+state (a political division of a federation retaining a degree of autonomy)	<p-n>noun</p-n>	@jiha
+state (a/the State, the sovereign country or city state with a central government acting as its head and operator; national aspects as opposed to international and local ones.)	<p-n>noun</p-n>	@jiha
+stepchild (the child of one's spouse from his or her previous partner)	<p-n>noun</p-n>	@agola
+stepdaughter (daughter of one's spouse and not of oneself)	<p-n>noun</p-n>	@agoliya
+stepson (son of one's spouse and not of oneself)	<p-n>noun</p-n>	@agola
+street (paved part of road in a village or a town)	<p-n>noun</p-n>	@titi
+striped hyena (Hyaena hyaena)	<p-n>noun</p-n>	@siyaki
+student (person who studies a subject)	<p-n>noun</p-n>	@ɗalibi
+sugar (sucrose from sugar cane or sugar beet used to sweeten food and drink)	<p-n>noun</p-n>	@sukari
+sugar cane (species of grass whose sap is a source of sugar)	<p-n>noun</p-n>	@rake
+suhur (predawn meal before Islamic fasting)	<p-n>noun</p-n>	@sàhûr̃
+summer (hottest season)	<p-n>noun</p-n>	@agazari
+sun (a star, especially when seen as the centre of any single solar system)	<p-n>noun</p-n>	@rana
+sun (light and warmth received from the sun)	<p-n>noun</p-n>	@rana
+sun (the star around which the Earth revolves — see also Sun)	<p-n>name</p-n>	@rana
+sunnah (custom, system, way of life)	<p-n>noun</p-n>	@sunnā̀
+supreme court (court of law representing the highest legal authority within a jurisdiction)	<p-n>noun</p-n>	@kotun ƙoli
+sura (chapter of the Qur'an)	<p-n>noun</p-n>	@sūr̃ā̀
+swallow (carbohydrate-based dish)	<p-n>noun</p-n>	@tuwō
+sweet (having a pleasant taste)	<p-n>adj</p-n>	@mai dāɖi
+sword of Damocles (thing or situation which causes a prolonged state of impending doom or misfortune)	<p-n>noun</p-n>	@takobin damokilis
+tail (appendage of an animal — see also dock)	<p-n>noun</p-n>	@wutsiyā̀
+taro (Colocasia esculenta)	<p-n>noun</p-n>	@gwaza
+tarpaulin (heavy, waterproof sheet of material)	<p-n>noun</p-n>	@tàmfôl
+taxi (vehicle available for public hire)	<p-n>noun</p-n>	@tā̀sî
+tea (drink made from leaves of tea plant)	<p-n>noun</p-n>	@shayi	@ti
+teacher (person who teaches)	<p-n>noun</p-n>	@malami
+teakettle (a vessel for boiling water for tea)	<p-n>noun</p-n>	@sàhānī̀
+ten (the cardinal number occurring after 9 and before 11)	<p-n>num</p-n>	@gōmà
+tennis (sport played by two or four players with strung racquets)	<p-n>noun</p-n>	@tanìs
+tent (portable lodge)	<p-n>noun</p-n>	@laima
+termite (insect)	<p-n>noun</p-n>	@gàrā
+thank you (an expression of gratitude)	<p-n>intj</p-n>	@na gode
+they (third-person plural pronoun)	<p-n>pron</p-n>	@súu
+thimble (cup-shaped cap worn on the tip of a finger, used in sewing to push the needle through material)	<p-n>noun</p-n>	@sāfī
+thirst (dryness)	<p-n>noun</p-n>	@ƙishi
+thirty (cardinal number)	<p-n>num</p-n>	@talatin
+this (the (thing) here)	<p-n>det</p-n>	@wannan
+thought (representation created in the mind)	<p-n>noun</p-n>	@tunani
+thousand (cardinal number 1000)	<p-n>num</p-n>	@dubu	@alif
+three (cardinal number 3)	<p-n>num</p-n>	@ukù
+thunder (sound caused by lightning)	<p-n>noun</p-n>	@tarnatsa
+tiger nut (edible tuber of chufa)	<p-n>noun</p-n>	@ayā
+time (inevitable passing of events)	<p-n>noun</p-n>	@lokaci
+tobacco (leaves of certain varieties of tobacco plant)	<p-n>noun</p-n>	@antusko	@asara
+today (on the current day)	<p-n>adv</p-n>	@yau
+tom (male cat)	<p-n>noun</p-n>	@mùzūrū
+tongue (organ)	<p-n>noun</p-n>	@harshe
+tooth (anatomy: tooth)	<p-n>noun</p-n>	@haƙori
+torture (intentional causing of somebody's experiencing agony)	<p-n>noun</p-n>	@azabtarwa
+town (settlement)	<p-n>noun</p-n>	@birni
+town square (open area in a town)	<p-n>noun</p-n>	@dandàlī
+trade (buying and selling)	<p-n>noun</p-n>	@ciniki	@kasuwanci
+tree (large woody plant)	<p-n>noun</p-n>	@bishiyā̀	@bishiyoyi
+truth (state or quality of being true to someone or something)	<p-n>noun</p-n>	@gaskiya
+tsunami (large, destructive wave generally caused by a tremendous disturbance in the ocean)	<p-n>noun</p-n>	@tsùnāmī̀
+turban (man’s head-dress)	<p-n>noun</p-n>	@rawani
+twenty (cardinal number)	<p-n>num</p-n>	@àshìrin
+two (cardinal number 2)	<p-n>num</p-n>	@biyu
+ugly (displeasing to the eye; not aesthetically pleasing)	<p-n>adj</p-n>	@mummuna
+umbrella (cloth-covered frame used for protection against rain or sun)	<p-n>noun</p-n>	@laima
+umrah (a lesser pilgrimage)	<p-n>noun</p-n>	@ʿumr̃ā
+university (institution of higher education)	<p-n>noun</p-n>	@jami'a
+vaccination (inoculation with a vaccine)	<p-n>noun</p-n>	@lambā̀
+vacillation (Changing location by moving back and forth)	<p-n>noun</p-n>	@zàrā
+verb ((grammar) a word that indicates an action, event, or a state)	<p-n>noun</p-n>	@fi'ili
+village (a rural habitation of size between a hamlet and a town)	<p-n>noun</p-n>	@ƙauye
+vinegar (condiment)	<p-n>noun</p-n>	@munegar
+visa (permit to enter a country)	<p-n>noun</p-n>	@bīzā̀
+voice (sound uttered by the mouth)	<p-n>noun</p-n>	@murya
+vowel (sound)	<p-n>noun</p-n>	@wasali
+vulture (bird)	<p-n>noun</p-n>	@ungulu
+war (conflict involving organized use of arms)	<p-n>noun</p-n>	@yaƙi
+war crime (punishable offence under international law for violations of the laws of war)	<p-n>noun</p-n>	@laifin yaƙi
+warthog (a species of wild pig)	<p-n>noun</p-n>	@gadu
+washer (flat annulus)	<p-n>noun</p-n>	@wāshā̀
+water (inorganic compound H₂O)	<p-n>noun</p-n>	@ruwā
+water lily (Any members of Nymphaeaceae)	<p-n>noun</p-n>	@bado
+waterberry (Syzygium guineense)	<p-n>noun</p-n>	@malmo
+we (generic we (the speaker and at least one other person, regardless of whether it's the person being addressed))	<p-n>pron</p-n>	@múu	@mún	@múkà	@bàmù...bá	@záamù	@mâa	@múkàn	@mù	@múnàa	@múkè	<p-ipa>e</p-ipa>	@báamàa
+wealth (riches; valuable material possessions)	<p-n>noun</p-n>	@dukiya
+weaver (one who weaves)	<p-n>noun</p-n>	@masā̀ƙī
+week (period of seven days)	<p-n>noun</p-n>	@mako
+well-known (familiar, widely known)	<p-n>adj</p-n>	@shahararru	@shahararre
+wether (castrated goat)	<p-n>noun</p-n>	@taurḕ
+wheat (grain)	<p-n>noun</p-n>	@álkámà
+wheel (a circular device facilitating movement or transportation)	<p-n>noun</p-n>	@k'afa
+whistle (device used to make a whistling sound)	<p-n>noun</p-n>	@usur
+white (bright and colourless)	<p-n>adj</p-n>	@feri
+white (of or relating to Caucasians — see also Caucasian)	<p-n>adj</p-n>	@bature
+who (who? (interrogative pronoun))	<p-n>pron</p-n>	@wā̀nē nḕ	@wā̀cē cḕ
+wife (female partner in a marriage)	<p-n>noun</p-n>	@matar aure
+wind (movement of air)	<p-n>noun</p-n>	@iska
+window (opening for light and air)	<p-n>noun</p-n>	@taga
+winter (fourth season, marked by short days and the lowest temperatures)	<p-n>noun</p-n>	@hunturu
+wisdom (ability to make a decision based on the combination of knowledge, experience, and intuitive understanding)	<p-n>noun</p-n>	@hikima
+wisdom (piece of wise advice)	<p-n>noun</p-n>	@hikima
+woman (adult female person)	<p-n>noun</p-n>	@mace	@mata
+wood (substance)	<p-n>noun</p-n>	@ice
+wool (cloth or yarn)	<p-n>noun</p-n>	@ulu
+wool (hair of sheep, etc.)	<p-n>noun</p-n>	@ulu
+word (unit of language)	<p-n>noun</p-n>	@kalma
+work (labour, employment, occupation, job)	<p-n>noun</p-n>	@aiki
+world (the Earth)	<p-n>noun</p-n>	@duniya
+worm (animal)	<p-n>noun</p-n>	@tsūtsā̀
+worst (most inferior)	<p-n>adj</p-n>	@munin	@mafi munin
+worthless (not having worth and use; without value — see also inconsequential, useless)	<p-n>adj</p-n>	@marasa amfani
+write (to form letters, etc.)	<p-n>verb</p-n>	@r̃ubū̀tā
+yam (any Dioscorea vine)	<p-n>noun</p-n>	@aduru	@doya
+year (time it takes for the Earth to complete one revolution around the Sun)	<p-n>noun</p-n>	@shekara
+you (object pronoun: the group being addressed)	<p-n>pron</p-n>	@kai	@ku	@ke
+you (subject pronoun: the group being addressed)	<p-n>pron</p-n>	@kúu
+zakat (almsgiving in the form of an annual tax on certain types of property, which is used for charitable purposes)	<p-n>noun</p-n>	@zakka
+zero (cardinal number before 1, denoting nothing)	<p-n>num</p-n>	@sifiri
+zip fastener (a fastener used in clothing, bags)	<p-n>noun</p-n>	@zik

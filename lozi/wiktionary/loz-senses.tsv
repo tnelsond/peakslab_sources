@@ -1,0 +1,13 @@
+#desc	Lozi words by English sense, from English Wiktionary's translation tables (<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>), from <a href="https://kaikki.org/dictionary/English/">kaikki.org</a>: with another language's on, a dictionary between them
+#priority	-2
+#lang	loz,aligned
+bee (insect)	<p-n>noun</p-n>	@muka
+coffee (beverage)	<p-n>noun</p-n>	@kofi
+corpse (dead body)	<p-n>noun</p-n>	@sibimbi	@situpu
+maize (corn; a type of grain of the species Zea mays)	<p-n>noun</p-n>	@mbonyi
+miracle (wonderful event attributed to supernatural powers)	<p-n>noun</p-n>	@makazo
+pass unnoticed (Translations)	<p-n>verb</p-n>	@žwenyumukile
+plant (organism capable of photosynthesis)	<p-n>noun</p-n>	@simela
+seed (any small seed-like fruit)	<p-n>noun</p-n>	@peu	@lipeu
+water (inorganic compound H₂O)	<p-n>noun</p-n>	@mezi
+woman (adult female person)	<p-n>noun</p-n>	@musali

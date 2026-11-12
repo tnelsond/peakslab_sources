@@ -1,0 +1,98 @@
+#desc	Tonga (Zambia) words by English sense, from English Wiktionary's translation tables (<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>), from <a href="https://kaikki.org/dictionary/English/">kaikki.org</a>: with another language's on, a dictionary between them
+#priority	-2
+#lang	toi,aligned
+agriculture (the art or science of cultivating the ground)	<p-n>noun</p-n>	@bulimi
+ahead (in or to the front)	<p-n>adv</p-n>	@kumbele
+angry (displaying anger)	<p-n>adj</p-n>	@kali
+animal (organism)	<p-n>noun</p-n>	@munyama class 1
+bark (exterior covering of a tree)	<p-n>noun</p-n>	@makwa class 6
+bed (piece of furniture)	<p-n>noun</p-n>	@bulo
+begin (to start, to initiate (transitive))	<p-n>verb</p-n>	@talika
+behind (at the back of)	<p-n>prep</p-n>	@kusule
+bicycle (vehicle)	<p-n>noun</p-n>	@ncinga
+bird (animal)	<p-n>noun</p-n>	@muyani class 1
+blood (vital liquid flowing in human and animal bodies)	<p-n>noun</p-n>	@bulowa class 14
+boast (brag)	<p-n>noun</p-n>	@dunda
+bone (material)	<p-n>noun</p-n>	@cifwuwa class 7
+bucket (container)	<p-n>noun</p-n>	@bekete
+chair (furniture)	<p-n>noun</p-n>	@cuuna
+child (son or daughter; someone's child)	<p-n>noun</p-n>	@mwana class c1
+crocodile (reptile)	<p-n>noun</p-n>	@ciwena
+discard (to throw away, reject)	<p-n>verb</p-n>	@sowa
+dog (animal)	<p-n>noun</p-n>	@munkala class 1
+eagle (any of several large carnivorous birds in the family Accipitridae)	<p-n>noun</p-n>	@lubanze
+ear (organ of hearing)	<p-n>noun</p-n>	@kutwi class 15
+egg (approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development)	<p-n>noun</p-n>	@iji class 5
+eye (organ)	<p-n>noun</p-n>	@liso class 5
+fat (specialized animal tissue)	<p-n>noun</p-n>	@mafwuta class 6
+father (male parent)	<p-n>noun</p-n>	@bataata class 2	@bata class 2
+feather (branching, hair-like structure that grows on the bodies of birds)	<p-n>noun</p-n>	@ipepe class 9
+fingernail (covering near the tip of finger)	<p-n>noun</p-n>	@lwala class 11
+first (numeral first — see also 1st)	<p-n>adj</p-n>	@ansyini
+fish (vertebrate animal)	<p-n>noun</p-n>	@inswi class 5
+fix (to mend or repair)	<p-n>verb</p-n>	@bambulula
+flame (visible part of fire)	<p-n>noun</p-n>	@ibbibi
+flea (parasitic insect)	<p-n>noun</p-n>	@injina class 5
+flower (reproductive structure in angiosperms)	<p-n>noun</p-n>	@iluba class 5
+flower (to put forth blooms)	<p-n>verb</p-n>	@fulula
+foot (part of human body)	<p-n>noun</p-n>	@tende class 15	@cituta class 7
+forest (dense collection of trees)	<p-n>noun</p-n>	@coonde class 7	@isaka class 5	@cisaka class 7	@kasaka class 12	@syokwe class 3
+fresh (newly produced or obtained)	<p-n>adj</p-n>	@tete
+frog (amphibian)	<p-n>noun</p-n>	@cula
+fruit (part of plant)	<p-n>noun</p-n>	@mucelo class 3
+gaze (to stare intently or earnestly)	<p-n>verb</p-n>	@ebela
+goat (animal)	<p-n>noun</p-n>	@mpongo
+grass (ground cover plant)	<p-n>noun</p-n>	@bwizu class 14	@mani class 6	@mweemvwe class 3
+ground (surface of the Earth)	<p-n>noun</p-n>	@ansi
+grow ((transitive) to cause something to become bigger)	<p-n>verb</p-n>	@kuzya
+hair (pigmented filament of keratin on the skin of humans and other mammals)	<p-n>noun</p-n>	@isusu class 5
+hand (part of the fore limb)	<p-n>noun</p-n>	@ijanza
+head (part of the body)	<p-n>noun</p-n>	@mutwe class 3
+health (state of being free of physical or psychological disease, illness, or malfunction)	<p-n>noun</p-n>	@buumi
+horn (growth on the heads of certain animals)	<p-n>noun</p-n>	@luja class 11
+human (of or belonging to the species Homo sapiens)	<p-n>adj</p-n>	@muntu class c1
+humanity (human condition)	<p-n>noun</p-n>	@tibuntu
+husband (male partner in marriage)	<p-n>noun</p-n>	@mwaalumi class c1
+jacket (piece of clothing worn on the upper body outside a shirt or blouse)	<p-n>noun</p-n>	@cibaki
+kindness (being kind)	<p-n>noun</p-n>	@luse
+leaf (part of a plant)	<p-n>noun</p-n>	@itu class 5
+louse (an insect of the order Psocodea)	<p-n>noun</p-n>	@injina class 5
+man (adult male human)	<p-n>noun</p-n>	@mwaalumi class c1	@mulombwana class c1
+meat (animal flesh used as food)	<p-n>noun</p-n>	@nyama class 5
+money (means of exchange and measure of value)	<p-n>noun</p-n>	@mali
+mother (female (human) who gives birth to or parents a child)	<p-n>noun</p-n>	@bamaama
+mouth (the opening of a creature through which food is ingested — see also lip, face)	<p-n>noun</p-n>	@ikanya class 5	@kanwa class 12	@mulomo class 3
+nose (protuberance on the face)	<p-n>noun</p-n>	@impemo class 9
+now (the present time)	<p-n>noun</p-n>	@eno
+peanut (a legume resembling a nut)	<p-n>noun</p-n>	@coonde
+peanut butter (spread made from ground peanuts)	<p-n>noun</p-n>	@coonde
+person (individual)	<p-n>noun</p-n>	@muntu class c1
+pig (mammal of family Suidae)	<p-n>noun</p-n>	@ngulube
+pumpkin (plant)	<p-n>noun</p-n>	@citende
+rain (condensed water from a cloud)	<p-n>noun</p-n>	@mainza
+raise (to cause to rise)	<p-n>verb</p-n>	@nyamuna
+root (part of a plant)	<p-n>noun</p-n>	@muyanda class 3	@munkoyo class 3
+rope (thick, strong string)	<p-n>noun</p-n>	@lutambo class 11	@ingoye class 5
+route (course or way traveled)	<p-n>noun</p-n>	@nzila
+school (an institution dedicated to teaching and learning)	<p-n>noun</p-n>	@cikolo
+seed (any small seed-like fruit)	<p-n>noun</p-n>	@imbuto class 9	@inseke class 5	@inyungu class 5
+sibling (person who shares same parents — see also brother, sister)	<p-n>noun</p-n>	@munyoko
+skin (outer protective layer of the body of a person or animal)	<p-n>noun</p-n>	@cikanda class 7	@cipaya class 7
+snake (legless reptile)	<p-n>noun</p-n>	@inzoka class 5
+sorry (expression of regret or sorrow)	<p-n>intj</p-n>	@cabija
+speak (to communicate with one's voice using words)	<p-n>verb</p-n>	@amba
+steak (slice of beef)	<p-n>noun</p-n>	@cituli
+stick (long piece of wood)	<p-n>noun</p-n>	@cisamu class 7	@kasamu class 12	@musako class 3
+stop (not to continue — see also cease, desist)	<p-n>verb</p-n>	@leka
+strength (quality of being strong)	<p-n>noun</p-n>	@inkusu
+swap (exchange or give (something) in exchange for)	<p-n>verb</p-n>	@cincana
+tail (appendage of an animal — see also dock)	<p-n>noun</p-n>	@mucila class 3
+ten (the cardinal number occurring after 9 and before 11)	<p-n>num</p-n>	@ikumi
+throat (front part of the neck)	<p-n>noun</p-n>	@amoyo
+tongue (organ)	<p-n>noun</p-n>	@lulimi class 11
+tooth (anatomy: tooth)	<p-n>noun</p-n>	@lino class 5
+tree (large woody plant)	<p-n>noun</p-n>	@musamu class 3	@cisamu class 7
+water (inorganic compound H₂O)	<p-n>noun</p-n>	@maanzi
+wife (female partner in a marriage)	<p-n>noun</p-n>	@muka class c1
+woman (adult female person)	<p-n>noun</p-n>	@mukaintu class 1	@mwanakazi class 1
+worry (to be troubled)	<p-n>verb</p-n>	@penga

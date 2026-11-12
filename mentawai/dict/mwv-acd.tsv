@@ -1,0 +1,136 @@
+#desc	Mentawai words in the <a href="https://acd.clld.org/languages/335">Austronesian Comparative Dictionary</a> (Blust, Trussel and Smith; from Morris 1900): English glosses and the proto-forms they come from (<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)
+#priority	2
+#lang	bi
+-in-	passive marker <p-n>&lt; <a href="https://acd.clld.org/cognatesets/26507">PAN *&lt;in&gt; &#x27;perfective marker&#x27;</a></p-n>
+-ku	I; 1sg postnominal possessive pronoun: my <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30923">PAN *-ku &#x27;1sg genitive (marker of non-subject agency and possession; my; by me)&#x27;</a></p-n>
+-nu	you, your <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30933">PAN *-nu₂ &#x27;2sg possessor and non-subject agent&#x27;</a></p-n>
+-takow	to steal <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25870">PAN *Cakaw &#x27;steal&#x27;</a></p-n>
+a-	prefix indicating the completion of an event e.g. bala &#x27;come out&#x27;, a-bala &#x27;it is out&#x27; <p-n>&lt; <a href="https://acd.clld.org/cognatesets/26310">PMP *ha-₁ &#x27;adjectival prefix for adjectives of measure&#x27;</a></p-n>
+abak	boat; travel by boat <p-n>&lt; <a href="https://acd.clld.org/cognatesets/27544">PAN *qabaŋ₁ &#x27;boat, canoe&#x27;</a></p-n>
+abit	take along with, bring hither <p-n>&lt; <a href="https://acd.clld.org/cognatesets/24816">PMP *ambit &#x27;seize with the hands&#x27;</a></p-n>
+abu	white ash <p-n>&lt; <a href="https://acd.clld.org/cognatesets/27554">PAN *qabu &#x27;ash, cinder, powder&#x27;</a></p-n>
+abut	collect, gather <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30588">PWMP *abun &#x27;collect, gather&#x27;</a></p-n>
+akát	lift, raise ([Morris 1900](Source#cldf:morris1900)) <p-n>&lt; <a href="https://acd.clld.org/cognatesets/24954">PWMP *aŋkat &#x27;lift, raise, pick up&#x27;</a></p-n>
+ala	fetch, get, pick up <p-n>&lt; <a href="https://acd.clld.org/cognatesets/24796">PAN *ala &#x27;take, get, fetch, obtain; marry&#x27;</a>; <a href="https://acd.clld.org/cognatesets/24794">PAN *alaq₁ &#x27;fetch, get, take&#x27;</a></p-n>
+alupat	centipede <p-n>&lt; <a href="https://acd.clld.org/cognatesets/27582">PAN *qalu-Sipan &#x27;centipede&#x27;</a></p-n>
+ama	father <p-n>&lt; <a href="https://acd.clld.org/cognatesets/24809">PAN *amax &#x27;father&#x27;</a></p-n>
+amaʔ-an	corpulent, easy, comfortable (given by [Morris 1900](Source#cldf:morris1900) under āma &#x27;father&#x27;) <p-n>&lt; <a href="https://acd.clld.org/cognatesets/24809">PWMP *ama-an &#x27;(gloss uncertain)&#x27;</a></p-n>
+apa	what?; which?; why?; how? <p-n>&lt; <a href="https://acd.clld.org/cognatesets/24853">PMP *apa₁ &#x27;what?&#x27;</a></p-n>
+api	fire <p-n>&lt; <a href="https://acd.clld.org/cognatesets/28117">PAN *Sapuy &#x27;fire&#x27;</a></p-n>
+arigi	posts upon which a house rests; posts that support the veranda of a house; posts under a sleeping platform <p-n>&lt; <a href="https://acd.clld.org/cognatesets/28075">PAN *SadiRi &#x27;housepost&#x27;</a></p-n>
+asa	whet, sharpen <p-n>&lt; <a href="https://acd.clld.org/cognatesets/28129">PAN *Sasaq &#x27;whet, sharpen&#x27;</a></p-n>
+asa-an	whetstone <p-n>&lt; <a href="https://acd.clld.org/cognatesets/28129">PAN *Sasaq-an &#x27;whetstone, grindstone&#x27;</a></p-n>
+asu	fetch water <p-n>&lt; <a href="https://acd.clld.org/cognatesets/24891">PMP *asu₂ &#x27;fetch water, scoop up water&#x27;</a>; <a href="https://acd.clld.org/cognatesets/27655">PMP *qasu₁ &#x27;fetch water, scoop up water&#x27;</a></p-n>
+atelu	egg <p-n>&lt; <a href="https://acd.clld.org/cognatesets/27662">PMP *qateluR &#x27;egg; testicle&#x27;</a></p-n>
+atäi	liver <p-n>&lt; <a href="https://acd.clld.org/cognatesets/27555">PAN *qaCay &#x27;liver&#x27;</a></p-n>
+atā	tall, high <p-n>&lt; <a href="https://acd.clld.org/cognatesets/24772">PAN *aCas &#x27;high, tall&#x27;</a></p-n>
+aŋin	wind (Schefold, p.c.) <p-n>&lt; <a href="https://acd.clld.org/cognatesets/26314">PMP *haŋin &#x27;wind&#x27;</a></p-n>
+ba	negative (vetative) <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25016">PMP *bak₂ &#x27;negative marker&#x27;</a></p-n><br>no (vetative)
+baGa	stomach
+baRat biti	calf of the leg <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25544">PMP *bities &#x27;lower leg (below the knee); calf of the leg&#x27;</a></p-n>
+babak	excavation, hole, den <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25222">PMP *baŋbaŋ₃ &#x27;cavity, pit, den; to excavate a pit&#x27;</a></p-n>
+bagi	younger sibling <p-n>&lt; <a href="https://acd.clld.org/cognatesets/28294">PAN *Suaji &#x27;younger sibling&#x27;</a></p-n>
+bakat	mangrove <p-n>&lt; <a href="https://acd.clld.org/cognatesets/28728">PMP *wakat &#x27;mangrove root&#x27;</a></p-n><br>trunk (of trees) <p-n>&lt; <a href="https://acd.clld.org/cognatesets/29849">PMP *bataŋ &#x27;tree trunk, fallen tree, log; stem of a plant; body; corpse; self; bridge of the nose; most important or preeminent thing; main course of a river; mushroom or bracket fungus that grows on tree trunks or decaying logs&#x27;</a></p-n>
+balak	scar, cicatrix <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25047">PMP *balaŋ₁ &#x27;scar&#x27;</a></p-n>
+baliok	axe; chop with an axe <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25072">PWMP *baliuŋ &#x27;adze, axe&#x27;</a></p-n>
+baliw	brother, sister <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25074">PMP *baliw₁ &#x27;dual division, moiety == cluster (a) answer, oppose, opposite side or part; partner, friend, enemy&#x27;</a></p-n>
+balu	eight <p-n>&lt; <a href="https://acd.clld.org/cognatesets/28735">PAN *walu &#x27;eight&#x27;</a></p-n>
+balut	provisions, supplies, food <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25091">PWMP *balun₂ &#x27;provisions (for a journey)&#x27;</a></p-n>
+bara	exist, be present <p-n>&lt; <a href="https://acd.clld.org/cognatesets/28718">PMP *wada &#x27;be, exist, have; wealthy; not exist, not have&#x27;</a></p-n>
+bau	new; fresh (eggs) <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25140">PAN *baqeRuh &#x27;new; bachelor&#x27;</a></p-n>
+beka	split <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25264">PMP *bekaq &#x27;split, crack open&#x27;</a></p-n>
+betek	stretch, put under tension (a bow, mousetrap, etc.); tension <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25376">PWMP *betek₂ &#x27;stretch, put under tension&#x27;</a></p-n>
+betu	burst, crack, explode, leap, spring, gush, shoot, shoot off <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25385">PMP *betu₂ &#x27;explode; explosion (as of a volcano)&#x27;</a></p-n>
+bila	to flash, of lightning <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25455">PMP *bilak₁ &#x27;shine, glitter&#x27;</a></p-n>
+bilu	cape; bend in a river; circumnavigate a cape or a bend in the river <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25472">PMP *biluk &#x27;to wind, curve, turn to the side; to tack, sail into the wind&#x27;</a></p-n>
+birit	to tear, tear up; a tear or rip in something <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25519">PAN *biriC &#x27;to tear, rip&#x27;</a></p-n>
+biti	lower leg, calf of the leg <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25544">PMP *bities &#x27;lower leg (below the knee); calf of the leg&#x27;</a></p-n>
+bu-buak-at	spring, source <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25574">PWMP *buak-an &#x27;fresh-water spring&#x27;</a></p-n>
+bua	fruit; husk; flower; testicle; part of the breast tattooing; ZC (nephew or niece) <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25576">PAN *buaq &#x27;fruit&#x27;</a></p-n>
+bubuk	roof; cover the roof; deck of a boat <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25594">PMP *bubuŋ₁ &#x27;ridge of the roof; ridge of a mountain, peak; deck of a boat; cover the ridgepole with thatch&#x27;</a></p-n>
+bui	wash, rinse out <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25752">PMP *buRiq &#x27;wash, as the hands&#x27;</a></p-n>
+buka	to open <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25636">PMP *buka &#x27;to open, uncover, expose&#x27;</a></p-n>
+bulaw	white; white dye; tin
+bulu	body hair, feather <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25689">PMP *bulu₁ &#x27;body hair; fur; feather; down; floss on plant stems; color; type, kind&#x27;</a></p-n>
+buluk	leaf <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25692">PMP *buluŋ₂ &#x27;medicinal herbs&#x27;</a></p-n>
+eket	sap, resin; to stick or adhere <p-n>&lt; <a href="https://acd.clld.org/cognatesets/26072">PWMP *eket &#x27;stick, adhere&#x27;</a></p-n>
+galu	mix, mixed, mixture <p-n>&lt; <a href="https://acd.clld.org/cognatesets/26182">PMP *galu &#x27;stir, mix&#x27;</a></p-n>
+iba	fish; food, nourishment; to fish
+ina	M <p-n>&lt; <a href="https://acd.clld.org/cognatesets/26494">PAN *ina &#x27;mother, mother’s sister&#x27;</a></p-n>
+inu	beads <p-n>&lt; <a href="https://acd.clld.org/cognatesets/28249">PAN *SiNuq &#x27;beads, necklace&#x27;</a></p-n>
+ipit	stick tight in something (also used of difficult childbirth) <p-n>&lt; <a href="https://acd.clld.org/cognatesets/27800">PAN *qipit &#x27;pincer of crustaceans; tongs; press together, pinch, squeeze&#x27;</a></p-n>
+ira	brother-in-law, sister-in-law (woman speaking) <p-n>&lt; <a href="https://acd.clld.org/cognatesets/26439">PAN *idas₁ &#x27;affine of Ego&#x27;s generation&#x27;</a></p-n>
+ka	in, at, to, towards, from here, among, out of <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30941">PAN *ka₃ &#x27;oblique case marker for plural personal names&#x27;</a></p-n>
+kai	1pl. excl., we, us <p-n>&lt; <a href="https://acd.clld.org/cognatesets/31574">PAN *k-ami &#x27;1pl. excl. nominative pronoun, we (exclusive)&#x27;</a></p-n>
+kam-ama-an	FB, FZ <p-n>&lt; <a href="https://acd.clld.org/cognatesets/24809">PWMP *kam-ama-an &#x27;father’s brother&#x27;</a></p-n>
+kam-ama-n	mother’s brother <p-n>&lt; <a href="https://acd.clld.org/cognatesets/31622">PWMP *kam- -an &#x27;formative for collateral kin&#x27;</a></p-n>
+kame-ina-n	father’s sister <p-n>&lt; <a href="https://acd.clld.org/cognatesets/31622">PWMP *kam- -an &#x27;formative for collateral kin&#x27;</a></p-n>
+kanashai	kind of fish <p-n>&lt; <a href="https://acd.clld.org/cognatesets/26643">PAN *kaNasay &#x27;a fish: the mullet&#x27;</a></p-n>
+kua	say; believe; word <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30382">PWMP *kua₂ &#x27;whatchamacallit, filler for word that cannot be recollected&#x27;</a></p-n>
+kulit	skin, bark <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30289">PAN *kuliC &#x27;rind, peeling of fruits or tubers&#x27;</a></p-n>
+kuman	louse <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30236">PMP *kuman &#x27;tiny parasite on the body, itch mite, chicken louse&#x27;</a></p-n>
+laluk	cockspur <p-n>&lt; <a href="https://acd.clld.org/cognatesets/26877">PMP *laluŋ &#x27;cock, rooster&#x27;</a></p-n>
+lapa	hungry <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30431">PMP *lapaR₁ &#x27;hungry&#x27;</a></p-n>
+layu	to wilt; wilted <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30240">PAN *layu &#x27;wither, wilt&#x27;</a></p-n>
+laŋit	red sky of morning and evening <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30407">PAN *laŋiC &#x27;sky&#x27;</a></p-n>
+lei-lei	tail feathers of a fowl <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30200">PWMP *lawi-lawi &#x27;something that resembles a tail feather (?)&#x27;</a></p-n>
+lila	tongue <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30254">PAN *dilaq₁ &#x27;to lick&#x27;</a></p-n>
+lima	five <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30365">PAN *lima &#x27;five&#x27;</a></p-n>
+lumut polak	moss <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30519">PMP *lumut &#x27;moss, algae, seaweed&#x27;</a></p-n>
+luni	rainbow <p-n>&lt; <a href="https://acd.clld.org/cognatesets/32991">PWMP *duniq &#x27;rainbow&#x27;</a></p-n>
+manu	chicken <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30165">PAN *manuk &#x27;chicken&#x27;</a></p-n>
+manua	sky, heaven <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25129">PMP *banua &#x27;inhabited land, territory supporting the life of a community&#x27;</a></p-n>
+masi-akkat	lift (Pagai, Sipora, southern Siberut) <p-n>&lt; <a href="https://acd.clld.org/cognatesets/24954">PWMP *aŋkat &#x27;lift, raise, pick up&#x27;</a></p-n>
+mata	eye, face; open the eyes <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30830">PAN *maCa &#x27;eye, focal point, center or most prominent part&#x27;</a></p-n><br>raw, uncooked; unripe <p-n>&lt; <a href="https://acd.clld.org/cognatesets/26304">PMP *ma-hataq &#x27;raw, uncooked&#x27;</a></p-n>
+mata läläp	window, door <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30830">PAN *maCa &#x27;eye, focal point, center or most prominent part&#x27;</a></p-n>
+mata tot-tot	nipple of the breast <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30830">PAN *maCa &#x27;eye, focal point, center or most prominent part&#x27;</a></p-n>
+mata-n-un	anus <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30830">PAN *maCa &#x27;eye, focal point, center or most prominent part&#x27;</a></p-n>
+mata-t buk-buŋ	opening of a quiver <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30830">PAN *maCa &#x27;eye, focal point, center or most prominent part&#x27;</a></p-n>
+mata-t pa-jait	eye of a needle <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30830">PAN *maCa &#x27;eye, focal point, center or most prominent part&#x27;</a></p-n>
+mata-t pusä-kat	friction groove of a fireplow <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30830">PAN *maCa &#x27;eye, focal point, center or most prominent part&#x27;</a></p-n>
+matay	dead; death; die; kill; go out (cigarette); set (sun); become feeble (penis) <p-n>&lt; <a href="https://acd.clld.org/cognatesets/24773">PAN *ma-aCay &#x27;die; dead; eclipse of sun or moon&#x27;</a></p-n>
+muntäi	the pomelo: Citrus grandis <p-n>&lt; <a href="https://acd.clld.org/cognatesets/27163">PMP *muntay &#x27;kind of citrus tree and its fruit&#x27;</a></p-n>
+mutäi	the pomelo: Citrus grandis <p-n>&lt; <a href="https://acd.clld.org/cognatesets/27163">PMP *muntay &#x27;kind of citrus tree and its fruit&#x27;</a></p-n>
+nanam	tasty; to taste <p-n>&lt; <a href="https://acd.clld.org/cognatesets/28814">PAN *ñamñam &#x27;tasty, delicious&#x27;</a></p-n>
+nipi	thin, fine <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30856">PAN *Nipis &#x27;thinness, of materials&#x27;</a></p-n>
+nitay	bridge
+nu	you; your (as nominal postclitic) <p-n>&lt; <a href="https://acd.clld.org/cognatesets/29867">PWMP *nu₂ &#x27;2sg., you&#x27;</a></p-n>
+nuša	island <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30209">PMP *nusa₁ &#x27;island&#x27;</a></p-n>
+orat	ladder, stairs <p-n>&lt; <a href="https://acd.clld.org/cognatesets/26298">PMP *haRezan &#x27;notched log ladder&#x27;</a></p-n>
+padat	Pandanus odoratissimus L. <p-n>&lt; <a href="https://acd.clld.org/cognatesets/27380">PAN *paŋudaN &#x27;pandanus&#x27;</a></p-n>
+pak	to hit, beat <p-n>&lt; <a href="https://acd.clld.org/cognatesets/32523">PMP *pak &#x27;sound of a clap or smack&#x27;</a></p-n>
+para-bubuŋ-an	ridgepole of a house <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25594">PMP *bubuŋ-an &#x27;roof; ridge of the roof&#x27;</a></p-n>
+piga	how much? how many? <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30605">PAN *pijax &#x27;interrogative of quantity: how much?, how many?; adjective of indefinite quantity: some, several, a few&#x27;</a></p-n>
+pili	to pick, choose; choosy, fastidious <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30630">PAN *piliq &#x27;to choose, to select; to pick out&#x27;</a></p-n>
+pitu	seven <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30723">PAN *pitu₁ &#x27;seven&#x27;</a></p-n>
+pulu	ten <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30154">PAN *puluq₁ &#x27;group of ten&#x27;</a></p-n>
+pusou	umbilical cord; navel; lower point on a casting net <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30568">PMP *pusej &#x27;navel, umbilicus; mid-point or center of something&#x27;</a></p-n>
+ran	branch, bough <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30286">PMP *daqan₁ &#x27;branch, bough&#x27;</a></p-n>
+rua	two <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30558">PAN *duSa &#x27;two&#x27;</a></p-n>
+rui	thorn <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30100">PAN *duRi &#x27;thorn&#x27;</a></p-n>
+saba	a large snake (python?) <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30776">PMP *sawa &#x27;python&#x27;</a></p-n>
+si bakat	the owner; mushroom sp. <p-n>&lt; <a href="https://acd.clld.org/cognatesets/29849">PMP *bataŋ &#x27;tree trunk, fallen tree, log; stem of a plant; body; corpse; self; bridge of the nose; most important or preeminent thing; main course of a river; mushroom or bracket fungus that grows on tree trunks or decaying logs&#x27;</a></p-n>
+si butu-an	male dog <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25600">PAN *buCuq &#x27;testicles&#x27;</a></p-n>
+si rua	twin <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30558">PAN *duSa &#x27;two&#x27;</a></p-n>
+sia	there <p-n>&lt; <a href="https://acd.clld.org/cognatesets/26422">PAN *si ia₂ &#x27;demonstrative pronoun and adverb: this, here; that, there&#x27;</a></p-n>
+siba	nine <p-n>&lt; <a href="https://acd.clld.org/cognatesets/31161">PAN *Siwa &#x27;nine&#x27;</a></p-n>
+sigäp	ant <p-n>&lt; <a href="https://acd.clld.org/cognatesets/28289">PWMP *sijem &#x27;ant sp.&#x27;</a></p-n>
+sila	to split <p-n>&lt; <a href="https://acd.clld.org/cognatesets/28231">PAN *silaq &#x27;split&#x27;</a></p-n>
+suga	pitfall or trail spikes made of sharpened <p-n>&lt; <a href="https://acd.clld.org/cognatesets/31224">PMP *suja &#x27;pitfall or trail spikes made of sharpened bamboo&#x27;</a></p-n>
+tali	rope, string, cord <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25873">PAN *CaliS &#x27;rope, cord, twine, string&#x27;</a></p-n>
+taliŋa	ear <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25874">PAN *Caliŋa &#x27;ear&#x27;</a></p-n>
+tara	cockspur <p-n>&lt; <a href="https://acd.clld.org/cognatesets/28355">PMP *tada &#x27;natural cockspur (cf *tazi, artificial cockspur)&#x27;</a></p-n>
+telu	three <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30753">PAN *telu &#x27;three&#x27;</a></p-n>
+tiläi	vulva <p-n>&lt; <a href="https://acd.clld.org/cognatesets/28487">PWMP *tilay &#x27;vulva, vagina&#x27;</a></p-n>
+tua	ripe, of fruit <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30783">PAN *tuqaS &#x27;old, of people; primary forest, old forest&#x27;</a></p-n>
+tuba	a plant, Derris elliptica, Leguminosae, the sap of which is used as a poison to stun and catch fish; fish caught in this way <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30759">PAN *tubah &#x27;a plant with roots that are pounded and put in rivers to stun fish: Derris elliptica&#x27;</a></p-n>
+tōlat	bone <p-n>&lt; <a href="https://acd.clld.org/cognatesets/25940">PAN *CuqelaN &#x27;condylar bone; bone of fauna exclusive of fish&#x27;</a></p-n>
+təŋa	middle, center <p-n>&lt; <a href="https://acd.clld.org/cognatesets/32121">PMP *teŋaq &#x27;middle, center; half&#x27;</a></p-n>
+uma	large house, common house <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30330">PAN *Rumaq &#x27;house&#x27;</a></p-n>
+urat	rain <p-n>&lt; <a href="https://acd.clld.org/cognatesets/27912">PAN *quzaN &#x27;rain&#x27;</a></p-n>
+usu	rib <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30771">PAN *Rusuk &#x27;ribcage&#x27;</a></p-n>
+utak	debt <p-n>&lt; <a href="https://acd.clld.org/cognatesets/27905">PMP *qutaŋ &#x27;debt&#x27;</a></p-n>
+āku	1sg. nominative pronoun: I <p-n>&lt; <a href="https://acd.clld.org/cognatesets/24792">PAN *aku &#x27;1sg. nominative; I&#x27;</a></p-n>
+ŋa	‘suffix’ for numerals <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30813">PMP *ŋa &#x27;linker for multiples of ten&#x27;</a></p-n>
+ŋagan	name <p-n>&lt; <a href="https://acd.clld.org/cognatesets/30393">PAN *ŋajan &#x27;name&#x27;</a></p-n>
+ōap	yawn <p-n>&lt; <a href="https://acd.clld.org/cognatesets/28293">PAN *Suab &#x27;yawn&#x27;</a></p-n>
